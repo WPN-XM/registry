@@ -1,4 +1,4 @@
 registry
 ========
 
-The Software Registry of the WPN-XM Server Stack.
+Software Components Registry of the WPN-XM Server Stack.
