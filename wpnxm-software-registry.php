@@ -2,7 +2,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Fri, 15 Nov 2013 16:07:59 +0000.
+    * Last Update Thu, 21 Nov 2013 13:58:28 +0000.
     * Do not edit manually!
     */
 
@@ -114,10 +114,11 @@
     '5.5.31' => 'http://archive.mariadb.org/mariadb-5.5.31/win32-packages/mariadb-5.5.31-win32.zip',
     '5.5.32' => 'http://mirrors.n-ix.net/mariadb/mariadb-5.5.32/win32-packages/mariadb-5.5.32-win32.zip',
     '5.5.33' => 'http://mirrors.n-ix.net/mariadb/mariadb-5.5.33/win32-packages/mariadb-5.5.33-win32.zip',
+    '5.5.34' => 'http://mirrors.n-ix.net/mariadb/mariadb-5.5.34/win32-packages/mariadb-5.5.34-win32.zip',
     'latest' =>
     array (
-      'version' => '5.5.33',
-      'url' => 'http://mirrors.n-ix.net/mariadb/mariadb-5.5.33/win32-packages/mariadb-5.5.33-win32.zip',
+      'version' => '5.5.34',
+      'url' => 'http://mirrors.n-ix.net/mariadb/mariadb-5.5.34/win32-packages/mariadb-5.5.34-win32.zip',
     ),
   ),
   'memadmin' =>
@@ -162,10 +163,11 @@
     '2.5.1' => 'http://downloads.mongodb.org/win32/mongodb-win32-i386-2.5.1.zip',
     '2.5.2' => 'http://downloads.mongodb.org/win32/mongodb-win32-i386-2.5.2.zip',
     '2.5.3' => 'http://downloads.mongodb.org/win32/mongodb-win32-i386-2.5.3.zip',
+    '2.5.4' => 'http://downloads.mongodb.org/win32/mongodb-win32-i386-2.5.4.zip',
     'latest' =>
     array (
-      'version' => '2.5.3',
-      'url' => 'http://downloads.mongodb.org/win32/mongodb-win32-i386-2.5.3.zip',
+      'version' => '2.5.4',
+      'url' => 'http://downloads.mongodb.org/win32/mongodb-win32-i386-2.5.4.zip',
     ),
   ),
   'nginx' =>
@@ -321,10 +323,11 @@
     '1.5.4' => 'http://www.nginx.org/download/nginx-1.5.4.zip',
     '1.5.5' => 'http://www.nginx.org/download/nginx-1.5.5.zip',
     '1.5.6' => 'http://nginx.org/download/nginx-1.5.6.zip',
+    '1.5.7' => 'http://nginx.org/download/nginx-1.5.7.zip',
     'latest' =>
     array (
-      'version' => '1.5.6',
-      'url' => 'http://nginx.org/download/nginx-1.5.6.zip',
+      'version' => '1.5.7',
+      'url' => 'http://nginx.org/download/nginx-1.5.7.zip',
     ),
   ),
   'openssl' =>
