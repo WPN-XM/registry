@@ -633,12 +633,13 @@
   array (
     'name' => 'WPN-XM SCP',
     'website' => 'http://wpn-xm.org/',
-    '0.3.0' => 'http://wpn-xm.org/files/wpn-xm-scp-0.3.0.zip',
-    '0.4.0' => 'http://wpn-xm.org/files/wpn-xm-scp-0.4.0.zip',
+    '0.3.0' => 'http://wpn-xm.org/files/wpnxm-scp-0.3.0.zip',
+    '0.4.0' => 'http://wpn-xm.org/files/wpnxm-scp-0.4.0.zip',
+    '0.5.4' => 'http://wpn-xm.org/files/wpnxm-scp-0.5.4.zip',
     'latest' =>
     array (
-      'version' => '0.4.0',
-      'url' => 'http://wpn-xm.org/files/wpn-xm-scp-0.4.0.zip',
+      'version' => '0.5.4',
+      'url' => 'http://wpn-xm.org/files/wpnxm-scp-0.5.4.zip',
     ),
   ),
   'xhprof' =>
