@@ -25,17 +25,6 @@
       'url' => 'http://garr.dl.sourceforge.net/project/adminer/Adminer/Adminer%203.7.1/adminer-3.7.1.php',
     ),
   ),
-  'clansuite' =>
-  array (
-    'name' => 'Clansuite',
-    'website' => 'http://clansuite.com/',
-    '0.2.1' => 'https://codeload.github.com/Clansuite/Clansuite/zip/develop',
-    'latest' =>
-    array (
-      'version' => '0.2.1',
-      'url' => 'https://codeload.github.com/Clansuite/Clansuite/zip/develop',
-    ),
-  ),
   'closure-compiler' =>
   array (
     'name' => 'Google Closure Compiler',
