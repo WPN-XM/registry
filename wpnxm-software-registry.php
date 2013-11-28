@@ -36,6 +36,16 @@
       'url' => 'https://codeload.github.com/Clansuite/Clansuite/zip/develop',
     ),
   ),
+  'closure-compiler' =>
+  array (
+    'name' => 'Google Closure Compiler',
+    'website' => 'http://code.google.com/p/closure-compiler/',
+    'latest' =>
+    array (
+      'version' => 'latest',
+      'url' => 'http://dl.google.com/closure-compiler/compiler-latest.zip',
+    ),
+  ),
   'composer' =>
   array (
     'name' => 'Composer',
