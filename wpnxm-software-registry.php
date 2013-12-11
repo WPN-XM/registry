@@ -2,7 +2,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Mon, 02 Dec 2013 23:50:42 +0000.
+    * Last Update Wed, 11 Dec 2013 17:09:26 +0000.
     * Do not edit manually!
     */
 
@@ -560,10 +560,11 @@
     '4.1.0-beta2' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.0-beta2/phpMyAdmin-4.1.0-beta2-english.zip',
     '4.1.0-rc1' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.0-rc1/phpMyAdmin-4.1.0-rc1-english.zip',
     '4.1.0-rc2' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.0-rc2/phpMyAdmin-4.1.0-rc2-english.zip',
+    '4.1.0-rc3' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.0-rc3/phpMyAdmin-4.1.0-rc3-english.zip',
     'latest' =>
     array (
-      'version' => '4.1.0-rc2',
-      'url' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.0-rc2/phpMyAdmin-4.1.0-rc2-english.zip',
+      'version' => '4.1.0-rc3',
+      'url' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.0-rc3/phpMyAdmin-4.1.0-rc3-english.zip',
     ),
   ),
   'postgresql' =>
@@ -578,10 +579,11 @@
     '9.3.0-rc1' => 'http://get.enterprisedb.com/postgresql/postgresql-9.3.0-rc1-windows-binaries.zip',
     '9.3.0' => 'http://get.enterprisedb.com/postgresql/postgresql-9.3.0-1-windows-binaries.zip',
     '9.3.1' => 'http://get.enterprisedb.com/postgresql/postgresql-9.3.1-1-windows-binaries.zip',
+    '9.3.2' => 'http://get.enterprisedb.com/postgresql/postgresql-9.3.2-1-windows-binaries.zip',
     'latest' =>
     array (
-      'version' => '9.3.1',
-      'url' => 'http://get.enterprisedb.com/postgresql/postgresql-9.3.1-1-windows-binaries.zip',
+      'version' => '9.3.2',
+      'url' => 'http://get.enterprisedb.com/postgresql/postgresql-9.3.2-1-windows-binaries.zip',
     ),
   ),
   'rockmongo' =>
