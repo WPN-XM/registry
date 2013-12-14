@@ -2,7 +2,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Wed, 11 Dec 2013 17:09:26 +0000.
+    * Last Update Sat, 14 Dec 2013 11:22:22 +0000.
     * Do not edit manually!
     */
 
@@ -394,11 +394,12 @@
     '5.4.19' => 'http://windows.php.net/downloads/releases/archives/php-5.4.19-nts-Win32-VC9-x86.zip',
     '5.4.20' => 'http://windows.php.net/downloads/releases/archives/php-5.4.20-nts-Win32-VC9-x86.zip',
     '5.4.21' => 'http://windows.php.net/downloads/releases/archives/php-5.4.21-nts-Win32-VC9-x86.zip',
-    '5.4.22' => 'http://windows.php.net/downloads/releases/php-5.4.22-nts-Win32-VC9-x86.zip',
+    '5.4.22' => 'http://windows.php.net/downloads/releases/archives/php-5.4.22-nts-Win32-VC9-x86.zip',
+    '5.4.23' => 'http://windows.php.net/downloads/releases/php-5.4.23-nts-Win32-VC9-x86.zip',
     'latest' =>
     array (
-      'version' => '5.4.22',
-      'url' => 'http://windows.php.net/downloads/releases/php-5.4.22-nts-Win32-VC9-x86.zip',
+      'version' => '5.4.23',
+      'url' => 'http://windows.php.net/downloads/releases/php-5.4.23-nts-Win32-VC9-x86.zip',
     ),
   ),
   'phpext_apc' =>
@@ -561,10 +562,11 @@
     '4.1.0-rc1' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.0-rc1/phpMyAdmin-4.1.0-rc1-english.zip',
     '4.1.0-rc2' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.0-rc2/phpMyAdmin-4.1.0-rc2-english.zip',
     '4.1.0-rc3' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.0-rc3/phpMyAdmin-4.1.0-rc3-english.zip',
+    '4.1.0' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.0/phpMyAdmin-4.1.0-english.zip',
     'latest' =>
     array (
-      'version' => '4.1.0-rc3',
-      'url' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.0-rc3/phpMyAdmin-4.1.0-rc3-english.zip',
+      'version' => '4.1.0',
+      'url' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.0/phpMyAdmin-4.1.0-english.zip',
     ),
   ),
   'postgresql' =>
