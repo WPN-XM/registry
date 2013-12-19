@@ -642,10 +642,11 @@
     '0.3.0' => 'http://wpn-xm.org/files/wpnxm-scp-0.3.0.zip',
     '0.4.0' => 'http://wpn-xm.org/files/wpnxm-scp-0.4.0.zip',
     '0.5.4' => 'http://wpn-xm.org/files/wpnxm-scp-0.5.4.zip',
+    '0.6.0' => 'http://wpn-xm.org/files/wpnxm-scp-0.6.0.zip',
     'latest' =>
     array (
-      'version' => '0.5.4',
-      'url' => 'http://wpn-xm.org/files/wpnxm-scp-0.5.4.zip',
+      'version' => '0.6.0',
+      'url' => 'http://wpn-xm.org/files/wpnxm-scp-0.6.0.zip',
     ),
   ),
   'xhprof' =>
