@@ -2,7 +2,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Thu, 19 Dec 2013 01:54:23 +0000.
+    * Last Update Wed, 08 Jan 2014 14:17:29 +0000.
     * Do not edit manually!
     */
 
@@ -19,10 +19,11 @@
     '3.6.4' => 'http://garr.dl.sourceforge.net/project/adminer/Adminer/Adminer%203.6.4/adminer-3.6.4.php',
     '3.7.0' => 'http://garr.dl.sourceforge.net/project/adminer/Adminer/Adminer%203.7.0/adminer-3.7.0.php',
     '3.7.1' => 'http://garr.dl.sourceforge.net/project/adminer/Adminer/Adminer%203.7.1/adminer-3.7.1.php',
+    '4.0.0' => 'http://garr.dl.sourceforge.net/project/adminer/Adminer/Adminer%204.0.0/adminer-4.0.0.php',
     'latest' =>
     array (
-      'version' => '3.7.1',
-      'url' => 'http://garr.dl.sourceforge.net/project/adminer/Adminer/Adminer%203.7.1/adminer-3.7.1.php',
+      'version' => '4.0.0',
+      'url' => 'http://garr.dl.sourceforge.net/project/adminer/Adminer/Adminer%204.0.0/adminer-4.0.0.php',
     ),
   ),
   'closure-compiler' =>
@@ -334,13 +335,14 @@
   array (
     'name' => 'OpenSSL',
     'website' => 'http://slproweb.com/',
-    '1.0.1e' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1e.exe',
-    '1.0.1c' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1c.exe',
+    '1.0.1f' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1f.exe',
     '1.0.1d' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1d.exe',
+    '1.0.1c' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1c.exe',
+    '1.0.1e' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1e.exe',
     'latest' =>
     array (
-      'version' => '1.0.1e',
-      'url' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1e.exe',
+      'version' => '1.0.1f',
+      'url' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1f.exe',
     ),
   ),
   'pear' =>
@@ -565,10 +567,11 @@
     '4.1.0-rc3' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.0-rc3/phpMyAdmin-4.1.0-rc3-english.zip',
     '4.1.0' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.0/phpMyAdmin-4.1.0-english.zip',
     '4.1.1' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.1/phpMyAdmin-4.1.1-english.zip',
+    '4.1.4' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.4/phpMyAdmin-4.1.4-english.zip',
     'latest' =>
     array (
-      'version' => '4.1.1',
-      'url' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.1/phpMyAdmin-4.1.1-english.zip',
+      'version' => '4.1.4',
+      'url' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.4/phpMyAdmin-4.1.4-english.zip',
     ),
   ),
   'postgresql' =>
@@ -647,6 +650,22 @@
     array (
       'version' => '0.6.0',
       'url' => 'http://wpn-xm.org/files/wpnxm-scp-0.6.0.zip',
+    ),
+  ),
+  'xcache' =>
+  array (
+    'name' => 'XCache',
+    'website' => 'http://xcache.lighttpd.net/',
+    '3.0.0' => 'http://xcache.lighttpd.net/pub/Releases/3.0.0/XCache-3.0.0-php-5.4.20-Win32-VC9-x86.zip',
+    '3.0.1' => 'http://xcache.lighttpd.net/pub/Releases/3.0.1/XCache-3.0.1-php-5.4.20-Win32-VC9-x86.zip',
+    '3.0.2' => 'http://xcache.lighttpd.net/pub/Releases/3.0.2/XCache-3.0.2-php-5.4.20-Win32-VC9-x86.zip',
+    '3.0.3' => 'http://xcache.lighttpd.net/pub/Releases/3.0.3/XCache-3.0.3-php-5.4.20-Win32-VC9-x86.zip',
+    '3.0.4' => 'http://xcache.lighttpd.net/pub/Releases/3.0.4/XCache-3.0.4-php-5.4.20-Win32-VC9-x86.zip',
+    '3.1.0' => 'http://xcache.lighttpd.net/pub/Releases/3.1.0/XCache-3.1.0-php-5.4.20-Win32-VC9-x86.zip',
+    'latest' =>
+    array (
+      'version' => '3.1.0',
+      'url' => 'http://xcache.lighttpd.net/pub/Releases/3.1.0/XCache-3.1.0-php-5.4.20-Win32-VC9-x86.zip',
     ),
   ),
   'xhprof' =>
