@@ -517,11 +517,11 @@
   array (
     'name' => 'PHP Extension ZeroMQ',
     'website' => 'https://github.com/mkoppanen/php-zmq',
-    '3.2.0' => 'http://valokuva.org/%7Emikko/php-zmq-20130203.tgz',
+    '1.1.2' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.1.2/php_zmq-1.1.2-5.4-nts-vc9-x86.zip',
     'latest' =>
     array (
-      'version' => '3.2.0',
-      'url' => 'http://valokuva.org/%7Emikko/php-zmq-20130203.tgz',
+      'version' => '1.1.2',
+      'url' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.1.2/php_zmq-1.1.2-5.4-nts-vc9-x86.zip',
     ),
   ),
   'phpmemcachedadmin' =>
