@@ -407,7 +407,7 @@
   ),
   'phpext_amqp' =>
   array (
-    'name' => 'AMPQ',
+    'name' => 'PHP Extension AMQP',
     'website' => 'http://php.net/amqp',
     '1.2.0' => 'http://windows.php.net/downloads/pecl/releases/amqp/1.2.0/php_amqp-1.2.0-5.4-nts-vc9-x86.zip',
     'latest' =>
@@ -418,7 +418,7 @@
   ),
   'phpext_apc' =>
   array (
-    'name' => 'APC',
+    'name' => 'PHP Extension APC',
     'website' => 'http://php.net/manual/de/book.apc.php/',
     '3.1.10' => 'http://downloads.php.net/pierre/php_apc-3.1.10-5.3-vc9-x86.zip',
     '3.1.11' => 'http://windows.php.net/downloads/pecl/releases/apc/3.1.11/php_apc-3.1.11-5.4-nts-vc9-x86.zip',
