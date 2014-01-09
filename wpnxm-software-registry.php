@@ -2,7 +2,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Thu, 09 Jan 2014 00:44:39 +0000.
+    * Last Update Thu, 09 Jan 2014 01:06:08 +0000.
     * Do not edit manually!
     */
 
@@ -443,17 +443,6 @@
       'url' => 'http://windows.php.net/downloads/pecl/releases/memcache/3.0.8/php_memcache-3.0.8-5.4-nts-vc9-x86.zip',
     ),
   ),
-  'phpext_msgpack' =>
-  array (
-    'name' => 'PHP Extension MessagePack',
-    'website' => 'http://msgpack.org/',
-    '0.5.5' => 'http://windows.php.net/downloads/pecl/releases/msgpack/0.5.5/php_msgpack-0.5.5-5.4-nts-vc9-x86.zip',
-    'latest' =>
-    array (
-      'version' => '0.5.5',
-      'url' => 'http://windows.php.net/downloads/pecl/releases/msgpack/0.5.5/php_msgpack-0.5.5-5.4-nts-vc9-x86.zip',
-    ),
-  ),
   'phpext_mongo' =>
   array (
     'name' => 'PHP Extension Mongo',
@@ -482,7 +471,8 @@
     'name' => 'PHP Extension MessagePack',
     'website' => 'http://msgpack.org/',
     '0.5.5' => 'http://windows.php.net/downloads/pecl/releases/msgpack/0.5.5/php_msgpack-0.5.5-5.4-nts-vc9-x86.zip',
-    'latest' => array (
+    'latest' =>
+    array (
       'version' => '0.5.5',
       'url' => 'http://windows.php.net/downloads/pecl/releases/msgpack/0.5.5/php_msgpack-0.5.5-5.4-nts-vc9-x86.zip',
     ),
