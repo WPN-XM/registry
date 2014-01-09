@@ -2,7 +2,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Wed, 08 Jan 2014 14:49:09 +0000.
+    * Last Update Thu, 09 Jan 2014 00:44:39 +0000.
     * Do not edit manually!
     */
 
@@ -477,6 +477,16 @@
       'url' => 'http://s3.amazonaws.com/drivers.mongodb.org/php/php_mongo-1.4.5.zip',
     ),
   ),
+  'phpext_msgpack' =>
+  array (
+    'name' => 'PHP Extension MessagePack',
+    'website' => 'http://msgpack.org/',
+    '0.5.5' => 'http://windows.php.net/downloads/pecl/releases/msgpack/0.5.5/php_msgpack-0.5.5-5.4-nts-vc9-x86.zip',
+    'latest' => array (
+      'version' => '0.5.5',
+      'url' => 'http://windows.php.net/downloads/pecl/releases/msgpack/0.5.5/php_msgpack-0.5.5-5.4-nts-vc9-x86.zip',
+    ),
+  ),
   'phpext_varnish' =>
   array (
     'name' => 'PHP Extension Varnish',
@@ -494,11 +504,12 @@
   array (
     'name' => 'PHP Extension XCache',
     'website' => 'http://xcache.lighttpd.net/',
-    '2.0.1' => 'http://dev.freshsite.pl/nc/php-accelerators/xcache/download/xcache-201-for-php-54-vc9-nts.html',
+    '3.0.4' => 'http://xcache.lighttpd.net/pub/Releases/3.0.4/XCache-3.0.4-php-5.4.20-Win32-VC9-x86.zip',
+    '3.1.0' => 'http://xcache.lighttpd.net/pub/Releases/3.1.0/XCache-3.1.0-php-5.4.20-Win32-VC9-x86.zip',
     'latest' =>
     array (
-      'version' => '2.0.1',
-      'url' => 'http://dev.freshsite.pl/nc/php-accelerators/xcache/download/xcache-201-for-php-54-vc9-nts.html',
+      'version' => '3.1.0',
+      'url' => 'http://xcache.lighttpd.net/pub/Releases/3.1.0/XCache-3.1.0-php-5.4.20-Win32-VC9-x86.zip',
     ),
   ),
   'phpext_xdebug' =>
@@ -672,22 +683,6 @@
     array (
       'version' => '0.6.0',
       'url' => 'http://wpn-xm.org/files/wpnxm-scp-0.6.0.zip',
-    ),
-  ),
-  'xcache' =>
-  array (
-    'name' => 'XCache',
-    'website' => 'http://xcache.lighttpd.net/',
-    '3.0.0' => 'http://xcache.lighttpd.net/pub/Releases/3.0.0/XCache-3.0.0-php-5.4.20-Win32-VC9-x86.zip',
-    '3.0.1' => 'http://xcache.lighttpd.net/pub/Releases/3.0.1/XCache-3.0.1-php-5.4.20-Win32-VC9-x86.zip',
-    '3.0.2' => 'http://xcache.lighttpd.net/pub/Releases/3.0.2/XCache-3.0.2-php-5.4.20-Win32-VC9-x86.zip',
-    '3.0.3' => 'http://xcache.lighttpd.net/pub/Releases/3.0.3/XCache-3.0.3-php-5.4.20-Win32-VC9-x86.zip',
-    '3.0.4' => 'http://xcache.lighttpd.net/pub/Releases/3.0.4/XCache-3.0.4-php-5.4.20-Win32-VC9-x86.zip',
-    '3.1.0' => 'http://xcache.lighttpd.net/pub/Releases/3.1.0/XCache-3.1.0-php-5.4.20-Win32-VC9-x86.zip',
-    'latest' =>
-    array (
-      'version' => '3.1.0',
-      'url' => 'http://xcache.lighttpd.net/pub/Releases/3.1.0/XCache-3.1.0-php-5.4.20-Win32-VC9-x86.zip',
     ),
   ),
   'xhprof' =>
