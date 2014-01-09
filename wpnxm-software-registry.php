@@ -448,9 +448,10 @@
     'name' => 'PHP Extension MessagePack',
     'website' => 'http://msgpack.org/',
     '0.5.5' => 'http://windows.php.net/downloads/pecl/releases/msgpack/0.5.5/php_msgpack-0.5.5-5.4-nts-vc9-x86.zip',
+    'latest' =>
     array (
-     'version' => '0.5.5',
-     'url' => 'http://windows.php.net/downloads/pecl/releases/msgpack/0.5.5/php_msgpack-0.5.5-5.4-nts-vc9-x86.zip',
+      'version' => '0.5.5',
+      'url' => 'http://windows.php.net/downloads/pecl/releases/msgpack/0.5.5/php_msgpack-0.5.5-5.4-nts-vc9-x86.zip',
     ),
   ),
   'phpext_mongo' =>
