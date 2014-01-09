@@ -2,7 +2,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Thu, 09 Jan 2014 14:22:53 +0000.
+    * Last Update Thu, 09 Jan 2014 21:54:12 +0000.
     * Do not edit manually!
     */
 
@@ -399,11 +399,12 @@
     '5.4.20' => 'http://windows.php.net/downloads/releases/archives/php-5.4.20-nts-Win32-VC9-x86.zip',
     '5.4.21' => 'http://windows.php.net/downloads/releases/archives/php-5.4.21-nts-Win32-VC9-x86.zip',
     '5.4.22' => 'http://windows.php.net/downloads/releases/archives/php-5.4.22-nts-Win32-VC9-x86.zip',
-    '5.4.23' => 'http://windows.php.net/downloads/releases/php-5.4.23-nts-Win32-VC9-x86.zip',
+    '5.4.23' => 'http://windows.php.net/downloads/releases/archives/php-5.4.23-nts-Win32-VC9-x86.zip',
+    '5.4.24' => 'http://windows.php.net/downloads/releases/php-5.4.24-nts-Win32-VC9-x86.zip',
     'latest' =>
     array (
-      'version' => '5.4.23',
-      'url' => 'http://windows.php.net/downloads/releases/php-5.4.23-nts-Win32-VC9-x86.zip',
+      'version' => '5.4.24',
+      'url' => 'http://windows.php.net/downloads/releases/php-5.4.24-nts-Win32-VC9-x86.zip',
     ),
   ),
   'phpext_amqp' =>
@@ -420,7 +421,7 @@
   'phpext_apc' =>
   array (
     'name' => 'PHP Extension APC',
-    'website' => 'http://php.net/manual/de/book.apc.php/',
+    'website' => 'http://php.net/apc/',
     '3.1.10' => 'http://downloads.php.net/pierre/php_apc-3.1.10-5.3-vc9-x86.zip',
     '3.1.11' => 'http://windows.php.net/downloads/pecl/releases/apc/3.1.11/php_apc-3.1.11-5.4-nts-vc9-x86.zip',
     '3.1.12' => 'http://windows.php.net/downloads/pecl/releases/apc/3.1.12/php_apc-3.1.12-5.4-nts-vc9-x86.zip',
@@ -434,7 +435,7 @@
   'phpext_memcache' =>
   array (
     'name' => 'PHP Extension Memcache',
-    'website' => 'http://php.net/manual/en/book.memcache.php/',
+    'website' => 'http://php.net/memcache/',
     '2.2.6' => 'http://downloads.php.net/pierre/php_memcache-2.2.6-5.3-vc9-x86.zip',
     '2.2.7' => 'http://windows.php.net/downloads/pecl/releases/memcache/2.2.7/php_memcache-2.2.7-5.4-nts-vc9-x86.zip',
     '3.0.8' => 'http://windows.php.net/downloads/pecl/releases/memcache/3.0.8/php_memcache-3.0.8-5.4-nts-vc9-x86.zip',
@@ -476,6 +477,17 @@
     array (
       'version' => '0.5.5',
       'url' => 'http://windows.php.net/downloads/pecl/releases/msgpack/0.5.5/php_msgpack-0.5.5-5.4-nts-vc9-x86.zip',
+    ),
+  ),
+  'phpext_rar' =>
+  array (
+    'name' => 'PHP Extension RAR',
+    'website' => 'http://php.net/rar',
+    '3.0.1' => 'http://windows.php.net/downloads/pecl/releases/rar/3.0.1/php_rar-3.0.1-5.4-nts-vc9-x86.zip',
+    'latest' =>
+    array (
+      'version' => '3.0.1',
+      'url' => 'http://windows.php.net/downloads/pecl/releases/rar/3.0.1/php_rar-3.0.1-5.4-nts-vc9-x86.zip',
     ),
   ),
   'phpext_varnish' =>
