@@ -535,7 +535,7 @@
       'url' => 'http://windows.php.net/downloads/pecl/releases/xhprof/0.10.6/php_xhprof-0.10.6-5.4-nts-vc9-x86.zip',
     ),
   ),
-  'phpext_zeromq' =>
+  'phpext_zmq' =>
   array (
     'name' => 'PHP Extension ZeroMQ',
     'website' => 'https://github.com/mkoppanen/php-zmq',
