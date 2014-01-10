@@ -2,7 +2,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Thu, 09 Jan 2014 21:54:12 +0000.
+    * Last Update Fri, 10 Jan 2014 20:39:45 +0000.
     * Do not edit manually!
     */
 
@@ -430,6 +430,24 @@
     array (
       'version' => '3.1.13',
       'url' => 'http://windows.php.net/downloads/pecl/releases/apc/3.1.13/php_apc-3.1.13-5.4-nts-vc9-x86.zip',
+    ),
+  ),
+  'phpext_imagick' =>
+  array (
+    '3.2.0b1' => 'http://windows.php.net/downloads/pecl/releases/imagick/3.2.0b1/php_imagick-3.2.0b1-5.4-nts-vc9-x86.zip',
+    'latest' =>
+    array (
+      'version' => '3.2.0b1',
+      'url' => 'http://windows.php.net/downloads/pecl/releases/imagick/3.2.0b1/php_imagick-3.2.0b1-5.4-nts-vc9-x86.zip',
+    ),
+  ),
+  'phpext_mailparse' =>
+  array (
+    '2.1.6' => 'http://windows.php.net/downloads/pecl/releases/mailparse/2.1.6/php_mailparse-2.1.6-5.4-nts-vc9-x86.zip',
+    'latest' =>
+    array (
+      'version' => '2.1.6',
+      'url' => 'http://windows.php.net/downloads/pecl/releases/mailparse/2.1.6/php_mailparse-2.1.6-5.4-nts-vc9-x86.zip',
     ),
   ),
   'phpext_memcache' =>
