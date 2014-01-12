@@ -2,7 +2,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Fri, 10 Jan 2014 20:39:45 +0000.
+    * Last Update Sun, 12 Jan 2014 02:51:19 +0000.
     * Do not edit manually!
     */
 
@@ -20,10 +20,11 @@
     '3.7.0' => 'http://garr.dl.sourceforge.net/project/adminer/Adminer/Adminer%203.7.0/adminer-3.7.0.php',
     '3.7.1' => 'http://garr.dl.sourceforge.net/project/adminer/Adminer/Adminer%203.7.1/adminer-3.7.1.php',
     '4.0.0' => 'http://garr.dl.sourceforge.net/project/adminer/Adminer/Adminer%204.0.0/adminer-4.0.0.php',
+    '4.0.2' => 'http://garr.dl.sourceforge.net/project/adminer/Adminer/Adminer%204.0.2/adminer-4.0.2.php',
     'latest' =>
     array (
-      'version' => '4.0.0',
-      'url' => 'http://garr.dl.sourceforge.net/project/adminer/Adminer/Adminer%204.0.0/adminer-4.0.0.php',
+      'version' => '4.0.2',
+      'url' => 'http://garr.dl.sourceforge.net/project/adminer/Adminer/Adminer%204.0.2/adminer-4.0.2.php',
     ),
   ),
   'closure-compiler' =>
