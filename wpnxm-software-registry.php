@@ -2,7 +2,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Mon, 13 Jan 2014 02:13:58 +0000.
+    * Last Update Mon, 13 Jan 2014 10:52:35 +0000.
     * Do not edit manually!
     */
 
@@ -517,6 +517,15 @@
     array (
       'version' => '3.0.1',
       'url' => 'http://windows.php.net/downloads/pecl/releases/rar/3.0.1/php_rar-3.0.1-5.4-nts-vc9-x86.zip',
+    ),
+  ),
+  'phpext_trader' =>
+  array (
+    '0.3.0' => 'http://windows.php.net/downloads/pecl/releases/trader/0.3.0/php_trader-0.3.0-5.4-nts-vc9-x86.zip',
+    'latest' =>
+    array (
+      'version' => '0.3.0',
+      'url' => 'http://windows.php.net/downloads/pecl/releases/trader/0.3.0/php_trader-0.3.0-5.4-nts-vc9-x86.zip',
     ),
   ),
   'phpext_varnish' =>
