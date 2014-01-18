@@ -50,12 +50,11 @@
   ),
   'imagick' =>
   array (
-    '6.8.8-1' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.8-1-Q16-x86-windows.zip',
-    '6.8.8-2' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.8-2-Q16-x86-windows.zip',
+    '6.8.8-2' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.8-2-Q16-x64-windows.zip',
     'latest' =>
     array (
       'version' => '6.8.8-2',
-      'url' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.8-2-Q16-x86-windows.zip',
+      'url' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.8-2-Q16-x64-windows.zip',
     ),
   ),
   'junction' =>
