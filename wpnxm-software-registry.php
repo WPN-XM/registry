@@ -2,7 +2,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Thu, 23 Jan 2014 01:47:05 +0000.
+    * Last Update Wed, 29 Jan 2014 13:29:00 +0000.
     * Do not edit manually!
     */
 
@@ -50,12 +50,9 @@
   ),
   'imagick' =>
   array (
+    '' => NULL,
     '6.8.8-2' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.8-2-Q16-x64-windows.zip',
-    'latest' =>
-    array (
-      'version' => '6.8.8-2',
-      'url' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.8-2-Q16-x64-windows.zip',
-    ),
+    'latest' => NULL,
   ),
   'junction' =>
   array (
@@ -125,10 +122,11 @@
     '5.5.32' => 'http://mirrors.n-ix.net/mariadb/mariadb-5.5.32/win32-packages/mariadb-5.5.32-win32.zip',
     '5.5.33' => 'http://mirrors.n-ix.net/mariadb/mariadb-5.5.33/win32-packages/mariadb-5.5.33-win32.zip',
     '5.5.34' => 'http://mirrors.n-ix.net/mariadb/mariadb-5.5.34/win32-packages/mariadb-5.5.34-win32.zip',
+    '5.5.35' => 'http://mirrors.n-ix.net/mariadb/mariadb-5.5.35/win32-packages/mariadb-5.5.35-win32.zip',
     'latest' =>
     array (
-      'version' => '5.5.34',
-      'url' => 'http://mirrors.n-ix.net/mariadb/mariadb-5.5.34/win32-packages/mariadb-5.5.34-win32.zip',
+      'version' => '5.5.35',
+      'url' => 'http://mirrors.n-ix.net/mariadb/mariadb-5.5.35/win32-packages/mariadb-5.5.35-win32.zip',
     ),
   ),
   'memadmin' =>
@@ -643,10 +641,11 @@
     '4.1.1' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.1/phpMyAdmin-4.1.1-english.zip',
     '4.1.4' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.4/phpMyAdmin-4.1.4-english.zip',
     '4.1.5' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.5/phpMyAdmin-4.1.5-english.zip',
+    '4.1.6' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.6/phpMyAdmin-4.1.6-english.zip',
     'latest' =>
     array (
-      'version' => '4.1.5',
-      'url' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.5/phpMyAdmin-4.1.5-english.zip',
+      'version' => '4.1.6',
+      'url' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.6/phpMyAdmin-4.1.6-english.zip',
     ),
   ),
   'postgresql' =>
