@@ -2,7 +2,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Tue, 04 Feb 2014 20:37:55 +0000.
+    * Last Update Thu, 06 Feb 2014 00:53:06 +0000.
     * Do not edit manually!
     */
 
@@ -413,10 +413,11 @@
     '5.4.22' => 'http://windows.php.net/downloads/releases/archives/php-5.4.22-nts-Win32-VC9-x86.zip',
     '5.4.23' => 'http://windows.php.net/downloads/releases/archives/php-5.4.23-nts-Win32-VC9-x86.zip',
     '5.4.24' => 'http://windows.php.net/downloads/releases/php-5.4.24-nts-Win32-VC9-x86.zip',
+    '5.4.25' => 'http://windows.php.net/downloads/releases/php-5.4.25-nts-Win32-VC9-x86.zip',
     'latest' =>
     array (
-      'version' => '5.4.24',
-      'url' => 'http://windows.php.net/downloads/releases/php-5.4.24-nts-Win32-VC9-x86.zip',
+      'version' => '5.4.25',
+      'url' => 'http://windows.php.net/downloads/releases/php-5.4.25-nts-Win32-VC9-x86.zip',
     ),
   ),
   'phpext_amqp' =>
@@ -514,6 +515,7 @@
     'name' => 'PHP Extension RAR',
     'website' => 'http://php.net/rar',
     '3.0.1' => 'http://windows.php.net/downloads/pecl/releases/rar/3.0.1/php_rar-3.0.1-5.4-nts-vc9-x86.zip',
+    '3.0.2' => 'http://windows.php.net/downloads/pecl/releases/rar/3.0.2/php_rar-3.0.2-5.4-nts-vc9-x86.zip',
     'latest' =>
     array (
       'version' => '3.0.1',
