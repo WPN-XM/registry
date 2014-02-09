@@ -2,7 +2,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Thu, 06 Feb 2014 08:40:34 +0000.
+    * Last Update Sun, 09 Feb 2014 17:43:39 +0000.
     * Do not edit manually!
     */
 
@@ -55,10 +55,11 @@
     'website' => 'http://imagemagick.org/',
     '6.8.8-2' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.8-2-Q16-x86-windows.zip',
     '6.8.8-4' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.8-4-Q16-x86-windows.zip',
+    '6.8.8-5' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.8-5-Q16-x86-windows.zip',
     'latest' =>
     array (
-      'version' => '6.8.8-4',
-      'url' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.8-4-Q16-x86-windows.zip',
+      'version' => '6.8.8-5',
+      'url' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.8-5-Q16-x86-windows.zip',
     ),
   ),
   'junction' =>
@@ -653,10 +654,11 @@
     '4.1.4' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.4/phpMyAdmin-4.1.4-english.zip',
     '4.1.5' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.5/phpMyAdmin-4.1.5-english.zip',
     '4.1.6' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.6/phpMyAdmin-4.1.6-english.zip',
+    '4.1.7' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.7/phpMyAdmin-4.1.7-english.zip',
     'latest' =>
     array (
-      'version' => '4.1.6',
-      'url' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.6/phpMyAdmin-4.1.6-english.zip',
+      'version' => '4.1.7',
+      'url' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.7/phpMyAdmin-4.1.7-english.zip',
     ),
   ),
   'postgresql' =>
