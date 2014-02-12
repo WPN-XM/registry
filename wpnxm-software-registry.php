@@ -2,7 +2,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Wed, 12 Feb 2014 11:47:18 +0000.
+    * Last Update Wed, 12 Feb 2014 12:11:09 +0000.
     * Do not edit manually!
     */
 
@@ -689,6 +689,17 @@
     array (
       'version' => '9.3.2',
       'url' => 'http://get.enterprisedb.com/postgresql/postgresql-9.3.2-1-windows-binaries.zip',
+    ),
+  ),
+  'redis' =>
+  array (
+    'name' => 'Redis',
+    'website' => 'http://redis.io/',
+    '2.4.6' => 'http://ruilopes.com/redis-setup/binaries/redis-2.4.6-setup-32-bit.exe',
+    'latest' =>
+    array (
+      'version' => '2.4.6',
+      'url' => 'http://ruilopes.com/redis-setup/binaries/redis-2.4.6-setup-32-bit.exe',
     ),
   ),
   'rockmongo' =>
