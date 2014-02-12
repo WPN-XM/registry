@@ -2,7 +2,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Sun, 09 Feb 2014 17:43:39 +0000.
+    * Last Update Wed, 12 Feb 2014 11:47:18 +0000.
     * Do not edit manually!
     */
 
@@ -549,6 +549,17 @@
     array (
       'version' => '1.1.1',
       'url' => 'http://windows.php.net/downloads/pecl/releases/varnish/1.1.1/php_varnish-1.1.1-5.4-nts-vc9-x86.zip',
+    ),
+  ),
+  'phpext_wincache' =>
+  array (
+    'name' => 'Wincache',
+    'website' => 'http://sourceforge.net/projects/wincache/',
+    '1.3.4.0' => 'http://switch.dl.sourceforge.net/project/wincache/wincache-1.3.4/wincache-1.3.4-5.4-nts-vc9-x86.exe',
+    'latest' =>
+    array (
+      'version' => '1.3.4.0',
+      'url' => 'http://switch.dl.sourceforge.net/project/wincache/wincache-1.3.4/wincache-1.3.4-5.4-nts-vc9-x86.exe',
     ),
   ),
   'phpext_xcache' =>
