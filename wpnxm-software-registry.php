@@ -2,7 +2,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Wed, 12 Feb 2014 12:11:09 +0000.
+    * Last Update Fri, 21 Feb 2014 12:07:30 +0000.
     * Do not edit manually!
     */
 
@@ -56,10 +56,11 @@
     '6.8.8-2' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.8-2-Q16-x86-windows.zip',
     '6.8.8-4' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.8-4-Q16-x86-windows.zip',
     '6.8.8-5' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.8-5-Q16-x86-windows.zip',
+    '6.8.8-7' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.8-7-Q16-x86-windows.zip',
     'latest' =>
     array (
-      'version' => '6.8.8-5',
-      'url' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.8-5-Q16-x86-windows.zip',
+      'version' => '6.8.8-7',
+      'url' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.8-7-Q16-x86-windows.zip',
     ),
   ),
   'junction' =>
@@ -354,10 +355,10 @@
   array (
     'name' => 'OpenSSL',
     'website' => 'http://slproweb.com/',
-    '1.0.1f' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1f.exe',
-    '1.0.1d' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1d.exe',
-    '1.0.1c' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1c.exe',
     '1.0.1e' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1e.exe',
+    '1.0.1d' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1d.exe',
+    '1.0.1f' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1f.exe',
+    '1.0.1c' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1c.exe',
     'latest' =>
     array (
       'version' => '1.0.1f',
@@ -685,10 +686,11 @@
     '9.3.0' => 'http://get.enterprisedb.com/postgresql/postgresql-9.3.0-1-windows-binaries.zip',
     '9.3.1' => 'http://get.enterprisedb.com/postgresql/postgresql-9.3.1-1-windows-binaries.zip',
     '9.3.2' => 'http://get.enterprisedb.com/postgresql/postgresql-9.3.2-1-windows-binaries.zip',
+    '9.3.3' => 'http://get.enterprisedb.com/postgresql/postgresql-9.3.3-1-windows-binaries.zip',
     'latest' =>
     array (
-      'version' => '9.3.2',
-      'url' => 'http://get.enterprisedb.com/postgresql/postgresql-9.3.2-1-windows-binaries.zip',
+      'version' => '9.3.3',
+      'url' => 'http://get.enterprisedb.com/postgresql/postgresql-9.3.3-1-windows-binaries.zip',
     ),
   ),
   'redis' =>
