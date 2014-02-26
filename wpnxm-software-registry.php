@@ -2,7 +2,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Tue, 25 Feb 2014 11:06:58 +0000.
+    * Last Update Wed, 26 Feb 2014 17:38:13 +0000.
     * Do not edit manually!
     */
 
@@ -355,10 +355,10 @@
   array (
     'name' => 'OpenSSL',
     'website' => 'http://slproweb.com/',
-    '1.0.1c' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1c.exe',
-    '1.0.1d' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1d.exe',
-    '1.0.1e' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1e.exe',
     '1.0.1f' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1f.exe',
+    '1.0.1d' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1d.exe',
+    '1.0.1c' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1c.exe',
+    '1.0.1e' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1e.exe',
     'latest' =>
     array (
       'version' => '1.0.1f',
@@ -501,10 +501,11 @@
     '1.4.3' => 'http://s3.amazonaws.com/drivers.mongodb.org/php/php_mongo-1.4.3.zip',
     '1.4.4' => 'http://s3.amazonaws.com/drivers.mongodb.org/php/php_mongo-1.4.4.zip',
     '1.4.5' => 'http://s3.amazonaws.com/drivers.mongodb.org/php/php_mongo-1.4.5.zip',
+    '1.5.0' => 'http://s3.amazonaws.com/drivers.mongodb.org/php/php_mongo-1.5.0.zip',
     'latest' =>
     array (
-      'version' => '1.4.5',
-      'url' => 'http://s3.amazonaws.com/drivers.mongodb.org/php/php_mongo-1.4.5.zip',
+      'version' => '1.5.0',
+      'url' => 'http://s3.amazonaws.com/drivers.mongodb.org/php/php_mongo-1.5.0.zip',
     ),
   ),
   'phpext_msgpack' =>
