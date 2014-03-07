@@ -502,11 +502,10 @@
     '1.4.3' => 'http://s3.amazonaws.com/drivers.mongodb.org/php/php_mongo-1.4.3.zip',
     '1.4.4' => 'http://s3.amazonaws.com/drivers.mongodb.org/php/php_mongo-1.4.4.zip',
     '1.4.5' => 'http://s3.amazonaws.com/drivers.mongodb.org/php/php_mongo-1.4.5.zip',
-    '1.5.0' => 'http://s3.amazonaws.com/drivers.mongodb.org/php/php_mongo-1.5.0.zip',
     'latest' =>
     array (
-      'version' => '1.5.0',
-      'url' => 'http://s3.amazonaws.com/drivers.mongodb.org/php/php_mongo-1.5.0.zip',
+      'version' => '1.4.5',
+      'url' => 'http://s3.amazonaws.com/drivers.mongodb.org/php/php_mongo-1.4.5.zip',
     ),
   ),
   'phpext_msgpack' =>
