@@ -2,7 +2,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Wed, 26 Feb 2014 17:38:13 +0000.
+    * Last Update Fri, 07 Mar 2014 09:45:02 +0000.
     * Do not edit manually!
     */
 
@@ -355,10 +355,10 @@
   array (
     'name' => 'OpenSSL',
     'website' => 'http://slproweb.com/',
-    '1.0.1f' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1f.exe',
-    '1.0.1d' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1d.exe',
     '1.0.1c' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1c.exe',
+    '1.0.1d' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1d.exe',
     '1.0.1e' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1e.exe',
+    '1.0.1f' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1f.exe',
     'latest' =>
     array (
       'version' => '1.0.1f',
@@ -422,10 +422,11 @@
     '5.4.23' => 'http://windows.php.net/downloads/releases/archives/php-5.4.23-nts-Win32-VC9-x86.zip',
     '5.4.24' => 'http://windows.php.net/downloads/releases/php-5.4.24-nts-Win32-VC9-x86.zip',
     '5.4.25' => 'http://windows.php.net/downloads/releases/php-5.4.25-nts-Win32-VC9-x86.zip',
+    '5.4.26' => 'http://windows.php.net/downloads/releases/php-5.4.26-nts-Win32-VC9-x86.zip',
     'latest' =>
     array (
-      'version' => '5.4.25',
-      'url' => 'http://windows.php.net/downloads/releases/php-5.4.25-nts-Win32-VC9-x86.zip',
+      'version' => '5.4.26',
+      'url' => 'http://windows.php.net/downloads/releases/php-5.4.26-nts-Win32-VC9-x86.zip',
     ),
   ),
   'phpext_amqp' =>
@@ -669,10 +670,11 @@
     '4.1.6' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.6/phpMyAdmin-4.1.6-english.zip',
     '4.1.7' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.7/phpMyAdmin-4.1.7-english.zip',
     '4.1.8' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.8/phpMyAdmin-4.1.8-english.zip',
+    '4.1.9' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.9/phpMyAdmin-4.1.9-english.zip',
     'latest' =>
     array (
-      'version' => '4.1.8',
-      'url' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.8/phpMyAdmin-4.1.8-english.zip',
+      'version' => '4.1.9',
+      'url' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.9/phpMyAdmin-4.1.9-english.zip',
     ),
   ),
   'postgresql' =>
