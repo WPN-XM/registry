@@ -2,7 +2,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Fri, 07 Mar 2014 09:45:02 +0000.
+    * Last Update Sat, 15 Mar 2014 14:26:07 +0000.
     * Do not edit manually!
     */
 
@@ -57,10 +57,11 @@
     '6.8.8-4' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.8-4-Q16-x86-windows.zip',
     '6.8.8-5' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.8-5-Q16-x86-windows.zip',
     '6.8.8-7' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.8-7-Q16-x86-windows.zip',
+    '6.8.8-8' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.8-8-Q16-x86-windows.zip',
     'latest' =>
     array (
-      'version' => '6.8.8-7',
-      'url' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.8-7-Q16-x86-windows.zip',
+      'version' => '6.8.8-8',
+      'url' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.8-8-Q16-x86-windows.zip',
     ),
   ),
   'junction' =>
@@ -355,10 +356,10 @@
   array (
     'name' => 'OpenSSL',
     'website' => 'http://slproweb.com/',
-    '1.0.1c' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1c.exe',
-    '1.0.1d' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1d.exe',
-    '1.0.1e' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1e.exe',
     '1.0.1f' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1f.exe',
+    '1.0.1d' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1d.exe',
+    '1.0.1c' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1c.exe',
+    '1.0.1e' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1e.exe',
     'latest' =>
     array (
       'version' => '1.0.1f',
