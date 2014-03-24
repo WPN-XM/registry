@@ -2,7 +2,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Fri, 21 Mar 2014 22:13:25 +0000.
+    * Last Update Mon, 24 Mar 2014 22:45:49 +0000.
     * Do not edit manually!
     */
 
@@ -357,10 +357,10 @@
   array (
     'name' => 'OpenSSL',
     'website' => 'http://slproweb.com/',
-    '1.0.1e' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1e.exe',
-    '1.0.1d' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1d.exe',
-    '1.0.1f' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1f.exe',
     '1.0.1c' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1c.exe',
+    '1.0.1d' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1d.exe',
+    '1.0.1e' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1e.exe',
+    '1.0.1f' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1f.exe',
     'latest' =>
     array (
       'version' => '1.0.1f',
@@ -672,10 +672,11 @@
     '4.1.7' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.7/phpMyAdmin-4.1.7-english.zip',
     '4.1.8' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.8/phpMyAdmin-4.1.8-english.zip',
     '4.1.9' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.9/phpMyAdmin-4.1.9-english.zip',
+    '4.1.11' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.11/phpMyAdmin-4.1.11-english.zip',
     'latest' =>
     array (
-      'version' => '4.1.9',
-      'url' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.9/phpMyAdmin-4.1.9-english.zip',
+      'version' => '4.1.11',
+      'url' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.11/phpMyAdmin-4.1.11-english.zip',
     ),
   ),
   'postgresql' =>
