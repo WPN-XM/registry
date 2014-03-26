@@ -2,7 +2,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Tue, 04 Feb 2014 20:37:55 +0000.
+    * Last Update Mon, 24 Mar 2014 22:45:49 +0000.
     * Do not edit manually!
     */
 
@@ -51,9 +51,19 @@
   ),
   'imagick' =>
   array (
-    '' => NULL,
-    '6.8.8-2' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.8-2-Q16-x64-windows.zip',
-    'latest' => NULL,
+    'name' => 'Imagick',
+    'website' => 'http://imagemagick.org/',
+    '6.8.8-2' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.8-2-Q16-x86-windows.zip',
+    '6.8.8-4' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.8-4-Q16-x86-windows.zip',
+    '6.8.8-5' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.8-5-Q16-x86-windows.zip',
+    '6.8.8-7' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.8-7-Q16-x86-windows.zip',
+    '6.8.8-8' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.8-8-Q16-x86-windows.zip',
+    '6.8.8-9' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.8-9-Q16-x86-windows.zip',
+    'latest' =>
+    array (
+      'version' => '6.8.8-9',
+      'url' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.8-9-Q16-x86-windows.zip',
+    ),
   ),
   'junction' =>
   array (
@@ -347,10 +357,10 @@
   array (
     'name' => 'OpenSSL',
     'website' => 'http://slproweb.com/',
-    '1.0.1f' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1f.exe',
-    '1.0.1d' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1d.exe',
     '1.0.1c' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1c.exe',
+    '1.0.1d' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1d.exe',
     '1.0.1e' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1e.exe',
+    '1.0.1f' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1f.exe',
     'latest' =>
     array (
       'version' => '1.0.1f',
@@ -413,10 +423,12 @@
     '5.4.22' => 'http://windows.php.net/downloads/releases/archives/php-5.4.22-nts-Win32-VC9-x86.zip',
     '5.4.23' => 'http://windows.php.net/downloads/releases/archives/php-5.4.23-nts-Win32-VC9-x86.zip',
     '5.4.24' => 'http://windows.php.net/downloads/releases/php-5.4.24-nts-Win32-VC9-x86.zip',
+    '5.4.25' => 'http://windows.php.net/downloads/releases/php-5.4.25-nts-Win32-VC9-x86.zip',
+    '5.4.26' => 'http://windows.php.net/downloads/releases/php-5.4.26-nts-Win32-VC9-x86.zip',
     'latest' =>
     array (
-      'version' => '5.4.24',
-      'url' => 'http://windows.php.net/downloads/releases/php-5.4.24-nts-Win32-VC9-x86.zip',
+      'version' => '5.4.26',
+      'url' => 'http://windows.php.net/downloads/releases/php-5.4.26-nts-Win32-VC9-x86.zip',
     ),
   ),
   'phpext_amqp' =>
@@ -514,6 +526,7 @@
     'name' => 'PHP Extension RAR',
     'website' => 'http://php.net/rar',
     '3.0.1' => 'http://windows.php.net/downloads/pecl/releases/rar/3.0.1/php_rar-3.0.1-5.4-nts-vc9-x86.zip',
+    '3.0.2' => 'http://windows.php.net/downloads/pecl/releases/rar/3.0.2/php_rar-3.0.2-5.4-nts-vc9-x86.zip',
     'latest' =>
     array (
       'version' => '3.0.1',
@@ -540,6 +553,17 @@
     array (
       'version' => '1.1.1',
       'url' => 'http://windows.php.net/downloads/pecl/releases/varnish/1.1.1/php_varnish-1.1.1-5.4-nts-vc9-x86.zip',
+    ),
+  ),
+  'phpext_wincache' =>
+  array (
+    'name' => 'Wincache',
+    'website' => 'http://sourceforge.net/projects/wincache/',
+    '1.3.4.0' => 'http://switch.dl.sourceforge.net/project/wincache/wincache-1.3.4/wincache-1.3.4-5.4-nts-vc9-x86.exe',
+    'latest' =>
+    array (
+      'version' => '1.3.4.0',
+      'url' => 'http://switch.dl.sourceforge.net/project/wincache/wincache-1.3.4/wincache-1.3.4-5.4-nts-vc9-x86.exe',
     ),
   ),
   'phpext_xcache' =>
@@ -645,10 +669,14 @@
     '4.1.4' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.4/phpMyAdmin-4.1.4-english.zip',
     '4.1.5' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.5/phpMyAdmin-4.1.5-english.zip',
     '4.1.6' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.6/phpMyAdmin-4.1.6-english.zip',
+    '4.1.7' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.7/phpMyAdmin-4.1.7-english.zip',
+    '4.1.8' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.8/phpMyAdmin-4.1.8-english.zip',
+    '4.1.9' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.9/phpMyAdmin-4.1.9-english.zip',
+    '4.1.11' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.11/phpMyAdmin-4.1.11-english.zip',
     'latest' =>
     array (
-      'version' => '4.1.6',
-      'url' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.6/phpMyAdmin-4.1.6-english.zip',
+      'version' => '4.1.11',
+      'url' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.11/phpMyAdmin-4.1.11-english.zip',
     ),
   ),
   'postgresql' =>
@@ -664,10 +692,23 @@
     '9.3.0' => 'http://get.enterprisedb.com/postgresql/postgresql-9.3.0-1-windows-binaries.zip',
     '9.3.1' => 'http://get.enterprisedb.com/postgresql/postgresql-9.3.1-1-windows-binaries.zip',
     '9.3.2' => 'http://get.enterprisedb.com/postgresql/postgresql-9.3.2-1-windows-binaries.zip',
+    '9.3.3' => 'http://get.enterprisedb.com/postgresql/postgresql-9.3.3-1-windows-binaries.zip',
+    '9.3.4' => 'http://get.enterprisedb.com/postgresql/postgresql-9.3.4-1-windows-binaries.zip',
     'latest' =>
     array (
-      'version' => '9.3.2',
-      'url' => 'http://get.enterprisedb.com/postgresql/postgresql-9.3.2-1-windows-binaries.zip',
+      'version' => '9.3.4',
+      'url' => 'http://get.enterprisedb.com/postgresql/postgresql-9.3.4-1-windows-binaries.zip',
+    ),
+  ),
+  'redis' =>
+  array (
+    'name' => 'Redis',
+    'website' => 'http://redis.io/',
+    '2.4.6' => 'http://ruilopes.com/redis-setup/binaries/redis-2.4.6-setup-32-bit.exe',
+    'latest' =>
+    array (
+      'version' => '2.4.6',
+      'url' => 'http://ruilopes.com/redis-setup/binaries/redis-2.4.6-setup-32-bit.exe',
     ),
   ),
  'redis' =>
