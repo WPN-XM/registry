@@ -670,6 +670,18 @@
       'url' => 'http://get.enterprisedb.com/postgresql/postgresql-9.3.2-1-windows-binaries.zip',
     ),
   ),
+ 'redis' =>
+  array (
+    'name' => 'Redis',
+    'website' => 'http://redis.io/',
+    '2.6.0' => 'https://github.com/MSOpenTech/redis/raw/2.6/bin/release/redisbin.zip',
+    '2.6.14' => 'https://github.com/MSOpenTech/redis/raw/2_6_14_rebase/bin/release/redis-2.6.14.zip',
+    'latest' =>
+    array (
+      'version' => '2.6.14',
+      'url' => 'https://github.com/MSOpenTech/redis/raw/2_6_14_rebase/bin/release/redis-2.6.14.zip',
+    ),
+  ),
   'rockmongo' =>
   array (
     'name' => 'RockMongo',
