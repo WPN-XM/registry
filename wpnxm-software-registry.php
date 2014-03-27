@@ -712,6 +712,18 @@
       'url' => 'http://ruilopes.com/redis-setup/binaries/redis-2.4.6-setup-32-bit.exe',
     ),
   ),
+ 'redis' =>
+  array (
+    'name' => 'Redis',
+    'website' => 'http://redis.io/',
+    '2.6.0' => 'https://github.com/MSOpenTech/redis/raw/2.6/bin/release/redisbin.zip',
+    '2.6.14' => 'https://github.com/MSOpenTech/redis/raw/2_6_14_rebase/bin/release/redis-2.6.14.zip',
+    'latest' =>
+    array (
+      'version' => '2.6.14',
+      'url' => 'https://github.com/MSOpenTech/redis/raw/2_6_14_rebase/bin/release/redis-2.6.14.zip',
+    ),
+  ),
   'rockmongo' =>
   array (
     'name' => 'RockMongo',
