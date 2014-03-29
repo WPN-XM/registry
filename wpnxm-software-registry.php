@@ -2,7 +2,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Thu, 27 Mar 2014 13:45:07 +0000.
+    * Last Update Sat, 29 Mar 2014 16:52:31 +0000.
     * Do not edit manually!
     */
 
@@ -59,10 +59,11 @@
     '6.8.8-7' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.8-7-Q16-x86-windows.zip',
     '6.8.8-8' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.8-8-Q16-x86-windows.zip',
     '6.8.8-9' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.8-9-Q16-x86-windows.zip',
+    '6.8.8-10' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.8-10-Q16-x86-windows.zip',
     'latest' =>
     array (
-      'version' => '6.8.8-9',
-      'url' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.8-9-Q16-x86-windows.zip',
+      'version' => '6.8.8-10',
+      'url' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.8-10-Q16-x86-windows.zip',
     ),
   ),
   'junction' =>
@@ -357,10 +358,10 @@
   array (
     'name' => 'OpenSSL',
     'website' => 'http://slproweb.com/',
-    '1.0.1f' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1f.exe',
-    '1.0.1d' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1d.exe',
-    '1.0.1c' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1c.exe',
     '1.0.1e' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1e.exe',
+    '1.0.1d' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1d.exe',
+    '1.0.1f' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1f.exe',
+    '1.0.1c' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1c.exe',
     'latest' =>
     array (
       'version' => '1.0.1f',
@@ -702,17 +703,6 @@
     ),
   ),
   'redis' =>
-  array (
-    'name' => 'Redis',
-    'website' => 'http://redis.io/',
-    '2.4.6' => 'http://ruilopes.com/redis-setup/binaries/redis-2.4.6-setup-32-bit.exe',
-    'latest' =>
-    array (
-      'version' => '2.4.6',
-      'url' => 'http://ruilopes.com/redis-setup/binaries/redis-2.4.6-setup-32-bit.exe',
-    ),
-  ),
- 'redis' =>
   array (
     'name' => 'Redis',
     'website' => 'http://redis.io/',
