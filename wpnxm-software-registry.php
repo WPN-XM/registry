@@ -770,7 +770,6 @@
   array (
     'name' => 'PHP Extension XHProf',
     'website' => 'https://github.com/facebook/xhprof/',
-    '0.10.3' => 'http://dev.freshsite.pl/php-extensions/xhprof/file/details/xhprof-0103-for-php-54-vc9-nts.html',
     '0.10.6' => 'http://windows.php.net/downloads/pecl/releases/xhprof/0.10.6/php_xhprof-0.10.6-5.4-nts-vc9-x86.zip',
     'latest' =>
     array (
