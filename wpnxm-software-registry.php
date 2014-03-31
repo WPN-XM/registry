@@ -2,7 +2,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Mon, 31 Mar 2014 09:25:04 +0000.
+    * Last Update Mon, 31 Mar 2014 09:25:56 +0000.
     * Do not edit manually!
     */
 
@@ -526,10 +526,10 @@
   array (
     'name' => 'OpenSSL',
     'website' => 'http://slproweb.com/',
-    '1.0.1f' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1f.exe',
-    '1.0.1d' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1d.exe',
-    '1.0.1c' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1c.exe',
     '1.0.1e' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1e.exe',
+    '1.0.1d' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1d.exe',
+    '1.0.1f' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1f.exe',
+    '1.0.1c' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1c.exe',
     'latest' =>
     array (
       'version' => '1.0.1f',
@@ -763,10 +763,11 @@
     '2.2.1' => 'http://xdebug.org/files/php_xdebug-2.2.1-5.4-vc9-nts.dll',
     '2.2.2' => 'http://xdebug.org/files/php_xdebug-2.2.2-5.4-vc9-nts.dll',
     '2.2.3' => 'http://xdebug.org/files/php_xdebug-2.2.3-5.4-vc9-nts.dll',
+    '2.2.4' => 'http://xdebug.org/files/php_xdebug-2.2.4-5.4-vc9-nts.dll',
     'latest' =>
     array (
-      'version' => '2.2.3',
-      'url' => 'http://xdebug.org/files/php_xdebug-2.2.3-5.4-vc9-nts.dll',
+      'version' => '2.2.4',
+      'url' => 'http://xdebug.org/files/php_xdebug-2.2.4-5.4-vc9-nts.dll',
     ),
   ),
   'phpext_xhprof' =>
