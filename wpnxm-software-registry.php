@@ -2,7 +2,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Mon, 31 Mar 2014 09:22:21 +0000.
+    * Last Update Mon, 31 Mar 2014 09:25:04 +0000.
     * Do not edit manually!
     */
 
@@ -349,10 +349,12 @@
     '1.5.8' => 'http://nginx.org/download/nginx-1.5.8.zip',
     '1.5.9' => 'http://nginx.org/download/nginx-1.5.9.zip',
     '1.5.10' => 'http://nginx.org/download/nginx-1.5.10.zip',
+    '1.5.11' => 'http://nginx.org/download/nginx-1.5.11.zip',
+    '1.5.12' => 'http://nginx.org/download/nginx-1.5.12.zip',
     'latest' =>
     array (
-      'version' => '1.5.10',
-      'url' => 'http://nginx.org/download/nginx-1.5.10.zip',
+      'version' => '1.5.12',
+      'url' => 'http://nginx.org/download/nginx-1.5.12.zip',
     ),
   ),
   'node' =>
@@ -524,10 +526,10 @@
   array (
     'name' => 'OpenSSL',
     'website' => 'http://slproweb.com/',
-    '1.0.1c' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1c.exe',
-    '1.0.1d' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1d.exe',
-    '1.0.1e' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1e.exe',
     '1.0.1f' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1f.exe',
+    '1.0.1d' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1d.exe',
+    '1.0.1c' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1c.exe',
+    '1.0.1e' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1e.exe',
     'latest' =>
     array (
       'version' => '1.0.1f',
