@@ -905,6 +905,17 @@
       'url' => 'http://www.glob.com.au/sendmail/sendmail.zip',
     ),
   ),
+  'varnish' =>
+  array (
+    'name' => 'Varnish Cache',
+    'website' => 'https://www.varnish-cache.org/',
+    '3.0.2' => 'http://freefr.dl.sourceforge.net/project/cygvarnish/windows-zip-bundle/varnish-3.0.2.zip',
+    'latest' =>
+    array (
+      'version' => '3.0.2',
+      'url' => 'http://freefr.dl.sourceforge.net/project/cygvarnish/windows-zip-bundle/varnish-3.0.2.zip',
+    ),
+  ),
   'vcredist' =>
   array (
     'name' => 'Microsoft Visual C++ 2010 x86 Redistributable Setup',
