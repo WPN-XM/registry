@@ -2,7 +2,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Wed, 06 Nov 2013 16:42:15 +0000.
+    * Last Update Mon, 31 Mar 2014 09:27:10 +0000.
     * Do not edit manually!
     */
 
@@ -19,21 +19,23 @@
     '3.6.4' => 'http://garr.dl.sourceforge.net/project/adminer/Adminer/Adminer%203.6.4/adminer-3.6.4.php',
     '3.7.0' => 'http://garr.dl.sourceforge.net/project/adminer/Adminer/Adminer%203.7.0/adminer-3.7.0.php',
     '3.7.1' => 'http://garr.dl.sourceforge.net/project/adminer/Adminer/Adminer%203.7.1/adminer-3.7.1.php',
+    '4.0.0' => 'http://garr.dl.sourceforge.net/project/adminer/Adminer/Adminer%204.0.0/adminer-4.0.0.php',
+    '4.0.2' => 'http://garr.dl.sourceforge.net/project/adminer/Adminer/Adminer%204.0.2/adminer-4.0.2.php',
+    '4.0.3' => 'http://garr.dl.sourceforge.net/project/adminer/Adminer/Adminer%204.0.3/adminer-4.0.3.php',
     'latest' =>
     array (
-      'version' => '3.7.1',
-      'url' => 'http://garr.dl.sourceforge.net/project/adminer/Adminer/Adminer%203.7.1/adminer-3.7.1.php',
+      'version' => '4.0.3',
+      'url' => 'http://garr.dl.sourceforge.net/project/adminer/Adminer/Adminer%204.0.3/adminer-4.0.3.php',
     ),
   ),
-  'clansuite' =>
+  'closure-compiler' =>
   array (
-    'name' => 'Clansuite',
-    'website' => 'http://clansuite.com/',
-    '0.2.1' => 'https://codeload.github.com/Clansuite/Clansuite/zip/develop',
+    'name' => 'Google Closure Compiler',
+    'website' => 'http://code.google.com/p/closure-compiler/',
     'latest' =>
     array (
-      'version' => '0.2.1',
-      'url' => 'https://codeload.github.com/Clansuite/Clansuite/zip/develop',
+      'version' => 'latest',
+      'url' => 'http://dl.google.com/closure-compiler/compiler-latest.zip',
     ),
   ),
   'composer' =>
@@ -45,6 +47,23 @@
     array (
       'version' => '1.0',
       'url' => 'http://getcomposer.org/composer.phar',
+    ),
+  ),
+  'imagick' =>
+  array (
+    'name' => 'Imagick',
+    'website' => 'http://imagemagick.org/',
+    '6.8.8-2' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.8-2-Q16-x86-windows.zip',
+    '6.8.8-4' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.8-4-Q16-x86-windows.zip',
+    '6.8.8-5' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.8-5-Q16-x86-windows.zip',
+    '6.8.8-7' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.8-7-Q16-x86-windows.zip',
+    '6.8.8-8' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.8-8-Q16-x86-windows.zip',
+    '6.8.8-9' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.8-9-Q16-x86-windows.zip',
+    '6.8.8-10' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.8-10-Q16-x86-windows.zip',
+    'latest' =>
+    array (
+      'version' => '6.8.8-10',
+      'url' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.8-10-Q16-x86-windows.zip',
     ),
   ),
   'junction' =>
@@ -114,10 +133,13 @@
     '5.5.31' => 'http://archive.mariadb.org/mariadb-5.5.31/win32-packages/mariadb-5.5.31-win32.zip',
     '5.5.32' => 'http://mirrors.n-ix.net/mariadb/mariadb-5.5.32/win32-packages/mariadb-5.5.32-win32.zip',
     '5.5.33' => 'http://mirrors.n-ix.net/mariadb/mariadb-5.5.33/win32-packages/mariadb-5.5.33-win32.zip',
+    '5.5.34' => 'http://mirrors.n-ix.net/mariadb/mariadb-5.5.34/win32-packages/mariadb-5.5.34-win32.zip',
+    '5.5.35' => 'http://mirrors.n-ix.net/mariadb/mariadb-5.5.35/win32-packages/mariadb-5.5.35-win32.zip',
+    '5.5.36' => 'http://mirrors.n-ix.net/mariadb/mariadb-5.5.36/win32-packages/mariadb-5.5.36-win32.zip',
     'latest' =>
     array (
-      'version' => '5.5.33',
-      'url' => 'http://mirrors.n-ix.net/mariadb/mariadb-5.5.33/win32-packages/mariadb-5.5.33-win32.zip',
+      'version' => '5.5.36',
+      'url' => 'http://mirrors.n-ix.net/mariadb/mariadb-5.5.36/win32-packages/mariadb-5.5.36-win32.zip',
     ),
   ),
   'memadmin' =>
@@ -162,10 +184,12 @@
     '2.5.1' => 'http://downloads.mongodb.org/win32/mongodb-win32-i386-2.5.1.zip',
     '2.5.2' => 'http://downloads.mongodb.org/win32/mongodb-win32-i386-2.5.2.zip',
     '2.5.3' => 'http://downloads.mongodb.org/win32/mongodb-win32-i386-2.5.3.zip',
+    '2.5.4' => 'http://downloads.mongodb.org/win32/mongodb-win32-i386-2.5.4.zip',
+    '2.5.5' => 'http://downloads.mongodb.org/win32/mongodb-win32-i386-2.5.5.zip',
     'latest' =>
     array (
-      'version' => '2.5.3',
-      'url' => 'http://downloads.mongodb.org/win32/mongodb-win32-i386-2.5.3.zip',
+      'version' => '2.5.5',
+      'url' => 'http://downloads.mongodb.org/win32/mongodb-win32-i386-2.5.5.zip',
     ),
   ),
   'nginx' =>
@@ -321,23 +345,195 @@
     '1.5.4' => 'http://www.nginx.org/download/nginx-1.5.4.zip',
     '1.5.5' => 'http://www.nginx.org/download/nginx-1.5.5.zip',
     '1.5.6' => 'http://nginx.org/download/nginx-1.5.6.zip',
+    '1.5.7' => 'http://nginx.org/download/nginx-1.5.7.zip',
+    '1.5.8' => 'http://nginx.org/download/nginx-1.5.8.zip',
+    '1.5.9' => 'http://nginx.org/download/nginx-1.5.9.zip',
+    '1.5.10' => 'http://nginx.org/download/nginx-1.5.10.zip',
+    '1.5.11' => 'http://nginx.org/download/nginx-1.5.11.zip',
+    '1.5.12' => 'http://nginx.org/download/nginx-1.5.12.zip',
     'latest' =>
     array (
-      'version' => '1.5.6',
-      'url' => 'http://nginx.org/download/nginx-1.5.6.zip',
+      'version' => '1.5.12',
+      'url' => 'http://nginx.org/download/nginx-1.5.12.zip',
+    ),
+  ),
+  'node' =>
+  array (
+    'name' => 'NodeJS',
+    'website' => 'http://nodejs.org/',
+    '0.10.26' => 'http://nodejs.org/dist/v0.10.26/node.exe',
+    '0.11.0' => 'http://nodejs.org/dist/v0.11.0/node.exe',
+    '0.11.1' => 'http://nodejs.org/dist/v0.11.1/node.exe',
+    '0.11.2' => 'http://nodejs.org/dist/v0.11.2/node.exe',
+    '0.11.3' => 'http://nodejs.org/dist/v0.11.3/node.exe',
+    '0.11.4' => 'http://nodejs.org/dist/v0.11.4/node.exe',
+    '0.11.5' => 'http://nodejs.org/dist/v0.11.5/node.exe',
+    '0.11.6' => 'http://nodejs.org/dist/v0.11.6/node.exe',
+    '0.11.7' => 'http://nodejs.org/dist/v0.11.7/node.exe',
+    '0.11.8' => 'http://nodejs.org/dist/v0.11.8/node.exe',
+    '0.11.9' => 'http://nodejs.org/dist/v0.11.9/node.exe',
+    '0.11.10' => 'http://nodejs.org/dist/v0.11.10/node.exe',
+    '0.11.11' => 'http://nodejs.org/dist/v0.11.11/node.exe',
+    '0.11.12' => 'http://nodejs.org/dist/v0.11.12/node.exe',
+    'latest' =>
+    array (
+      'version' => '0.11.12',
+      'url' => 'http://nodejs.org/dist/v0.11.12/node.exe',
+    ),
+  ),
+  'nodenpm' =>
+  array (
+    'name' => 'NodeNPM',
+    'website' => 'http://nodejs.org/',
+    '1.1.0' => 'http://nodejs.org/dist/npm/npm-1.1.0.zip',
+    '1.1.1' => 'http://nodejs.org/dist/npm/npm-1.1.1.zip',
+    '1.1.2' => 'http://nodejs.org/dist/npm/npm-1.1.2.zip',
+    '1.1.3' => 'http://nodejs.org/dist/npm/npm-1.1.3.zip',
+    '1.1.4' => 'http://nodejs.org/dist/npm/npm-1.1.4.zip',
+    '1.1.5' => 'http://nodejs.org/dist/npm/npm-1.1.5.zip',
+    '1.1.6' => 'http://nodejs.org/dist/npm/npm-1.1.6.zip',
+    '1.1.7' => 'http://nodejs.org/dist/npm/npm-1.1.7.zip',
+    '1.1.8' => 'http://nodejs.org/dist/npm/npm-1.1.8.zip',
+    '1.1.9' => 'http://nodejs.org/dist/npm/npm-1.1.9.zip',
+    '1.1.10' => 'http://nodejs.org/dist/npm/npm-1.1.10.zip',
+    '1.1.11' => 'http://nodejs.org/dist/npm/npm-1.1.11.zip',
+    '1.1.12' => 'http://nodejs.org/dist/npm/npm-1.1.12.zip',
+    '1.1.13' => 'http://nodejs.org/dist/npm/npm-1.1.13.zip',
+    '1.1.14' => 'http://nodejs.org/dist/npm/npm-1.1.14.zip',
+    '1.1.15' => 'http://nodejs.org/dist/npm/npm-1.1.15.zip',
+    '1.1.16' => 'http://nodejs.org/dist/npm/npm-1.1.16.zip',
+    '1.1.17' => 'http://nodejs.org/dist/npm/npm-1.1.17.zip',
+    '1.1.18' => 'http://nodejs.org/dist/npm/npm-1.1.18.zip',
+    '1.1.19' => 'http://nodejs.org/dist/npm/npm-1.1.19.zip',
+    '1.1.21' => 'http://nodejs.org/dist/npm/npm-1.1.21.zip',
+    '1.1.22' => 'http://nodejs.org/dist/npm/npm-1.1.22.zip',
+    '1.1.23' => 'http://nodejs.org/dist/npm/npm-1.1.23.zip',
+    '1.1.24' => 'http://nodejs.org/dist/npm/npm-1.1.24.zip',
+    '1.1.25' => 'http://nodejs.org/dist/npm/npm-1.1.25.zip',
+    '1.1.26' => 'http://nodejs.org/dist/npm/npm-1.1.26.zip',
+    '1.1.27' => 'http://nodejs.org/dist/npm/npm-1.1.27.zip',
+    '1.1.28' => 'http://nodejs.org/dist/npm/npm-1.1.28.zip',
+    '1.1.29' => 'http://nodejs.org/dist/npm/npm-1.1.29.zip',
+    '1.1.30' => 'http://nodejs.org/dist/npm/npm-1.1.30.zip',
+    '1.1.31' => 'http://nodejs.org/dist/npm/npm-1.1.31.zip',
+    '1.1.32' => 'http://nodejs.org/dist/npm/npm-1.1.32.zip',
+    '1.1.33' => 'http://nodejs.org/dist/npm/npm-1.1.33.zip',
+    '1.1.34' => 'http://nodejs.org/dist/npm/npm-1.1.34.zip',
+    '1.1.35' => 'http://nodejs.org/dist/npm/npm-1.1.35.zip',
+    '1.1.36' => 'http://nodejs.org/dist/npm/npm-1.1.36.zip',
+    '1.1.37' => 'http://nodejs.org/dist/npm/npm-1.1.37.zip',
+    '1.1.38' => 'http://nodejs.org/dist/npm/npm-1.1.38.zip',
+    '1.1.39' => 'http://nodejs.org/dist/npm/npm-1.1.39.zip',
+    '1.1.40' => 'http://nodejs.org/dist/npm/npm-1.1.40.zip',
+    '1.1.41' => 'http://nodejs.org/dist/npm/npm-1.1.41.zip',
+    '1.1.42' => 'http://nodejs.org/dist/npm/npm-1.1.42.zip',
+    '1.1.43' => 'http://nodejs.org/dist/npm/npm-1.1.43.zip',
+    '1.1.44' => 'http://nodejs.org/dist/npm/npm-1.1.44.zip',
+    '1.1.45' => 'http://nodejs.org/dist/npm/npm-1.1.45.zip',
+    '1.1.46' => 'http://nodejs.org/dist/npm/npm-1.1.46.zip',
+    '1.1.47' => 'http://nodejs.org/dist/npm/npm-1.1.47.zip',
+    '1.1.48' => 'http://nodejs.org/dist/npm/npm-1.1.48.zip',
+    '1.1.49' => 'http://nodejs.org/dist/npm/npm-1.1.49.zip',
+    '1.1.50' => 'http://nodejs.org/dist/npm/npm-1.1.50.zip',
+    '1.1.51' => 'http://nodejs.org/dist/npm/npm-1.1.51.zip',
+    '1.1.52' => 'http://nodejs.org/dist/npm/npm-1.1.52.zip',
+    '1.1.53' => 'http://nodejs.org/dist/npm/npm-1.1.53.zip',
+    '1.1.54' => 'http://nodejs.org/dist/npm/npm-1.1.54.zip',
+    '1.1.55' => 'http://nodejs.org/dist/npm/npm-1.1.55.zip',
+    '1.1.56' => 'http://nodejs.org/dist/npm/npm-1.1.56.zip',
+    '1.1.57' => 'http://nodejs.org/dist/npm/npm-1.1.57.zip',
+    '1.1.58' => 'http://nodejs.org/dist/npm/npm-1.1.58.zip',
+    '1.1.59' => 'http://nodejs.org/dist/npm/npm-1.1.59.zip',
+    '1.1.62' => 'http://nodejs.org/dist/npm/npm-1.1.62.zip',
+    '1.1.63' => 'http://nodejs.org/dist/npm/npm-1.1.63.zip',
+    '1.1.64' => 'http://nodejs.org/dist/npm/npm-1.1.64.zip',
+    '1.1.65' => 'http://nodejs.org/dist/npm/npm-1.1.65.zip',
+    '1.1.66' => 'http://nodejs.org/dist/npm/npm-1.1.66.zip',
+    '1.1.67' => 'http://nodejs.org/dist/npm/npm-1.1.67.zip',
+    '1.1.68' => 'http://nodejs.org/dist/npm/npm-1.1.68.zip',
+    '1.1.69' => 'http://nodejs.org/dist/npm/npm-1.1.69.zip',
+    '1.1.70' => 'http://nodejs.org/dist/npm/npm-1.1.70.zip',
+    '1.1.71' => 'http://nodejs.org/dist/npm/npm-1.1.71.zip',
+    '1.2.0' => 'http://nodejs.org/dist/npm/npm-1.2.0.zip',
+    '1.2.1' => 'http://nodejs.org/dist/npm/npm-1.2.1.zip',
+    '1.2.2' => 'http://nodejs.org/dist/npm/npm-1.2.2.zip',
+    '1.2.3' => 'http://nodejs.org/dist/npm/npm-1.2.3.zip',
+    '1.2.4' => 'http://nodejs.org/dist/npm/npm-1.2.4.zip',
+    '1.2.5' => 'http://nodejs.org/dist/npm/npm-1.2.5.zip',
+    '1.2.6' => 'http://nodejs.org/dist/npm/npm-1.2.6.zip',
+    '1.2.7' => 'http://nodejs.org/dist/npm/npm-1.2.7.zip',
+    '1.2.8' => 'http://nodejs.org/dist/npm/npm-1.2.8.zip',
+    '1.2.9' => 'http://nodejs.org/dist/npm/npm-1.2.9.zip',
+    '1.2.10' => 'http://nodejs.org/dist/npm/npm-1.2.10.zip',
+    '1.2.11' => 'http://nodejs.org/dist/npm/npm-1.2.11.zip',
+    '1.2.12' => 'http://nodejs.org/dist/npm/npm-1.2.12.zip',
+    '1.2.13' => 'http://nodejs.org/dist/npm/npm-1.2.13.zip',
+    '1.2.14' => 'http://nodejs.org/dist/npm/npm-1.2.14.zip',
+    '1.2.15' => 'http://nodejs.org/dist/npm/npm-1.2.15.zip',
+    '1.2.16' => 'http://nodejs.org/dist/npm/npm-1.2.16.zip',
+    '1.2.17' => 'http://nodejs.org/dist/npm/npm-1.2.17.zip',
+    '1.2.18' => 'http://nodejs.org/dist/npm/npm-1.2.18.zip',
+    '1.2.19' => 'http://nodejs.org/dist/npm/npm-1.2.19.zip',
+    '1.2.20' => 'http://nodejs.org/dist/npm/npm-1.2.20.zip',
+    '1.2.21' => 'http://nodejs.org/dist/npm/npm-1.2.21.zip',
+    '1.2.22' => 'http://nodejs.org/dist/npm/npm-1.2.22.zip',
+    '1.2.23' => 'http://nodejs.org/dist/npm/npm-1.2.23.zip',
+    '1.2.24' => 'http://nodejs.org/dist/npm/npm-1.2.24.zip',
+    '1.2.25' => 'http://nodejs.org/dist/npm/npm-1.2.25.zip',
+    '1.2.27' => 'http://nodejs.org/dist/npm/npm-1.2.27.zip',
+    '1.2.28' => 'http://nodejs.org/dist/npm/npm-1.2.28.zip',
+    '1.2.30' => 'http://nodejs.org/dist/npm/npm-1.2.30.zip',
+    '1.2.31' => 'http://nodejs.org/dist/npm/npm-1.2.31.zip',
+    '1.2.32' => 'http://nodejs.org/dist/npm/npm-1.2.32.zip',
+    '1.3.0' => 'http://nodejs.org/dist/npm/npm-1.3.0.zip',
+    '1.3.1' => 'http://nodejs.org/dist/npm/npm-1.3.1.zip',
+    '1.3.2' => 'http://nodejs.org/dist/npm/npm-1.3.2.zip',
+    '1.3.3' => 'http://nodejs.org/dist/npm/npm-1.3.3.zip',
+    '1.3.4' => 'http://nodejs.org/dist/npm/npm-1.3.4.zip',
+    '1.3.5' => 'http://nodejs.org/dist/npm/npm-1.3.5.zip',
+    '1.3.6' => 'http://nodejs.org/dist/npm/npm-1.3.6.zip',
+    '1.3.7' => 'http://nodejs.org/dist/npm/npm-1.3.7.zip',
+    '1.3.8' => 'http://nodejs.org/dist/npm/npm-1.3.8.zip',
+    '1.3.9' => 'http://nodejs.org/dist/npm/npm-1.3.9.zip',
+    '1.3.10' => 'http://nodejs.org/dist/npm/npm-1.3.10.zip',
+    '1.3.11' => 'http://nodejs.org/dist/npm/npm-1.3.11.zip',
+    '1.3.12' => 'http://nodejs.org/dist/npm/npm-1.3.12.zip',
+    '1.3.13' => 'http://nodejs.org/dist/npm/npm-1.3.13.zip',
+    '1.3.14' => 'http://nodejs.org/dist/npm/npm-1.3.14.zip',
+    '1.3.15' => 'http://nodejs.org/dist/npm/npm-1.3.15.zip',
+    '1.3.17' => 'http://nodejs.org/dist/npm/npm-1.3.17.zip',
+    '1.3.18' => 'http://nodejs.org/dist/npm/npm-1.3.18.zip',
+    '1.3.19' => 'http://nodejs.org/dist/npm/npm-1.3.19.zip',
+    '1.3.20' => 'http://nodejs.org/dist/npm/npm-1.3.20.zip',
+    '1.3.21' => 'http://nodejs.org/dist/npm/npm-1.3.21.zip',
+    '1.3.22' => 'http://nodejs.org/dist/npm/npm-1.3.22.zip',
+    '1.3.23' => 'http://nodejs.org/dist/npm/npm-1.3.23.zip',
+    '1.3.24' => 'http://nodejs.org/dist/npm/npm-1.3.24.zip',
+    '1.3.25' => 'http://nodejs.org/dist/npm/npm-1.3.25.zip',
+    '1.3.26' => 'http://nodejs.org/dist/npm/npm-1.3.26.zip',
+    '1.4.0' => 'http://nodejs.org/dist/npm/npm-1.4.0.zip',
+    '1.4.2' => 'http://nodejs.org/dist/npm/npm-1.4.2.zip',
+    '1.4.3' => 'http://nodejs.org/dist/npm/npm-1.4.3.zip',
+    '1.4.5' => 'http://nodejs.org/dist/npm/npm-1.4.5.zip',
+    '1.4.6' => 'http://nodejs.org/dist/npm/npm-1.4.6.zip',
+    'latest' =>
+    array (
+      'version' => '1.4.6',
+      'url' => 'http://nodejs.org/dist/npm/npm-1.4.6.zip',
     ),
   ),
   'openssl' =>
   array (
     'name' => 'OpenSSL',
     'website' => 'http://slproweb.com/',
-    '1.0.1e' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1e.exe',
     '1.0.1c' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1c.exe',
     '1.0.1d' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1d.exe',
+    '1.0.1e' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1e.exe',
+    '1.0.1f' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1f.exe',
     'latest' =>
     array (
-      'version' => '1.0.1e',
-      'url' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1e.exe',
+      'version' => '1.0.1f',
+      'url' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1f.exe',
     ),
   ),
   'pear' =>
@@ -365,10 +561,11 @@
     '5.16.3.1' => 'http://strawberryperl.com/download/5.16.3.1/strawberry-perl-5.16.3.1-32bit.zip',
     '5.18.0.1' => 'http://strawberryperl.com/download/5.18.0.1/strawberry-perl-5.18.0.1-32bit.zip',
     '5.18.1.1' => 'http://strawberryperl.com/download/5.18.1.1/strawberry-perl-5.18.1.1-32bit.zip',
+    '5.18.2.1' => 'http://strawberryperl.com/download/5.18.2.1/strawberry-perl-5.18.2.1-32bit.zip',
     'latest' =>
     array (
-      'version' => '5.18.1.1',
-      'url' => 'http://strawberryperl.com/download/5.18.1.1/strawberry-perl-5.18.1.1-32bit.zip',
+      'version' => '5.18.2.1',
+      'url' => 'http://strawberryperl.com/download/5.18.2.1/strawberry-perl-5.18.2.1-32bit.zip',
     ),
   ),
   'php' =>
@@ -391,17 +588,33 @@
     '5.4.18' => 'http://windows.php.net/downloads/releases/archives/php-5.4.18-nts-Win32-VC9-x86.zip',
     '5.4.19' => 'http://windows.php.net/downloads/releases/archives/php-5.4.19-nts-Win32-VC9-x86.zip',
     '5.4.20' => 'http://windows.php.net/downloads/releases/archives/php-5.4.20-nts-Win32-VC9-x86.zip',
-    '5.4.21' => 'http://windows.php.net/downloads/releases/php-5.4.21-nts-Win32-VC9-x86.zip',
+    '5.4.21' => 'http://windows.php.net/downloads/releases/archives/php-5.4.21-nts-Win32-VC9-x86.zip',
+    '5.4.22' => 'http://windows.php.net/downloads/releases/archives/php-5.4.22-nts-Win32-VC9-x86.zip',
+    '5.4.23' => 'http://windows.php.net/downloads/releases/archives/php-5.4.23-nts-Win32-VC9-x86.zip',
+    '5.4.24' => 'http://windows.php.net/downloads/releases/php-5.4.24-nts-Win32-VC9-x86.zip',
+    '5.4.25' => 'http://windows.php.net/downloads/releases/php-5.4.25-nts-Win32-VC9-x86.zip',
+    '5.4.26' => 'http://windows.php.net/downloads/releases/php-5.4.26-nts-Win32-VC9-x86.zip',
     'latest' =>
     array (
-      'version' => '5.4.21',
-      'url' => 'http://windows.php.net/downloads/releases/php-5.4.21-nts-Win32-VC9-x86.zip',
+      'version' => '5.4.26',
+      'url' => 'http://windows.php.net/downloads/releases/php-5.4.26-nts-Win32-VC9-x86.zip',
+    ),
+  ),
+  'phpext_amqp' =>
+  array (
+    'name' => 'PHP Extension AMQP',
+    'website' => 'http://php.net/amqp',
+    '1.2.0' => 'http://windows.php.net/downloads/pecl/releases/amqp/1.2.0/php_amqp-1.2.0-5.4-nts-vc9-x86.zip',
+    'latest' =>
+    array (
+      'version' => '1.2.0',
+      'url' => 'http://windows.php.net/downloads/pecl/releases/amqp/1.2.0/php_amqp-1.2.0-5.4-nts-vc9-x86.zip',
     ),
   ),
   'phpext_apc' =>
   array (
-    'name' => 'APC',
-    'website' => 'http://php.net/manual/de/book.apc.php/',
+    'name' => 'PHP Extension APC',
+    'website' => 'http://php.net/apc/',
     '3.1.10' => 'http://downloads.php.net/pierre/php_apc-3.1.10-5.3-vc9-x86.zip',
     '3.1.11' => 'http://windows.php.net/downloads/pecl/releases/apc/3.1.11/php_apc-3.1.11-5.4-nts-vc9-x86.zip',
     '3.1.12' => 'http://windows.php.net/downloads/pecl/releases/apc/3.1.12/php_apc-3.1.12-5.4-nts-vc9-x86.zip',
@@ -412,10 +625,28 @@
       'url' => 'http://windows.php.net/downloads/pecl/releases/apc/3.1.13/php_apc-3.1.13-5.4-nts-vc9-x86.zip',
     ),
   ),
+  'phpext_imagick' =>
+  array (
+    '3.2.0b1' => 'http://windows.php.net/downloads/pecl/releases/imagick/3.2.0b1/php_imagick-3.2.0b1-5.4-nts-vc9-x86.zip',
+    'latest' =>
+    array (
+      'version' => '3.2.0b1',
+      'url' => 'http://windows.php.net/downloads/pecl/releases/imagick/3.2.0b1/php_imagick-3.2.0b1-5.4-nts-vc9-x86.zip',
+    ),
+  ),
+  'phpext_mailparse' =>
+  array (
+    '2.1.6' => 'http://windows.php.net/downloads/pecl/releases/mailparse/2.1.6/php_mailparse-2.1.6-5.4-nts-vc9-x86.zip',
+    'latest' =>
+    array (
+      'version' => '2.1.6',
+      'url' => 'http://windows.php.net/downloads/pecl/releases/mailparse/2.1.6/php_mailparse-2.1.6-5.4-nts-vc9-x86.zip',
+    ),
+  ),
   'phpext_memcache' =>
   array (
     'name' => 'PHP Extension Memcache',
-    'website' => 'http://php.net/manual/en/book.memcache.php/',
+    'website' => 'http://php.net/memcache/',
     '2.2.6' => 'http://downloads.php.net/pierre/php_memcache-2.2.6-5.3-vc9-x86.zip',
     '2.2.7' => 'http://windows.php.net/downloads/pecl/releases/memcache/2.2.7/php_memcache-2.2.7-5.4-nts-vc9-x86.zip',
     '3.0.8' => 'http://windows.php.net/downloads/pecl/releases/memcache/3.0.8/php_memcache-3.0.8-5.4-nts-vc9-x86.zip',
@@ -448,6 +679,38 @@
       'url' => 'http://s3.amazonaws.com/drivers.mongodb.org/php/php_mongo-1.4.5.zip',
     ),
   ),
+  'phpext_msgpack' =>
+  array (
+    'name' => 'PHP Extension MessagePack',
+    'website' => 'http://msgpack.org/',
+    '0.5.5' => 'http://windows.php.net/downloads/pecl/releases/msgpack/0.5.5/php_msgpack-0.5.5-5.4-nts-vc9-x86.zip',
+    'latest' =>
+    array (
+      'version' => '0.5.5',
+      'url' => 'http://windows.php.net/downloads/pecl/releases/msgpack/0.5.5/php_msgpack-0.5.5-5.4-nts-vc9-x86.zip',
+    ),
+  ),
+  'phpext_rar' =>
+  array (
+    'name' => 'PHP Extension RAR',
+    'website' => 'http://php.net/rar',
+    '3.0.1' => 'http://windows.php.net/downloads/pecl/releases/rar/3.0.1/php_rar-3.0.1-5.4-nts-vc9-x86.zip',
+    '3.0.2' => 'http://windows.php.net/downloads/pecl/releases/rar/3.0.2/php_rar-3.0.2-5.4-nts-vc9-x86.zip',
+    'latest' =>
+    array (
+      'version' => '3.0.2',
+      'url' => 'http://windows.php.net/downloads/pecl/releases/rar/3.0.2/php_rar-3.0.2-5.4-nts-vc9-x86.zip',
+    ),
+  ),
+  'phpext_trader' =>
+  array (
+    '0.3.0' => 'http://windows.php.net/downloads/pecl/releases/trader/0.3.0/php_trader-0.3.0-5.4-nts-vc9-x86.zip',
+    'latest' =>
+    array (
+      'version' => '0.3.0',
+      'url' => 'http://windows.php.net/downloads/pecl/releases/trader/0.3.0/php_trader-0.3.0-5.4-nts-vc9-x86.zip',
+    ),
+  ),
   'phpext_varnish' =>
   array (
     'name' => 'PHP Extension Varnish',
@@ -461,15 +724,27 @@
       'url' => 'http://windows.php.net/downloads/pecl/releases/varnish/1.1.1/php_varnish-1.1.1-5.4-nts-vc9-x86.zip',
     ),
   ),
+  'phpext_wincache' =>
+  array (
+    'name' => 'Wincache',
+    'website' => 'http://sourceforge.net/projects/wincache/',
+    '1.3.4.0' => 'http://switch.dl.sourceforge.net/project/wincache/wincache-1.3.4/wincache-1.3.4-5.4-nts-vc9-x86.exe',
+    'latest' =>
+    array (
+      'version' => '1.3.4.0',
+      'url' => 'http://switch.dl.sourceforge.net/project/wincache/wincache-1.3.4/wincache-1.3.4-5.4-nts-vc9-x86.exe',
+    ),
+  ),
   'phpext_xcache' =>
   array (
     'name' => 'PHP Extension XCache',
     'website' => 'http://xcache.lighttpd.net/',
-    '2.0.1' => 'http://dev.freshsite.pl/nc/php-accelerators/xcache/download/xcache-201-for-php-54-vc9-nts.html',
+    '3.0.4' => 'http://xcache.lighttpd.net/pub/Releases/3.0.4/XCache-3.0.4-php-5.4.20-Win32-VC9-x86.zip',
+    '3.1.0' => 'http://xcache.lighttpd.net/pub/Releases/3.1.0/XCache-3.1.0-php-5.4.20-Win32-VC9-x86.zip',
     'latest' =>
     array (
-      'version' => '2.0.1',
-      'url' => 'http://dev.freshsite.pl/nc/php-accelerators/xcache/download/xcache-201-for-php-54-vc9-nts.html',
+      'version' => '3.1.0',
+      'url' => 'http://xcache.lighttpd.net/pub/Releases/3.1.0/XCache-3.1.0-php-5.4.20-Win32-VC9-x86.zip',
     ),
   ),
   'phpext_xdebug' =>
@@ -488,17 +763,17 @@
     '2.2.1' => 'http://xdebug.org/files/php_xdebug-2.2.1-5.4-vc9-nts.dll',
     '2.2.2' => 'http://xdebug.org/files/php_xdebug-2.2.2-5.4-vc9-nts.dll',
     '2.2.3' => 'http://xdebug.org/files/php_xdebug-2.2.3-5.4-vc9-nts.dll',
+    '2.2.4' => 'http://xdebug.org/files/php_xdebug-2.2.4-5.4-vc9-nts.dll',
     'latest' =>
     array (
-      'version' => '2.2.3',
-      'url' => 'http://xdebug.org/files/php_xdebug-2.2.3-5.4-vc9-nts.dll',
+      'version' => '2.2.4',
+      'url' => 'http://xdebug.org/files/php_xdebug-2.2.4-5.4-vc9-nts.dll',
     ),
   ),
   'phpext_xhprof' =>
   array (
     'name' => 'PHP Extension XHProf',
     'website' => 'https://github.com/facebook/xhprof/',
-    '0.10.3' => 'http://dev.freshsite.pl/php-extensions/xhprof/file/details/xhprof-0103-for-php-54-vc9-nts.html',
     '0.10.6' => 'http://windows.php.net/downloads/pecl/releases/xhprof/0.10.6/php_xhprof-0.10.6-5.4-nts-vc9-x86.zip',
     'latest' =>
     array (
@@ -506,15 +781,15 @@
       'url' => 'http://windows.php.net/downloads/pecl/releases/xhprof/0.10.6/php_xhprof-0.10.6-5.4-nts-vc9-x86.zip',
     ),
   ),
-  'phpext_zeromq' =>
+  'phpext_zmq' =>
   array (
     'name' => 'PHP Extension ZeroMQ',
     'website' => 'https://github.com/mkoppanen/php-zmq',
-    '3.2.0' => 'http://valokuva.org/%7Emikko/php-zmq-20130203.tgz',
+    '1.1.2' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.1.2/php_zmq-1.1.2-5.4-nts-vc9-x86.zip',
     'latest' =>
     array (
-      'version' => '3.2.0',
-      'url' => 'http://valokuva.org/%7Emikko/php-zmq-20130203.tgz',
+      'version' => '1.1.2',
+      'url' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.1.2/php_zmq-1.1.2-5.4-nts-vc9-x86.zip',
     ),
   ),
   'phpmemcachedadmin' =>
@@ -555,10 +830,23 @@
     '4.1.0-alpha2' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.0-alpha2/phpMyAdmin-4.1.0-alpha2-english.zip',
     '4.1.0-beta1' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.0-beta1/phpMyAdmin-4.1.0-beta1-english.zip',
     '4.1.0-beta2' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.0-beta2/phpMyAdmin-4.1.0-beta2-english.zip',
+    '4.1.0-rc1' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.0-rc1/phpMyAdmin-4.1.0-rc1-english.zip',
+    '4.1.0-rc2' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.0-rc2/phpMyAdmin-4.1.0-rc2-english.zip',
+    '4.1.0-rc3' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.0-rc3/phpMyAdmin-4.1.0-rc3-english.zip',
+    '4.1.0' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.0/phpMyAdmin-4.1.0-english.zip',
+    '4.1.1' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.1/phpMyAdmin-4.1.1-english.zip',
+    '4.1.4' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.4/phpMyAdmin-4.1.4-english.zip',
+    '4.1.5' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.5/phpMyAdmin-4.1.5-english.zip',
+    '4.1.6' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.6/phpMyAdmin-4.1.6-english.zip',
+    '4.1.7' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.7/phpMyAdmin-4.1.7-english.zip',
+    '4.1.8' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.8/phpMyAdmin-4.1.8-english.zip',
+    '4.1.9' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.9/phpMyAdmin-4.1.9-english.zip',
+    '4.1.11' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.11/phpMyAdmin-4.1.11-english.zip',
+    '4.1.12' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.12/phpMyAdmin-4.1.12-english.zip',
     'latest' =>
     array (
-      'version' => '4.1.0-beta2',
-      'url' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.0-beta2/phpMyAdmin-4.1.0-beta2-english.zip',
+      'version' => '4.1.12',
+      'url' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.12/phpMyAdmin-4.1.12-english.zip',
     ),
   ),
   'postgresql' =>
@@ -573,10 +861,25 @@
     '9.3.0-rc1' => 'http://get.enterprisedb.com/postgresql/postgresql-9.3.0-rc1-windows-binaries.zip',
     '9.3.0' => 'http://get.enterprisedb.com/postgresql/postgresql-9.3.0-1-windows-binaries.zip',
     '9.3.1' => 'http://get.enterprisedb.com/postgresql/postgresql-9.3.1-1-windows-binaries.zip',
+    '9.3.2' => 'http://get.enterprisedb.com/postgresql/postgresql-9.3.2-1-windows-binaries.zip',
+    '9.3.3' => 'http://get.enterprisedb.com/postgresql/postgresql-9.3.3-1-windows-binaries.zip',
+    '9.3.4' => 'http://get.enterprisedb.com/postgresql/postgresql-9.3.4-1-windows-binaries.zip',
     'latest' =>
     array (
-      'version' => '9.3.1',
-      'url' => 'http://get.enterprisedb.com/postgresql/postgresql-9.3.1-1-windows-binaries.zip',
+      'version' => '9.3.4',
+      'url' => 'http://get.enterprisedb.com/postgresql/postgresql-9.3.4-1-windows-binaries.zip',
+    ),
+  ),
+  'redis' =>
+  array (
+    'name' => 'Redis',
+    'website' => 'http://redis.io/',
+    '2.6.0' => 'https://github.com/MSOpenTech/redis/raw/2.6/bin/release/redisbin.zip',
+    '2.6.14' => 'https://github.com/MSOpenTech/redis/raw/2_6_14_rebase/bin/release/redis-2.6.14.zip',
+    'latest' =>
+    array (
+      'version' => '2.6.14',
+      'url' => 'https://github.com/MSOpenTech/redis/raw/2_6_14_rebase/bin/release/redis-2.6.14.zip',
     ),
   ),
   'rockmongo' =>
@@ -628,12 +931,15 @@
   array (
     'name' => 'WPN-XM SCP',
     'website' => 'http://wpn-xm.org/',
-    '0.3.0' => 'http://wpn-xm.org/files/wpn-xm-scp-0.3.0.zip',
-    '0.4.0' => 'http://wpn-xm.org/files/wpn-xm-scp-0.4.0.zip',
+    '0.3.0' => 'http://wpn-xm.org/files/wpnxm-scp-0.3.0.zip',
+    '0.4.0' => 'http://wpn-xm.org/files/wpnxm-scp-0.4.0.zip',
+    '0.5.4' => 'http://wpn-xm.org/files/wpnxm-scp-0.5.4.zip',
+    '0.6.0' => 'http://wpn-xm.org/files/wpnxm-scp-0.6.0.zip',
+    '0.6.1' => 'http://wpn-xm.org/files/wpnxm-scp-0.6.1.zip',
     'latest' =>
     array (
-      'version' => '0.4.0',
-      'url' => 'http://wpn-xm.org/files/wpn-xm-scp-0.4.0.zip',
+      'version' => '0.6.1',
+      'url' => 'http://wpn-xm.org/files/wpnxm-scp-0.6.1.zip',
     ),
   ),
   'xhprof' =>
