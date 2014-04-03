@@ -728,11 +728,11 @@
   array (
     'name' => 'Wincache',
     'website' => 'http://sourceforge.net/projects/wincache/',
-    '1.3.4.0' => 'http://switch.dl.sourceforge.net/project/wincache/wincache-1.3.4/wincache-1.3.4-5.4-nts-vc9-x86.exe',
+    '1.3.4.0' => 'http://sunet.dl.sourceforge.net/project/wincache/wincache-1.3.4/wincache-1.3.4-5.4-nts-vc9-x86.exe',
     'latest' =>
     array (
       'version' => '1.3.4.0',
-      'url' => 'http://switch.dl.sourceforge.net/project/wincache/wincache-1.3.4/wincache-1.3.4-5.4-nts-vc9-x86.exe',
+      'url' => 'http://sunet.dl.sourceforge.net/project/wincache/wincache-1.3.4/wincache-1.3.4-5.4-nts-vc9-x86.exe',
     ),
   ),
   'phpext_xcache' =>
