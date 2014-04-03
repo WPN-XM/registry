@@ -605,10 +605,11 @@
     'name' => 'PHP Extension AMQP',
     'website' => 'http://php.net/amqp',
     '1.2.0' => 'http://windows.php.net/downloads/pecl/releases/amqp/1.2.0/php_amqp-1.2.0-5.4-nts-vc9-x86.zip',
+    '1.4.0beta2' => 'http://windows.php.net/downloads/pecl/releases/amqp/1.4.0beta2/php_amqp-1.4.0beta2-5.4-nts-vc9-x86.zip',
     'latest' =>
     array (
-      'version' => '1.2.0',
-      'url' => 'http://windows.php.net/downloads/pecl/releases/amqp/1.2.0/php_amqp-1.2.0-5.4-nts-vc9-x86.zip',
+      'version' => '1.4.0beta2',
+      'url' => 'http://windows.php.net/downloads/pecl/releases/amqp/1.4.0beta2/php_amqp-1.4.0beta2-5.4-nts-vc9-x86.zip',
     ),
   ),
   'phpext_apc' =>
