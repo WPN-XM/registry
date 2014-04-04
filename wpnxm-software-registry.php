@@ -2,7 +2,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Mon, 31 Mar 2014 09:27:10 +0000.
+    * Last Update Fri, 04 Apr 2014 18:55:28 +0000.
     * Do not edit manually!
     */
 
@@ -526,10 +526,10 @@
   array (
     'name' => 'OpenSSL',
     'website' => 'http://slproweb.com/',
-    '1.0.1c' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1c.exe',
-    '1.0.1d' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1d.exe',
-    '1.0.1e' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1e.exe',
     '1.0.1f' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1f.exe',
+    '1.0.1d' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1d.exe',
+    '1.0.1c' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1c.exe',
+    '1.0.1e' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1e.exe',
     'latest' =>
     array (
       'version' => '1.0.1f',
@@ -594,10 +594,11 @@
     '5.4.24' => 'http://windows.php.net/downloads/releases/php-5.4.24-nts-Win32-VC9-x86.zip',
     '5.4.25' => 'http://windows.php.net/downloads/releases/php-5.4.25-nts-Win32-VC9-x86.zip',
     '5.4.26' => 'http://windows.php.net/downloads/releases/php-5.4.26-nts-Win32-VC9-x86.zip',
+    '5.4.27' => 'http://windows.php.net/downloads/releases/php-5.4.27-nts-Win32-VC9-x86.zip',
     'latest' =>
     array (
-      'version' => '5.4.26',
-      'url' => 'http://windows.php.net/downloads/releases/php-5.4.26-nts-Win32-VC9-x86.zip',
+      'version' => '5.4.27',
+      'url' => 'http://windows.php.net/downloads/releases/php-5.4.27-nts-Win32-VC9-x86.zip',
     ),
   ),
   'phpext_amqp' =>
