@@ -9,7 +9,7 @@ memcached,http://wpn-xm.org/get.php?s=memcached,memcached.zip,1.4.5
 mongodb,http://wpn-xm.org/get.php?s=mongodb&v=2.0.8,mongodb.zip,2.0.8
 nginx,http://wpn-xm.org/get.php?s=nginx,nginx.zip,1.5.13
 node,http://wpn-xm.org/get.php?s=node,node.exe,0.11.12
-nodenpm,http://wpn-xm.org/get.php?s=nodenpm,nodenpm,1.4.6
+nodenpm,http://wpn-xm.org/get.php?s=nodenpm,nodenpm.zip,1.4.6
 openssl,http://wpn-xm.org/get.php?s=openssl,openssl.exe,1.0.1g
 pear,http://wpn-xm.org/get.php?s=pear,go-pear.phar,1.0
 perl,http://wpn-xm.org/get.php?s=perl,perl.zip,5.18.2.1
