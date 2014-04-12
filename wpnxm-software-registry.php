@@ -2,7 +2,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Thu, 10 Apr 2014 12:41:04 +0000.
+    * Last Update Sat, 12 Apr 2014 13:45:14 +0000.
     * Do not edit manually!
     */
 
@@ -60,10 +60,11 @@
     '6.8.8-8' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.8-8-Q16-x86-windows.zip',
     '6.8.8-9' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.8-9-Q16-x86-windows.zip',
     '6.8.8-10' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.8-10-Q16-x86-windows.zip',
+    '6.8.9-0' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.9-0-Q16-x86-windows.zip',
     'latest' =>
     array (
-      'version' => '6.8.8-10',
-      'url' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.8-10-Q16-x86-windows.zip',
+      'version' => '6.8.9-0',
+      'url' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.9-0-Q16-x86-windows.zip',
     ),
   ),
   'junction' =>
@@ -849,10 +850,11 @@
     '4.1.11' => 'http://sunet.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.11/phpMyAdmin-4.1.11-english.zip',
     '4.1.12' => 'http://sunet.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.12/phpMyAdmin-4.1.12-english.zip',
     '4.2.0-alpha1' => 'http://sunet.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.2.0-alpha1/phpMyAdmin-4.2.0-alpha1-english.zip',
+    '4.2.0-alpha2' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.2.0-alpha2/phpMyAdmin-4.2.0-alpha2-english.zip',
     'latest' =>
     array (
-      'version' => '4.2.0-alpha1',
-      'url' => 'http://sunet.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.2.0-alpha1/phpMyAdmin-4.2.0-alpha1-english.zip',
+      'version' => '4.2.0-alpha2',
+      'url' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.2.0-alpha2/phpMyAdmin-4.2.0-alpha2-english.zip',
     ),
   ),
   'postgresql' =>
