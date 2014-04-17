@@ -2,7 +2,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Sat, 12 Apr 2014 13:45:14 +0000.
+    * Last Update Thu, 17 Apr 2014 15:54:05 +0000.
     * Do not edit manually!
     */
 
@@ -137,10 +137,11 @@
     '5.5.34' => 'http://mirrors.n-ix.net/mariadb/mariadb-5.5.34/win32-packages/mariadb-5.5.34-win32.zip',
     '5.5.35' => 'http://mirrors.n-ix.net/mariadb/mariadb-5.5.35/win32-packages/mariadb-5.5.35-win32.zip',
     '5.5.36' => 'http://mirrors.n-ix.net/mariadb/mariadb-5.5.36/win32-packages/mariadb-5.5.36-win32.zip',
+    '5.5.37' => 'http://mirrors.n-ix.net/mariadb/mariadb-5.5.37/win32-packages/mariadb-5.5.37-win32.zip',
     'latest' =>
     array (
-      'version' => '5.5.36',
-      'url' => 'http://mirrors.n-ix.net/mariadb/mariadb-5.5.36/win32-packages/mariadb-5.5.36-win32.zip',
+      'version' => '5.5.37',
+      'url' => 'http://mirrors.n-ix.net/mariadb/mariadb-5.5.37/win32-packages/mariadb-5.5.37-win32.zip',
     ),
   ),
   'memadmin' =>
@@ -519,10 +520,11 @@
     '1.4.3' => 'http://nodejs.org/dist/npm/npm-1.4.3.zip',
     '1.4.5' => 'http://nodejs.org/dist/npm/npm-1.4.5.zip',
     '1.4.6' => 'http://nodejs.org/dist/npm/npm-1.4.6.zip',
+    '1.4.7' => 'http://nodejs.org/dist/npm/npm-1.4.7.zip',
     'latest' =>
     array (
-      'version' => '1.4.6',
-      'url' => 'http://nodejs.org/dist/npm/npm-1.4.6.zip',
+      'version' => '1.4.7',
+      'url' => 'http://nodejs.org/dist/npm/npm-1.4.7.zip',
     ),
   ),
   'openssl' =>
@@ -566,10 +568,11 @@
     '5.18.0.1' => 'http://strawberryperl.com/download/5.18.0.1/strawberry-perl-5.18.0.1-32bit.zip',
     '5.18.1.1' => 'http://strawberryperl.com/download/5.18.1.1/strawberry-perl-5.18.1.1-32bit.zip',
     '5.18.2.1' => 'http://strawberryperl.com/download/5.18.2.1/strawberry-perl-5.18.2.1-32bit.zip',
+    '5.18.2.2' => 'http://strawberryperl.com/download/5.18.2.2/strawberry-perl-5.18.2.2-32bit.zip',
     'latest' =>
     array (
-      'version' => '5.18.2.1',
-      'url' => 'http://strawberryperl.com/download/5.18.2.1/strawberry-perl-5.18.2.1-32bit.zip',
+      'version' => '5.18.2.2',
+      'url' => 'http://strawberryperl.com/download/5.18.2.2/strawberry-perl-5.18.2.2-32bit.zip',
     ),
   ),
   'php' =>
