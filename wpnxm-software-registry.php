@@ -2,7 +2,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Thu, 17 Apr 2014 15:54:05 +0000.
+    * Last Update Fri, 19 Apr 2014 14:00:00 +0000.
     * Do not edit manually!
     */
 
@@ -697,6 +697,17 @@
     array (
       'version' => '0.5.5',
       'url' => 'http://windows.php.net/downloads/pecl/releases/msgpack/0.5.5/php_msgpack-0.5.5-5.4-nts-vc9-x86.zip',
+    ),
+  ),
+  'phpext_phalcon' =>
+  array (
+    'name' => 'Phalcon',
+    'website' => 'http://phalconphp.com/',
+    '1.3.1' => 'http://static.phalconphp.com/files/phalcon_x86_VC9_php5.4.0_1.3.1_nts.zip',
+    'latest' =>
+    array (
+      'version' => '1.3.1',
+      'url' => 'http://static.phalconphp.com/files/phalcon_x86_VC9_php5.4.0_1.3.1_nts.zip',
     ),
   ),
   'phpext_rar' =>
