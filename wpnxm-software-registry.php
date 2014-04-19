@@ -2,7 +2,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Fri, 19 Apr 2014 14:00:00 +0000.
+    * Last Update Sat, 19 Apr 2014 15:41:20 +0000.
     * Do not edit manually!
     */
 
@@ -22,10 +22,11 @@
     '4.0.0' => 'http://garr.dl.sourceforge.net/project/adminer/Adminer/Adminer%204.0.0/adminer-4.0.0.php',
     '4.0.2' => 'http://garr.dl.sourceforge.net/project/adminer/Adminer/Adminer%204.0.2/adminer-4.0.2.php',
     '4.0.3' => 'http://garr.dl.sourceforge.net/project/adminer/Adminer/Adminer%204.0.3/adminer-4.0.3.php',
+    '4.1.0' => 'http://garr.dl.sourceforge.net/project/adminer/Adminer/Adminer%204.1.0/adminer-4.1.0.php',
     'latest' =>
     array (
-      'version' => '4.0.3',
-      'url' => 'http://garr.dl.sourceforge.net/project/adminer/Adminer/Adminer%204.0.3/adminer-4.0.3.php',
+      'version' => '4.1.0',
+      'url' => 'http://garr.dl.sourceforge.net/project/adminer/Adminer/Adminer%204.1.0/adminer-4.1.0.php',
     ),
   ),
   'closure-compiler' =>
@@ -865,10 +866,11 @@
     '4.1.12' => 'http://sunet.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.12/phpMyAdmin-4.1.12-english.zip',
     '4.2.0-alpha1' => 'http://sunet.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.2.0-alpha1/phpMyAdmin-4.2.0-alpha1-english.zip',
     '4.2.0-alpha2' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.2.0-alpha2/phpMyAdmin-4.2.0-alpha2-english.zip',
+    '4.2.0-beta1' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.2.0-beta1/phpMyAdmin-4.2.0-beta1-english.zip',
     'latest' =>
     array (
-      'version' => '4.2.0-alpha2',
-      'url' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.2.0-alpha2/phpMyAdmin-4.2.0-alpha2-english.zip',
+      'version' => '4.2.0-beta1',
+      'url' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.2.0-beta1/phpMyAdmin-4.2.0-beta1-english.zip',
     ),
   ),
   'postgresql' =>
