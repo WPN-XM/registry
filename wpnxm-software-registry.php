@@ -2,7 +2,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Mon, 31 Mar 2014 09:27:10 +0000.
+    * Last Update Sat, 19 Apr 2014 15:41:20 +0000.
     * Do not edit manually!
     */
 
@@ -22,10 +22,11 @@
     '4.0.0' => 'http://garr.dl.sourceforge.net/project/adminer/Adminer/Adminer%204.0.0/adminer-4.0.0.php',
     '4.0.2' => 'http://garr.dl.sourceforge.net/project/adminer/Adminer/Adminer%204.0.2/adminer-4.0.2.php',
     '4.0.3' => 'http://garr.dl.sourceforge.net/project/adminer/Adminer/Adminer%204.0.3/adminer-4.0.3.php',
+    '4.1.0' => 'http://garr.dl.sourceforge.net/project/adminer/Adminer/Adminer%204.1.0/adminer-4.1.0.php',
     'latest' =>
     array (
-      'version' => '4.0.3',
-      'url' => 'http://garr.dl.sourceforge.net/project/adminer/Adminer/Adminer%204.0.3/adminer-4.0.3.php',
+      'version' => '4.1.0',
+      'url' => 'http://garr.dl.sourceforge.net/project/adminer/Adminer/Adminer%204.1.0/adminer-4.1.0.php',
     ),
   ),
   'closure-compiler' =>
@@ -60,10 +61,11 @@
     '6.8.8-8' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.8-8-Q16-x86-windows.zip',
     '6.8.8-9' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.8-9-Q16-x86-windows.zip',
     '6.8.8-10' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.8-10-Q16-x86-windows.zip',
+    '6.8.9-0' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.9-0-Q16-x86-windows.zip',
     'latest' =>
     array (
-      'version' => '6.8.8-10',
-      'url' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.8-10-Q16-x86-windows.zip',
+      'version' => '6.8.9-0',
+      'url' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.9-0-Q16-x86-windows.zip',
     ),
   ),
   'junction' =>
@@ -136,10 +138,11 @@
     '5.5.34' => 'http://mirrors.n-ix.net/mariadb/mariadb-5.5.34/win32-packages/mariadb-5.5.34-win32.zip',
     '5.5.35' => 'http://mirrors.n-ix.net/mariadb/mariadb-5.5.35/win32-packages/mariadb-5.5.35-win32.zip',
     '5.5.36' => 'http://mirrors.n-ix.net/mariadb/mariadb-5.5.36/win32-packages/mariadb-5.5.36-win32.zip',
+    '5.5.37' => 'http://mirrors.n-ix.net/mariadb/mariadb-5.5.37/win32-packages/mariadb-5.5.37-win32.zip',
     'latest' =>
     array (
-      'version' => '5.5.36',
-      'url' => 'http://mirrors.n-ix.net/mariadb/mariadb-5.5.36/win32-packages/mariadb-5.5.36-win32.zip',
+      'version' => '5.5.37',
+      'url' => 'http://mirrors.n-ix.net/mariadb/mariadb-5.5.37/win32-packages/mariadb-5.5.37-win32.zip',
     ),
   ),
   'memadmin' =>
@@ -186,10 +189,11 @@
     '2.5.3' => 'http://downloads.mongodb.org/win32/mongodb-win32-i386-2.5.3.zip',
     '2.5.4' => 'http://downloads.mongodb.org/win32/mongodb-win32-i386-2.5.4.zip',
     '2.5.5' => 'http://downloads.mongodb.org/win32/mongodb-win32-i386-2.5.5.zip',
+    '2.6.0' => 'http://downloads.mongodb.org/win32/mongodb-win32-i386-2.6.0.zip',
     'latest' =>
     array (
-      'version' => '2.5.5',
-      'url' => 'http://downloads.mongodb.org/win32/mongodb-win32-i386-2.5.5.zip',
+      'version' => '2.6.0',
+      'url' => 'http://downloads.mongodb.org/win32/mongodb-win32-i386-2.6.0.zip',
     ),
   ),
   'nginx' =>
@@ -351,10 +355,11 @@
     '1.5.10' => 'http://nginx.org/download/nginx-1.5.10.zip',
     '1.5.11' => 'http://nginx.org/download/nginx-1.5.11.zip',
     '1.5.12' => 'http://nginx.org/download/nginx-1.5.12.zip',
+    '1.5.13' => 'http://nginx.org/download/nginx-1.5.13.zip',
     'latest' =>
     array (
-      'version' => '1.5.12',
-      'url' => 'http://nginx.org/download/nginx-1.5.12.zip',
+      'version' => '1.5.13',
+      'url' => 'http://nginx.org/download/nginx-1.5.13.zip',
     ),
   ),
   'node' =>
@@ -516,10 +521,11 @@
     '1.4.3' => 'http://nodejs.org/dist/npm/npm-1.4.3.zip',
     '1.4.5' => 'http://nodejs.org/dist/npm/npm-1.4.5.zip',
     '1.4.6' => 'http://nodejs.org/dist/npm/npm-1.4.6.zip',
+    '1.4.7' => 'http://nodejs.org/dist/npm/npm-1.4.7.zip',
     'latest' =>
     array (
-      'version' => '1.4.6',
-      'url' => 'http://nodejs.org/dist/npm/npm-1.4.6.zip',
+      'version' => '1.4.7',
+      'url' => 'http://nodejs.org/dist/npm/npm-1.4.7.zip',
     ),
   ),
   'openssl' =>
@@ -530,10 +536,11 @@
     '1.0.1d' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1d.exe',
     '1.0.1e' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1e.exe',
     '1.0.1f' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1f.exe',
+    '1.0.1g' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1g.exe',
     'latest' =>
     array (
-      'version' => '1.0.1f',
-      'url' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1f.exe',
+      'version' => '1.0.1g',
+      'url' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1g.exe',
     ),
   ),
   'pear' =>
@@ -562,10 +569,11 @@
     '5.18.0.1' => 'http://strawberryperl.com/download/5.18.0.1/strawberry-perl-5.18.0.1-32bit.zip',
     '5.18.1.1' => 'http://strawberryperl.com/download/5.18.1.1/strawberry-perl-5.18.1.1-32bit.zip',
     '5.18.2.1' => 'http://strawberryperl.com/download/5.18.2.1/strawberry-perl-5.18.2.1-32bit.zip',
+    '5.18.2.2' => 'http://strawberryperl.com/download/5.18.2.2/strawberry-perl-5.18.2.2-32bit.zip',
     'latest' =>
     array (
-      'version' => '5.18.2.1',
-      'url' => 'http://strawberryperl.com/download/5.18.2.1/strawberry-perl-5.18.2.1-32bit.zip',
+      'version' => '5.18.2.2',
+      'url' => 'http://strawberryperl.com/download/5.18.2.2/strawberry-perl-5.18.2.2-32bit.zip',
     ),
   ),
   'php' =>
@@ -594,10 +602,11 @@
     '5.4.24' => 'http://windows.php.net/downloads/releases/php-5.4.24-nts-Win32-VC9-x86.zip',
     '5.4.25' => 'http://windows.php.net/downloads/releases/php-5.4.25-nts-Win32-VC9-x86.zip',
     '5.4.26' => 'http://windows.php.net/downloads/releases/php-5.4.26-nts-Win32-VC9-x86.zip',
+    '5.4.27' => 'http://windows.php.net/downloads/releases/php-5.4.27-nts-Win32-VC9-x86.zip',
     'latest' =>
     array (
-      'version' => '5.4.26',
-      'url' => 'http://windows.php.net/downloads/releases/php-5.4.26-nts-Win32-VC9-x86.zip',
+      'version' => '5.4.27',
+      'url' => 'http://windows.php.net/downloads/releases/php-5.4.27-nts-Win32-VC9-x86.zip',
     ),
   ),
   'phpext_amqp' =>
@@ -605,10 +614,11 @@
     'name' => 'PHP Extension AMQP',
     'website' => 'http://php.net/amqp',
     '1.2.0' => 'http://windows.php.net/downloads/pecl/releases/amqp/1.2.0/php_amqp-1.2.0-5.4-nts-vc9-x86.zip',
+    '1.4.0beta2' => 'http://windows.php.net/downloads/pecl/releases/amqp/1.4.0beta2/php_amqp-1.4.0beta2-5.4-nts-vc9-x86.zip',
     'latest' =>
     array (
-      'version' => '1.2.0',
-      'url' => 'http://windows.php.net/downloads/pecl/releases/amqp/1.2.0/php_amqp-1.2.0-5.4-nts-vc9-x86.zip',
+      'version' => '1.4.0beta2',
+      'url' => 'http://windows.php.net/downloads/pecl/releases/amqp/1.4.0beta2/php_amqp-1.4.0beta2-5.4-nts-vc9-x86.zip',
     ),
   ),
   'phpext_apc' =>
@@ -690,6 +700,17 @@
       'url' => 'http://windows.php.net/downloads/pecl/releases/msgpack/0.5.5/php_msgpack-0.5.5-5.4-nts-vc9-x86.zip',
     ),
   ),
+  'phpext_phalcon' =>
+  array (
+    'name' => 'Phalcon',
+    'website' => 'http://phalconphp.com/',
+    '1.3.1' => 'http://static.phalconphp.com/files/phalcon_x86_VC9_php5.4.0_1.3.1_nts.zip',
+    'latest' =>
+    array (
+      'version' => '1.3.1',
+      'url' => 'http://static.phalconphp.com/files/phalcon_x86_VC9_php5.4.0_1.3.1_nts.zip',
+    ),
+  ),
   'phpext_rar' =>
   array (
     'name' => 'PHP Extension RAR',
@@ -728,11 +749,11 @@
   array (
     'name' => 'Wincache',
     'website' => 'http://sourceforge.net/projects/wincache/',
-    '1.3.4.0' => 'http://switch.dl.sourceforge.net/project/wincache/wincache-1.3.4/wincache-1.3.4-5.4-nts-vc9-x86.exe',
+    '1.3.4.0' => 'http://sunet.dl.sourceforge.net/project/wincache/wincache-1.3.4/wincache-1.3.4-5.4-nts-vc9-x86.exe',
     'latest' =>
     array (
       'version' => '1.3.4.0',
-      'url' => 'http://switch.dl.sourceforge.net/project/wincache/wincache-1.3.4/wincache-1.3.4-5.4-nts-vc9-x86.exe',
+      'url' => 'http://sunet.dl.sourceforge.net/project/wincache/wincache-1.3.4/wincache-1.3.4-5.4-nts-vc9-x86.exe',
     ),
   ),
   'phpext_xcache' =>
@@ -808,45 +829,48 @@
   array (
     'name' => 'phpMyAdmin',
     'website' => 'http://phpmyadmin.net/',
-    '3.5.2.1' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/3.5.2.1/phpMyAdmin-3.5.2.1-english.zip',
-    '3.5.2.2' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/3.5.2.2/phpMyAdmin-3.5.2.2-english.zip',
-    '3.5.3' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/3.5.3/phpMyAdmin-3.5.3-english.zip',
-    '3.5.4' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/3.5.4/phpMyAdmin-3.5.4-english.zip',
-    '3.5.5' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/3.5.5/phpMyAdmin-3.5.5-english.zip',
-    '3.5.6' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/3.5.6/phpMyAdmin-3.5.6-english.zip',
-    '4.0.0' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.0.0/phpMyAdmin-4.0.0-english.zip',
-    '4.0.1' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.0.1/phpMyAdmin-4.0.1-english.zip',
-    '4.0.2' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.0.2/phpMyAdmin-4.0.2-english.zip',
-    '4.0.3' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.0.3/phpMyAdmin-4.0.3-english.zip',
-    '4.0.4' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.0.4/phpMyAdmin-4.0.4-english.zip',
-    '4.0.4.1' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.0.4.1/phpMyAdmin-4.0.4.1-english.zip',
-    '4.0.4.2' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.0.4.2/phpMyAdmin-4.0.4.2-english.zip',
-    '4.0.5-rc2' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.0.5-rc2/phpMyAdmin-4.0.5-rc2-english.zip',
-    '4.0.5' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.0.5/phpMyAdmin-4.0.5-english.zip',
-    '4.0.6-rc1' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.0.6-rc1/phpMyAdmin-4.0.6-rc1-english.zip',
-    '4.0.6' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.0.6/phpMyAdmin-4.0.6-english.zip',
-    '4.0.7-rc1' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.0.7-rc1/phpMyAdmin-4.0.7-rc1-english.zip',
-    '4.0.8' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.0.8/phpMyAdmin-4.0.8-english.zip',
-    '4.1.0-alpha2' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.0-alpha2/phpMyAdmin-4.1.0-alpha2-english.zip',
-    '4.1.0-beta1' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.0-beta1/phpMyAdmin-4.1.0-beta1-english.zip',
-    '4.1.0-beta2' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.0-beta2/phpMyAdmin-4.1.0-beta2-english.zip',
-    '4.1.0-rc1' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.0-rc1/phpMyAdmin-4.1.0-rc1-english.zip',
-    '4.1.0-rc2' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.0-rc2/phpMyAdmin-4.1.0-rc2-english.zip',
-    '4.1.0-rc3' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.0-rc3/phpMyAdmin-4.1.0-rc3-english.zip',
-    '4.1.0' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.0/phpMyAdmin-4.1.0-english.zip',
-    '4.1.1' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.1/phpMyAdmin-4.1.1-english.zip',
-    '4.1.4' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.4/phpMyAdmin-4.1.4-english.zip',
-    '4.1.5' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.5/phpMyAdmin-4.1.5-english.zip',
-    '4.1.6' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.6/phpMyAdmin-4.1.6-english.zip',
-    '4.1.7' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.7/phpMyAdmin-4.1.7-english.zip',
-    '4.1.8' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.8/phpMyAdmin-4.1.8-english.zip',
-    '4.1.9' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.9/phpMyAdmin-4.1.9-english.zip',
-    '4.1.11' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.11/phpMyAdmin-4.1.11-english.zip',
-    '4.1.12' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.12/phpMyAdmin-4.1.12-english.zip',
+    '3.5.2.1' => 'http://sunet.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/3.5.2.1/phpMyAdmin-3.5.2.1-english.zip',
+    '3.5.2.2' => 'http://sunet.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/3.5.2.2/phpMyAdmin-3.5.2.2-english.zip',
+    '3.5.3' => 'http://sunet.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/3.5.3/phpMyAdmin-3.5.3-english.zip',
+    '3.5.4' => 'http://sunet.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/3.5.4/phpMyAdmin-3.5.4-english.zip',
+    '3.5.5' => 'http://sunet.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/3.5.5/phpMyAdmin-3.5.5-english.zip',
+    '3.5.6' => 'http://sunet.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/3.5.6/phpMyAdmin-3.5.6-english.zip',
+    '4.0.0' => 'http://sunet.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.0.0/phpMyAdmin-4.0.0-english.zip',
+    '4.0.1' => 'http://sunet.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.0.1/phpMyAdmin-4.0.1-english.zip',
+    '4.0.2' => 'http://sunet.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.0.2/phpMyAdmin-4.0.2-english.zip',
+    '4.0.3' => 'http://sunet.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.0.3/phpMyAdmin-4.0.3-english.zip',
+    '4.0.4' => 'http://sunet.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.0.4/phpMyAdmin-4.0.4-english.zip',
+    '4.0.4.1' => 'http://sunet.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.0.4.1/phpMyAdmin-4.0.4.1-english.zip',
+    '4.0.4.2' => 'http://sunet.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.0.4.2/phpMyAdmin-4.0.4.2-english.zip',
+    '4.0.5-rc2' => 'http://sunet.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.0.5-rc2/phpMyAdmin-4.0.5-rc2-english.zip',
+    '4.0.5' => 'http://sunet.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.0.5/phpMyAdmin-4.0.5-english.zip',
+    '4.0.6-rc1' => 'http://sunet.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.0.6-rc1/phpMyAdmin-4.0.6-rc1-english.zip',
+    '4.0.6' => 'http://sunet.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.0.6/phpMyAdmin-4.0.6-english.zip',
+    '4.0.7-rc1' => 'http://sunet.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.0.7-rc1/phpMyAdmin-4.0.7-rc1-english.zip',
+    '4.0.8' => 'http://sunet.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.0.8/phpMyAdmin-4.0.8-english.zip',
+    '4.1.0-alpha2' => 'http://sunet.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.0-alpha2/phpMyAdmin-4.1.0-alpha2-english.zip',
+    '4.1.0-beta1' => 'http://sunet.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.0-beta1/phpMyAdmin-4.1.0-beta1-english.zip',
+    '4.1.0-beta2' => 'http://sunet.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.0-beta2/phpMyAdmin-4.1.0-beta2-english.zip',
+    '4.1.0-rc1' => 'http://sunet.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.0-rc1/phpMyAdmin-4.1.0-rc1-english.zip',
+    '4.1.0-rc2' => 'http://sunet.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.0-rc2/phpMyAdmin-4.1.0-rc2-english.zip',
+    '4.1.0-rc3' => 'http://sunet.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.0-rc3/phpMyAdmin-4.1.0-rc3-english.zip',
+    '4.1.0' => 'http://sunet.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.0/phpMyAdmin-4.1.0-english.zip',
+    '4.1.1' => 'http://sunet.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.1/phpMyAdmin-4.1.1-english.zip',
+    '4.1.4' => 'http://sunet.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.4/phpMyAdmin-4.1.4-english.zip',
+    '4.1.5' => 'http://sunet.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.5/phpMyAdmin-4.1.5-english.zip',
+    '4.1.6' => 'http://sunet.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.6/phpMyAdmin-4.1.6-english.zip',
+    '4.1.7' => 'http://sunet.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.7/phpMyAdmin-4.1.7-english.zip',
+    '4.1.8' => 'http://sunet.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.8/phpMyAdmin-4.1.8-english.zip',
+    '4.1.9' => 'http://sunet.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.9/phpMyAdmin-4.1.9-english.zip',
+    '4.1.11' => 'http://sunet.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.11/phpMyAdmin-4.1.11-english.zip',
+    '4.1.12' => 'http://sunet.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.12/phpMyAdmin-4.1.12-english.zip',
+    '4.2.0-alpha1' => 'http://sunet.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.2.0-alpha1/phpMyAdmin-4.2.0-alpha1-english.zip',
+    '4.2.0-alpha2' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.2.0-alpha2/phpMyAdmin-4.2.0-alpha2-english.zip',
+    '4.2.0-beta1' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.2.0-beta1/phpMyAdmin-4.2.0-beta1-english.zip',
     'latest' =>
     array (
-      'version' => '4.1.12',
-      'url' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.1.12/phpMyAdmin-4.1.12-english.zip',
+      'version' => '4.2.0-beta1',
+      'url' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.2.0-beta1/phpMyAdmin-4.2.0-beta1-english.zip',
     ),
   ),
   'postgresql' =>
