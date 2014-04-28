@@ -737,7 +737,7 @@
   'phpext_varnish' =>
   array (
     'name' => 'PHP Extension Varnish',
-    'website' => 'http://xcache.lighttpd.net/',
+    'website' => 'http://pecl.php.net/package/varnish/',
     '1.0' => 'http://windows.php.net/downloads/pecl/releases/varnish/1.0.0/php_varnish-1.0.0-5.4-nts-vc9-x86.zip',
     '1.1.0' => 'http://windows.php.net/downloads/pecl/releases/varnish/1.1.0/php_varnish-1.1.0-5.4-nts-vc9-x86.zip',
     '1.1.1' => 'http://windows.php.net/downloads/pecl/releases/varnish/1.1.1/php_varnish-1.1.1-5.4-nts-vc9-x86.zip',
@@ -911,8 +911,7 @@
   'rockmongo' =>
   array (
     'name' => 'RockMongo',
-    'website' => 'http://rockmongo.org/',
-    '1.1.3' => 'http://rockmongo.org/release/rockmongo-1.1.3.zip',
+    'website' => 'http://rockmongo.com/',
     '1.1.5' => 'http://rockmongo.com/release/rockmongo-1.1.5.zip',
     'latest' =>
     array (
