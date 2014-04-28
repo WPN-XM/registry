@@ -356,10 +356,12 @@
     '1.5.11' => 'http://nginx.org/download/nginx-1.5.11.zip',
     '1.5.12' => 'http://nginx.org/download/nginx-1.5.12.zip',
     '1.5.13' => 'http://nginx.org/download/nginx-1.5.13.zip',
+    '1.6.0' => 'http://nginx.org/download/nginx-1.6.0.zip',
+    '1.7.0' => 'http://nginx.org/download/nginx-1.7.0.zip',
     'latest' =>
     array (
-      'version' => '1.5.13',
-      'url' => 'http://nginx.org/download/nginx-1.5.13.zip',
+      'version' => '1.7.0',
+      'url' => 'http://nginx.org/download/nginx-1.7.0.zip',
     ),
   ),
   'node' =>
