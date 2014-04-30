@@ -2,7 +2,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Mon, 28 Apr 2014 21:47:36 +0000.
+    * Last Update Wed, 30 Apr 2014 10:56:41 +0000.
     * Do not edit manually!
     */
 
@@ -787,10 +787,11 @@
     '2.2.2' => 'http://xdebug.org/files/php_xdebug-2.2.2-5.4-vc9-nts.dll',
     '2.2.3' => 'http://xdebug.org/files/php_xdebug-2.2.3-5.4-vc9-nts.dll',
     '2.2.4' => 'http://xdebug.org/files/php_xdebug-2.2.4-5.4-vc9-nts.dll',
+    '2.2.5' => 'http://xdebug.org/files/php_xdebug-2.2.5-5.4-vc9-nts.dll',
     'latest' =>
     array (
-      'version' => '2.2.4',
-      'url' => 'http://xdebug.org/files/php_xdebug-2.2.4-5.4-vc9-nts.dll',
+      'version' => '2.2.5',
+      'url' => 'http://xdebug.org/files/php_xdebug-2.2.5-5.4-vc9-nts.dll',
     ),
   ),
   'phpext_xhprof' =>
