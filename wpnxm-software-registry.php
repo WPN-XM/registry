@@ -2,7 +2,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Thu, 22 May 2014 17:53:39 +0000.
+    * Last Update Thu, 22 May 2014 17:56:01 +0000.
     * Do not edit manually!
     */
 
@@ -647,11 +647,13 @@
   ),
   'phpext_imagick' =>
   array (
+    'name' => 'PHP Extension Imagick',
     '3.2.0b1' => 'http://windows.php.net/downloads/pecl/releases/imagick/3.2.0b1/php_imagick-3.2.0b1-5.4-nts-vc9-x86.zip',
+    '3.2.0b2' => 'http://windows.php.net/downloads/pecl/releases/imagick/3.2.0b2/php_imagick-3.2.0b2-5.4-nts-vc9-x86.zip',
     'latest' =>
     array (
-      'version' => '3.2.0b1',
-      'url' => 'http://windows.php.net/downloads/pecl/releases/imagick/3.2.0b1/php_imagick-3.2.0b1-5.4-nts-vc9-x86.zip',
+      'version' => '3.2.0b2',
+      'url' => 'http://windows.php.net/downloads/pecl/releases/imagick/3.2.0b2/php_imagick-3.2.0b2-5.4-nts-vc9-x86.zip',
     ),
   ),
   'phpext_mailparse' =>
