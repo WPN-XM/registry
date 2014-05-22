@@ -2,7 +2,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Fri, 16 May 2014 18:39:41 +0000.
+    * Last Update Thu, 22 May 2014 17:53:39 +0000.
     * Do not edit manually!
     */
 
@@ -881,10 +881,11 @@
     '4.2.0-rc1' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.2.0-rc1/phpMyAdmin-4.2.0-rc1-english.zip',
     '4.2.0' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.2.0/phpMyAdmin-4.2.0-english.zip',
     '4.2.1' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.2.1/phpMyAdmin-4.2.1-english.zip',
+    '4.2.2' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.2.2/phpMyAdmin-4.2.2-english.zip',
     'latest' =>
     array (
-      'version' => '4.2.1',
-      'url' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.2.1/phpMyAdmin-4.2.1-english.zip',
+      'version' => '4.2.2',
+      'url' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.2.2/phpMyAdmin-4.2.2-english.zip',
     ),
   ),
   'postgresql' =>
