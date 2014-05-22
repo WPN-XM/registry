@@ -902,11 +902,10 @@
     '9.3.2' => 'http://get.enterprisedb.com/postgresql/postgresql-9.3.2-1-windows-binaries.zip',
     '9.3.3' => 'http://get.enterprisedb.com/postgresql/postgresql-9.3.3-1-windows-binaries.zip',
     '9.3.4' => 'http://get.enterprisedb.com/postgresql/postgresql-9.3.4-1-windows-binaries.zip',
-    '9.4' => 'http://get.enterprisedb.com/postgresql/postgresql-9.4-1-windows-binaries.zip',
     'latest' =>
     array (
-      'version' => '9.4',
-      'url' => 'http://get.enterprisedb.com/postgresql/postgresql-9.4-1-windows-binaries.zip',
+      'version' => '9.3.4',
+      'url' => 'http://get.enterprisedb.com/postgresql/postgresql-9.3.4-1-windows-binaries.zip',
     ),
   ),
   'redis' =>
