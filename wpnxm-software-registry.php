@@ -648,6 +648,7 @@
   'phpext_imagick' =>
   array (
     'name' => 'PHP Extension Imagick',
+    'website' => 'http://php.net/imagick',
     '3.2.0b1' => 'http://windows.php.net/downloads/pecl/releases/imagick/3.2.0b1/php_imagick-3.2.0b1-5.4-nts-vc9-x86.zip',
     '3.2.0b2' => 'http://windows.php.net/downloads/pecl/releases/imagick/3.2.0b2/php_imagick-3.2.0b2-5.4-nts-vc9-x86.zip',
     'latest' =>
@@ -658,6 +659,8 @@
   ),
   'phpext_mailparse' =>
   array (
+    'name' => 'PHP Extension AMQP',
+    'website' => 'http://php.net/mailparse',
     '2.1.6' => 'http://windows.php.net/downloads/pecl/releases/mailparse/2.1.6/php_mailparse-2.1.6-5.4-nts-vc9-x86.zip',
     'latest' =>
     array (
@@ -737,6 +740,8 @@
   ),
   'phpext_trader' =>
   array (
+    'name' => 'PHP Extension Trader',
+    'website' => 'http://php.net/trader',
     '0.3.0' => 'http://windows.php.net/downloads/pecl/releases/trader/0.3.0/php_trader-0.3.0-5.4-nts-vc9-x86.zip',
     'latest' =>
     array (
@@ -759,7 +764,7 @@
   ),
   'phpext_wincache' =>
   array (
-    'name' => 'Wincache',
+    'name' => 'PHP Extension Wincache',
     'website' => 'http://sourceforge.net/projects/wincache/',
     '1.3.4.0' => 'http://sunet.dl.sourceforge.net/project/wincache/wincache-1.3.4/wincache-1.3.4-5.4-nts-vc9-x86.exe',
     'latest' =>
