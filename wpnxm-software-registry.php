@@ -2,7 +2,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Mon, 26 May 2014 16:22:16 +0000.
+    * Last Update Wed, 04 Jun 2014 10:57:11 +0000.
     * Do not edit manually!
     */
 
@@ -362,10 +362,11 @@
     '1.5.13' => 'http://nginx.org/download/nginx-1.5.13.zip',
     '1.6.0' => 'http://nginx.org/download/nginx-1.6.0.zip',
     '1.7.0' => 'http://nginx.org/download/nginx-1.7.0.zip',
+    '1.7.1' => 'http://nginx.org/download/nginx-1.7.1.zip',
     'latest' =>
     array (
-      'version' => '1.7.0',
-      'url' => 'http://nginx.org/download/nginx-1.7.0.zip',
+      'version' => '1.7.1',
+      'url' => 'http://nginx.org/download/nginx-1.7.1.zip',
     ),
   ),
   'node' =>
