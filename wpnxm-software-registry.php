@@ -2,7 +2,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Wed, 04 Jun 2014 11:22:46 +0000.
+    * Last Update Wed, 04 Jun 2014 11:24:16 +0000.
     * Do not edit manually!
     */
 
@@ -580,10 +580,11 @@
     '5.18.1.1' => 'http://strawberryperl.com/download/5.18.1.1/strawberry-perl-5.18.1.1-32bit.zip',
     '5.18.2.1' => 'http://strawberryperl.com/download/5.18.2.1/strawberry-perl-5.18.2.1-32bit.zip',
     '5.18.2.2' => 'http://strawberryperl.com/download/5.18.2.2/strawberry-perl-5.18.2.2-32bit.zip',
+    '5.20.0.1' => 'http://strawberryperl.com/download/5.20.0.1/strawberry-perl-5.20.0.1-32bit.zip',
     'latest' =>
     array (
-      'version' => '5.18.2.2',
-      'url' => 'http://strawberryperl.com/download/5.18.2.2/strawberry-perl-5.18.2.2-32bit.zip',
+      'version' => '5.20.0.1',
+      'url' => 'http://strawberryperl.com/download/5.20.0.1/strawberry-perl-5.20.0.1-32bit.zip',
     ),
   ),
   'php' =>
