@@ -2,7 +2,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Fri, 06 Jun 2014 23:22:21 +0000.
+    * Last Update Fri, 06 Jun 2014 23:22:27 +0000.
     * Do not edit manually!
     */
 
@@ -940,10 +940,11 @@
     'name' => 'RockMongo',
     'website' => 'http://rockmongo.com/',
     '1.1.5' => 'http://rockmongo.com/release/rockmongo-1.1.5.zip',
+    '1.1.7' => 'http://rockmongo.com/release/rockmongo-1.1.7.zip',
     'latest' =>
     array (
-      'version' => '1.1.5',
-      'url' => 'http://rockmongo.com/release/rockmongo-1.1.5.zip',
+      'version' => '1.1.7',
+      'url' => 'http://rockmongo.com/release/rockmongo-1.1.7.zip',
     ),
   ),
   'sendmail' =>
