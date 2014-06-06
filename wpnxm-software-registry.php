@@ -141,11 +141,11 @@
     '5.5.35' => 'http://mirrors.n-ix.net/mariadb/mariadb-5.5.35/win32-packages/mariadb-5.5.35-win32.zip',
     '5.5.36' => 'http://mirrors.n-ix.net/mariadb/mariadb-5.5.36/win32-packages/mariadb-5.5.36-win32.zip',
     '5.5.37' => 'http://mirrors.n-ix.net/mariadb/mariadb-5.5.37/win32-packages/mariadb-5.5.37-win32.zip',
-    '5.5.38' => 'http://mirrors.n-ix.net/mariadb/mariadb-5.5.38/win32-packages/mariadb-5.5.38-win32.zip',
+    '5.5.38' => 'http://archive.mariadb.org/mariadb-5.5.38/win32-packages/mariadb-5.5.38-win32.zip',
     'latest' =>
     array (
       'version' => '5.5.38',
-      'url' => 'http://mirrors.n-ix.net/mariadb/mariadb-5.5.38/win32-packages/mariadb-5.5.38-win32.zip',
+      'url' => 'http://archive.mariadb.org/mariadb-5.5.38/win32-packages/mariadb-5.5.38-win32.zip',
     ),
   ),
   'memadmin' =>
@@ -940,11 +940,12 @@
     'name' => 'RockMongo',
     'website' => 'http://rockmongo.com/',
     '1.1.5' => 'http://rockmongo.com/release/rockmongo-1.1.5.zip',
-    '1.1.7' => 'http://rockmongo.com/release/rockmongo-1.1.7.zip',
+    '1.1.6' => 'https://github.com/iwind/rockmongo/archive/1.1.6.zip',
+    '1.1.7' => 'https://github.com/iwind/rockmongo/archive/1.1.7.zip',
     'latest' =>
     array (
       'version' => '1.1.7',
-      'url' => 'http://rockmongo.com/release/rockmongo-1.1.7.zip',
+      'url' => 'https://github.com/iwind/rockmongo/archive/1.1.7.zip',
     ),
   ),
   'sendmail' =>
