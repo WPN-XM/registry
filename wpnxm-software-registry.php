@@ -2,7 +2,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Tue, 10 Jun 2014 11:10:01 +0000.
+    * Last Update Tue, 10 Jun 2014 11:10:39 +0000.
     * Do not edit manually!
     */
 
@@ -64,10 +64,11 @@
     '6.8.9-0' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.9-0-Q16-x86-windows.zip',
     '6.8.9-1' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.9-1-Q16-x86-windows.zip',
     '6.8.9-2' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.9-2-Q16-x86-windows.zip',
+    '6.8.9-3' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.9-3-Q16-x86-windows.zip',
     'latest' =>
     array (
-      'version' => '6.8.9-2',
-      'url' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.9-2-Q16-x86-windows.zip',
+      'version' => '6.8.9-3',
+      'url' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.9-3-Q16-x86-windows.zip',
     ),
   ),
   'junction' =>
