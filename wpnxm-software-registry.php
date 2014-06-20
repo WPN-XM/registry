@@ -2,7 +2,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Fri, 20 Jun 2014 00:00:11 +0000.
+    * Last Update Fri, 20 Jun 2014 15:47:01 +0000.
     * Do not edit manually!
     */
 
@@ -626,6 +626,42 @@
     array (
       'version' => '5.4.29',
       'url' => 'http://windows.php.net/downloads/releases/php-5.4.29-nts-Win32-VC9-x86.zip',
+    ),
+  ),
+  'php-x64' =>
+  array (
+    'name' => 'PHP',
+    'website' => 'http://php.net/',
+    '5.4.5' => 'http://windows.php.net/downloads/releases/archives/php-5.4.5-nts-Win32-VC9-x86.zip',
+    '5.4.6' => 'http://windows.php.net/downloads/releases/archives/php-5.4.6-nts-Win32-VC9-x86.zip',
+    '5.4.7' => 'http://windows.php.net/downloads/releases/archives/php-5.4.7-nts-Win32-VC9-x86.zip',
+    '5.4.8' => 'http://windows.php.net/downloads/releases/archives/php-5.4.8-nts-Win32-VC9-x86.zip',
+    '5.4.9' => 'http://windows.php.net/downloads/releases/archives/php-5.4.9-nts-Win32-VC9-x86.zip',
+    '5.4.10' => 'http://windows.php.net/downloads/releases/archives/php-5.4.10-nts-Win32-VC9-x86.zip',
+    '5.4.11' => 'http://windows.php.net/downloads/releases/archives/php-5.4.11-nts-Win32-VC9-x86.zip',
+    '5.4.12' => 'http://windows.php.net/downloads/releases/archives/php-5.4.12-nts-Win32-VC9-x86.zip',
+    '5.4.13' => 'http://windows.php.net/downloads/releases/archives/php-5.4.13-nts-Win32-VC9-x86.zip',
+    '5.4.14' => 'http://windows.php.net/downloads/releases/archives/php-5.4.14-nts-Win32-VC9-x86.zip',
+    '5.4.15' => 'http://windows.php.net/downloads/releases/archives/php-5.4.15-nts-Win32-VC9-x86.zip',
+    '5.4.16' => 'http://windows.php.net/downloads/releases/archives/php-5.4.16-nts-Win32-VC9-x86.zip',
+    '5.4.17' => 'http://windows.php.net/downloads/releases/archives/php-5.4.17-nts-Win32-VC9-x86.zip',
+    '5.4.18' => 'http://windows.php.net/downloads/releases/archives/php-5.4.18-nts-Win32-VC9-x86.zip',
+    '5.4.19' => 'http://windows.php.net/downloads/releases/archives/php-5.4.19-nts-Win32-VC9-x86.zip',
+    '5.4.20' => 'http://windows.php.net/downloads/releases/archives/php-5.4.20-nts-Win32-VC9-x86.zip',
+    '5.4.21' => 'http://windows.php.net/downloads/releases/archives/php-5.4.21-nts-Win32-VC9-x86.zip',
+    '5.4.22' => 'http://windows.php.net/downloads/releases/archives/php-5.4.22-nts-Win32-VC9-x86.zip',
+    '5.4.23' => 'http://windows.php.net/downloads/releases/archives/php-5.4.23-nts-Win32-VC9-x86.zip',
+    '5.4.24' => 'http://windows.php.net/downloads/releases/archives/php-5.4.24-nts-Win32-VC9-x86.zip',
+    '5.4.25' => 'http://windows.php.net/downloads/releases/archives/php-5.4.25-nts-Win32-VC9-x86.zip',
+    '5.4.26' => 'http://windows.php.net/downloads/releases/archives/php-5.4.26-nts-Win32-VC9-x86.zip',
+    '5.4.27' => 'http://windows.php.net/downloads/releases/archives/php-5.4.27-nts-Win32-VC9-x86.zip',
+    '5.4.28' => 'http://windows.php.net/downloads/releases/archives/php-5.4.28-nts-Win32-VC9-x86.zip',
+    '5.4.29' => 'http://windows.php.net/downloads/releases/php-5.4.29-nts-Win32-VC9-x86.zip',
+    '5.5.13' => 'http://windows.php.net/downloads/releases/php-5.5.13-nts-Win32-VC11-x64.zip',
+    'latest' =>
+    array (
+      'version' => '5.5.13',
+      'url' => 'http://windows.php.net/downloads/releases/php-5.5.13-nts-Win32-VC11-x64.zip',
     ),
   ),
   'phpext_amqp' =>
