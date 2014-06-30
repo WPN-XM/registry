@@ -864,13 +864,20 @@
     '1.3.1' =>
     array (
       '5.4' => 'http://static.phalconphp.com/files/phalcon_x86_VC9_php5.4.0_1.3.1_nts.zip',
+      '5.5' => 'http://static.phalconphp.com/files/phalcon_x86_VC11_php5.5.0_1.3.1_nts.zip',
+    ),
+    '1.3.2' =>
+    array (
+      '5.4' => 'http://static.phalconphp.com/files/phalcon_x86_VC9_php5.4.0_1.3.2_nts.zip',
+      '5.5' => 'http://static.phalconphp.com/files/phalcon_x86_VC11_php5.5.0_1.3.2_nts.zip',
     ),
     'latest' =>
     array (
-      'version' => '1.3.1',
+      'version' => '1.3.2',
       'url' =>
       array (
-        '5.4' => 'http://static.phalconphp.com/files/phalcon_x86_VC9_php5.4.0_1.3.1_nts.zip',
+        '5.4' => 'http://static.phalconphp.com/files/phalcon_x86_VC9_php5.4.0_1.3.2_nts.zip',
+        '5.5' => 'http://static.phalconphp.com/files/phalcon_x86_VC11_php5.5.0_1.3.2_nts.zip',
       ),
     ),
   ),
