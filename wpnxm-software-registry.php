@@ -2,7 +2,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Fri, 04 Jul 2014 00:42:02 +0000.
+    * Last Update Fri, 04 Jul 2014 00:42:48 +0000.
     * Do not edit manually!
     */
 
@@ -554,10 +554,13 @@
     '1.4.7' => 'http://nodejs.org/dist/npm/npm-1.4.7.zip',
     '1.4.8' => 'http://nodejs.org/dist/npm/npm-1.4.8.zip',
     '1.4.9' => 'http://nodejs.org/dist/npm/npm-1.4.9.zip',
+    '1.4.10' => 'http://nodejs.org/dist/npm/npm-1.4.10.zip',
+    '1.4.11' => 'http://nodejs.org/dist/npm/npm-1.4.11.zip',
+    '1.4.12' => 'http://nodejs.org/dist/npm/npm-1.4.12.zip',
     'latest' =>
     array (
-      'version' => '1.4.9',
-      'url' => 'http://nodejs.org/dist/npm/npm-1.4.9.zip',
+      'version' => '1.4.12',
+      'url' => 'http://nodejs.org/dist/npm/npm-1.4.12.zip',
     ),
   ),
   'openssl' =>
