@@ -2,7 +2,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Mon, 30 Jun 2014 17:52:19 +0000.
+    * Last Update Fri, 04 Jul 2014 00:26:54 +0000.
     * Do not edit manually!
     */
 
@@ -145,10 +145,24 @@
     '5.5.36' => 'http://mirrors.n-ix.net/mariadb/mariadb-5.5.36/win32-packages/mariadb-5.5.36-win32.zip',
     '5.5.37' => 'http://mirrors.n-ix.net/mariadb/mariadb-5.5.37/win32-packages/mariadb-5.5.37-win32.zip',
     '5.5.38' => 'http://archive.mariadb.org/mariadb-5.5.38/win32-packages/mariadb-5.5.38-win32.zip',
+    '10.0.0' => 'http://archive.mariadb.org/mariadb-10.0.0/win32-packages/mariadb-10.0.0-win32.zip',
+    '10.0.1' => 'http://archive.mariadb.org/mariadb-10.0.1/win32-packages/mariadb-10.0.1-win32.zip',
+    '10.0.2' => 'http://archive.mariadb.org/mariadb-10.0.2/win32-packages/mariadb-10.0.2-win32.zip',
+    '10.0.3' => 'http://archive.mariadb.org/mariadb-10.0.3/win32-packages/mariadb-10.0.3-win32.zip',
+    '10.0.4' => 'http://archive.mariadb.org/mariadb-10.0.4/win32-packages/mariadb-10.0.4-win32.zip',
+    '10.0.5' => 'http://archive.mariadb.org/mariadb-10.0.5/win32-packages/mariadb-10.0.5-win32.zip',
+    '10.0.6' => 'http://archive.mariadb.org/mariadb-10.0.6/win32-packages/mariadb-10.0.6-win32.zip',
+    '10.0.7' => 'http://archive.mariadb.org/mariadb-10.0.7/win32-packages/mariadb-10.0.7-win32.zip',
+    '10.0.8' => 'http://archive.mariadb.org/mariadb-10.0.8/win32-packages/mariadb-10.0.8-win32.zip',
+    '10.0.9' => 'http://archive.mariadb.org/mariadb-10.0.9/win32-packages/mariadb-10.0.9-win32.zip',
+    '10.0.10' => 'http://archive.mariadb.org/mariadb-10.0.10/win32-packages/mariadb-10.0.10-win32.zip',
+    '10.0.11' => 'http://archive.mariadb.org/mariadb-10.0.11/win32-packages/mariadb-10.0.11-win32.zip',
+    '10.0.12' => 'http://archive.mariadb.org/mariadb-10.0.12/win32-packages/mariadb-10.0.12-win32.zip',
+    '10.1.0' => 'http://archive.mariadb.org/mariadb-10.1.0/win32-packages/mariadb-10.1.0-win32.zip',
     'latest' =>
     array (
-      'version' => '5.5.38',
-      'url' => 'http://archive.mariadb.org/mariadb-5.5.38/win32-packages/mariadb-5.5.38-win32.zip',
+      'version' => '10.1.0',
+      'url' => 'http://archive.mariadb.org/mariadb-10.1.0/win32-packages/mariadb-10.1.0-win32.zip',
     ),
   ),
   'memadmin' =>
