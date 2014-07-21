@@ -1255,11 +1255,11 @@
   array (
     'name' => 'Webgrind',
     'website' => 'http://code.google.com/p/webgrind/',
-    '1.0' => 'http://cloud.github.com/downloads/jokkedk/webgrind/webgrind-release-1.0.zip',
+    '1.0' => 'https://github.com/downloads/jokkedk/webgrind/webgrind-release-1.0.zip',
     'latest' =>
     array (
       'version' => '1.0',
-      'url' => 'http://cloud.github.com/downloads/jokkedk/webgrind/webgrind-release-1.0.zip',
+      'url' => 'https://github.com/downloads/jokkedk/webgrind/webgrind-release-1.0.zip',
     ),
   ),
   'wpnxmscp' =>
