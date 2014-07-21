@@ -1,0 +1,84 @@
+http://wpn-xm.org/get.php?s=adminer&v=4.1.0
+    out=adminer.php
+http://wpn-xm.org/get.php?s=closure-compiler&v=latest
+    out=closure-compiler.zip
+http://wpn-xm.org/get.php?s=composer&v=1.0
+    out=composer.phar
+http://wpn-xm.org/get.php?s=imagick&v=6.8.9-5
+    out=imagick.zip
+http://wpn-xm.org/get.php?s=junction&v=1.0
+    out=junction.zip
+http://wpn-xm.org/get.php?s=mariadb&v=10.1.0
+    out=mariadb.zip
+http://wpn-xm.org/get.php?s=memadmin&v=1.0.12
+    out=memadmin.zip
+http://wpn-xm.org/get.php?s=memcached&v=1.4.5
+    out=memcached.zip
+http://wpn-xm.org/get.php?s=mongodb&v=2.7.3
+    out=mongodb.zip
+http://wpn-xm.org/get.php?s=nginx&v=1.7.3
+    out=nginx.zip
+http://wpn-xm.org/get.php?s=node&v=0.11.13
+    out=node.exe
+http://wpn-xm.org/get.php?s=nodenpm&v=1.4.12
+    out=nodenpm.zip
+http://wpn-xm.org/get.php?s=openssl&v=1.0.1h
+    out=openssl.exe
+http://wpn-xm.org/get.php?s=pear&v=1.0
+    out=go-pear.phar
+http://wpn-xm.org/get.php?s=perl&v=5.20.0.1
+    out=perl.zip
+http://wpn-xm.org/get.php?s=php&v=5.4.30
+    out=php.zip
+http://wpn-xm.org/get.php?s=phpext_amqp&v=1.4.0
+    out=phpext_amqp.zip
+http://wpn-xm.org/get.php?s=phpext_apc&v=3.1.13
+    out=phpext_apc.zip
+http://wpn-xm.org/get.php?s=phpext_imagick&v=3.2.0b2
+    out=phpext_imagick.zip
+http://wpn-xm.org/get.php?s=phpext_mailparse&v=2.1.6
+    out=phpext_mailparse.zip
+http://wpn-xm.org/get.php?s=phpext_memcache&v=3.0.8
+    out=phpext_memcache.zip
+http://wpn-xm.org/get.php?s=phpext_mongo&v=1.4.5
+    out=phpext_mongo.zip
+http://wpn-xm.org/get.php?s=phpext_msgpack&v=0.5.5
+    out=phpext_msgpack.zip
+http://wpn-xm.org/get.php?s=phpext_phalcon&v=1.3.2
+    out=phpext_phalcon.zip
+http://wpn-xm.org/get.php?s=phpext_rar&v=3.0.2
+    out=phpext_rar.zip
+http://wpn-xm.org/get.php?s=phpext_trader&v=0.3.0
+    out=phpext_trader.zip
+http://wpn-xm.org/get.php?s=phpext_varnish&v=1.1.1
+    out=phpext_varnish.zip
+http://wpn-xm.org/get.php?s=phpext_wincache&v=1.3.4.0
+    out=phpext_wincache.exe
+http://wpn-xm.org/get.php?s=phpext_xcache&v=3.1.0
+    out=phpext_xcache.zip
+http://wpn-xm.org/get.php?s=phpext_xdebug&v=2.2.5
+    out=phpext_xdebug.dll
+http://wpn-xm.org/get.php?s=phpext_xhprof&v=0.10.6
+    out=phpext_xhprof.zip
+http://wpn-xm.org/get.php?s=phpext_zmq&v=1.1.2
+    out=phpext_zmq.zip
+http://wpn-xm.org/get.php?s=phpmemcachedadmin&v=1.2.2
+    out=phpmemcachedadmin.zip
+http://wpn-xm.org/get.php?s=phpmyadmin&v=4.2.6
+    out=phpmyadmin.zip
+http://wpn-xm.org/get.php?s=postgresql&v=9.3.4
+    out=postgresql.zip
+http://wpn-xm.org/get.php?s=redis&v=2.6.14
+    out=redis.zip
+http://wpn-xm.org/get.php?s=rockmongo&v=1.1.7
+    out=rockmongo.zip
+http://wpn-xm.org/get.php?s=sendmail&v=1.0
+    out=sendmail.zip
+http://wpn-xm.org/get.php?s=varnish&v=3.0.2
+    out=varnish.zip
+http://wpn-xm.org/get.php?s=webgrind&v=1.0
+    out=webgrind.zip
+http://wpn-xm.org/get.php?s=wpnxmscp&v=0.6.1
+    out=wpnxmscp.zip
+http://wpn-xm.org/get.php?s=xhprof&v=1.0
+    out=xhprof.zip
