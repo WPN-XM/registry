@@ -7,7 +7,7 @@ http://wpn-xm.org/get.php?s=closure-compiler&v=latest
     out=closure-compiler.zip
 http://wpn-xm.org/get.php?s=composer&v=1.0
     out=composer.phar
-http://wpn-xm.org/get.php?s=imagick&v=6.8.9-5
+http://wpn-xm.org/get.php?s=imagick&v=6.8.9-6
     out=imagick.zip
 http://wpn-xm.org/get.php?s=junction&v=1.0
     out=junction.zip
@@ -17,7 +17,7 @@ http://wpn-xm.org/get.php?s=memadmin&v=1.0.12
     out=memadmin.zip
 http://wpn-xm.org/get.php?s=memcached&v=1.4.5
     out=memcached.zip
-http://wpn-xm.org/get.php?s=mongodb&v=2.7.3
+http://wpn-xm.org/get.php?s=mongodb&v=2.7.4
     out=mongodb.zip
 http://wpn-xm.org/get.php?s=nginx&v=1.7.3
     out=nginx.zip
@@ -31,7 +31,7 @@ http://wpn-xm.org/get.php?s=pear&v=1.0
     out=go-pear.phar
 http://wpn-xm.org/get.php?s=perl&v=5.20.0.1
     out=perl.zip
-http://wpn-xm.org/get.php?s=php&v=5.4.30
+http://wpn-xm.org/get.php?s=php&v=5.4.31
     out=php.zip
 http://wpn-xm.org/get.php?s=phpext_amqp&v=1.4.0&p=5.4
     out=phpext_amqp.zip
@@ -67,9 +67,9 @@ http://wpn-xm.org/get.php?s=phpext_zmq&v=1.1.2&p=5.4
     out=phpext_zmq.zip
 http://wpn-xm.org/get.php?s=phpmemcachedadmin&v=1.2.2
     out=phpmemcachedadmin.zip
-http://wpn-xm.org/get.php?s=phpmyadmin&v=4.2.6
+http://wpn-xm.org/get.php?s=phpmyadmin&v=4.2.7
     out=phpmyadmin.zip
-http://wpn-xm.org/get.php?s=postgresql&v=9.3.4
+http://wpn-xm.org/get.php?s=postgresql&v=9.3.5
     out=postgresql.zip
 http://wpn-xm.org/get.php?s=redis&v=2.6.14
     out=redis.zip
