@@ -1,7 +1,0 @@
-adminer,http://wpn-xm.org/get.php?s=adminer,adminer.php,3.7.1
-composer,http://wpn-xm.org/get.php?s=composer,composer.phar,1.0
-mariadb,http://wpn-xm.org/get.php?s=mariadb,mariadb.zip,5.5.34
-nginx,http://wpn-xm.org/get.php?s=nginx,nginx.zip,1.5.7
-php,http://wpn-xm.org/get.php?s=php,php.zip,5.4.22
-phpext_xdebug,http://wpn-xm.org/get.php?s=phpext_xdebug,phpext_xdebug.dll,2.2.3
-wpnxmscp,http://wpn-xm.org/get.php?s=wpnxmscp,wpnxmscp.zip,0.5.4
