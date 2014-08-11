@@ -2,7 +2,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Sat, 09 Aug 2014 00:24:21 +0000.
+    * Last Update Mon, 11 Aug 2014 17:39:19 +0000.
     * Do not edit manually!
     */
 
@@ -732,6 +732,25 @@
       'url' =>
       array (
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/apc/3.1.13/php_apc-3.1.13-5.4-nts-vc9-x86.zip',
+      ),
+    ),
+  ),
+  'phpext_uploadprogress' =>
+  array (
+    'name' => 'PHP Extension UploadProgress',
+    'website' => 'http://php.net/imagick',
+    '1.0.3.1' =>
+    array (
+      '5.4' => 'http://windows.php.net/downloads/pecl/releases/uploadprogress/1.0.3.1/php_uploadprogress-1.0.3.1-5.4-nts-vc9-x86.zip',
+      '5.5' => 'http://windows.php.net/downloads/pecl/releases/uploadprogress/1.0.3.1/php_uploadprogress-1.0.3.1-5.5-nts-vc11-x86.zip',
+    ),
+    'latest' =>
+    array (
+      'version' => '1.0.3.1',
+      'url' =>
+      array (
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/uploadprogress/1.0.3.1/php_uploadprogress-1.0.3.1-5.4-nts-vc9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/uploadprogress/1.0.3.1/php_uploadprogress-1.0.3.1-5.5-nts-vc11-x86.zip',
       ),
     ),
   ),
