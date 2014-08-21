@@ -2,7 +2,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Mon, 11 Aug 2014 17:39:19 +0000.
+    * Last Update Thu, 21 Aug 2014 10:37:26 +0000.
     * Do not edit manually!
     */
 
@@ -735,25 +735,6 @@
       ),
     ),
   ),
-  'phpext_uploadprogress' =>
-  array (
-    'name' => 'PHP Extension UploadProgress',
-    'website' => 'http://php.net/imagick',
-    '1.0.3.1' =>
-    array (
-      '5.4' => 'http://windows.php.net/downloads/pecl/releases/uploadprogress/1.0.3.1/php_uploadprogress-1.0.3.1-5.4-nts-vc9-x86.zip',
-      '5.5' => 'http://windows.php.net/downloads/pecl/releases/uploadprogress/1.0.3.1/php_uploadprogress-1.0.3.1-5.5-nts-vc11-x86.zip',
-    ),
-    'latest' =>
-    array (
-      'version' => '1.0.3.1',
-      'url' =>
-      array (
-        '5.4' => 'http://windows.php.net/downloads/pecl/releases/uploadprogress/1.0.3.1/php_uploadprogress-1.0.3.1-5.4-nts-vc9-x86.zip',
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/uploadprogress/1.0.3.1/php_uploadprogress-1.0.3.1-5.5-nts-vc11-x86.zip',
-      ),
-    ),
-  ),
   'phpext_imagick' =>
   array (
     'name' => 'PHP Extension Imagick',
@@ -960,6 +941,25 @@
       'url' =>
       array (
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/trader/0.3.0/php_trader-0.3.0-5.4-nts-vc9-x86.zip',
+      ),
+    ),
+  ),
+  'phpext_uploadprogress' =>
+  array (
+    'name' => 'PHP Extension UploadProgress',
+    'website' => 'http://php.net/imagick',
+    '1.0.3.1' =>
+    array (
+      '5.4' => 'http://windows.php.net/downloads/pecl/releases/uploadprogress/1.0.3.1/php_uploadprogress-1.0.3.1-5.4-nts-vc9-x86.zip',
+      '5.5' => 'http://windows.php.net/downloads/pecl/releases/uploadprogress/1.0.3.1/php_uploadprogress-1.0.3.1-5.5-nts-vc11-x86.zip',
+    ),
+    'latest' =>
+    array (
+      'version' => '1.0.3.1',
+      'url' =>
+      array (
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/uploadprogress/1.0.3.1/php_uploadprogress-1.0.3.1-5.4-nts-vc9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/uploadprogress/1.0.3.1/php_uploadprogress-1.0.3.1-5.5-nts-vc11-x86.zip',
       ),
     ),
   ),
@@ -1192,10 +1192,11 @@
     '4.2.5' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.2.5/phpMyAdmin-4.2.5-english.zip',
     '4.2.6' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.2.6/phpMyAdmin-4.2.6-english.zip',
     '4.2.7' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.2.7/phpMyAdmin-4.2.7-english.zip',
+    '4.2.7.1' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.2.7.1/phpMyAdmin-4.2.7.1-english.zip',
     'latest' =>
     array (
-      'version' => '4.2.7',
-      'url' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.2.7/phpMyAdmin-4.2.7-english.zip',
+      'version' => '4.2.7.1',
+      'url' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.2.7.1/phpMyAdmin-4.2.7.1-english.zip',
     ),
   ),
   'postgresql' =>
