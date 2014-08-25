@@ -649,8 +649,8 @@
     '5.4.27' => 'http://windows.php.net/downloads/releases/archives/php-5.4.27-nts-Win32-VC9-x86.zip',
     '5.4.28' => 'http://windows.php.net/downloads/releases/archives/php-5.4.28-nts-Win32-VC9-x86.zip',
     '5.4.29' => 'http://windows.php.net/downloads/releases/archives/php-5.4.29-nts-Win32-VC9-x86.zip',
-    '5.4.30' => 'http://windows.php.net/downloads/releases/php-5.4.30-nts-Win32-VC9-x86.zip',
-    '5.4.31' => 'http://windows.php.net/downloads/releases/php-5.4.31-nts-Win32-VC9-x86.zip',
+    '5.4.30' => 'http://windows.php.net/downloads/releases/archives/php-5.4.30-nts-Win32-VC9-x86.zip',
+    '5.4.31' => 'http://windows.php.net/downloads/releases/archives/php-5.4.31-nts-Win32-VC9-x86.zip',
     '5.4.32' => 'http://windows.php.net/downloads/releases/php-5.4.32-nts-Win32-VC9-x86.zip',
     'latest' =>
     array (
@@ -676,8 +676,8 @@
     '5.5.11' => 'http://windows.php.net/downloads/releases/archives/php-5.5.11-nts-Win32-VC11-x64.zip',
     '5.5.12' => 'http://windows.php.net/downloads/releases/archives/php-5.5.12-nts-Win32-VC11-x64.zip',
     '5.5.13' => 'http://windows.php.net/downloads/releases/archives/php-5.5.13-nts-Win32-VC11-x64.zip',
-    '5.5.14' => 'http://windows.php.net/downloads/releases/php-5.5.14-nts-Win32-VC11-x64.zip',
-    '5.5.15' => 'http://windows.php.net/downloads/releases/php-5.5.15-nts-Win32-VC11-x64.zip',
+    '5.5.14' => 'http://windows.php.net/downloads/releases/archives/php-5.5.14-nts-Win32-VC11-x64.zip',
+    '5.5.15' => 'http://windows.php.net/downloads/releases/archives/php-5.5.15-nts-Win32-VC11-x64.zip',
     '5.5.16' => 'http://windows.php.net/downloads/releases/php-5.5.16-nts-Win32-VC11-x64.zip',
     'latest' =>
     array (
