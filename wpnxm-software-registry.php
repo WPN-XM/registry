@@ -2,7 +2,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Fri, 04 Jul 2014 00:42:48 +0000.
+    * Last Update Thu, 21 Aug 2014 10:38:29 +0000.
     * Do not edit manually!
     */
 
@@ -67,10 +67,12 @@
     '6.8.9-3' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.9-3-Q16-x86-windows.zip',
     '6.8.9-4' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.9-4-Q16-x86-windows.zip',
     '6.8.9-5' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.9-5-Q16-x86-windows.zip',
+    '6.8.9-6' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.9-6-Q16-x86-windows.zip',
+    '6.8.9-7' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.9-7-Q16-x86-windows.zip',
     'latest' =>
     array (
-      'version' => '6.8.9-5',
-      'url' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.9-5-Q16-x86-windows.zip',
+      'version' => '6.8.9-7',
+      'url' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.9-7-Q16-x86-windows.zip',
     ),
   ),
   'junction' =>
@@ -158,11 +160,11 @@
     '10.0.10' => 'http://archive.mariadb.org/mariadb-10.0.10/win32-packages/mariadb-10.0.10-win32.zip',
     '10.0.11' => 'http://archive.mariadb.org/mariadb-10.0.11/win32-packages/mariadb-10.0.11-win32.zip',
     '10.0.12' => 'http://archive.mariadb.org/mariadb-10.0.12/win32-packages/mariadb-10.0.12-win32.zip',
-    '10.1.0' => 'http://archive.mariadb.org/mariadb-10.1.0/win32-packages/mariadb-10.1.0-win32.zip',
+    '10.1.0' => 'http://ftp.hosteurope.de/mirror/archive.mariadb.org/mariadb-10.1.0/win32-packages/mariadb-10.1.0-win32.zip',
     'latest' =>
     array (
       'version' => '10.1.0',
-      'url' => 'http://archive.mariadb.org/mariadb-10.1.0/win32-packages/mariadb-10.1.0-win32.zip',
+      'url' => 'http://ftp.hosteurope.de/mirror/archive.mariadb.org/mariadb-10.1.0/win32-packages/mariadb-10.1.0-win32.zip',
     ),
   ),
   'memadmin' =>
@@ -215,10 +217,12 @@
     '2.7.1' => 'http://downloads.mongodb.org/win32/mongodb-win32-i386-2.7.1.zip',
     '2.7.2' => 'http://downloads.mongodb.org/win32/mongodb-win32-i386-2.7.2.zip',
     '2.7.3' => 'http://downloads.mongodb.org/win32/mongodb-win32-i386-2.7.3.zip',
+    '2.7.4' => 'http://downloads.mongodb.org/win32/mongodb-win32-i386-2.7.4.zip',
+    '2.7.5' => 'http://downloads.mongodb.org/win32/mongodb-win32-i386-2.7.5.zip',
     'latest' =>
     array (
-      'version' => '2.7.3',
-      'url' => 'http://downloads.mongodb.org/win32/mongodb-win32-i386-2.7.3.zip',
+      'version' => '2.7.5',
+      'url' => 'http://downloads.mongodb.org/win32/mongodb-win32-i386-2.7.5.zip',
     ),
   ),
   'nginx' =>
@@ -385,10 +389,12 @@
     '1.7.0' => 'http://nginx.org/download/nginx-1.7.0.zip',
     '1.7.1' => 'http://nginx.org/download/nginx-1.7.1.zip',
     '1.7.2' => 'http://nginx.org/download/nginx-1.7.2.zip',
+    '1.7.3' => 'http://nginx.org/download/nginx-1.7.3.zip',
+    '1.7.4' => 'http://nginx.org/download/nginx-1.7.4.zip',
     'latest' =>
     array (
-      'version' => '1.7.2',
-      'url' => 'http://nginx.org/download/nginx-1.7.2.zip',
+      'version' => '1.7.4',
+      'url' => 'http://nginx.org/download/nginx-1.7.4.zip',
     ),
   ),
   'node' =>
@@ -573,10 +579,11 @@
     '1.0.1f' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1f.exe',
     '1.0.1g' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1g.exe',
     '1.0.1h' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1h.exe',
+    '1.0.1i' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1i.exe',
     'latest' =>
     array (
-      'version' => '1.0.1h',
-      'url' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1h.exe',
+      'version' => '1.0.1i',
+      'url' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1i.exe',
     ),
   ),
   'pear' =>
@@ -642,11 +649,30 @@
     '5.4.27' => 'http://windows.php.net/downloads/releases/archives/php-5.4.27-nts-Win32-VC9-x86.zip',
     '5.4.28' => 'http://windows.php.net/downloads/releases/archives/php-5.4.28-nts-Win32-VC9-x86.zip',
     '5.4.29' => 'http://windows.php.net/downloads/releases/archives/php-5.4.29-nts-Win32-VC9-x86.zip',
-    '5.4.30' => 'http://windows.php.net/downloads/releases/php-5.4.30-nts-Win32-VC9-x86.zip',
+    '5.4.30' => 'http://windows.php.net/downloads/releases/archives/php-5.4.30-nts-Win32-VC9-x86.zip',
+    '5.4.31' => 'http://windows.php.net/downloads/releases/archives/php-5.4.31-nts-Win32-VC9-x86.zip',
+    '5.4.32' => 'http://windows.php.net/downloads/releases/php-5.4.32-nts-Win32-VC9-x86.zip',
+    '5.5.0' => 'http://windows.php.net/downloads/releases/archives/php-5.5.0-nts-Win32-VC11-x86.zip',
+    '5.5.1' => 'http://windows.php.net/downloads/releases/archives/php-5.5.1-nts-Win32-VC11-x86.zip',
+    '5.5.2' => 'http://windows.php.net/downloads/releases/archives/php-5.5.2-nts-Win32-VC11-x86.zip',
+    '5.5.3' => 'http://windows.php.net/downloads/releases/archives/php-5.5.3-nts-Win32-VC11-x86.zip',
+    '5.5.4' => 'http://windows.php.net/downloads/releases/archives/php-5.5.4-nts-Win32-VC11-x86.zip',
+    '5.5.5' => 'http://windows.php.net/downloads/releases/archives/php-5.5.5-nts-Win32-VC11-x86.zip',
+    '5.5.6' => 'http://windows.php.net/downloads/releases/archives/php-5.5.6-nts-Win32-VC11-x86.zip',
+    '5.5.7' => 'http://windows.php.net/downloads/releases/archives/php-5.5.7-nts-Win32-VC11-x86.zip',
+    '5.5.8' => 'http://windows.php.net/downloads/releases/archives/php-5.5.8-nts-Win32-VC11-x86.zip',
+    '5.5.9' => 'http://windows.php.net/downloads/releases/archives/php-5.5.9-nts-Win32-VC11-x86.zip',
+    '5.5.10' => 'http://windows.php.net/downloads/releases/archives/php-5.5.10-nts-Win32-VC11-x86.zip',
+    '5.5.11' => 'http://windows.php.net/downloads/releases/archives/php-5.5.11-nts-Win32-VC11-x86.zip',
+    '5.5.12' => 'http://windows.php.net/downloads/releases/archives/php-5.5.12-nts-Win32-VC11-x86.zip',
+    '5.5.13' => 'http://windows.php.net/downloads/releases/archives/php-5.5.13-nts-Win32-VC11-x86.zip',
+    '5.5.14' => 'http://windows.php.net/downloads/releases/archives/php-5.5.14-nts-Win32-VC11-x86.zip',
+    '5.5.15' => 'http://windows.php.net/downloads/releases/archives/php-5.5.15-nts-Win32-VC11-x86.zip',
+    '5.5.16' => 'http://windows.php.net/downloads/releases/php-5.5.16-nts-Win32-VC11-x86.zip',
     'latest' =>
     array (
-      'version' => '5.4.30',
-      'url' => 'http://windows.php.net/downloads/releases/php-5.4.30-nts-Win32-VC9-x86.zip',
+      'version' => '5.5.16',
+      'url' => 'http://windows.php.net/downloads/releases/php-5.5.16-nts-Win32-VC11-x86.zip',
     ),
   ),
   'php-x64' =>
@@ -667,11 +693,13 @@
     '5.5.11' => 'http://windows.php.net/downloads/releases/archives/php-5.5.11-nts-Win32-VC11-x64.zip',
     '5.5.12' => 'http://windows.php.net/downloads/releases/archives/php-5.5.12-nts-Win32-VC11-x64.zip',
     '5.5.13' => 'http://windows.php.net/downloads/releases/archives/php-5.5.13-nts-Win32-VC11-x64.zip',
-    '5.5.14' => 'http://windows.php.net/downloads/releases/php-5.5.14-nts-Win32-VC11-x64.zip',
+    '5.5.14' => 'http://windows.php.net/downloads/releases/archives/php-5.5.14-nts-Win32-VC11-x64.zip',
+    '5.5.15' => 'http://windows.php.net/downloads/releases/archives/php-5.5.15-nts-Win32-VC11-x64.zip',
+    '5.5.16' => 'http://windows.php.net/downloads/releases/php-5.5.16-nts-Win32-VC11-x64.zip',
     'latest' =>
     array (
-      'version' => '5.5.14',
-      'url' => 'http://windows.php.net/downloads/releases/php-5.5.14-nts-Win32-VC11-x64.zip',
+      'version' => '5.5.16',
+      'url' => 'http://windows.php.net/downloads/releases/php-5.5.16-nts-Win32-VC11-x64.zip',
     ),
   ),
   'phpext_amqp' =>
@@ -937,6 +965,25 @@
       ),
     ),
   ),
+  'phpext_uploadprogress' =>
+  array (
+    'name' => 'PHP Extension UploadProgress',
+    'website' => 'http://php.net/imagick',
+    '1.0.3.1' =>
+    array (
+      '5.4' => 'http://windows.php.net/downloads/pecl/releases/uploadprogress/1.0.3.1/php_uploadprogress-1.0.3.1-5.4-nts-vc9-x86.zip',
+      '5.5' => 'http://windows.php.net/downloads/pecl/releases/uploadprogress/1.0.3.1/php_uploadprogress-1.0.3.1-5.5-nts-vc11-x86.zip',
+    ),
+    'latest' =>
+    array (
+      'version' => '1.0.3.1',
+      'url' =>
+      array (
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/uploadprogress/1.0.3.1/php_uploadprogress-1.0.3.1-5.4-nts-vc9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/uploadprogress/1.0.3.1/php_uploadprogress-1.0.3.1-5.5-nts-vc11-x86.zip',
+      ),
+    ),
+  ),
   'phpext_varnish' =>
   array (
     'name' => 'PHP Extension Varnish',
@@ -1164,10 +1211,13 @@
     '4.2.3' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.2.3/phpMyAdmin-4.2.3-english.zip',
     '4.2.4' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.2.4/phpMyAdmin-4.2.4-english.zip',
     '4.2.5' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.2.5/phpMyAdmin-4.2.5-english.zip',
+    '4.2.6' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.2.6/phpMyAdmin-4.2.6-english.zip',
+    '4.2.7' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.2.7/phpMyAdmin-4.2.7-english.zip',
+    '4.2.7.1' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.2.7.1/phpMyAdmin-4.2.7.1-english.zip',
     'latest' =>
     array (
-      'version' => '4.2.5',
-      'url' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.2.5/phpMyAdmin-4.2.5-english.zip',
+      'version' => '4.2.7.1',
+      'url' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.2.7.1/phpMyAdmin-4.2.7.1-english.zip',
     ),
   ),
   'postgresql' =>
@@ -1185,10 +1235,11 @@
     '9.3.2' => 'http://get.enterprisedb.com/postgresql/postgresql-9.3.2-1-windows-binaries.zip',
     '9.3.3' => 'http://get.enterprisedb.com/postgresql/postgresql-9.3.3-1-windows-binaries.zip',
     '9.3.4' => 'http://get.enterprisedb.com/postgresql/postgresql-9.3.4-1-windows-binaries.zip',
+    '9.3.5' => 'http://get.enterprisedb.com/postgresql/postgresql-9.3.5-1-windows-binaries.zip',
     'latest' =>
     array (
-      'version' => '9.3.4',
-      'url' => 'http://get.enterprisedb.com/postgresql/postgresql-9.3.4-1-windows-binaries.zip',
+      'version' => '9.3.5',
+      'url' => 'http://get.enterprisedb.com/postgresql/postgresql-9.3.5-1-windows-binaries.zip',
     ),
   ),
   'redis' =>
@@ -1253,11 +1304,11 @@
   array (
     'name' => 'Webgrind',
     'website' => 'http://code.google.com/p/webgrind/',
-    '1.0' => 'http://cloud.github.com/downloads/jokkedk/webgrind/webgrind-release-1.0.zip',
+    '1.0' => 'https://cloud.github.com/downloads/jokkedk/webgrind/webgrind-release-1.0.zip',
     'latest' =>
     array (
       'version' => '1.0',
-      'url' => 'http://cloud.github.com/downloads/jokkedk/webgrind/webgrind-release-1.0.zip',
+      'url' => 'https://cloud.github.com/downloads/jokkedk/webgrind/webgrind-release-1.0.zip',
     ),
   ),
   'wpnxmscp' =>
