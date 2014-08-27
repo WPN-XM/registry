@@ -5,5 +5,6 @@
 [ "nginx",          "http:\/\/wpn-xm.org\/get.php?s=nginx&v=1.7.4",                "nginx.zip",          "1.7.4" ],
 [ "php-qa",         "http:\/\/wpn-xm.org\/get.php?s=php-qa&v=5.6.0RC4",            "php.zip",            "5.6.0RC4" ],
 [ "phpext_xdebug",  "http:\/\/wpn-xm.org\/get.php?s=phpext_xdebug&v=2.2.5&p=5.6",  "phpext_xdebug.dll",  "2.2.5" ],
+[ "pickle",         "http:\/\/wpn-xm.org\/get.php?s=pickle&v=0.1.1",               "pickle.phar",        "0.1.1" ],
 [ "wpnxmscp",       "http:\/\/wpn-xm.org\/get.php?s=wpnxmscp&v=0.6.1",             "wpnxmscp.zip",       "0.6.1" ]
 ]

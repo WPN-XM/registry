@@ -29,6 +29,7 @@
 [ "phpext_zmq",             "http:\/\/wpn-xm.org\/get.php?s=phpext_zmq&v=1.1.2&p=5.5",               "phpext_zmq.zip",             "1.1.2" ],
 [ "phpmemcachedadmin",      "http:\/\/wpn-xm.org\/get.php?s=phpmemcachedadmin&v=1.2.2",              "phpmemcachedadmin.zip",      "1.2.2" ],
 [ "phpmyadmin",             "http:\/\/wpn-xm.org\/get.php?s=phpmyadmin&v=4.2.7.1",                   "phpmyadmin.zip",             "4.2.7.1" ],
+[ "pickle",                 "http:\/\/wpn-xm.org\/get.php?s=pickle&v=0.1.1",                         "pickle.phar",                "0.1.1" ],
 [ "redis",                  "http:\/\/wpn-xm.org\/get.php?s=redis&v=2.6.14",                         "redis.zip",                  "2.6.14" ],
 [ "rockmongo",              "http:\/\/wpn-xm.org\/get.php?s=rockmongo&v=1.1.7",                      "rockmongo.zip",              "1.1.7" ],
 [ "sendmail",               "http:\/\/wpn-xm.org\/get.php?s=sendmail&v=1.0",                         "sendmail.zip",               "1.0" ],
