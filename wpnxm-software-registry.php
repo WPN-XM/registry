@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Tue, 26 Aug 2014 16:29:49 +0000.
+    * Last Update Wed, 27 Aug 2014 13:21:14 +0000.
     * Do not edit manually!
     */
 
@@ -1245,6 +1245,17 @@
     array (
       'version' => '4.2.7.1',
       'url' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.2.7.1/phpMyAdmin-4.2.7.1-english.zip',
+    ),
+  ),
+  'pickle' =>
+  array (
+    'name' => 'pickle',
+    'website' => 'https://github.com/FriendsOfPHP/pickle',
+    '0.1.1' => 'http://www.pierrejoye.com/pickle/pickle.phar',
+    'latest' =>
+    array (
+      'version' => '0.1.1',
+      'url' => 'http://www.pierrejoye.com/pickle/pickle.phar',
     ),
   ),
   'postgresql' =>
