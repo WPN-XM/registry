@@ -992,6 +992,25 @@
       ),
     ),
   ),
+  'phpext_uprofiler' =>
+  array (
+    'name' => 'PHP Extension uProfiler',
+    'website' => 'http://php.net/uprofiler',
+    '0.9.2' =>
+    array (
+      '5.4' => 'http://windows.php.net/downloads/pecl/snaps/uprofiler/0.9.2/php_uprofiler-0.9.2-5.4-nts-vc9-x86.zip',
+      '5.5' => 'http://windows.php.net/downloads/pecl/snaps/uprofiler/0.9.2/php_uprofiler-0.9.2-5.5-nts-vc11-x86.zip'
+    ),
+    'latest' =>
+    array (
+      'version' => '0.9.2',
+      'url' =>
+      array (
+        '5.4' => 'http://windows.php.net/downloads/pecl/snaps/uprofiler/0.9.2/php_uprofiler-0.9.2-5.4-nts-vc9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/snaps/uprofiler/0.9.2/php_uprofiler-0.9.2-5.5-nts-vc11-x86.zip'
+      ),
+    ),
+  ),
   'phpext_uploadprogress' =>
   array (
     'name' => 'PHP Extension UploadProgress',
@@ -1314,6 +1333,17 @@
     array (
       'version' => '1.0',
       'url' => 'http://www.glob.com.au/sendmail/sendmail.zip',
+    ),
+  ),
+  'uprofiler' =>
+  array (
+    'name' => 'uprofiler GUI',
+    'website' => 'http://php.net/manual/de/book.xhprof.php',
+    '1.0' => 'https://nodeload.github.com/FriendsOfPHP/uprofiler/zip/master',
+    'latest' =>
+    array (
+      'version' => '1.0',
+      'url' => 'https://nodeload.github.com/FriendsOfPHP/uprofiler/zip/master',
     ),
   ),
   'varnish' =>
