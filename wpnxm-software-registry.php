@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Wed, 27 Aug 2014 13:21:14 +0000.
+    * Last Update Fri, 29 Aug 2014 00:37:10 +0000.
     * Do not edit manually!
     */
 
@@ -723,10 +723,11 @@
     '5.5.14' => 'http://windows.php.net/downloads/releases/archives/php-5.5.14-nts-Win32-VC11-x64.zip',
     '5.5.15' => 'http://windows.php.net/downloads/releases/archives/php-5.5.15-nts-Win32-VC11-x64.zip',
     '5.5.16' => 'http://windows.php.net/downloads/releases/php-5.5.16-nts-Win32-VC11-x64.zip',
+    '5.6.0' => 'http://windows.php.net/downloads/releases/php-5.6.0-nts-Win32-VC11-x64.zip',
     'latest' =>
     array (
-      'version' => '5.5.16',
-      'url' => 'http://windows.php.net/downloads/releases/php-5.5.16-nts-Win32-VC11-x64.zip',
+      'version' => '5.6.0',
+      'url' => 'http://windows.php.net/downloads/releases/php-5.6.0-nts-Win32-VC11-x64.zip',
     ),
   ),
   'phpext_amqp' =>
@@ -992,25 +993,6 @@
       ),
     ),
   ),
-  'phpext_uprofiler' =>
-  array (
-    'name' => 'PHP Extension uProfiler',
-    'website' => 'http://php.net/uprofiler',
-    '0.9.2' =>
-    array (
-      '5.4' => 'http://windows.php.net/downloads/pecl/snaps/uprofiler/0.9.2/php_uprofiler-0.9.2-5.4-nts-vc9-x86.zip',
-      '5.5' => 'http://windows.php.net/downloads/pecl/snaps/uprofiler/0.9.2/php_uprofiler-0.9.2-5.5-nts-vc11-x86.zip'
-    ),
-    'latest' =>
-    array (
-      'version' => '0.9.2',
-      'url' =>
-      array (
-        '5.4' => 'http://windows.php.net/downloads/pecl/snaps/uprofiler/0.9.2/php_uprofiler-0.9.2-5.4-nts-vc9-x86.zip',
-        '5.5' => 'http://windows.php.net/downloads/pecl/snaps/uprofiler/0.9.2/php_uprofiler-0.9.2-5.5-nts-vc11-x86.zip'
-      ),
-    ),
-  ),
   'phpext_uploadprogress' =>
   array (
     'name' => 'PHP Extension UploadProgress',
@@ -1027,6 +1009,25 @@
       array (
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/uploadprogress/1.0.3.1/php_uploadprogress-1.0.3.1-5.4-nts-vc9-x86.zip',
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/uploadprogress/1.0.3.1/php_uploadprogress-1.0.3.1-5.5-nts-vc11-x86.zip',
+      ),
+    ),
+  ),
+  'phpext_uprofiler' =>
+  array (
+    'name' => 'PHP Extension uProfiler',
+    'website' => 'http://php.net/uprofiler',
+    '0.9.2' =>
+    array (
+      '5.4' => 'http://windows.php.net/downloads/pecl/snaps/uprofiler/0.9.2/php_uprofiler-0.9.2-5.4-nts-vc9-x86.zip',
+      '5.5' => 'http://windows.php.net/downloads/pecl/snaps/uprofiler/0.9.2/php_uprofiler-0.9.2-5.5-nts-vc11-x86.zip',
+    ),
+    'latest' =>
+    array (
+      'version' => '0.9.2',
+      'url' =>
+      array (
+        '5.4' => 'http://windows.php.net/downloads/pecl/snaps/uprofiler/0.9.2/php_uprofiler-0.9.2-5.4-nts-vc9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/snaps/uprofiler/0.9.2/php_uprofiler-0.9.2-5.5-nts-vc11-x86.zip',
       ),
     ),
   ),
