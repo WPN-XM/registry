@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Sat, 30 Aug 2014 15:51:17 +0000.
+    * Last Update Sat, 30 Aug 2014 15:51:50 +0000.
     * Do not edit manually!
     */
 
@@ -1305,14 +1305,78 @@
   array (
     'name' => 'PHP Extension ZeroMQ',
     'website' => 'https://github.com/mkoppanen/php-zmq',
-    '0.0.0' =>
+    '1.0.6' =>
     array (
+      'x86' =>
+      array (
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.0.6/php_zmq-1.0.6-5.4-nts-VC9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.0.6/php_zmq-1.0.6-5.5-nts-VC11-x86.zip',
+      ),
+      'x64' =>
+      array (
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.0.6/php_zmq-1.0.6-5.5-nts-VC11-x64.zip',
+      ),
+    ),
+    '1.0.8' =>
+    array (
+    ),
+    '1.0.9' =>
+    array (
+      'x86' =>
+      array (
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.0.9/php_zmq-1.0.9-5.4-nts-VC9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.0.9/php_zmq-1.0.9-5.5-nts-VC11-x86.zip',
+      ),
+      'x64' =>
+      array (
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.0.9/php_zmq-1.0.9-5.5-nts-VC11-x64.zip',
+      ),
+    ),
+    '1.1.0' =>
+    array (
+    ),
+    '1.1.1' =>
+    array (
+      'x86' =>
+      array (
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.1.1/php_zmq-1.1.1-5.4-nts-VC9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.1.1/php_zmq-1.1.1-5.5-nts-VC11-x86.zip',
+      ),
+      'x64' =>
+      array (
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.1.1/php_zmq-1.1.1-5.5-nts-VC11-x64.zip',
+      ),
+    ),
+    '1.1.2' =>
+    array (
+      'x86' =>
+      array (
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.1.2/php_zmq-1.1.2-5.4-nts-VC9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.1.2/php_zmq-1.1.2-5.5-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.1.2/php_zmq-1.1.2-5.6-nts-VC11-x86.zip',
+      ),
+      'x64' =>
+      array (
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.1.2/php_zmq-1.1.2-5.5-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.1.2/php_zmq-1.1.2-5.6-nts-VC11-x64.zip',
+      ),
     ),
     'latest' =>
     array (
-      'version' => '0.0.0',
+      'version' => '1.1.2',
       'url' =>
       array (
+        'x86' =>
+        array (
+          '5.4' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.1.2/php_zmq-1.1.2-5.4-nts-VC9-x86.zip',
+          '5.5' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.1.2/php_zmq-1.1.2-5.5-nts-VC11-x86.zip',
+          '5.6' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.1.2/php_zmq-1.1.2-5.6-nts-VC11-x86.zip',
+        ),
+        'x64' =>
+        array (
+          '5.5' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.1.2/php_zmq-1.1.2-5.5-nts-VC11-x64.zip',
+          '5.6' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.1.2/php_zmq-1.1.2-5.6-nts-VC11-x64.zip',
+        ),
       ),
     ),
   ),
