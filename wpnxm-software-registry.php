@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Sat, 30 Aug 2014 16:18:58 +0000.
+    * Last Update Sat, 30 Aug 2014 16:20:23 +0000.
     * Do not edit manually!
     */
 
@@ -945,17 +945,143 @@
   array (
     'name' => 'PHP Extension Mongo',
     'website' => 'http://www.mongodb.org/display/DOCS/PHP+Language+Center/',
-    '0.0.0' =>
+    '1.4.2' =>
+    array (
+      'x86' =>
+      array (
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.4.2/php_mongo-1.4.2-5.4-nts-VC9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.4.2/php_mongo-1.4.2-5.5-nts-VC11-x86.zip',
+      ),
+      'x64' =>
+      array (
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.4.2/php_mongo-1.4.2-5.5-nts-VC11-x64.zip',
+      ),
+    ),
+    '1.4.3' =>
+    array (
+      'x86' =>
+      array (
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.4.3/php_mongo-1.4.3-5.4-nts-VC9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.4.3/php_mongo-1.4.3-5.5-nts-VC11-x86.zip',
+      ),
+      'x64' =>
+      array (
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.4.3/php_mongo-1.4.3-5.5-nts-VC11-x64.zip',
+      ),
+    ),
+    '1.4.4' =>
+    array (
+      'x86' =>
+      array (
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.4.4/php_mongo-1.4.4-5.4-nts-VC9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.4.4/php_mongo-1.4.4-5.5-nts-VC11-x86.zip',
+      ),
+      'x64' =>
+      array (
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.4.4/php_mongo-1.4.4-5.5-nts-VC11-x64.zip',
+      ),
+    ),
+    '1.4.5' =>
+    array (
+      'x86' =>
+      array (
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.4.5/php_mongo-1.4.5-5.4-nts-VC9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.4.5/php_mongo-1.4.5-5.5-nts-VC11-x86.zip',
+      ),
+      'x64' =>
+      array (
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.4.5/php_mongo-1.4.5-5.5-nts-VC11-x64.zip',
+      ),
+    ),
+    '1.5.0' =>
     array (
     ),
-    '3.0.8' =>
+    '1.5.1' =>
     array (
+      'x86' =>
+      array (
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.5.1/php_mongo-1.5.1-5.4-nts-VC9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.5.1/php_mongo-1.5.1-5.5-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.5.1/php_mongo-1.5.1-5.6-nts-VC11-x86.zip',
+      ),
+      'x64' =>
+      array (
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.5.1/php_mongo-1.5.1-5.5-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.5.1/php_mongo-1.5.1-5.6-nts-VC11-x64.zip',
+      ),
+    ),
+    '1.5.2' =>
+    array (
+      'x86' =>
+      array (
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.5.2/php_mongo-1.5.2-5.4-nts-VC9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.5.2/php_mongo-1.5.2-5.5-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.5.2/php_mongo-1.5.2-5.6-nts-VC11-x86.zip',
+      ),
+      'x64' =>
+      array (
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.5.2/php_mongo-1.5.2-5.5-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.5.2/php_mongo-1.5.2-5.6-nts-VC11-x64.zip',
+      ),
+    ),
+    '1.5.3' =>
+    array (
+      'x86' =>
+      array (
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.5.3/php_mongo-1.5.3-5.4-nts-VC9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.5.3/php_mongo-1.5.3-5.5-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.5.3/php_mongo-1.5.3-5.6-nts-VC11-x86.zip',
+      ),
+      'x64' =>
+      array (
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.5.3/php_mongo-1.5.3-5.5-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.5.3/php_mongo-1.5.3-5.6-nts-VC11-x64.zip',
+      ),
+    ),
+    '1.5.4' =>
+    array (
+      'x86' =>
+      array (
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.5.4/php_mongo-1.5.4-5.4-nts-VC9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.5.4/php_mongo-1.5.4-5.5-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.5.4/php_mongo-1.5.4-5.6-nts-VC11-x86.zip',
+      ),
+      'x64' =>
+      array (
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.5.4/php_mongo-1.5.4-5.5-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.5.4/php_mongo-1.5.4-5.6-nts-VC11-x64.zip',
+      ),
+    ),
+    '1.5.5' =>
+    array (
+      'x86' =>
+      array (
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.5.5/php_mongo-1.5.5-5.4-nts-VC9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.5.5/php_mongo-1.5.5-5.5-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.5.5/php_mongo-1.5.5-5.6-nts-VC11-x86.zip',
+      ),
+      'x64' =>
+      array (
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.5.5/php_mongo-1.5.5-5.5-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.5.5/php_mongo-1.5.5-5.6-nts-VC11-x64.zip',
+      ),
     ),
     'latest' =>
     array (
-      'version' => '3.0.8',
+      'version' => '1.5.5',
       'url' =>
       array (
+        'x86' =>
+        array (
+          '5.4' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.5.5/php_mongo-1.5.5-5.4-nts-VC9-x86.zip',
+          '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.5.5/php_mongo-1.5.5-5.5-nts-VC11-x86.zip',
+          '5.6' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.5.5/php_mongo-1.5.5-5.6-nts-VC11-x86.zip',
+        ),
+        'x64' =>
+        array (
+          '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.5.5/php_mongo-1.5.5-5.5-nts-VC11-x64.zip',
+          '5.6' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.5.5/php_mongo-1.5.5-5.6-nts-VC11-x64.zip',
+        ),
       ),
     ),
   ),
