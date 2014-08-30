@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Sat, 30 Aug 2014 15:30:16 +0000.
+    * Last Update Sat, 30 Aug 2014 15:40:30 +0000.
     * Do not edit manually!
     */
 
@@ -787,28 +787,36 @@
   array (
     'name' => 'PHP Extension APC',
     'website' => 'http://php.net/apc/',
-    '3.1.10' =>
-    array (
-      '5.3' => 'http://downloads.php.net/pierre/php_apc-3.1.10-5.3-vc9-x86.zip',
-    ),
     '3.1.11' =>
     array (
-      '5.4' => 'http://windows.php.net/downloads/pecl/releases/apc/3.1.11/php_apc-3.1.11-5.4-nts-vc9-x86.zip',
+      'x86' =>
+      array (
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/apc/3.1.11/php_apc-3.1.11-5.4-nts-VC9-x86.zip',
+      ),
     ),
     '3.1.12' =>
     array (
-      '5.4' => 'http://windows.php.net/downloads/pecl/releases/apc/3.1.12/php_apc-3.1.12-5.4-nts-vc9-x86.zip',
+      'x86' =>
+      array (
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/apc/3.1.12/php_apc-3.1.12-5.4-nts-VC9-x86.zip',
+      ),
     ),
     '3.1.13' =>
     array (
-      '5.4' => 'http://windows.php.net/downloads/pecl/releases/apc/3.1.13/php_apc-3.1.13-5.4-nts-vc9-x86.zip',
+      'x86' =>
+      array (
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/apc/3.1.13/php_apc-3.1.13-5.4-nts-VC9-x86.zip',
+      ),
     ),
     'latest' =>
     array (
       'version' => '3.1.13',
       'url' =>
       array (
-        '5.4' => 'http://windows.php.net/downloads/pecl/releases/apc/3.1.13/php_apc-3.1.13-5.4-nts-vc9-x86.zip',
+        'x86' =>
+        array (
+          '5.4' => 'http://windows.php.net/downloads/pecl/releases/apc/3.1.13/php_apc-3.1.13-5.4-nts-VC9-x86.zip',
+        ),
       ),
     ),
   ),
@@ -816,20 +824,14 @@
   array (
     'name' => 'PHP Extension Imagick',
     'website' => 'http://php.net/imagick',
-    '3.2.0b1' =>
+    '0.0.0' =>
     array (
-      '5.4' => 'http://windows.php.net/downloads/pecl/releases/imagick/3.2.0b1/php_imagick-3.2.0b1-5.4-nts-vc9-x86.zip',
-    ),
-    '3.2.0b2' =>
-    array (
-      '5.4' => 'http://windows.php.net/downloads/pecl/releases/imagick/3.2.0b2/php_imagick-3.2.0b2-5.4-nts-vc9-x86.zip',
     ),
     'latest' =>
     array (
-      'version' => '3.2.0b2',
+      'version' => '0.0.0',
       'url' =>
       array (
-        '5.4' => 'http://windows.php.net/downloads/pecl/releases/imagick/3.2.0b2/php_imagick-3.2.0b2-5.4-nts-vc9-x86.zip',
       ),
     ),
   ),
@@ -837,18 +839,14 @@
   array (
     'name' => 'PHP Extension AMQP',
     'website' => 'http://php.net/mailparse',
-    '2.1.6' =>
+    '0.0.0' =>
     array (
-      '5.4' => 'http://windows.php.net/downloads/pecl/releases/mailparse/2.1.6/php_mailparse-2.1.6-5.4-nts-vc9-x86.zip',
-      '5.5' => 'http://windows.php.net/downloads/pecl/releases/mailparse/2.1.6/php_mailparse-2.1.6-5.5-nts-vc11-x86.zip',
     ),
     'latest' =>
     array (
-      'version' => '2.1.6',
+      'version' => '0.0.0',
       'url' =>
       array (
-        '5.4' => 'http://windows.php.net/downloads/pecl/releases/mailparse/2.1.6/php_mailparse-2.1.6-5.4-nts-vc9-x86.zip',
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/mailparse/2.1.6/php_mailparse-2.1.6-5.5-nts-vc11-x86.zip',
       ),
     ),
   ),
@@ -856,24 +854,14 @@
   array (
     'name' => 'PHP Extension Memcache',
     'website' => 'http://php.net/memcache/',
-    '2.2.6' =>
+    '0.0.0' =>
     array (
-      '5.3' => 'http://downloads.php.net/pierre/php_memcache-2.2.6-5.3-vc9-x86.zip',
-    ),
-    '2.2.7' =>
-    array (
-      '5.4' => 'http://windows.php.net/downloads/pecl/releases/memcache/2.2.7/php_memcache-2.2.7-5.4-nts-vc9-x86.zip',
-    ),
-    '3.0.8' =>
-    array (
-      '5.4' => 'http://windows.php.net/downloads/pecl/releases/memcache/3.0.8/php_memcache-3.0.8-5.4-nts-vc9-x86.zip',
     ),
     'latest' =>
     array (
-      'version' => '3.0.8',
+      'version' => '0.0.0',
       'url' =>
       array (
-        '5.4' => 'http://windows.php.net/downloads/pecl/releases/memcache/3.0.8/php_memcache-3.0.8-5.4-nts-vc9-x86.zip',
       ),
     ),
   ),
@@ -881,64 +869,14 @@
   array (
     'name' => 'PHP Extension Mongo',
     'website' => 'http://www.mongodb.org/display/DOCS/PHP+Language+Center/',
-    '1.3.2RC1' =>
+    '0.0.0' =>
     array (
-      '5.4' => 'http://github.com/downloads/mongodb/mongo-php-driver/php_mongo-1.3.2RC1.zip',
-    ),
-    '1.3.2' =>
-    array (
-      '5.4' => 'http://s3.amazonaws.com/drivers.mongodb.org/php/php_mongo-1.3.2.zip',
-    ),
-    '1.3.3' =>
-    array (
-      '5.4' => 'http://s3.amazonaws.com/drivers.mongodb.org/php/php_mongo-1.3.3.zip',
-    ),
-    '1.3.4' =>
-    array (
-      '5.4' => 'http://s3.amazonaws.com/drivers.mongodb.org/php/php_mongo-1.3.4.zip',
-    ),
-    '1.3.5' =>
-    array (
-      '5.4' => 'http://s3.amazonaws.com/drivers.mongodb.org/php/php_mongo-1.3.5.zip',
-    ),
-    '1.3.6' =>
-    array (
-      '5.4' => 'http://s3.amazonaws.com/drivers.mongodb.org/php/php_mongo-1.3.6.zip',
-    ),
-    '1.3.7' =>
-    array (
-      '5.4' => 'http://s3.amazonaws.com/drivers.mongodb.org/php/php_mongo-1.3.7.zip',
-    ),
-    '1.4.0' =>
-    array (
-      '5.4' => 'http://s3.amazonaws.com/drivers.mongodb.org/php/php_mongo-1.4.0.zip',
-    ),
-    '1.4.1' =>
-    array (
-      '5.4' => 'http://s3.amazonaws.com/drivers.mongodb.org/php/php_mongo-1.4.1.zip',
-    ),
-    '1.4.2' =>
-    array (
-      '5.4' => 'http://s3.amazonaws.com/drivers.mongodb.org/php/php_mongo-1.4.2.zip',
-    ),
-    '1.4.3' =>
-    array (
-      '5.4' => 'http://s3.amazonaws.com/drivers.mongodb.org/php/php_mongo-1.4.3.zip',
-    ),
-    '1.4.4' =>
-    array (
-      '5.4' => 'http://s3.amazonaws.com/drivers.mongodb.org/php/php_mongo-1.4.4.zip',
-    ),
-    '1.4.5' =>
-    array (
-      '5.4' => 'http://s3.amazonaws.com/drivers.mongodb.org/php/php_mongo-1.4.5.zip',
     ),
     'latest' =>
     array (
-      'version' => '1.4.5',
+      'version' => '0.0.0',
       'url' =>
       array (
-        '5.4' => 'http://s3.amazonaws.com/drivers.mongodb.org/php/php_mongo-1.4.5.zip',
       ),
     ),
   ),
@@ -987,20 +925,14 @@
   array (
     'name' => 'PHP Extension RAR',
     'website' => 'http://php.net/rar',
-    '3.0.1' =>
+    '0.0.0' =>
     array (
-      '5.4' => 'http://windows.php.net/downloads/pecl/releases/rar/3.0.1/php_rar-3.0.1-5.4-nts-vc9-x86.zip',
-    ),
-    '3.0.2' =>
-    array (
-      '5.4' => 'http://windows.php.net/downloads/pecl/releases/rar/3.0.2/php_rar-3.0.2-5.4-nts-vc9-x86.zip',
     ),
     'latest' =>
     array (
-      'version' => '3.0.2',
+      'version' => '0.0.0',
       'url' =>
       array (
-        '5.4' => 'http://windows.php.net/downloads/pecl/releases/rar/3.0.2/php_rar-3.0.2-5.4-nts-vc9-x86.zip',
       ),
     ),
   ),
@@ -1008,16 +940,14 @@
   array (
     'name' => 'PHP Extension Trader',
     'website' => 'http://php.net/trader',
-    '0.3.0' =>
+    '0.0.0' =>
     array (
-      '5.4' => 'http://windows.php.net/downloads/pecl/releases/trader/0.3.0/php_trader-0.3.0-5.4-nts-vc9-x86.zip',
     ),
     'latest' =>
     array (
-      'version' => '0.3.0',
+      'version' => '0.0.0',
       'url' =>
       array (
-        '5.4' => 'http://windows.php.net/downloads/pecl/releases/trader/0.3.0/php_trader-0.3.0-5.4-nts-vc9-x86.zip',
       ),
     ),
   ),
@@ -1025,18 +955,14 @@
   array (
     'name' => 'PHP Extension UploadProgress',
     'website' => 'http://php.net/imagick',
-    '1.0.3.1' =>
+    '0.0.0' =>
     array (
-      '5.4' => 'http://windows.php.net/downloads/pecl/releases/uploadprogress/1.0.3.1/php_uploadprogress-1.0.3.1-5.4-nts-vc9-x86.zip',
-      '5.5' => 'http://windows.php.net/downloads/pecl/releases/uploadprogress/1.0.3.1/php_uploadprogress-1.0.3.1-5.5-nts-vc11-x86.zip',
     ),
     'latest' =>
     array (
-      'version' => '1.0.3.1',
+      'version' => '0.0.0',
       'url' =>
       array (
-        '5.4' => 'http://windows.php.net/downloads/pecl/releases/uploadprogress/1.0.3.1/php_uploadprogress-1.0.3.1-5.4-nts-vc9-x86.zip',
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/uploadprogress/1.0.3.1/php_uploadprogress-1.0.3.1-5.5-nts-vc11-x86.zip',
       ),
     ),
   ),
@@ -1063,24 +989,14 @@
   array (
     'name' => 'PHP Extension Varnish',
     'website' => 'http://pecl.php.net/package/varnish/',
-    '1.0' =>
+    '0.0.0' =>
     array (
-      '5.4' => 'http://windows.php.net/downloads/pecl/releases/varnish/1.0.0/php_varnish-1.0.0-5.4-nts-vc9-x86.zip',
-    ),
-    '1.1.0' =>
-    array (
-      '5.4' => 'http://windows.php.net/downloads/pecl/releases/varnish/1.1.0/php_varnish-1.1.0-5.4-nts-vc9-x86.zip',
-    ),
-    '1.1.1' =>
-    array (
-      '5.4' => 'http://windows.php.net/downloads/pecl/releases/varnish/1.1.1/php_varnish-1.1.1-5.4-nts-vc9-x86.zip',
     ),
     'latest' =>
     array (
-      'version' => '1.1.1',
+      'version' => '0.0.0',
       'url' =>
       array (
-        '5.4' => 'http://windows.php.net/downloads/pecl/releases/varnish/1.1.1/php_varnish-1.1.1-5.4-nts-vc9-x86.zip',
       ),
     ),
   ),
@@ -1195,16 +1111,14 @@
   array (
     'name' => 'PHP Extension XHProf',
     'website' => 'https://github.com/facebook/xhprof/',
-    '0.10.6' =>
+    '0.0.0' =>
     array (
-      '5.4' => 'http://windows.php.net/downloads/pecl/releases/xhprof/0.10.6/php_xhprof-0.10.6-5.4-nts-vc9-x86.zip',
     ),
     'latest' =>
     array (
-      'version' => '0.10.6',
+      'version' => '0.0.0',
       'url' =>
       array (
-        '5.4' => 'http://windows.php.net/downloads/pecl/releases/xhprof/0.10.6/php_xhprof-0.10.6-5.4-nts-vc9-x86.zip',
       ),
     ),
   ),
@@ -1212,16 +1126,14 @@
   array (
     'name' => 'PHP Extension ZeroMQ',
     'website' => 'https://github.com/mkoppanen/php-zmq',
-    '1.1.2' =>
+    '0.0.0' =>
     array (
-      '5.4' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.1.2/php_zmq-1.1.2-5.4-nts-vc9-x86.zip',
     ),
     'latest' =>
     array (
-      'version' => '1.1.2',
+      'version' => '0.0.0',
       'url' =>
       array (
-        '5.4' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.1.2/php_zmq-1.1.2-5.4-nts-vc9-x86.zip',
       ),
     ),
   ),
