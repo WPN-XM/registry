@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Fri, 29 Aug 2014 00:37:15 +0000.
+    * Last Update Sat, 30 Aug 2014 15:30:16 +0000.
     * Do not edit manually!
     */
 
@@ -737,22 +737,49 @@
     'website' => 'http://php.net/amqp',
     '1.2.0' =>
     array (
-      '5.4' => 'http://windows.php.net/downloads/pecl/releases/amqp/1.2.0/php_amqp-1.2.0-5.4-nts-vc9-x86.zip',
+      'x86' =>
+      array (
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/amqp/1.2.0/php_amqp-1.2.0-5.4-nts-VC9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/amqp/1.2.0/php_amqp-1.2.0-5.5-nts-VC11-x86.zip',
+      ),
+      'x64' =>
+      array (
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/amqp/1.2.0/php_amqp-1.2.0-5.5-nts-VC11-x64.zip',
+      ),
     ),
-    '1.4.0beta2' =>
+    '1.3.0' =>
     array (
-      '5.4' => 'http://windows.php.net/downloads/pecl/releases/amqp/1.4.0beta2/php_amqp-1.4.0beta2-5.4-nts-vc9-x86.zip',
     ),
     '1.4.0' =>
     array (
-      '5.4' => 'http://windows.php.net/downloads/pecl/releases/amqp/1.4.0/php_amqp-1.4.0-5.4-nts-vc9-x86.zip',
+      'x86' =>
+      array (
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/amqp/1.4.0/php_amqp-1.4.0-5.4-nts-VC9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/amqp/1.4.0/php_amqp-1.4.0-5.5-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/amqp/1.4.0/php_amqp-1.4.0-5.6-nts-VC11-x86.zip',
+      ),
+      'x64' =>
+      array (
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/amqp/1.4.0/php_amqp-1.4.0-5.5-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/amqp/1.4.0/php_amqp-1.4.0-5.6-nts-VC11-x64.zip',
+      ),
     ),
     'latest' =>
     array (
       'version' => '1.4.0',
       'url' =>
       array (
-        '5.4' => 'http://windows.php.net/downloads/pecl/releases/amqp/1.4.0/php_amqp-1.4.0-5.4-nts-vc9-x86.zip',
+        'x86' =>
+        array (
+          '5.4' => 'http://windows.php.net/downloads/pecl/releases/amqp/1.4.0/php_amqp-1.4.0-5.4-nts-VC9-x86.zip',
+          '5.5' => 'http://windows.php.net/downloads/pecl/releases/amqp/1.4.0/php_amqp-1.4.0-5.5-nts-VC11-x86.zip',
+          '5.6' => 'http://windows.php.net/downloads/pecl/releases/amqp/1.4.0/php_amqp-1.4.0-5.6-nts-VC11-x86.zip',
+        ),
+        'x64' =>
+        array (
+          '5.5' => 'http://windows.php.net/downloads/pecl/releases/amqp/1.4.0/php_amqp-1.4.0-5.5-nts-VC11-x64.zip',
+          '5.6' => 'http://windows.php.net/downloads/pecl/releases/amqp/1.4.0/php_amqp-1.4.0-5.6-nts-VC11-x64.zip',
+        ),
       ),
     ),
   ),
