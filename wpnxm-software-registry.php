@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Sat, 30 Aug 2014 16:27:34 +0000.
+    * Last Update Sat, 30 Aug 2014 16:52:15 +0000.
     * Do not edit manually!
     */
 
@@ -1360,16 +1360,35 @@
   array (
     'name' => 'PHP Extension Wincache',
     'website' => 'http://sourceforge.net/projects/wincache/',
-    '1.3.4.0' =>
+    '0.0.0' =>
     array (
-      '5.4' => 'http://sunet.dl.sourceforge.net/project/wincache/wincache-1.3.4/wincache-1.3.4-5.4-nts-vc9-x86.exe',
+    ),
+    '1.0.0' =>
+    array (
+    ),
+    '1.0.1' =>
+    array (
+    ),
+    '1.1.0' =>
+    array (
+    ),
+    '1.2.614' =>
+    array (
+    ),
+    '1.3.4' =>
+    array (
+    ),
+    '1.3.5' =>
+    array (
+    ),
+    '1.3.6' =>
+    array (
     ),
     'latest' =>
     array (
-      'version' => '1.3.4.0',
+      'version' => '1.3.6',
       'url' =>
       array (
-        '5.4' => 'http://sunet.dl.sourceforge.net/project/wincache/wincache-1.3.4/wincache-1.3.4-5.4-nts-vc9-x86.exe',
       ),
     ),
   ),
