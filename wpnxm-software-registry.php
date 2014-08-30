@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Sat, 30 Aug 2014 16:53:58 +0000.
+    * Last Update Sat, 30 Aug 2014 17:23:29 +0000.
     * Do not edit manually!
     */
 
@@ -1360,35 +1360,45 @@
   array (
     'name' => 'PHP Extension Wincache',
     'website' => 'http://sourceforge.net/projects/wincache/',
-    '0.0.0' =>
+    '1.3.5.0' =>
     array (
+      'x86' =>
+      array (
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/wincache/1.3.5.0/php_wincache-1.3.5.0-5.4-nts-VC9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/wincache/1.3.5.0/php_wincache-1.3.5.0-5.5-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/wincache/1.3.5.0/php_wincache-1.3.5.0-5.6-nts-VC11-x86.zip',
+      ),
     ),
-    '1.0.0' =>
+    '1.3.6.1' =>
     array (
-    ),
-    '1.0.1' =>
-    array (
-    ),
-    '1.1.0' =>
-    array (
-    ),
-    '1.2.614' =>
-    array (
-    ),
-    '1.3.4' =>
-    array (
-    ),
-    '1.3.5' =>
-    array (
-    ),
-    '1.3.6' =>
-    array (
+      'x86' =>
+      array (
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/wincache/1.3.6.1/php_wincache-1.3.6.1-5.4-nts-VC9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/wincache/1.3.6.1/php_wincache-1.3.6.1-5.5-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/wincache/1.3.6.1/php_wincache-1.3.6.1-5.6-nts-VC11-x86.zip',
+      ),
+      'x64' =>
+      array (
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/wincache/1.3.6.1/php_wincache-1.3.6.1-5.5-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/wincache/1.3.6.1/php_wincache-1.3.6.1-5.6-nts-VC11-x64.zip',
+      ),
     ),
     'latest' =>
     array (
-      'version' => '1.3.6',
+      'version' => '1.3.6.1',
       'url' =>
       array (
+        'x86' =>
+        array (
+          '5.4' => 'http://windows.php.net/downloads/pecl/releases/wincache/1.3.6.1/php_wincache-1.3.6.1-5.4-nts-VC9-x86.zip',
+          '5.5' => 'http://windows.php.net/downloads/pecl/releases/wincache/1.3.6.1/php_wincache-1.3.6.1-5.5-nts-VC11-x86.zip',
+          '5.6' => 'http://windows.php.net/downloads/pecl/releases/wincache/1.3.6.1/php_wincache-1.3.6.1-5.6-nts-VC11-x86.zip',
+        ),
+        'x64' =>
+        array (
+          '5.5' => 'http://windows.php.net/downloads/pecl/releases/wincache/1.3.6.1/php_wincache-1.3.6.1-5.5-nts-VC11-x64.zip',
+          '5.6' => 'http://windows.php.net/downloads/pecl/releases/wincache/1.3.6.1/php_wincache-1.3.6.1-5.6-nts-VC11-x64.zip',
+        ),
       ),
     ),
   ),
