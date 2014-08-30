@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Sat, 30 Aug 2014 15:43:28 +0000.
+    * Last Update Sat, 30 Aug 2014 15:45:09 +0000.
     * Do not edit manually!
     */
 
@@ -873,16 +873,34 @@
   ),
   'phpext_mailparse' =>
   array (
-    'name' => 'PHP Extension AMQP',
+    'name' => 'PHP Extension Mailparse',
     'website' => 'http://php.net/mailparse',
-    '0.0.0' =>
+    '2.1.6' =>
     array (
+      'x86' =>
+      array (
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/mailparse/2.1.6/php_mailparse-2.1.6-5.4-nts-VC9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/mailparse/2.1.6/php_mailparse-2.1.6-5.5-nts-VC11-x86.zip',
+      ),
+      'x64' =>
+      array (
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/mailparse/2.1.6/php_mailparse-2.1.6-5.5-nts-VC11-x64.zip',
+      ),
     ),
     'latest' =>
     array (
-      'version' => '0.0.0',
+      'version' => '2.1.6',
       'url' =>
       array (
+        'x86' =>
+        array (
+          '5.4' => 'http://windows.php.net/downloads/pecl/releases/mailparse/2.1.6/php_mailparse-2.1.6-5.4-nts-VC9-x86.zip',
+          '5.5' => 'http://windows.php.net/downloads/pecl/releases/mailparse/2.1.6/php_mailparse-2.1.6-5.5-nts-VC11-x86.zip',
+        ),
+        'x64' =>
+        array (
+          '5.5' => 'http://windows.php.net/downloads/pecl/releases/mailparse/2.1.6/php_mailparse-2.1.6-5.5-nts-VC11-x64.zip',
+        ),
       ),
     ),
   ),
