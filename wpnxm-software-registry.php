@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Sat, 30 Aug 2014 15:46:35 +0000.
+    * Last Update Sat, 30 Aug 2014 15:49:29 +0000.
     * Do not edit manually!
     */
 
@@ -1001,14 +1001,43 @@
   array (
     'name' => 'PHP Extension RAR',
     'website' => 'http://php.net/rar',
-    '0.0.0' =>
+    '3.0.1' =>
     array (
+      'x86' =>
+      array (
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/rar/3.0.1/php_rar-3.0.1-5.4-nts-VC9-x86.zip',
+      ),
+    ),
+    '3.0.2' =>
+    array (
+      'x86' =>
+      array (
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/rar/3.0.2/php_rar-3.0.2-5.4-nts-VC9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/rar/3.0.2/php_rar-3.0.2-5.5-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/rar/3.0.2/php_rar-3.0.2-5.6-nts-VC11-x86.zip',
+      ),
+      'x64' =>
+      array (
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/rar/3.0.2/php_rar-3.0.2-5.5-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/rar/3.0.2/php_rar-3.0.2-5.6-nts-VC11-x64.zip',
+      ),
     ),
     'latest' =>
     array (
-      'version' => '0.0.0',
+      'version' => '3.0.2',
       'url' =>
       array (
+        'x86' =>
+        array (
+          '5.4' => 'http://windows.php.net/downloads/pecl/releases/rar/3.0.2/php_rar-3.0.2-5.4-nts-VC9-x86.zip',
+          '5.5' => 'http://windows.php.net/downloads/pecl/releases/rar/3.0.2/php_rar-3.0.2-5.5-nts-VC11-x86.zip',
+          '5.6' => 'http://windows.php.net/downloads/pecl/releases/rar/3.0.2/php_rar-3.0.2-5.6-nts-VC11-x86.zip',
+        ),
+        'x64' =>
+        array (
+          '5.5' => 'http://windows.php.net/downloads/pecl/releases/rar/3.0.2/php_rar-3.0.2-5.5-nts-VC11-x64.zip',
+          '5.6' => 'http://windows.php.net/downloads/pecl/releases/rar/3.0.2/php_rar-3.0.2-5.6-nts-VC11-x64.zip',
+        ),
       ),
     ),
   ),
