@@ -1434,21 +1434,6 @@
       ),
     ),
   ),
-  'phpext_xcache' =>
-  array (
-    'name' => 'PHP Extension XCache',
-    'website' => 'http://xcache.lighttpd.net/',
-    0 =>
-    array (
-    ),
-    'latest' =>
-    array (
-      'version' => '0',
-      'url' =>
-      array (
-      ),
-    ),
-  ),
   'phpext_xdebug' =>
   array (
     'name' => 'XDebug',
