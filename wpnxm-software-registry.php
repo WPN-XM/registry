@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Sun, 31 Aug 2014 16:09:39 +0000.
+    * Last Update Sun, 31 Aug 2014 19:47:26 +0000.
     * Do not edit manually!
     */
 
@@ -1453,19 +1453,63 @@
   array (
     'name' => 'XDebug',
     'website' => 'http://xdebug.org/',
-    0 =>
+    '2.2.3' =>
     array (
+      'x86' =>
+      array (
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.2.3/php_xdebug-2.2.3-5.4-nts-VC9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.2.3/php_xdebug-2.2.3-5.5-nts-VC11-x86.zip',
+      ),
+      'x64' =>
+      array (
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.2.3/php_xdebug-2.2.3-5.5-nts-VC11-x64.zip',
+      ),
     ),
-    '2.2.0' => 'http://xdebug.org/files/php_xdebug-2.2.0-5.4-vc9-nts.dll',
-    '2.2.1' => 'http://xdebug.org/files/php_xdebug-2.2.1-5.4-vc9-nts.dll',
-    '2.2.2' => 'http://xdebug.org/files/php_xdebug-2.2.2-5.4-vc9-nts.dll',
-    '2.2.3' => 'http://xdebug.org/files/php_xdebug-2.2.3-5.4-vc9-nts.dll',
-    '2.2.4' => 'http://xdebug.org/files/php_xdebug-2.2.4-5.4-vc9-nts.dll',
-    '2.2.5' => 'http://xdebug.org/files/php_xdebug-2.2.5-5.4-vc9-nts.dll',
+    '2.2.4' =>
+    array (
+      'x86' =>
+      array (
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.2.4/php_xdebug-2.2.4-5.4-nts-VC9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.2.4/php_xdebug-2.2.4-5.5-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.2.4/php_xdebug-2.2.4-5.6-nts-VC11-x86.zip',
+      ),
+      'x64' =>
+      array (
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.2.4/php_xdebug-2.2.4-5.5-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.2.4/php_xdebug-2.2.4-5.6-nts-VC11-x64.zip',
+      ),
+    ),
+    '2.2.5' =>
+    array (
+      'x86' =>
+      array (
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.2.5/php_xdebug-2.2.5-5.4-nts-VC9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.2.5/php_xdebug-2.2.5-5.5-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.2.5/php_xdebug-2.2.5-5.6-nts-VC11-x86.zip',
+      ),
+      'x64' =>
+      array (
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.2.5/php_xdebug-2.2.5-5.5-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.2.5/php_xdebug-2.2.5-5.6-nts-VC11-x64.zip',
+      ),
+    ),
     'latest' =>
     array (
       'version' => '2.2.5',
-      'url' => 'http://xdebug.org/files/php_xdebug-2.2.5-5.4-vc9-nts.dll',
+      'url' =>
+      array (
+        'x86' =>
+        array (
+          '5.4' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.2.5/php_xdebug-2.2.5-5.4-nts-VC9-x86.zip',
+          '5.5' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.2.5/php_xdebug-2.2.5-5.5-nts-VC11-x86.zip',
+          '5.6' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.2.5/php_xdebug-2.2.5-5.6-nts-VC11-x86.zip',
+        ),
+        'x64' =>
+        array (
+          '5.5' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.2.5/php_xdebug-2.2.5-5.5-nts-VC11-x64.zip',
+          '5.6' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.2.5/php_xdebug-2.2.5-5.6-nts-VC11-x64.zip',
+        ),
+      ),
     ),
   ),
   'phpext_xhprof' =>
