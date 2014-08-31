@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Sun, 31 Aug 2014 16:06:48 +0000.
+    * Last Update Sun, 31 Aug 2014 16:09:39 +0000.
     * Do not edit manually!
     */
 
@@ -1438,20 +1438,14 @@
   array (
     'name' => 'PHP Extension XCache',
     'website' => 'http://xcache.lighttpd.net/',
-    '3.0.4' =>
+    0 =>
     array (
-      '5.4' => 'http://xcache.lighttpd.net/pub/Releases/3.0.4/XCache-3.0.4-php-5.4.20-Win32-VC9-x86.zip',
-    ),
-    '3.1.0' =>
-    array (
-      '5.4' => 'http://xcache.lighttpd.net/pub/Releases/3.1.0/XCache-3.1.0-php-5.4.20-Win32-VC9-x86.zip',
     ),
     'latest' =>
     array (
-      'version' => '3.1.0',
+      'version' => '0',
       'url' =>
       array (
-        '5.4' => 'http://xcache.lighttpd.net/pub/Releases/3.1.0/XCache-3.1.0-php-5.4.20-Win32-VC9-x86.zip',
       ),
     ),
   ),
@@ -1459,69 +1453,19 @@
   array (
     'name' => 'XDebug',
     'website' => 'http://xdebug.org/',
-    '2.0.4' =>
+    0 =>
     array (
-      '5.3' => 'http://xdebug.org/files/php_xdebug-2.0.4-5.3.0-vc9-nts.dll',
     ),
-    '2.0.5' =>
-    array (
-      '5.3' => 'http://xdebug.org/files/php_xdebug-2.0.5-5.3-vc9-nts.dll',
-    ),
-    '2.1.0' =>
-    array (
-      '5.3' => 'http://xdebug.org/files/php_xdebug-2.1.0beta3-5.3-vc9-nts.dll',
-    ),
-    '2.1.1' =>
-    array (
-      '5.3' => 'http://xdebug.org/files/php_xdebug-2.1.1rc1-5.3-vc9-nts.dll',
-    ),
-    '2.1.2' =>
-    array (
-      '5.3' => 'http://xdebug.org/files/php_xdebug-2.1.2-5.3-vc9-nts.dll',
-    ),
-    '2.1.3' =>
-    array (
-      '5.3' => 'http://xdebug.org/files/php_xdebug-2.1.3-5.3-vc9-nts.dll',
-    ),
-    '2.1.4' =>
-    array (
-      '5.3' => 'http://xdebug.org/files/php_xdebug-2.1.4-5.3-vc9-nts.dll',
-    ),
-    '2.2.0RC2' =>
-    array (
-      '5.4' => 'http://xdebug.org/files/php_xdebug-2.2.0RC2-5.4-vc9-nts.dll',
-    ),
-    '2.2.0' =>
-    array (
-      '5.4' => 'http://xdebug.org/files/php_xdebug-2.2.0RC2-5.4-vc9-nts.dll',
-    ),
-    '2.2.1' =>
-    array (
-      '5.4' => 'http://xdebug.org/files/php_xdebug-2.2.1-5.4-vc9-nts.dll',
-    ),
-    '2.2.2' =>
-    array (
-      '5.4' => 'http://xdebug.org/files/php_xdebug-2.2.2-5.4-vc9-nts.dll',
-    ),
-    '2.2.3' =>
-    array (
-      '5.4' => 'http://xdebug.org/files/php_xdebug-2.2.3-5.4-vc9-nts.dll',
-    ),
-    '2.2.4' =>
-    array (
-      '5.4' => 'http://xdebug.org/files/php_xdebug-2.2.4-5.4-vc9-nts.dll',
-    ),
-    '2.2.5' =>
-    array (
-      '5.4' => 'http://xdebug.org/files/php_xdebug-2.2.5-5.4-vc9-nts.dll',
-    ),
+    '2.2.0' => 'http://xdebug.org/files/php_xdebug-2.2.0-5.4-vc9-nts.dll',
+    '2.2.1' => 'http://xdebug.org/files/php_xdebug-2.2.1-5.4-vc9-nts.dll',
+    '2.2.2' => 'http://xdebug.org/files/php_xdebug-2.2.2-5.4-vc9-nts.dll',
+    '2.2.3' => 'http://xdebug.org/files/php_xdebug-2.2.3-5.4-vc9-nts.dll',
+    '2.2.4' => 'http://xdebug.org/files/php_xdebug-2.2.4-5.4-vc9-nts.dll',
+    '2.2.5' => 'http://xdebug.org/files/php_xdebug-2.2.5-5.4-vc9-nts.dll',
     'latest' =>
     array (
       'version' => '2.2.5',
-      'url' =>
-      array (
-        '5.4' => 'http://xdebug.org/files/php_xdebug-2.2.5-5.4-vc9-nts.dll',
-      ),
+      'url' => 'http://xdebug.org/files/php_xdebug-2.2.5-5.4-vc9-nts.dll',
     ),
   ),
   'phpext_xhprof' =>
