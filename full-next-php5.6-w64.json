@@ -18,7 +18,6 @@
 [ "phpext_amqp",            "http:\/\/wpn-xm.org\/get.php?s=phpext_amqp&v=1.4.0&p=5.6",              "phpext_amqp.zip",            "1.4.0" ],
 [ "phpext_apcu",            "http:\/\/wpn-xm.org\/get.php?s=phpext_apcu&v=4.0.6&p=5.6",              "phpext_apcu.zip",            "4.0.6" ],
 [ "phpext_imagick",         "http:\/\/wpn-xm.org\/get.php?s=phpext_imagick&v=3.2.0b2&p=5.6",         "phpext_imagick.zip",         "3.2.0b2" ],
-[ "phpext_mailparse",       "http:\/\/wpn-xm.org\/get.php?s=phpext_mailparse&v=2.1.6&p=5.6",         "phpext_mailparse.zip",       "2.1.6" ],
 [ "phpext_memcache",        "http:\/\/wpn-xm.org\/get.php?s=phpext_memcache&v=3.0.8&p=5.6",          "phpext_memcache.zip",        "3.0.8" ],
 [ "phpext_mongo",           "http:\/\/wpn-xm.org\/get.php?s=phpext_mongo&v=1.4.5&p=5.6",             "phpext_mongo.zip",           "1.4.5" ],
 [ "phpext_msgpack",         "http:\/\/wpn-xm.org\/get.php?s=phpext_msgpack&v=0.5.5&p=5.6",           "phpext_msgpack.zip",         "0.5.5" ],
