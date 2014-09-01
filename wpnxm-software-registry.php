@@ -805,7 +805,7 @@
     array (
       'x86' =>
       array (
-        '5.4' => 'http://windows.php.net/downloads/pecl/releases/apc/3.1.13/php_apc-3.1.13-5.4-nts-VC9-x86.zip',
+        '5.4' => 'http://wpn-xm.org/files/php_apc-5.4-nts-VC9-x86.zip',
       ),
     ),
     'latest' =>
@@ -815,7 +815,7 @@
       array (
         'x86' =>
         array (
-          '5.4' => 'http://windows.php.net/downloads/pecl/releases/apc/3.1.13/php_apc-3.1.13-5.4-nts-VC9-x86.zip',
+          '5.4' => 'http://wpn-xm.org/files/php_apc-5.4-nts-VC9-x86.zip',
         ),
       ),
     ),
