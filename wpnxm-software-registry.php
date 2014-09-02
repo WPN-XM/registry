@@ -11,13 +11,12 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Mon, 01 Sep 2014 10:36:53 +0000.
+    * Last Update Tue, 02 Sep 2014 22:20:19 +0000.
     * Do not edit manually!
     */
 
- return array (
-  'adminer' =>
-  array (
+ return array(
+  'adminer' => array(
     'name' => 'Adminer',
     'website' => 'http://adminer.org/',
     '3.5.0' => 'http://garr.dl.sourceforge.net/project/adminer/Adminer/Adminer%203.5.0/adminer-3.5.0.php',
@@ -32,35 +31,29 @@
     '4.0.2' => 'http://garr.dl.sourceforge.net/project/adminer/Adminer/Adminer%204.0.2/adminer-4.0.2.php',
     '4.0.3' => 'http://garr.dl.sourceforge.net/project/adminer/Adminer/Adminer%204.0.3/adminer-4.0.3.php',
     '4.1.0' => 'http://garr.dl.sourceforge.net/project/adminer/Adminer/Adminer%204.1.0/adminer-4.1.0.php',
-    'latest' =>
-    array (
+    'latest' => array(
       'version' => '4.1.0',
       'url' => 'http://garr.dl.sourceforge.net/project/adminer/Adminer/Adminer%204.1.0/adminer-4.1.0.php',
     ),
   ),
-  'closure-compiler' =>
-  array (
+  'closure-compiler' => array(
     'name' => 'Google Closure Compiler',
     'website' => 'http://code.google.com/p/closure-compiler/',
-    'latest' =>
-    array (
+    'latest' => array(
       'version' => 'latest',
       'url' => 'http://dl.google.com/closure-compiler/compiler-latest.zip',
     ),
   ),
-  'composer' =>
-  array (
+  'composer' => array(
     'name' => 'Composer',
     'website' => 'http://getcomposer.org/',
     '1.0' => 'http://getcomposer.org/composer.phar',
-    'latest' =>
-    array (
+    'latest' => array(
       'version' => '1.0',
       'url' => 'http://getcomposer.org/composer.phar',
     ),
   ),
-  'imagick' =>
-  array (
+  'imagick' => array(
     'name' => 'Imagick',
     'website' => 'http://imagemagick.org/',
     '6.8.8-2' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.8-2-Q16-x86-windows.zip',
@@ -78,25 +71,21 @@
     '6.8.9-5' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.9-5-Q16-x86-windows.zip',
     '6.8.9-6' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.9-6-Q16-x86-windows.zip',
     '6.8.9-7' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.9-7-Q16-x86-windows.zip',
-    'latest' =>
-    array (
+    'latest' => array(
       'version' => '6.8.9-7',
       'url' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.8.9-7-Q16-x86-windows.zip',
     ),
   ),
-  'junction' =>
-  array (
+  'junction' => array(
     'name' => 'Junction',
     'website' => 'http://technet.microsoft.com/de-de/sysinternals/bb896768.aspx',
     '1.0' => 'http://download.sysinternals.com/files/Junction.zip',
-    'latest' =>
-    array (
+    'latest' => array(
       'version' => '1.0',
       'url' => 'http://download.sysinternals.com/files/Junction.zip',
     ),
   ),
-  'mariadb' =>
-  array (
+  'mariadb' => array(
     'name' => 'MariaDB',
     'website' => 'http://mariadb.org/',
     '5.1.49' => 'http://archive.mariadb.org/mariadb-5.1.49/kvm-zip-winxp-x86/mariadb-noinstall-5.1.49-win32.zip',
@@ -170,37 +159,31 @@
     '10.0.11' => 'http://archive.mariadb.org/mariadb-10.0.11/win32-packages/mariadb-10.0.11-win32.zip',
     '10.0.12' => 'http://archive.mariadb.org/mariadb-10.0.12/win32-packages/mariadb-10.0.12-win32.zip',
     '10.1.0' => 'http://ftp.hosteurope.de/mirror/archive.mariadb.org/mariadb-10.1.0/win32-packages/mariadb-10.1.0-win32.zip',
-    'latest' =>
-    array (
+    'latest' => array(
       'version' => '10.1.0',
       'url' => 'http://ftp.hosteurope.de/mirror/archive.mariadb.org/mariadb-10.1.0/win32-packages/mariadb-10.1.0-win32.zip',
     ),
   ),
-  'memadmin' =>
-  array (
+  'memadmin' => array(
     'name' => 'Memadmin',
     'website' => 'http://www.junopen.com/memadmin/',
     '1.0.11' => 'https://codeload.github.com/junstor/memadmin/zip/v1.0.11',
     '1.0.12' => 'https://codeload.github.com/junstor/memadmin/zip/v1.0.12',
-    'latest' =>
-    array (
+    'latest' => array(
       'version' => '1.0.12',
       'url' => 'https://codeload.github.com/junstor/memadmin/zip/v1.0.12',
     ),
   ),
-  'memcached' =>
-  array (
+  'memcached' => array(
     'name' => 'Memcached',
     'website' => 'http://memcached.org/',
     '1.4.5' => 'http://downloads.northscale.com/memcached-1.4.5-x86.zip',
-    'latest' =>
-    array (
+    'latest' => array(
       'version' => '1.4.5',
       'url' => 'http://downloads.northscale.com/memcached-1.4.5-x86.zip',
     ),
   ),
-  'mongodb' =>
-  array (
+  'mongodb' => array(
     'name' => 'MongoDB',
     'website' => 'http://mongodb.org/',
     '1.8.5' => 'http://downloads.mongodb.org/win32/mongodb-win32-i386-1.8.5.zip',
@@ -228,14 +211,12 @@
     '2.7.3' => 'http://downloads.mongodb.org/win32/mongodb-win32-i386-2.7.3.zip',
     '2.7.4' => 'http://downloads.mongodb.org/win32/mongodb-win32-i386-2.7.4.zip',
     '2.7.5' => 'http://downloads.mongodb.org/win32/mongodb-win32-i386-2.7.5.zip',
-    'latest' =>
-    array (
+    'latest' => array(
       'version' => '2.7.5',
       'url' => 'http://downloads.mongodb.org/win32/mongodb-win32-i386-2.7.5.zip',
     ),
   ),
-  'nginx' =>
-  array (
+  'nginx' => array(
     'name' => 'Nginx',
     'website' => 'http://nginx.org/',
     '0.7.52' => 'http://www.nginx.org/download/nginx-0.7.52.zip',
@@ -400,14 +381,12 @@
     '1.7.2' => 'http://nginx.org/download/nginx-1.7.2.zip',
     '1.7.3' => 'http://nginx.org/download/nginx-1.7.3.zip',
     '1.7.4' => 'http://nginx.org/download/nginx-1.7.4.zip',
-    'latest' =>
-    array (
+    'latest' => array(
       'version' => '1.7.4',
       'url' => 'http://nginx.org/download/nginx-1.7.4.zip',
     ),
   ),
-  'node' =>
-  array (
+  'node' => array(
     'name' => 'NodeJS',
     'website' => 'http://nodejs.org/',
     '0.10.26' => 'http://nodejs.org/dist/v0.10.26/node.exe',
@@ -425,14 +404,12 @@
     '0.11.11' => 'http://nodejs.org/dist/v0.11.11/node.exe',
     '0.11.12' => 'http://nodejs.org/dist/v0.11.12/node.exe',
     '0.11.13' => 'http://nodejs.org/dist/v0.11.13/node.exe',
-    'latest' =>
-    array (
+    'latest' => array(
       'version' => '0.11.13',
       'url' => 'http://nodejs.org/dist/v0.11.13/node.exe',
     ),
   ),
-  'nodenpm' =>
-  array (
+  'nodenpm' => array(
     'name' => 'NodeNPM',
     'website' => 'http://nodejs.org/',
     '1.1.0' => 'http://nodejs.org/dist/npm/npm-1.1.0.zip',
@@ -572,14 +549,12 @@
     '1.4.10' => 'http://nodejs.org/dist/npm/npm-1.4.10.zip',
     '1.4.11' => 'http://nodejs.org/dist/npm/npm-1.4.11.zip',
     '1.4.12' => 'http://nodejs.org/dist/npm/npm-1.4.12.zip',
-    'latest' =>
-    array (
+    'latest' => array(
       'version' => '1.4.12',
       'url' => 'http://nodejs.org/dist/npm/npm-1.4.12.zip',
     ),
   ),
-  'openssl' =>
-  array (
+  'openssl' => array(
     'name' => 'OpenSSL',
     'website' => 'http://slproweb.com/',
     '1.0.1c' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1c.exe',
@@ -589,25 +564,21 @@
     '1.0.1g' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1g.exe',
     '1.0.1h' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1h.exe',
     '1.0.1i' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1i.exe',
-    'latest' =>
-    array (
+    'latest' => array(
       'version' => '1.0.1i',
       'url' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1i.exe',
     ),
   ),
-  'pear' =>
-  array (
+  'pear' => array(
     'name' => 'PEAR',
     'website' => 'http://pear.php.net/',
     '1.0' => 'http://pear.php.net/go-pear.phar',
-    'latest' =>
-    array (
+    'latest' => array(
       'version' => '1.0',
       'url' => 'http://pear.php.net/go-pear.phar',
     ),
   ),
-  'perl' =>
-  array (
+  'perl' => array(
     'name' => 'Strawberry Perl',
     'website' => 'http://strawberryperl.com/',
     '5.14.2.1' => 'http://strawberryperl.com/download/5.14.2.1/strawberry-perl-5.14.2.1-32bit.zip',
@@ -623,14 +594,12 @@
     '5.18.2.1' => 'http://strawberryperl.com/download/5.18.2.1/strawberry-perl-5.18.2.1-32bit.zip',
     '5.18.2.2' => 'http://strawberryperl.com/download/5.18.2.2/strawberry-perl-5.18.2.2-32bit.zip',
     '5.20.0.1' => 'http://strawberryperl.com/download/5.20.0.1/strawberry-perl-5.20.0.1-32bit.zip',
-    'latest' =>
-    array (
+    'latest' => array(
       'version' => '5.20.0.1',
       'url' => 'http://strawberryperl.com/download/5.20.0.1/strawberry-perl-5.20.0.1-32bit.zip',
     ),
   ),
-  'php' =>
-  array (
+  'php' => array(
     'name' => 'PHP x86',
     'website' => 'http://php.net/',
     '5.4.5' => 'http://windows.php.net/downloads/releases/archives/php-5.4.5-nts-Win32-VC9-x86.zip',
@@ -679,32 +648,26 @@
     '5.5.15' => 'http://windows.php.net/downloads/releases/archives/php-5.5.15-nts-Win32-VC11-x86.zip',
     '5.5.16' => 'http://windows.php.net/downloads/releases/php-5.5.16-nts-Win32-VC11-x86.zip',
     '5.6.0' => 'http://windows.php.net/downloads/releases/php-5.6.0-nts-Win32-VC11-x86.zip',
-    'latest' =>
-    array (
+    'latest' => array(
       'version' => '5.6.0',
       'url' => 'http://windows.php.net/downloads/releases/php-5.6.0-nts-Win32-VC11-x86.zip',
     ),
   ),
-  'php-qa' =>
-  array (
+  'php-qa' => array(
     '5.6.0RC4' => 'http://windows.php.net/downloads/qa/php-5.6.0RC4-nts-Win32-VC11-x86.zip',
-    'latest' =>
-    array (
+    'latest' => array(
       'version' => '5.6.0RC4',
       'url' => 'http://windows.php.net/downloads/qa/php-5.6.0RC4-nts-Win32-VC11-x86.zip',
     ),
   ),
-  'php-qa-x64' =>
-  array (
+  'php-qa-x64' => array(
     '5.6.0RC4' => 'http://windows.php.net/downloads/qa/php-5.6.0RC4-nts-Win32-VC11-x64.zip',
-    'latest' =>
-    array (
+    'latest' => array(
       'version' => '5.6.0RC4',
       'url' => 'http://windows.php.net/downloads/qa/php-5.6.0RC4-nts-Win32-VC11-x64.zip',
     ),
   ),
-  'php-x64' =>
-  array (
+  'php-x64' => array(
     'name' => 'PHP x64',
     'website' => 'http://php.net/',
     '5.5.0' => 'http://windows.php.net/downloads/releases/archives/php-5.5.0-nts-Win32-VC11-x64.zip',
@@ -725,566 +688,437 @@
     '5.5.15' => 'http://windows.php.net/downloads/releases/archives/php-5.5.15-nts-Win32-VC11-x64.zip',
     '5.5.16' => 'http://windows.php.net/downloads/releases/php-5.5.16-nts-Win32-VC11-x64.zip',
     '5.6.0' => 'http://windows.php.net/downloads/releases/php-5.6.0-nts-Win32-VC11-x64.zip',
-    'latest' =>
-    array (
+    'latest' => array(
       'version' => '5.6.0',
       'url' => 'http://windows.php.net/downloads/releases/php-5.6.0-nts-Win32-VC11-x64.zip',
     ),
   ),
-  'phpext_amqp' =>
-  array (
+  'phpext_amqp' => array(
     'name' => 'PHP Extension AMQP',
     'website' => 'http://php.net/amqp',
-    '1.2.0' =>
-    array (
-      'x86' =>
-      array (
+    '1.2.0' => array(
+      'x86' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/amqp/1.2.0/php_amqp-1.2.0-5.4-nts-VC9-x86.zip',
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/amqp/1.2.0/php_amqp-1.2.0-5.5-nts-VC11-x86.zip',
       ),
-      'x64' =>
-      array (
+      'x64' => array(
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/amqp/1.2.0/php_amqp-1.2.0-5.5-nts-VC11-x64.zip',
       ),
     ),
-    '1.3.0' =>
-    array (
+    '1.3.0' => array(
     ),
-    '1.4.0' =>
-    array (
-      'x86' =>
-      array (
+    '1.4.0' => array(
+      'x86' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/amqp/1.4.0/php_amqp-1.4.0-5.4-nts-VC9-x86.zip',
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/amqp/1.4.0/php_amqp-1.4.0-5.5-nts-VC11-x86.zip',
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/amqp/1.4.0/php_amqp-1.4.0-5.6-nts-VC11-x86.zip',
       ),
-      'x64' =>
-      array (
+      'x64' => array(
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/amqp/1.4.0/php_amqp-1.4.0-5.5-nts-VC11-x64.zip',
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/amqp/1.4.0/php_amqp-1.4.0-5.6-nts-VC11-x64.zip',
       ),
     ),
-    'latest' =>
-    array (
+    'latest' => array(
       'version' => '1.4.0',
-      'url' =>
-      array (
-        'x86' =>
-        array (
+      'url' => array(
+        'x86' => array(
           '5.4' => 'http://windows.php.net/downloads/pecl/releases/amqp/1.4.0/php_amqp-1.4.0-5.4-nts-VC9-x86.zip',
           '5.5' => 'http://windows.php.net/downloads/pecl/releases/amqp/1.4.0/php_amqp-1.4.0-5.5-nts-VC11-x86.zip',
           '5.6' => 'http://windows.php.net/downloads/pecl/releases/amqp/1.4.0/php_amqp-1.4.0-5.6-nts-VC11-x86.zip',
         ),
-        'x64' =>
-        array (
+        'x64' => array(
           '5.5' => 'http://windows.php.net/downloads/pecl/releases/amqp/1.4.0/php_amqp-1.4.0-5.5-nts-VC11-x64.zip',
           '5.6' => 'http://windows.php.net/downloads/pecl/releases/amqp/1.4.0/php_amqp-1.4.0-5.6-nts-VC11-x64.zip',
         ),
       ),
     ),
   ),
-  'phpext_apc' =>
-  array (
+  'phpext_apc' => array(
     'name' => 'PHP Extension APC',
     'website' => 'http://php.net/apc/',
-    '3.1.11' =>
-    array (
-      'x86' =>
-      array (
+    '3.1.11' => array(
+      'x86' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/apc/3.1.11/php_apc-3.1.11-5.4-nts-VC9-x86.zip',
       ),
     ),
-    '3.1.12' =>
-    array (
-      'x86' =>
-      array (
+    '3.1.12' => array(
+      'x86' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/apc/3.1.12/php_apc-3.1.12-5.4-nts-VC9-x86.zip',
       ),
     ),
-    '3.1.13' =>
-    array (
-      'x86' =>
-      array (
+    '3.1.13' => array(
+      'x86' => array(
         '5.4' => 'http://wpn-xm.org/files/php_apc-5.4-nts-VC9-x86.zip',
       ),
     ),
-    'latest' =>
-    array (
+    'latest' => array(
       'version' => '3.1.13',
-      'url' =>
-      array (
-        'x86' =>
-        array (
+      'url' => array(
+        'x86' => array(
           '5.4' => 'http://wpn-xm.org/files/php_apc-5.4-nts-VC9-x86.zip',
         ),
       ),
     ),
   ),
-  'phpext_apcu' =>
-  array (
+  'phpext_apcu' => array(
     'name' => 'PHP Extension APCu',
     'website' => 'http://php.net/apcu/',
-    '4.0.0' =>
-    array (
+    '4.0.0' => array(
     ),
-    '4.0.1' =>
-    array (
-      'x86' =>
-      array (
+    '4.0.1' => array(
+      'x86' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.1/php_apcu-4.0.1-5.4-nts-VC9-x86.zip',
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.1/php_apcu-4.0.1-5.5-nts-VC11-x86.zip',
       ),
-      'x64' =>
-      array (
+      'x64' => array(
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.1/php_apcu-4.0.1-5.5-nts-VC11-x64.zip',
       ),
     ),
-    '4.0.2' =>
-    array (
-      'x86' =>
-      array (
+    '4.0.2' => array(
+      'x86' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.2/php_apcu-4.0.2-5.4-nts-VC9-x86.zip',
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.2/php_apcu-4.0.2-5.5-nts-VC11-x86.zip',
       ),
-      'x64' =>
-      array (
+      'x64' => array(
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.2/php_apcu-4.0.2-5.5-nts-VC11-x64.zip',
       ),
     ),
-    '4.0.3' =>
-    array (
-      'x86' =>
-      array (
+    '4.0.3' => array(
+      'x86' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.3/php_apcu-4.0.3-5.4-nts-VC9-x86.zip',
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.3/php_apcu-4.0.3-5.5-nts-VC11-x86.zip',
       ),
-      'x64' =>
-      array (
+      'x64' => array(
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.3/php_apcu-4.0.3-5.5-nts-VC11-x64.zip',
       ),
     ),
-    '4.0.4' =>
-    array (
-      'x86' =>
-      array (
+    '4.0.4' => array(
+      'x86' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.4/php_apcu-4.0.4-5.4-nts-VC9-x86.zip',
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.4/php_apcu-4.0.4-5.5-nts-VC11-x86.zip',
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.4/php_apcu-4.0.4-5.6-nts-VC11-x86.zip',
       ),
-      'x64' =>
-      array (
+      'x64' => array(
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.4/php_apcu-4.0.4-5.5-nts-VC11-x64.zip',
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.4/php_apcu-4.0.4-5.6-nts-VC11-x64.zip',
       ),
     ),
-    '4.0.5' =>
-    array (
-      'x86' =>
-      array (
+    '4.0.5' => array(
+      'x86' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.5/php_apcu-4.0.5-5.4-nts-VC9-x86.zip',
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.5/php_apcu-4.0.5-5.5-nts-VC11-x86.zip',
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.5/php_apcu-4.0.5-5.6-nts-VC11-x86.zip',
       ),
-      'x64' =>
-      array (
+      'x64' => array(
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.5/php_apcu-4.0.5-5.5-nts-VC11-x64.zip',
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.5/php_apcu-4.0.5-5.6-nts-VC11-x64.zip',
       ),
     ),
-    '4.0.6' =>
-    array (
-      'x86' =>
-      array (
+    '4.0.6' => array(
+      'x86' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.6/php_apcu-4.0.6-5.4-nts-VC9-x86.zip',
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.6/php_apcu-4.0.6-5.5-nts-VC11-x86.zip',
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.6/php_apcu-4.0.6-5.6-nts-VC11-x86.zip',
       ),
-      'x64' =>
-      array (
+      'x64' => array(
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.6/php_apcu-4.0.6-5.5-nts-VC11-x64.zip',
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.6/php_apcu-4.0.6-5.6-nts-VC11-x64.zip',
       ),
     ),
-    'latest' =>
-    array (
+    'latest' => array(
       'version' => '4.0.6',
-      'url' =>
-      array (
-        'x86' =>
-        array (
+      'url' => array(
+        'x86' => array(
           '5.4' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.6/php_apcu-4.0.6-5.4-nts-VC9-x86.zip',
           '5.5' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.6/php_apcu-4.0.6-5.5-nts-VC11-x86.zip',
           '5.6' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.6/php_apcu-4.0.6-5.6-nts-VC11-x86.zip',
         ),
-        'x64' =>
-        array (
+        'x64' => array(
           '5.5' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.6/php_apcu-4.0.6-5.5-nts-VC11-x64.zip',
           '5.6' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.6/php_apcu-4.0.6-5.6-nts-VC11-x64.zip',
         ),
       ),
     ),
   ),
-  'phpext_imagick' =>
-  array (
+  'phpext_imagick' => array(
     'name' => 'PHP Extension Imagick',
     'website' => 'http://php.net/imagick',
-    '3.2.0b1' =>
-    array (
-      'x86' =>
-      array (
+    '3.2.0b1' => array(
+      'x86' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/imagick/3.2.0b1/php_imagick-3.2.0b1-5.4-nts-VC9-x86.zip',
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/imagick/3.2.0b1/php_imagick-3.2.0b1-5.5-nts-VC11-x86.zip',
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/imagick/3.2.0b1/php_imagick-3.2.0b1-5.6-nts-VC11-x86.zip',
       ),
-      'x64' =>
-      array (
+      'x64' => array(
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/imagick/3.2.0b1/php_imagick-3.2.0b1-5.5-nts-VC11-x64.zip',
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/imagick/3.2.0b1/php_imagick-3.2.0b1-5.6-nts-VC11-x64.zip',
       ),
     ),
-    '3.2.0b2' =>
-    array (
-      'x86' =>
-      array (
+    '3.2.0b2' => array(
+      'x86' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/imagick/3.2.0b2/php_imagick-3.2.0b2-5.4-nts-VC9-x86.zip',
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/imagick/3.2.0b2/php_imagick-3.2.0b2-5.5-nts-VC11-x86.zip',
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/imagick/3.2.0b2/php_imagick-3.2.0b2-5.6-nts-VC11-x86.zip',
       ),
-      'x64' =>
-      array (
+      'x64' => array(
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/imagick/3.2.0b2/php_imagick-3.2.0b2-5.5-nts-VC11-x64.zip',
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/imagick/3.2.0b2/php_imagick-3.2.0b2-5.6-nts-VC11-x64.zip',
       ),
     ),
-    'latest' =>
-    array (
+    'latest' => array(
       'version' => '3.2.0b2',
-      'url' =>
-      array (
-        'x86' =>
-        array (
+      'url' => array(
+        'x86' => array(
           '5.4' => 'http://windows.php.net/downloads/pecl/releases/imagick/3.2.0b2/php_imagick-3.2.0b2-5.4-nts-VC9-x86.zip',
           '5.5' => 'http://windows.php.net/downloads/pecl/releases/imagick/3.2.0b2/php_imagick-3.2.0b2-5.5-nts-VC11-x86.zip',
           '5.6' => 'http://windows.php.net/downloads/pecl/releases/imagick/3.2.0b2/php_imagick-3.2.0b2-5.6-nts-VC11-x86.zip',
         ),
-        'x64' =>
-        array (
+        'x64' => array(
           '5.5' => 'http://windows.php.net/downloads/pecl/releases/imagick/3.2.0b2/php_imagick-3.2.0b2-5.5-nts-VC11-x64.zip',
           '5.6' => 'http://windows.php.net/downloads/pecl/releases/imagick/3.2.0b2/php_imagick-3.2.0b2-5.6-nts-VC11-x64.zip',
         ),
       ),
     ),
   ),
-  'phpext_mailparse' =>
-  array (
+  'phpext_mailparse' => array(
     'name' => 'PHP Extension Mailparse',
     'website' => 'http://php.net/mailparse',
-    '2.1.6' =>
-    array (
-      'x86' =>
-      array (
+    '2.1.6' => array(
+      'x86' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/mailparse/2.1.6/php_mailparse-2.1.6-5.4-nts-VC9-x86.zip',
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/mailparse/2.1.6/php_mailparse-2.1.6-5.5-nts-VC11-x86.zip',
       ),
-      'x64' =>
-      array (
+      'x64' => array(
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/mailparse/2.1.6/php_mailparse-2.1.6-5.5-nts-VC11-x64.zip',
       ),
     ),
-    'latest' =>
-    array (
+    'latest' => array(
       'version' => '2.1.6',
-      'url' =>
-      array (
-        'x86' =>
-        array (
+      'url' => array(
+        'x86' => array(
           '5.4' => 'http://windows.php.net/downloads/pecl/releases/mailparse/2.1.6/php_mailparse-2.1.6-5.4-nts-VC9-x86.zip',
           '5.5' => 'http://windows.php.net/downloads/pecl/releases/mailparse/2.1.6/php_mailparse-2.1.6-5.5-nts-VC11-x86.zip',
         ),
-        'x64' =>
-        array (
+        'x64' => array(
           '5.5' => 'http://windows.php.net/downloads/pecl/releases/mailparse/2.1.6/php_mailparse-2.1.6-5.5-nts-VC11-x64.zip',
         ),
       ),
     ),
   ),
-  'phpext_memcache' =>
-  array (
+  'phpext_memcache' => array(
     'name' => 'PHP Extension Memcache',
     'website' => 'http://php.net/memcache/',
-    '3.0.8' =>
-    array (
-      'x86' =>
-      array (
+    '3.0.8' => array(
+      'x86' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/memcache/3.0.8/php_memcache-3.0.8-5.4-nts-VC9-x86.zip',
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/memcache/3.0.8/php_memcache-3.0.8-5.5-nts-VC11-x86.zip',
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/memcache/3.0.8/php_memcache-3.0.8-5.6-nts-VC11-x86.zip',
       ),
-      'x64' =>
-      array (
+      'x64' => array(
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/memcache/3.0.8/php_memcache-3.0.8-5.5-nts-VC11-x64.zip',
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/memcache/3.0.8/php_memcache-3.0.8-5.6-nts-VC11-x64.zip',
       ),
     ),
-    'latest' =>
-    array (
+    'latest' => array(
       'version' => '3.0.8',
-      'url' =>
-      array (
-        'x86' =>
-        array (
+      'url' => array(
+        'x86' => array(
           '5.4' => 'http://windows.php.net/downloads/pecl/releases/memcache/3.0.8/php_memcache-3.0.8-5.4-nts-VC9-x86.zip',
           '5.5' => 'http://windows.php.net/downloads/pecl/releases/memcache/3.0.8/php_memcache-3.0.8-5.5-nts-VC11-x86.zip',
           '5.6' => 'http://windows.php.net/downloads/pecl/releases/memcache/3.0.8/php_memcache-3.0.8-5.6-nts-VC11-x86.zip',
         ),
-        'x64' =>
-        array (
+        'x64' => array(
           '5.5' => 'http://windows.php.net/downloads/pecl/releases/memcache/3.0.8/php_memcache-3.0.8-5.5-nts-VC11-x64.zip',
           '5.6' => 'http://windows.php.net/downloads/pecl/releases/memcache/3.0.8/php_memcache-3.0.8-5.6-nts-VC11-x64.zip',
         ),
       ),
     ),
   ),
-  'phpext_mongo' =>
-  array (
+  'phpext_mongo' => array(
     'name' => 'PHP Extension Mongo',
     'website' => 'http://www.mongodb.org/display/DOCS/PHP+Language+Center/',
-    '1.4.2' =>
-    array (
-      'x86' =>
-      array (
+    '1.4.2' => array(
+      'x86' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.4.2/php_mongo-1.4.2-5.4-nts-VC9-x86.zip',
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.4.2/php_mongo-1.4.2-5.5-nts-VC11-x86.zip',
       ),
-      'x64' =>
-      array (
+      'x64' => array(
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.4.2/php_mongo-1.4.2-5.5-nts-VC11-x64.zip',
       ),
     ),
-    '1.4.3' =>
-    array (
-      'x86' =>
-      array (
+    '1.4.3' => array(
+      'x86' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.4.3/php_mongo-1.4.3-5.4-nts-VC9-x86.zip',
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.4.3/php_mongo-1.4.3-5.5-nts-VC11-x86.zip',
       ),
-      'x64' =>
-      array (
+      'x64' => array(
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.4.3/php_mongo-1.4.3-5.5-nts-VC11-x64.zip',
       ),
     ),
-    '1.4.4' =>
-    array (
-      'x86' =>
-      array (
+    '1.4.4' => array(
+      'x86' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.4.4/php_mongo-1.4.4-5.4-nts-VC9-x86.zip',
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.4.4/php_mongo-1.4.4-5.5-nts-VC11-x86.zip',
       ),
-      'x64' =>
-      array (
+      'x64' => array(
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.4.4/php_mongo-1.4.4-5.5-nts-VC11-x64.zip',
       ),
     ),
-    '1.4.5' =>
-    array (
-      'x86' =>
-      array (
+    '1.4.5' => array(
+      'x86' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.4.5/php_mongo-1.4.5-5.4-nts-VC9-x86.zip',
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.4.5/php_mongo-1.4.5-5.5-nts-VC11-x86.zip',
       ),
-      'x64' =>
-      array (
+      'x64' => array(
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.4.5/php_mongo-1.4.5-5.5-nts-VC11-x64.zip',
       ),
     ),
-    '1.5.0' =>
-    array (
+    '1.5.0' => array(
     ),
-    '1.5.1' =>
-    array (
-      'x86' =>
-      array (
+    '1.5.1' => array(
+      'x86' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.5.1/php_mongo-1.5.1-5.4-nts-VC9-x86.zip',
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.5.1/php_mongo-1.5.1-5.5-nts-VC11-x86.zip',
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.5.1/php_mongo-1.5.1-5.6-nts-VC11-x86.zip',
       ),
-      'x64' =>
-      array (
+      'x64' => array(
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.5.1/php_mongo-1.5.1-5.5-nts-VC11-x64.zip',
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.5.1/php_mongo-1.5.1-5.6-nts-VC11-x64.zip',
       ),
     ),
-    '1.5.2' =>
-    array (
-      'x86' =>
-      array (
+    '1.5.2' => array(
+      'x86' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.5.2/php_mongo-1.5.2-5.4-nts-VC9-x86.zip',
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.5.2/php_mongo-1.5.2-5.5-nts-VC11-x86.zip',
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.5.2/php_mongo-1.5.2-5.6-nts-VC11-x86.zip',
       ),
-      'x64' =>
-      array (
+      'x64' => array(
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.5.2/php_mongo-1.5.2-5.5-nts-VC11-x64.zip',
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.5.2/php_mongo-1.5.2-5.6-nts-VC11-x64.zip',
       ),
     ),
-    '1.5.3' =>
-    array (
-      'x86' =>
-      array (
+    '1.5.3' => array(
+      'x86' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.5.3/php_mongo-1.5.3-5.4-nts-VC9-x86.zip',
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.5.3/php_mongo-1.5.3-5.5-nts-VC11-x86.zip',
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.5.3/php_mongo-1.5.3-5.6-nts-VC11-x86.zip',
       ),
-      'x64' =>
-      array (
+      'x64' => array(
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.5.3/php_mongo-1.5.3-5.5-nts-VC11-x64.zip',
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.5.3/php_mongo-1.5.3-5.6-nts-VC11-x64.zip',
       ),
     ),
-    '1.5.4' =>
-    array (
-      'x86' =>
-      array (
+    '1.5.4' => array(
+      'x86' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.5.4/php_mongo-1.5.4-5.4-nts-VC9-x86.zip',
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.5.4/php_mongo-1.5.4-5.5-nts-VC11-x86.zip',
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.5.4/php_mongo-1.5.4-5.6-nts-VC11-x86.zip',
       ),
-      'x64' =>
-      array (
+      'x64' => array(
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.5.4/php_mongo-1.5.4-5.5-nts-VC11-x64.zip',
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.5.4/php_mongo-1.5.4-5.6-nts-VC11-x64.zip',
       ),
     ),
-    '1.5.5' =>
-    array (
-      'x86' =>
-      array (
+    '1.5.5' => array(
+      'x86' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.5.5/php_mongo-1.5.5-5.4-nts-VC9-x86.zip',
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.5.5/php_mongo-1.5.5-5.5-nts-VC11-x86.zip',
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.5.5/php_mongo-1.5.5-5.6-nts-VC11-x86.zip',
       ),
-      'x64' =>
-      array (
+      'x64' => array(
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.5.5/php_mongo-1.5.5-5.5-nts-VC11-x64.zip',
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.5.5/php_mongo-1.5.5-5.6-nts-VC11-x64.zip',
       ),
     ),
-    'latest' =>
-    array (
+    'latest' => array(
       'version' => '1.5.5',
-      'url' =>
-      array (
-        'x86' =>
-        array (
+      'url' => array(
+        'x86' => array(
           '5.4' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.5.5/php_mongo-1.5.5-5.4-nts-VC9-x86.zip',
           '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.5.5/php_mongo-1.5.5-5.5-nts-VC11-x86.zip',
           '5.6' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.5.5/php_mongo-1.5.5-5.6-nts-VC11-x86.zip',
         ),
-        'x64' =>
-        array (
+        'x64' => array(
           '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.5.5/php_mongo-1.5.5-5.5-nts-VC11-x64.zip',
           '5.6' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.5.5/php_mongo-1.5.5-5.6-nts-VC11-x64.zip',
         ),
       ),
     ),
   ),
-  'phpext_msgpack' =>
-  array (
+  'phpext_msgpack' => array(
     'name' => 'PHP Extension MessagePack',
     'website' => 'http://msgpack.org/',
-    '0.5.2' =>
-    array (
-      'x86' =>
-      array (
+    '0.5.2' => array(
+      'x86' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/msgpack/0.5.2/php_msgpack-0.5.2-5.4-nts-VC9-x86.zip',
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/msgpack/0.5.2/php_msgpack-0.5.2-5.5-nts-VC11-x86.zip',
       ),
-      'x64' =>
-      array (
+      'x64' => array(
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/msgpack/0.5.2/php_msgpack-0.5.2-5.5-nts-VC11-x64.zip',
       ),
     ),
-    '0.5.5' =>
-    array (
-      'x86' =>
-      array (
+    '0.5.5' => array(
+      'x86' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/msgpack/0.5.5/php_msgpack-0.5.5-5.4-nts-VC9-x86.zip',
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/msgpack/0.5.5/php_msgpack-0.5.5-5.5-nts-VC11-x86.zip',
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/msgpack/0.5.5/php_msgpack-0.5.5-5.6-nts-VC11-x86.zip',
       ),
-      'x64' =>
-      array (
+      'x64' => array(
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/msgpack/0.5.5/php_msgpack-0.5.5-5.5-nts-VC11-x64.zip',
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/msgpack/0.5.5/php_msgpack-0.5.5-5.6-nts-VC11-x64.zip',
       ),
     ),
-    'latest' =>
-    array (
+    'latest' => array(
       'version' => '0.5.5',
-      'url' =>
-      array (
-        'x86' =>
-        array (
+      'url' => array(
+        'x86' => array(
           '5.4' => 'http://windows.php.net/downloads/pecl/releases/msgpack/0.5.5/php_msgpack-0.5.5-5.4-nts-VC9-x86.zip',
           '5.5' => 'http://windows.php.net/downloads/pecl/releases/msgpack/0.5.5/php_msgpack-0.5.5-5.5-nts-VC11-x86.zip',
           '5.6' => 'http://windows.php.net/downloads/pecl/releases/msgpack/0.5.5/php_msgpack-0.5.5-5.6-nts-VC11-x86.zip',
         ),
-        'x64' =>
-        array (
+        'x64' => array(
           '5.5' => 'http://windows.php.net/downloads/pecl/releases/msgpack/0.5.5/php_msgpack-0.5.5-5.5-nts-VC11-x64.zip',
           '5.6' => 'http://windows.php.net/downloads/pecl/releases/msgpack/0.5.5/php_msgpack-0.5.5-5.6-nts-VC11-x64.zip',
         ),
       ),
     ),
   ),
-  'phpext_phalcon' =>
-  array (
+  'phpext_phalcon' => array(
     'name' => 'PHP Extension Phalcon',
     'website' => 'http://phalconphp.com/',
-    '1.3.1' =>
-    array (
-      'x86' =>
-      array (
+    '1.3.1' => array(
+      'x86' => array(
         '5.4' => 'http://static.phalconphp.com/files/phalcon_x86_VC9_php5.4_1.3.1_nts.zip',
         '5.5' => 'http://static.phalconphp.com/files/phalcon_x86_VC11_php5.5_1.3.1_nts.zip',
         '5.6' => 'http://static.phalconphp.com/files/phalcon_x86_VC11_php5.6_1.3.1_nts.zip',
       ),
-      'x64' =>
-      array (
+      'x64' => array(
         '5.4' => 'http://static.phalconphp.com/files/phalcon_x64_VC9_php5.4_1.3.1_nts.zip',
         '5.5' => 'http://static.phalconphp.com/files/phalcon_x64_VC11_php5.5_1.3.1_nts.zip',
         '5.6' => 'http://static.phalconphp.com/files/phalcon_x64_VC11_php5.6_1.3.1_nts.zip',
       ),
     ),
-    '1.3.2' =>
-    array (
-      'x86' =>
-      array (
+    '1.3.2' => array(
+      'x86' => array(
         '5.4' => 'http://static.phalconphp.com/files/phalcon_x86_VC9_php5.4_1.3.2_nts.zip',
         '5.5' => 'http://static.phalconphp.com/files/phalcon_x86_VC11_php5.5_1.3.2_nts.zip',
         '5.6' => 'http://static.phalconphp.com/files/phalcon_x86_VC11_php5.6_1.3.2_nts.zip',
       ),
-      'x64' =>
-      array (
+      'x64' => array(
         '5.4' => 'http://static.phalconphp.com/files/phalcon_x64_VC9_php5.4_1.3.2_nts.zip',
         '5.5' => 'http://static.phalconphp.com/files/phalcon_x64_VC11_php5.5_1.3.2_nts.zip',
         '5.6' => 'http://static.phalconphp.com/files/phalcon_x64_VC11_php5.6_1.3.2_nts.zip',
       ),
     ),
-    'latest' =>
-    array (
+    'latest' => array(
       'version' => '1.3.2',
-      'url' =>
-      array (
-        'x86' =>
-        array (
+      'url' => array(
+        'x86' => array(
           '5.4' => 'http://static.phalconphp.com/files/phalcon_x86_VC9_php5.4_1.3.2_nts.zip',
           '5.5' => 'http://static.phalconphp.com/files/phalcon_x86_VC11_php5.5_1.3.2_nts.zip',
           '5.6' => 'http://static.phalconphp.com/files/phalcon_x86_VC11_php5.6_1.3.2_nts.zip',
         ),
-        'x64' =>
-        array (
+        'x64' => array(
           '5.4' => 'http://static.phalconphp.com/files/phalcon_x64_VC9_php5.4_1.3.2_nts.zip',
           '5.5' => 'http://static.phalconphp.com/files/phalcon_x64_VC11_php5.5_1.3.2_nts.zip',
           '5.6' => 'http://static.phalconphp.com/files/phalcon_x64_VC11_php5.6_1.3.2_nts.zip',
@@ -1292,441 +1126,342 @@
       ),
     ),
   ),
-  'phpext_rar' =>
-  array (
+  'phpext_rar' => array(
     'name' => 'PHP Extension RAR',
     'website' => 'http://php.net/rar',
-    '3.0.1' =>
-    array (
-      'x86' =>
-      array (
+    '3.0.1' => array(
+      'x86' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/rar/3.0.1/php_rar-3.0.1-5.4-nts-VC9-x86.zip',
       ),
     ),
-    '3.0.2' =>
-    array (
-      'x86' =>
-      array (
+    '3.0.2' => array(
+      'x86' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/rar/3.0.2/php_rar-3.0.2-5.4-nts-VC9-x86.zip',
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/rar/3.0.2/php_rar-3.0.2-5.5-nts-VC11-x86.zip',
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/rar/3.0.2/php_rar-3.0.2-5.6-nts-VC11-x86.zip',
       ),
-      'x64' =>
-      array (
+      'x64' => array(
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/rar/3.0.2/php_rar-3.0.2-5.5-nts-VC11-x64.zip',
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/rar/3.0.2/php_rar-3.0.2-5.6-nts-VC11-x64.zip',
       ),
     ),
-    'latest' =>
-    array (
+    'latest' => array(
       'version' => '3.0.2',
-      'url' =>
-      array (
-        'x86' =>
-        array (
+      'url' => array(
+        'x86' => array(
           '5.4' => 'http://windows.php.net/downloads/pecl/releases/rar/3.0.2/php_rar-3.0.2-5.4-nts-VC9-x86.zip',
           '5.5' => 'http://windows.php.net/downloads/pecl/releases/rar/3.0.2/php_rar-3.0.2-5.5-nts-VC11-x86.zip',
           '5.6' => 'http://windows.php.net/downloads/pecl/releases/rar/3.0.2/php_rar-3.0.2-5.6-nts-VC11-x86.zip',
         ),
-        'x64' =>
-        array (
+        'x64' => array(
           '5.5' => 'http://windows.php.net/downloads/pecl/releases/rar/3.0.2/php_rar-3.0.2-5.5-nts-VC11-x64.zip',
           '5.6' => 'http://windows.php.net/downloads/pecl/releases/rar/3.0.2/php_rar-3.0.2-5.6-nts-VC11-x64.zip',
         ),
       ),
     ),
   ),
-  'phpext_trader' =>
-  array (
+  'phpext_trader' => array(
     'name' => 'PHP Extension Trader',
     'website' => 'http://php.net/trader',
-    '0.3.0' =>
-    array (
-      'x86' =>
-      array (
+    '0.3.0' => array(
+      'x86' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/trader/0.3.0/php_trader-0.3.0-5.4-nts-VC9-x86.zip',
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/trader/0.3.0/php_trader-0.3.0-5.5-nts-VC11-x86.zip',
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/trader/0.3.0/php_trader-0.3.0-5.6-nts-VC11-x86.zip',
       ),
-      'x64' =>
-      array (
+      'x64' => array(
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/trader/0.3.0/php_trader-0.3.0-5.5-nts-VC11-x64.zip',
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/trader/0.3.0/php_trader-0.3.0-5.6-nts-VC11-x64.zip',
       ),
     ),
-    'latest' =>
-    array (
+    'latest' => array(
       'version' => '0.3.0',
-      'url' =>
-      array (
-        'x86' =>
-        array (
+      'url' => array(
+        'x86' => array(
           '5.4' => 'http://windows.php.net/downloads/pecl/releases/trader/0.3.0/php_trader-0.3.0-5.4-nts-VC9-x86.zip',
           '5.5' => 'http://windows.php.net/downloads/pecl/releases/trader/0.3.0/php_trader-0.3.0-5.5-nts-VC11-x86.zip',
           '5.6' => 'http://windows.php.net/downloads/pecl/releases/trader/0.3.0/php_trader-0.3.0-5.6-nts-VC11-x86.zip',
         ),
-        'x64' =>
-        array (
+        'x64' => array(
           '5.5' => 'http://windows.php.net/downloads/pecl/releases/trader/0.3.0/php_trader-0.3.0-5.5-nts-VC11-x64.zip',
           '5.6' => 'http://windows.php.net/downloads/pecl/releases/trader/0.3.0/php_trader-0.3.0-5.6-nts-VC11-x64.zip',
         ),
       ),
     ),
   ),
-  'phpext_uploadprogress' =>
-  array (
+  'phpext_uploadprogress' => array(
     'name' => 'PHP Extension UploadProgress',
     'website' => 'http://php.net/imagick',
-    '1.0.3.1' =>
-    array (
-      'x86' =>
-      array (
+    '1.0.3.1' => array(
+      'x86' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/uploadprogress/1.0.3.1/php_uploadprogress-1.0.3.1-5.4-nts-VC9-x86.zip',
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/uploadprogress/1.0.3.1/php_uploadprogress-1.0.3.1-5.5-nts-VC11-x86.zip',
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/uploadprogress/1.0.3.1/php_uploadprogress-1.0.3.1-5.6-nts-VC11-x86.zip',
       ),
-      'x64' =>
-      array (
+      'x64' => array(
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/uploadprogress/1.0.3.1/php_uploadprogress-1.0.3.1-5.5-nts-VC11-x64.zip',
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/uploadprogress/1.0.3.1/php_uploadprogress-1.0.3.1-5.6-nts-VC11-x64.zip',
       ),
     ),
-    'latest' =>
-    array (
+    'latest' => array(
       'version' => '1.0.3.1',
-      'url' =>
-      array (
-        'x86' =>
-        array (
+      'url' => array(
+        'x86' => array(
           '5.4' => 'http://windows.php.net/downloads/pecl/releases/uploadprogress/1.0.3.1/php_uploadprogress-1.0.3.1-5.4-nts-VC9-x86.zip',
           '5.5' => 'http://windows.php.net/downloads/pecl/releases/uploadprogress/1.0.3.1/php_uploadprogress-1.0.3.1-5.5-nts-VC11-x86.zip',
           '5.6' => 'http://windows.php.net/downloads/pecl/releases/uploadprogress/1.0.3.1/php_uploadprogress-1.0.3.1-5.6-nts-VC11-x86.zip',
         ),
-        'x64' =>
-        array (
+        'x64' => array(
           '5.5' => 'http://windows.php.net/downloads/pecl/releases/uploadprogress/1.0.3.1/php_uploadprogress-1.0.3.1-5.5-nts-VC11-x64.zip',
           '5.6' => 'http://windows.php.net/downloads/pecl/releases/uploadprogress/1.0.3.1/php_uploadprogress-1.0.3.1-5.6-nts-VC11-x64.zip',
         ),
       ),
     ),
   ),
-  'phpext_uprofiler' =>
-  array (
+  'phpext_uprofiler' => array(
     'name' => 'PHP Extension uProfiler',
     'website' => 'http://php.net/uprofiler',
-    '0.9.2' =>
-    array (
-      'x86' =>
-      array (
+    '0.9.2' => array(
+      'x86' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/snaps/uprofiler/0.9.2/php_uprofiler-0.9.2-5.4-nts-VC9-x86.zip',
         '5.5' => 'http://windows.php.net/downloads/pecl/snaps/uprofiler/0.9.2/php_uprofiler-0.9.2-5.5-nts-VC11-x86.zip',
       ),
-      'x64' =>
-      array (
+      'x64' => array(
         '5.5' => 'http://windows.php.net/downloads/pecl/snaps/uprofiler/0.9.2/php_uprofiler-0.9.2-5.5-nts-VC11-x64.zip',
       ),
     ),
-    'latest' =>
-    array (
+    'latest' => array(
       'version' => '0.9.2',
-      'url' =>
-      array (
-        'x86' =>
-        array (
+      'url' => array(
+        'x86' => array(
           '5.4' => 'http://windows.php.net/downloads/pecl/snaps/uprofiler/0.9.2/php_uprofiler-0.9.2-5.4-nts-VC9-x86.zip',
           '5.5' => 'http://windows.php.net/downloads/pecl/snaps/uprofiler/0.9.2/php_uprofiler-0.9.2-5.5-nts-VC11-x86.zip',
         ),
-        'x64' =>
-        array (
+        'x64' => array(
           '5.5' => 'http://windows.php.net/downloads/pecl/snaps/uprofiler/0.9.2/php_uprofiler-0.9.2-5.5-nts-VC11-x64.zip',
         ),
       ),
     ),
   ),
-  'phpext_varnish' =>
-  array (
+  'phpext_varnish' => array(
     'name' => 'PHP Extension Varnish',
     'website' => 'http://pecl.php.net/package/varnish/',
-    '1.1.0' =>
-    array (
-      'x86' =>
-      array (
+    '1.1.0' => array(
+      'x86' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/varnish/1.1.0/php_varnish-1.1.0-5.4-nts-VC9-x86.zip',
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/varnish/1.1.0/php_varnish-1.1.0-5.5-nts-VC11-x86.zip',
       ),
-      'x64' =>
-      array (
+      'x64' => array(
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/varnish/1.1.0/php_varnish-1.1.0-5.5-nts-VC11-x64.zip',
       ),
     ),
-    '1.1.1' =>
-    array (
-      'x86' =>
-      array (
+    '1.1.1' => array(
+      'x86' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/varnish/1.1.1/php_varnish-1.1.1-5.4-nts-VC9-x86.zip',
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/varnish/1.1.1/php_varnish-1.1.1-5.5-nts-VC11-x86.zip',
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/varnish/1.1.1/php_varnish-1.1.1-5.6-nts-VC11-x86.zip',
       ),
-      'x64' =>
-      array (
+      'x64' => array(
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/varnish/1.1.1/php_varnish-1.1.1-5.5-nts-VC11-x64.zip',
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/varnish/1.1.1/php_varnish-1.1.1-5.6-nts-VC11-x64.zip',
       ),
     ),
-    'latest' =>
-    array (
+    'latest' => array(
       'version' => '1.1.1',
-      'url' =>
-      array (
-        'x86' =>
-        array (
+      'url' => array(
+        'x86' => array(
           '5.4' => 'http://windows.php.net/downloads/pecl/releases/varnish/1.1.1/php_varnish-1.1.1-5.4-nts-VC9-x86.zip',
           '5.5' => 'http://windows.php.net/downloads/pecl/releases/varnish/1.1.1/php_varnish-1.1.1-5.5-nts-VC11-x86.zip',
           '5.6' => 'http://windows.php.net/downloads/pecl/releases/varnish/1.1.1/php_varnish-1.1.1-5.6-nts-VC11-x86.zip',
         ),
-        'x64' =>
-        array (
+        'x64' => array(
           '5.5' => 'http://windows.php.net/downloads/pecl/releases/varnish/1.1.1/php_varnish-1.1.1-5.5-nts-VC11-x64.zip',
           '5.6' => 'http://windows.php.net/downloads/pecl/releases/varnish/1.1.1/php_varnish-1.1.1-5.6-nts-VC11-x64.zip',
         ),
       ),
     ),
   ),
-  'phpext_wincache' =>
-  array (
+  'phpext_wincache' => array(
     'name' => 'PHP Extension Wincache',
     'website' => 'http://sourceforge.net/projects/wincache/',
-    '1.3.5.0' =>
-    array (
-      'x86' =>
-      array (
+    '1.3.5.0' => array(
+      'x86' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/wincache/1.3.5.0/php_wincache-1.3.5.0-5.4-nts-VC9-x86.zip',
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/wincache/1.3.5.0/php_wincache-1.3.5.0-5.5-nts-VC11-x86.zip',
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/wincache/1.3.5.0/php_wincache-1.3.5.0-5.6-nts-VC11-x86.zip',
       ),
     ),
-    '1.3.6.1' =>
-    array (
-      'x86' =>
-      array (
+    '1.3.6.1' => array(
+      'x86' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/wincache/1.3.6.1/php_wincache-1.3.6.1-5.4-nts-VC9-x86.zip',
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/wincache/1.3.6.1/php_wincache-1.3.6.1-5.5-nts-VC11-x86.zip',
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/wincache/1.3.6.1/php_wincache-1.3.6.1-5.6-nts-VC11-x86.zip',
       ),
-      'x64' =>
-      array (
+      'x64' => array(
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/wincache/1.3.6.1/php_wincache-1.3.6.1-5.5-nts-VC11-x64.zip',
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/wincache/1.3.6.1/php_wincache-1.3.6.1-5.6-nts-VC11-x64.zip',
       ),
     ),
-    'latest' =>
-    array (
+    'latest' => array(
       'version' => '1.3.6.1',
-      'url' =>
-      array (
-        'x86' =>
-        array (
+      'url' => array(
+        'x86' => array(
           '5.4' => 'http://windows.php.net/downloads/pecl/releases/wincache/1.3.6.1/php_wincache-1.3.6.1-5.4-nts-VC9-x86.zip',
           '5.5' => 'http://windows.php.net/downloads/pecl/releases/wincache/1.3.6.1/php_wincache-1.3.6.1-5.5-nts-VC11-x86.zip',
           '5.6' => 'http://windows.php.net/downloads/pecl/releases/wincache/1.3.6.1/php_wincache-1.3.6.1-5.6-nts-VC11-x86.zip',
         ),
-        'x64' =>
-        array (
+        'x64' => array(
           '5.5' => 'http://windows.php.net/downloads/pecl/releases/wincache/1.3.6.1/php_wincache-1.3.6.1-5.5-nts-VC11-x64.zip',
           '5.6' => 'http://windows.php.net/downloads/pecl/releases/wincache/1.3.6.1/php_wincache-1.3.6.1-5.6-nts-VC11-x64.zip',
         ),
       ),
     ),
   ),
-  'phpext_xdebug' =>
-  array (
+  'phpext_xdebug' => array(
     'name' => 'XDebug',
     'website' => 'http://xdebug.org/',
-    '2.2.3' =>
-    array (
-      'x86' =>
-      array (
+    '2.2.3' => array(
+      'x86' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.2.3/php_xdebug-2.2.3-5.4-nts-VC9-x86.zip',
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.2.3/php_xdebug-2.2.3-5.5-nts-VC11-x86.zip',
       ),
-      'x64' =>
-      array (
+      'x64' => array(
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.2.3/php_xdebug-2.2.3-5.5-nts-VC11-x64.zip',
       ),
     ),
-    '2.2.4' =>
-    array (
-      'x86' =>
-      array (
+    '2.2.4' => array(
+      'x86' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.2.4/php_xdebug-2.2.4-5.4-nts-VC9-x86.zip',
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.2.4/php_xdebug-2.2.4-5.5-nts-VC11-x86.zip',
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.2.4/php_xdebug-2.2.4-5.6-nts-VC11-x86.zip',
       ),
-      'x64' =>
-      array (
+      'x64' => array(
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.2.4/php_xdebug-2.2.4-5.5-nts-VC11-x64.zip',
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.2.4/php_xdebug-2.2.4-5.6-nts-VC11-x64.zip',
       ),
     ),
-    '2.2.5' =>
-    array (
-      'x86' =>
-      array (
+    '2.2.5' => array(
+      'x86' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.2.5/php_xdebug-2.2.5-5.4-nts-VC9-x86.zip',
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.2.5/php_xdebug-2.2.5-5.5-nts-VC11-x86.zip',
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.2.5/php_xdebug-2.2.5-5.6-nts-VC11-x86.zip',
       ),
-      'x64' =>
-      array (
+      'x64' => array(
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.2.5/php_xdebug-2.2.5-5.5-nts-VC11-x64.zip',
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.2.5/php_xdebug-2.2.5-5.6-nts-VC11-x64.zip',
       ),
     ),
-    'latest' =>
-    array (
+    'latest' => array(
       'version' => '2.2.5',
-      'url' =>
-      array (
-        'x86' =>
-        array (
+      'url' => array(
+        'x86' => array(
           '5.4' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.2.5/php_xdebug-2.2.5-5.4-nts-VC9-x86.zip',
           '5.5' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.2.5/php_xdebug-2.2.5-5.5-nts-VC11-x86.zip',
           '5.6' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.2.5/php_xdebug-2.2.5-5.6-nts-VC11-x86.zip',
         ),
-        'x64' =>
-        array (
+        'x64' => array(
           '5.5' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.2.5/php_xdebug-2.2.5-5.5-nts-VC11-x64.zip',
           '5.6' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.2.5/php_xdebug-2.2.5-5.6-nts-VC11-x64.zip',
         ),
       ),
     ),
   ),
-  'phpext_xhprof' =>
-  array (
+  'phpext_xhprof' => array(
     'name' => 'PHP Extension XHProf',
     'website' => 'https://github.com/facebook/xhprof/',
-    '0.10.6' =>
-    array (
-      'x86' =>
-      array (
+    '0.10.6' => array(
+      'x86' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/xhprof/0.10.6/php_xhprof-0.10.6-5.4-nts-VC9-x86.zip',
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/xhprof/0.10.6/php_xhprof-0.10.6-5.5-nts-VC11-x86.zip',
       ),
-      'x64' =>
-      array (
+      'x64' => array(
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/xhprof/0.10.6/php_xhprof-0.10.6-5.5-nts-VC11-x64.zip',
       ),
     ),
-    'latest' =>
-    array (
+    'latest' => array(
       'version' => '0.10.6',
-      'url' =>
-      array (
-        'x86' =>
-        array (
+      'url' => array(
+        'x86' => array(
           '5.4' => 'http://windows.php.net/downloads/pecl/releases/xhprof/0.10.6/php_xhprof-0.10.6-5.4-nts-VC9-x86.zip',
           '5.5' => 'http://windows.php.net/downloads/pecl/releases/xhprof/0.10.6/php_xhprof-0.10.6-5.5-nts-VC11-x86.zip',
         ),
-        'x64' =>
-        array (
+        'x64' => array(
           '5.5' => 'http://windows.php.net/downloads/pecl/releases/xhprof/0.10.6/php_xhprof-0.10.6-5.5-nts-VC11-x64.zip',
         ),
       ),
     ),
   ),
-  'phpext_zmq' =>
-  array (
+  'phpext_zmq' => array(
     'name' => 'PHP Extension ZeroMQ',
     'website' => 'https://github.com/mkoppanen/php-zmq',
-    '1.0.6' =>
-    array (
-      'x86' =>
-      array (
+    '1.0.6' => array(
+      'x86' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.0.6/php_zmq-1.0.6-5.4-nts-VC9-x86.zip',
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.0.6/php_zmq-1.0.6-5.5-nts-VC11-x86.zip',
       ),
-      'x64' =>
-      array (
+      'x64' => array(
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.0.6/php_zmq-1.0.6-5.5-nts-VC11-x64.zip',
       ),
     ),
-    '1.0.8' =>
-    array (
+    '1.0.8' => array(
     ),
-    '1.0.9' =>
-    array (
-      'x86' =>
-      array (
+    '1.0.9' => array(
+      'x86' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.0.9/php_zmq-1.0.9-5.4-nts-VC9-x86.zip',
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.0.9/php_zmq-1.0.9-5.5-nts-VC11-x86.zip',
       ),
-      'x64' =>
-      array (
+      'x64' => array(
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.0.9/php_zmq-1.0.9-5.5-nts-VC11-x64.zip',
       ),
     ),
-    '1.1.0' =>
-    array (
+    '1.1.0' => array(
     ),
-    '1.1.1' =>
-    array (
-      'x86' =>
-      array (
+    '1.1.1' => array(
+      'x86' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.1.1/php_zmq-1.1.1-5.4-nts-VC9-x86.zip',
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.1.1/php_zmq-1.1.1-5.5-nts-VC11-x86.zip',
       ),
-      'x64' =>
-      array (
+      'x64' => array(
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.1.1/php_zmq-1.1.1-5.5-nts-VC11-x64.zip',
       ),
     ),
-    '1.1.2' =>
-    array (
-      'x86' =>
-      array (
+    '1.1.2' => array(
+      'x86' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.1.2/php_zmq-1.1.2-5.4-nts-VC9-x86.zip',
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.1.2/php_zmq-1.1.2-5.5-nts-VC11-x86.zip',
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.1.2/php_zmq-1.1.2-5.6-nts-VC11-x86.zip',
       ),
-      'x64' =>
-      array (
+      'x64' => array(
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.1.2/php_zmq-1.1.2-5.5-nts-VC11-x64.zip',
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.1.2/php_zmq-1.1.2-5.6-nts-VC11-x64.zip',
       ),
     ),
-    'latest' =>
-    array (
+    'latest' => array(
       'version' => '1.1.2',
-      'url' =>
-      array (
-        'x86' =>
-        array (
+      'url' => array(
+        'x86' => array(
           '5.4' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.1.2/php_zmq-1.1.2-5.4-nts-VC9-x86.zip',
           '5.5' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.1.2/php_zmq-1.1.2-5.5-nts-VC11-x86.zip',
           '5.6' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.1.2/php_zmq-1.1.2-5.6-nts-VC11-x86.zip',
         ),
-        'x64' =>
-        array (
+        'x64' => array(
           '5.5' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.1.2/php_zmq-1.1.2-5.5-nts-VC11-x64.zip',
           '5.6' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.1.2/php_zmq-1.1.2-5.6-nts-VC11-x64.zip',
         ),
       ),
     ),
   ),
-  'phpmemcachedadmin' =>
-  array (
+  'phpmemcachedadmin' => array(
     'name' => 'phpMemcachedAdmin',
     'website' => 'http://code.google.com/p/phpmemcacheadmin/',
     '1.2.1' => 'http://phpmemcacheadmin.googlecode.com/files/phpMemcachedAdmin-1.2.1-r233.zip',
     '1.2.2' => 'http://phpmemcacheadmin.googlecode.com/files/phpMemcachedAdmin-1.2.2-r262.zip',
-    'latest' =>
-    array (
+    'latest' => array(
       'version' => '1.2.2',
       'url' => 'http://phpmemcacheadmin.googlecode.com/files/phpMemcachedAdmin-1.2.2-r262.zip',
     ),
   ),
-  'phpmyadmin' =>
-  array (
+  'phpmyadmin' => array(
     'name' => 'phpMyAdmin',
     'website' => 'http://phpmyadmin.net/',
     '3.5.2.1' => 'http://sunet.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/3.5.2.1/phpMyAdmin-3.5.2.1-english.zip',
@@ -1778,25 +1513,21 @@
     '4.2.7' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.2.7/phpMyAdmin-4.2.7-english.zip',
     '4.2.7.1' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.2.7.1/phpMyAdmin-4.2.7.1-english.zip',
     '4.2.8' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.2.8/phpMyAdmin-4.2.8-english.zip',
-    'latest' =>
-    array (
+    'latest' => array(
       'version' => '4.2.8',
       'url' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.2.8/phpMyAdmin-4.2.8-english.zip',
     ),
   ),
-  'pickle' =>
-  array (
+  'pickle' => array(
     'name' => 'pickle',
     'website' => 'https://github.com/FriendsOfPHP/pickle',
     '0.1.1' => 'http://www.pierrejoye.com/pickle/pickle.phar',
-    'latest' =>
-    array (
+    'latest' => array(
       'version' => '0.1.1',
       'url' => 'http://www.pierrejoye.com/pickle/pickle.phar',
     ),
   ),
-  'postgresql' =>
-  array (
+  'postgresql' => array(
     'name' => 'PostgreSQL',
     'website' => 'http://www.postgresql.org/',
     '8.4.17' => 'http://get.enterprisedb.com/postgresql/postgresql-8.4.17-1-windows-binaries.zip',
@@ -1811,94 +1542,78 @@
     '9.3.3' => 'http://get.enterprisedb.com/postgresql/postgresql-9.3.3-1-windows-binaries.zip',
     '9.3.4' => 'http://get.enterprisedb.com/postgresql/postgresql-9.3.4-1-windows-binaries.zip',
     '9.3.5' => 'http://get.enterprisedb.com/postgresql/postgresql-9.3.5-1-windows-binaries.zip',
-    'latest' =>
-    array (
+    'latest' => array(
       'version' => '9.3.5',
       'url' => 'http://get.enterprisedb.com/postgresql/postgresql-9.3.5-1-windows-binaries.zip',
     ),
   ),
-  'redis' =>
-  array (
+  'redis' => array(
     'name' => 'Redis',
     'website' => 'http://redis.io/',
     '2.6.0' => 'https://github.com/MSOpenTech/redis/raw/2.6/bin/release/redisbin.zip',
     '2.6.14' => 'https://github.com/MSOpenTech/redis/raw/2_6_14_rebase/bin/release/redis-2.6.14.zip',
-    'latest' =>
-    array (
+    'latest' => array(
       'version' => '2.6.14',
       'url' => 'https://github.com/MSOpenTech/redis/raw/2_6_14_rebase/bin/release/redis-2.6.14.zip',
     ),
   ),
-  'rockmongo' =>
-  array (
+  'rockmongo' => array(
     'name' => 'RockMongo',
     'website' => 'http://rockmongo.com/',
     '1.1.5' => 'http://rockmongo.com/release/rockmongo-1.1.5.zip',
     '1.1.6' => 'https://github.com/iwind/rockmongo/archive/1.1.6.zip',
     '1.1.7' => 'https://github.com/iwind/rockmongo/archive/1.1.7.zip',
-    'latest' =>
-    array (
+    'latest' => array(
       'version' => '1.1.7',
       'url' => 'https://github.com/iwind/rockmongo/archive/1.1.7.zip',
     ),
   ),
-  'sendmail' =>
-  array (
+  'sendmail' => array(
     'name' => 'Fake Sendmail',
     'website' => 'http://glob.com.au/sendmail/',
     '1.0' => 'http://www.glob.com.au/sendmail/sendmail.zip',
-    'latest' =>
-    array (
+    'latest' => array(
       'version' => '1.0',
       'url' => 'http://www.glob.com.au/sendmail/sendmail.zip',
     ),
   ),
-  'uprofiler' =>
-  array (
+  'uprofiler' => array(
     'name' => 'uprofiler GUI',
     'website' => 'http://php.net/manual/de/book.xhprof.php',
     '1.0' => 'https://nodeload.github.com/FriendsOfPHP/uprofiler/zip/master',
-    'latest' =>
-    array (
+    'latest' => array(
       'version' => '1.0',
       'url' => 'https://nodeload.github.com/FriendsOfPHP/uprofiler/zip/master',
     ),
   ),
-  'varnish' =>
-  array (
+  'varnish' => array(
     'name' => 'Varnish Cache',
     'website' => 'https://www.varnish-cache.org/',
     '3.0.2' => 'http://freefr.dl.sourceforge.net/project/cygvarnish/windows-zip-bundle/varnish-3.0.2.zip',
-    'latest' =>
-    array (
+    'latest' => array(
       'version' => '3.0.2',
       'url' => 'http://freefr.dl.sourceforge.net/project/cygvarnish/windows-zip-bundle/varnish-3.0.2.zip',
     ),
   ),
-  'vcredist' =>
-  array (
+  'vcredist' => array(
     'name' => 'Microsoft Visual C++ 2010 x86 Redistributable Setup',
     'website' => 'http://microsoft.com/',
     '10.0' => 'http://download.microsoft.com/download/5/B/C/5BC5DBB3-652D-4DCE-B14A-475AB85EEF6E/vcredist_x86.exe',
-    'latest' =>
-    array (
+    'latest' => array(
       'version' => '10.0',
       'url' => 'http://download.microsoft.com/download/5/B/C/5BC5DBB3-652D-4DCE-B14A-475AB85EEF6E/vcredist_x86.exe',
     ),
   ),
-  'webgrind' =>
-  array (
+  'webgrind' => array(
     'name' => 'Webgrind',
     'website' => 'http://code.google.com/p/webgrind/',
     '1.0' => 'https://cloud.github.com/downloads/jokkedk/webgrind/webgrind-release-1.0.zip',
-    'latest' =>
-    array (
+    'latest' => array(
       'version' => '1.0',
       'url' => 'https://cloud.github.com/downloads/jokkedk/webgrind/webgrind-release-1.0.zip',
     ),
   ),
-  'wpnxmscp' =>
-  array (
+  'wpnxmscp' => array(
     'name' => 'WPN-XM SCP',
     'website' => 'http://wpn-xm.org/',
     '0.3.0' => 'http://wpn-xm.org/files/wpnxm-scp-0.3.0.zip',
@@ -1906,19 +1621,16 @@
     '0.5.4' => 'http://wpn-xm.org/files/wpnxm-scp-0.5.4.zip',
     '0.6.0' => 'http://wpn-xm.org/files/wpnxm-scp-0.6.0.zip',
     '0.6.1' => 'http://wpn-xm.org/files/wpnxm-scp-0.6.1.zip',
-    'latest' =>
-    array (
+    'latest' => array(
       'version' => '0.6.1',
       'url' => 'http://wpn-xm.org/files/wpnxm-scp-0.6.1.zip',
     ),
   ),
-  'xhprof' =>
-  array (
+  'xhprof' => array(
     'name' => 'XHGUI for PHP Extension XHProf',
     'website' => 'http://php.net/manual/de/book.xhprof.php',
     '1.0' => 'https://nodeload.github.com/preinheimer/xhprof/zip/master',
-    'latest' =>
-    array (
+    'latest' => array(
       'version' => '1.0',
       'url' => 'https://nodeload.github.com/preinheimer/xhprof/zip/master',
     ),
