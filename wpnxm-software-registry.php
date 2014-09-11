@@ -1579,7 +1579,7 @@
     ),
   ),
   'uprofiler' => array(
-    'name' => 'uprofiler GUI',
+    'name' => 'uProfiler GUI',
     'website' => 'http://php.net/manual/de/book.xhprof.php',
     '1.0' => 'https://nodeload.github.com/FriendsOfPHP/uprofiler/zip/master',
     'latest' => array(
