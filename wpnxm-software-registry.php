@@ -1,7 +1,7 @@
 <?php
    /**
-    * WPÐ˜-XM Server Stack
-    * Copyright Â© 2010 - 2014 Jens-AndrÃ© Koch <jakoch@web.de>
+    * WP?-XM Server Stack
+    * Copyright © 2010 - 2014 Jens-André Koch <jakoch@web.de>
     * http://wpn-xm.org/
     *
     * This source file is subject to the terms of the MIT license.
@@ -158,7 +158,8 @@
     '10.0.10' => 'http://archive.mariadb.org/mariadb-10.0.10/win32-packages/mariadb-10.0.10-win32.zip',
     '10.0.11' => 'http://archive.mariadb.org/mariadb-10.0.11/win32-packages/mariadb-10.0.11-win32.zip',
     '10.0.12' => 'http://archive.mariadb.org/mariadb-10.0.12/win32-packages/mariadb-10.0.12-win32.zip',
-    '10.1.0' => 'http://ftp.hosteurope.de/mirror/archive.mariadb.org/mariadb-10.1.0/win32-packages/mariadb-10.1.0-win32.zip',
+    '10.1.0' => 'http://ftp.hosteurope.de/mirror/archive.mariadb.org/mariadb-10.1.0/win32-packages/mariadb-10.1.0-win32.zip'
+    array (
     'latest' => array(
       'version' => '10.1.0',
       'url' => 'http://ftp.hosteurope.de/mirror/archive.mariadb.org/mariadb-10.1.0/win32-packages/mariadb-10.1.0-win32.zip',
