@@ -38,7 +38,7 @@ http://wpn-xm.org/get.php?s=openssl&v=1.0.1i
     out=downloads\full-0.8.0-php5.5-w64\openssl.exe
 http://wpn-xm.org/get.php?s=pear&v=1.0
     out=downloads\full-0.8.0-php5.5-w64\go-pear.phar
-http://wpn-xm.org/get.php?s=perl&v=5.20.0.1
+http://wpn-xm.org/get.php?s=perl&v=5.20.1.1
     out=downloads\full-0.8.0-php5.5-w64\perl.zip
 http://wpn-xm.org/get.php?s=php-x64&v=5.5.16
     out=downloads\full-0.8.0-php5.5-w64\php.zip

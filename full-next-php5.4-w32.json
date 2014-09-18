@@ -13,7 +13,7 @@
 [ "nodenpm",                "http:\/\/wpn-xm.org\/get.php?s=nodenpm&v=1.4.12",                       "nodenpm.zip",                "1.4.12" ],
 [ "openssl",                "http:\/\/wpn-xm.org\/get.php?s=openssl&v=1.0.1i",                       "openssl.exe",                "1.0.1i" ],
 [ "pear",                   "http:\/\/wpn-xm.org\/get.php?s=pear&v=1.0",                             "go-pear.phar",               "1.0" ],
-[ "perl",                   "http:\/\/wpn-xm.org\/get.php?s=perl&v=5.20.0.1",                        "perl.zip",                   "5.20.0.1" ],
+[ "perl",                   "http:\/\/wpn-xm.org\/get.php?s=perl&v=5.20.1.1",                        "perl.zip",                   "5.20.1.1" ],
 [ "php",                    "http:\/\/wpn-xm.org\/get.php?s=php&v=5.4.32",                           "php.zip",                    "5.4.32" ],
 [ "phpext_amqp",            "http:\/\/wpn-xm.org\/get.php?s=phpext_amqp&v=1.4.0&p=5.4",              "phpext_amqp.zip",            "1.4.0" ],
 [ "phpext_apc",             "http:\/\/wpn-xm.org\/get.php?s=phpext_apc&v=3.1.13&p=5.4",              "phpext_apc.zip",             "3.1.13" ],
