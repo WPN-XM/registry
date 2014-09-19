@@ -40,7 +40,7 @@ http://wpn-xm.org/get.php?s=pear&v=1.0
     out=downloads\full-0.8.0-php5.5-w32\go-pear.phar
 http://wpn-xm.org/get.php?s=perl&v=5.20.1.1
     out=downloads\full-0.8.0-php5.5-w32\perl.zip
-http://wpn-xm.org/get.php?s=php&v=5.5.16
+http://wpn-xm.org/get.php?s=php&v=5.5.17
     out=downloads\full-0.8.0-php5.5-w32\php.zip
 http://wpn-xm.org/get.php?s=phpext_amqp&v=1.4.0&p=5.5
     out=downloads\full-0.8.0-php5.5-w32\phpext_amqp.zip
