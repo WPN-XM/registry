@@ -660,6 +660,8 @@
     ),
   ),
   'php-qa' => array(
+    'name' => 'PHP QA x86',
+    'website' => 'http://php.net/',
     '5.6.0RC4' => 'http://windows.php.net/downloads/qa/php-5.6.0RC4-nts-Win32-VC11-x86.zip',
     '5.6.1RC1' => 'http://windows.php.net/downloads/qa/php-5.6.1RC1-nts-Win32-VC11-x86.zip',
     'latest' => array(
@@ -668,6 +670,8 @@
     ),
   ),
   'php-qa-x64' => array(
+    'name' => 'PHP QA x64',
+    'website' => 'http://php.net/',
     '5.6.0RC4' => 'http://windows.php.net/downloads/qa/php-5.6.0RC4-nts-Win32-VC11-x64.zip',
     '5.6.1RC1' => 'http://windows.php.net/downloads/qa/php-5.6.1RC1-nts-Win32-VC11-x64.zip',
     'latest' => array(
