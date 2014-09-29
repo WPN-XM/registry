@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Mon, 29 Sep 2014 20:49:45 +0000.
+    * Last Update Mon, 29 Sep 2014 21:05:15 +0000.
     * Do not edit manually!
     */
 
@@ -307,6 +307,13 @@
     'latest' => array(
       'version' => '2.2.2',
       'url' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2.2.2.zip',
+    ),
+  ),
+  'mysysgit' => array(
+    '1.9.4-preview20140815' => 'https://github.com/msysgit/msysgit/releases/download/Git-1.9.4-preview20140815/PortableGit-1.9.4-preview20140815.7z',
+    'latest' => array(
+      'version' => '1.9.4-preview20140815',
+      'url' => 'https://github.com/msysgit/msysgit/releases/download/Git-1.9.4-preview20140815/PortableGit-1.9.4-preview20140815.7z',
     ),
   ),
   'nginx' => array(
