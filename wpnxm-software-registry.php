@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Fri, 26 Sep 2014 23:52:44 +0000.
+    * Last Update Mon, 29 Sep 2014 17:15:46 +0000.
     * Do not edit manually!
     */
 
@@ -892,6 +892,35 @@
         'x64' => array(
           '5.5' => 'http://windows.php.net/downloads/pecl/releases/imagick/3.2.0b2/php_imagick-3.2.0b2-5.5-nts-VC11-x64.zip',
           '5.6' => 'http://windows.php.net/downloads/pecl/releases/imagick/3.2.0b2/php_imagick-3.2.0b2-5.6-nts-VC11-x64.zip',
+        ),
+      ),
+    ),
+  ),
+  'phpext_jsond' => array(
+    'name' => 'PHP Extension JsonD',
+    'website' => 'http://php.net/jsond',
+    '1.3.0' => array(
+      'x86' => array(
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/jsond/1.3.0/php_jsond-1.3.0-5.4-nts-VC9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/jsond/1.3.0/php_jsond-1.3.0-5.5-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/jsond/1.3.0/php_jsond-1.3.0-5.6-nts-VC11-x86.zip',
+        ),
+      'x64' => array(
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/jsond/1.3.0/php_jsond-1.3.0-5.5-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/jsond/1.3.0/php_jsond-1.3.0-5.6-nts-VC11-x64.zip',
+      ),
+    ),
+    'latest' => array(
+      'version' => '1.3.0',
+      'url' => array(
+        'x86' => array(
+          '5.4' => 'http://windows.php.net/downloads/pecl/releases/jsond/1.3.0/php_jsond-1.3.0-5.4-nts-VC9-x86.zip',
+          '5.5' => 'http://windows.php.net/downloads/pecl/releases/jsond/1.3.0/php_jsond-1.3.0-5.5-nts-VC11-x86.zip',
+          '5.6' => 'http://windows.php.net/downloads/pecl/releases/jsond/1.3.0/php_jsond-1.3.0-5.6-nts-VC11-x86.zip',
+        ),
+        'x64' => array(
+          '5.5' => 'http://windows.php.net/downloads/pecl/releases/jsond/1.3.0/php_jsond-1.3.0-5.5-nts-VC11-x64.zip',
+          '5.6' => 'http://windows.php.net/downloads/pecl/releases/jsond/1.3.0/php_jsond-1.3.0-5.6-nts-VC11-x64.zip',
         ),
       ),
     ),
