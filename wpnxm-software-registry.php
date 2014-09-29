@@ -218,7 +218,7 @@
       'url' => 'http://downloads.mongodb.org/win32/mongodb-win32-i386-2.7.6.zip',
     ),
   ),
-  'mongodb-x64' => array(
+  'mongodb_x64' => array(
     'name' => 'MongoDB',
     'website' => 'http://mongodb.org/',
     '0.9.7' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-0.9.7.zip',
@@ -296,13 +296,6 @@
     '2.1.2' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2.1.2.zip',
     '2.2.0' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2.2.0.zip',
     '2.2.1' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2.2.1.zip',
-    '2.2.2' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2.2.2.zip',
-    'latest' => array(
-      'version' => '2.2.2',
-      'url' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2.2.2.zip',
-    ),
-  ),
-  'mongodb_x64' => array(
     '2.2.2' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2.2.2.zip',
     'latest' => array(
       'version' => '2.2.2',
