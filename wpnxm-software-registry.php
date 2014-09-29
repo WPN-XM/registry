@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Mon, 29 Sep 2014 20:04:11 +0000.
+    * Last Update Mon, 29 Sep 2014 20:47:48 +0000.
     * Do not edit manually!
     */
 
@@ -1790,6 +1790,16 @@
     'latest' => array(
       'version' => '1.0',
       'url' => 'https://nodeload.github.com/preinheimer/xhprof/zip/master',
+    ),
+  ),
+  'yuicompressor' => array(
+    'name' => 'yuicompressor',
+    'website' => '',
+    0 => 'xy',
+    '2.4.8' => 'https://github.com/yui/yuicompressor/releases/download/v2.4.8/yuicompressor-2.4.8.jar',
+    'latest' => array(
+      'version' => '2.4.8',
+      'url' => 'https://github.com/yui/yuicompressor/releases/download/v2.4.8/yuicompressor-2.4.8.jar',
     ),
   ),
 );
