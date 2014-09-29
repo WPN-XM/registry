@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Mon, 29 Sep 2014 20:47:48 +0000.
+    * Last Update Mon, 29 Sep 2014 20:49:45 +0000.
     * Do not edit manually!
     */
 
@@ -51,6 +51,13 @@
     'latest' => array(
       'version' => '1.0',
       'url' => 'http://getcomposer.org/composer.phar',
+    ),
+  ),
+  'gogs' => array(
+    '0.5.2' => 'https://github.com/gogits/gogs/releases/download/v0.5.2/windows_amd64.zip',
+    'latest' => array(
+      'version' => '0.5.2',
+      'url' => 'https://github.com/gogits/gogs/releases/download/v0.5.2/windows_amd64.zip',
     ),
   ),
   'imagick' => array(
