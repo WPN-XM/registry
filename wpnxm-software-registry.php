@@ -225,7 +225,7 @@
       'url' => 'http://downloads.mongodb.org/win32/mongodb-win32-i386-2.7.6.zip',
     ),
   ),
-  'mongodb_x64' => array(
+  'mongodb-x64' => array(
     'name' => 'MongoDB',
     'website' => 'http://mongodb.org/',
     '0.9.7' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-0.9.7.zip',
