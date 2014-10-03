@@ -54,7 +54,7 @@
     ),
   ),
   'gogs' => array(
-    'name' = 'Gogs (Go Git Service)',
+    'name' => 'Gogs (Go Git Service)',
     'website' => 'http://gogs.io/',
     '0.5.2' => 'https://github.com/gogits/gogs/releases/download/v0.5.2/windows_amd64.zip',
     'latest' => array(
