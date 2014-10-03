@@ -310,7 +310,9 @@
       'url' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2.2.2.zip',
     ),
   ),
-  'mysysgit' => array(
+  'msysgit' => array(
+    'name' => 'msysgit',
+    'website' => 'http://msysgit.github.io/',
     '1.9.4-preview20140815' => 'https://github.com/msysgit/msysgit/releases/download/Git-1.9.4-preview20140815/PortableGit-1.9.4-preview20140815.7z',
     '1.9.4-preview20140929' => 'https://github.com/msysgit/msysgit/releases/download/Git-1.9.4-preview20140929/PortableGit-1.9.4-preview20140929.7z',
     'latest' => array(
