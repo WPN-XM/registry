@@ -1814,8 +1814,7 @@
   ),
   'yuicompressor' => array(
     'name' => 'yuicompressor',
-    'website' => '',
-    0 => 'xy',
+    'website' => 'http://yui.github.io/yuicompressor/',
     '2.4.8' => 'https://github.com/yui/yuicompressor/releases/download/v2.4.8/yuicompressor-2.4.8.jar',
     'latest' => array(
       'version' => '2.4.8',
