@@ -229,7 +229,7 @@
     ),
   ),
   'mongodb-x64' => array(
-    'name' => 'MongoDB',
+    'name' => 'MongoDB-x64',
     'website' => 'http://mongodb.org/',
     '0.9.7' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-0.9.7.zip',
     '0.9.8' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-0.9.8.zip',
