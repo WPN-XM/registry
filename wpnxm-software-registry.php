@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Thu, 02 Oct 2014 16:37:36 +0000.
+    * Last Update Thu, 09 Oct 2014 13:00:04 +0000.
     * Do not edit manually!
     */
 
@@ -307,9 +307,49 @@
     '2.2.0' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2.2.0.zip',
     '2.2.1' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2.2.1.zip',
     '2.2.2' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2.2.2.zip',
+    '2.2.3' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2.2.3.zip',
+    '2.2.4' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2.2.4.zip',
+    '2.2.5' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2.2.5.zip',
+    '2.2.6' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2.2.6.zip',
+    '2.2.7' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2.2.7.zip',
+    '2.3.0' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2.3.0.zip',
+    '2.3.1' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2.3.1.zip',
+    '2.3.2' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2.3.2.zip',
+    '2.4.0' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2.4.0.zip',
+    '2.4.1' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2.4.1.zip',
+    '2.4.2' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2.4.2.zip',
+    '2.4.3' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2.4.3.zip',
+    '2.4.4' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2.4.4.zip',
+    '2.4.5' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2.4.5.zip',
+    '2.4.6' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2.4.6.zip',
+    '2.4.7' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2.4.7.zip',
+    '2.4.8' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2.4.8.zip',
+    '2.4.9' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2.4.9.zip',
+    '2.4.10' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2.4.10.zip',
+    '2.4.11' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2.4.11.zip',
+    '2.5.0' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2.5.0.zip',
+    '2.5.1' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2.5.1.zip',
+    '2.5.2' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2.5.2.zip',
+    '2.5.3' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2.5.3.zip',
+    '2.5.4' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2.5.4.zip',
+    '2.5.5' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2.5.5.zip',
+    '2.6.0' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2.6.0.zip',
+    '2.6.1' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2.6.1.zip',
+    '2.6.2' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2.6.2.zip',
+    '2.6.3' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2.6.3.zip',
+    '2.6.4' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2.6.4.zip',
+    '2.6.5' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2.6.5.zip',
+    '2.7.0' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2.7.0.zip',
+    '2.7.1' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2.7.1.zip',
+    '2.7.2' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2.7.2.zip',
+    '2.7.3' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2.7.3.zip',
+    '2.7.4' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2.7.4.zip',
+    '2.7.5' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2.7.5.zip',
+    '2.7.6' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2.7.6.zip',
+    '2.7.7' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2.7.7.zip',
     'latest' => array(
-      'version' => '2.2.2',
-      'url' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2.2.2.zip',
+      'version' => '2.7.7',
+      'url' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2.7.7.zip',
     ),
   ),
   'msysgit' => array(
