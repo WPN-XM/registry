@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Wed, 15 Oct 2014 15:48:30 +0000.
+    * Last Update Wed, 15 Oct 2014 15:48:36 +0000.
     * Do not edit manually!
     */
 
@@ -924,17 +924,28 @@
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.6/php_apcu-4.0.6-5.6-nts-VC11-x64.zip',
       ),
     ),
+    '4.0.7' => array(
+      'x86' => array(
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.7/php_apcu-4.0.7-5.4-nts-VC9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.7/php_apcu-4.0.7-5.5-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.7/php_apcu-4.0.7-5.6-nts-VC11-x86.zip',
+      ),
+      'x64' => array(
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.7/php_apcu-4.0.7-5.5-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.7/php_apcu-4.0.7-5.6-nts-VC11-x64.zip',
+      ),
+    ),
     'latest' => array(
-      'version' => '4.0.6',
+      'version' => '4.0.7',
       'url' => array(
         'x86' => array(
-          '5.4' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.6/php_apcu-4.0.6-5.4-nts-VC9-x86.zip',
-          '5.5' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.6/php_apcu-4.0.6-5.5-nts-VC11-x86.zip',
-          '5.6' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.6/php_apcu-4.0.6-5.6-nts-VC11-x86.zip',
+          '5.4' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.7/php_apcu-4.0.7-5.4-nts-VC9-x86.zip',
+          '5.5' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.7/php_apcu-4.0.7-5.5-nts-VC11-x86.zip',
+          '5.6' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.7/php_apcu-4.0.7-5.6-nts-VC11-x86.zip',
         ),
         'x64' => array(
-          '5.5' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.6/php_apcu-4.0.6-5.5-nts-VC11-x64.zip',
-          '5.6' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.6/php_apcu-4.0.6-5.6-nts-VC11-x64.zip',
+          '5.5' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.7/php_apcu-4.0.7-5.5-nts-VC11-x64.zip',
+          '5.6' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.7/php_apcu-4.0.7-5.6-nts-VC11-x64.zip',
         ),
       ),
     ),
