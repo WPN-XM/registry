@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Thu, 16 Oct 2014 20:13:05 +0000.
+    * Last Update Thu, 16 Oct 2014 20:53:55 +0000.
     * Do not edit manually!
     */
 
@@ -170,9 +170,10 @@
     '10.0.11' => 'http://archive.mariadb.org/mariadb-10.0.11/win32-packages/mariadb-10.0.11-win32.zip',
     '10.0.12' => 'http://archive.mariadb.org/mariadb-10.0.12/win32-packages/mariadb-10.0.12-win32.zip',
     '10.1.0' => 'http://ftp.hosteurope.de/mirror/archive.mariadb.org/mariadb-10.1.0/win32-packages/mariadb-10.1.0-win32.zip',
+    '10.1.1' => 'http://ftp.hosteurope.de/mirror/archive.mariadb.org/mariadb-10.1.1/win32-packages/mariadb-10.1.1-win32.zip',
     'latest' => array(
-      'version' => '10.1.0',
-      'url' => 'http://ftp.hosteurope.de/mirror/archive.mariadb.org/mariadb-10.1.0/win32-packages/mariadb-10.1.0-win32.zip',
+      'version' => '10.1.1',
+      'url' => 'http://ftp.hosteurope.de/mirror/archive.mariadb.org/mariadb-10.1.1/win32-packages/mariadb-10.1.1-win32.zip',
     ),
   ),
   'memadmin' => array(
