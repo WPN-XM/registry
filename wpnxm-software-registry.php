@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Tue, 21 Oct 2014 21:15:03 +0000.
+    * Last Update Sat, 25 Oct 2014 09:48:08 +0000.
     * Do not edit manually!
     */
 
