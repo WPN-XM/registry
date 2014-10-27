@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Mon, 27 Oct 2014 12:12:04 +0000.
+    * Last Update Mon, 27 Oct 2014 16:35:55 +0000.
     * Do not edit manually!
     */
 
@@ -53,16 +53,6 @@
       'url' => 'http://getcomposer.org/composer.phar',
     ),
   ),
-  'gogs-x86' => array(
-    'name' => 'Gogs (Go Git Service) x86',
-    'website' => 'http://gogs.io/',
-    '0.5.2' => 'http://gobuild3.qiniudn.com/github.com/gogits/gogs/tag-v-v0.5.2/gogs-windows-386.zip',
-    '0.5.5' => 'http://gobuild3.qiniudn.com/github.com/gogits/gogs/tag-v-v0.5.5/gogs-windows-386.zip',
-    'latest' => array(
-      'version' => '0.5.5',
-      'url' => 'http://gobuild3.qiniudn.com/github.com/gogits/gogs/tag-v-v0.5.5/gogs-windows-386.zip',
-    ),
-  ),
   'gogs-x64' => array(
     'name' => 'Gogs (Go Git Service) x64',
     'website' => 'http://gogs.io/',
@@ -71,6 +61,16 @@
     'latest' => array(
       'version' => '0.5.5',
       'url' => 'https://github.com/gogits/gogs/releases/download/v0.5.5/windows_amd64.zip',
+    ),
+  ),
+  'gogs-x86' => array(
+    'name' => 'Gogs (Go Git Service) x86',
+    'website' => 'http://gogs.io/',
+    '0.5.2' => 'http://gobuild3.qiniudn.com/github.com/gogits/gogs/tag-v-v0.5.2/gogs-windows-386.zip',
+    '0.5.5' => 'http://gobuild3.qiniudn.com/github.com/gogits/gogs/tag-v-v0.5.5/gogs-windows-386.zip',
+    'latest' => array(
+      'version' => '0.5.5',
+      'url' => 'http://gobuild3.qiniudn.com/github.com/gogits/gogs/tag-v-v0.5.5/gogs-windows-386.zip',
     ),
   ),
   'imagick' => array(
