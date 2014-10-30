@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Tue, 28 Oct 2014 20:20:45 +0000.
+    * Last Update Thu, 30 Oct 2014 10:13:22 +0000.
     * Do not edit manually!
     */
 
@@ -1295,18 +1295,30 @@
         '5.6' => 'http://static.phalconphp.com/files/phalcon_x64_VC11_php5.6_1.3.3_nts.zip',
       ),
     ),
+    '1.3.4' => array(
+      'x86' => array(
+        '5.4' => 'http://static.phalconphp.com/files/phalcon_x86_VC9_php5.4_1.3.4_nts.zip',
+        '5.5' => 'http://static.phalconphp.com/files/phalcon_x86_VC11_php5.5_1.3.4_nts.zip',
+        '5.6' => 'http://static.phalconphp.com/files/phalcon_x86_VC11_php5.6_1.3.4_nts.zip',
+      ),
+      'x64' => array(
+        '5.4' => 'http://static.phalconphp.com/files/phalcon_x64_VC9_php5.4_1.3.4_nts.zip',
+        '5.5' => 'http://static.phalconphp.com/files/phalcon_x64_VC11_php5.5_1.3.4_nts.zip',
+        '5.6' => 'http://static.phalconphp.com/files/phalcon_x64_VC11_php5.6_1.3.4_nts.zip',
+      ),
+    ),
     'latest' => array(
-      'version' => '1.3.3',
+      'version' => '1.3.4',
       'url' => array(
         'x86' => array(
-          '5.4' => 'http://static.phalconphp.com/files/phalcon_x86_VC9_php5.4_1.3.3_nts.zip',
-          '5.5' => 'http://static.phalconphp.com/files/phalcon_x86_VC11_php5.5_1.3.3_nts.zip',
-          '5.6' => 'http://static.phalconphp.com/files/phalcon_x86_VC11_php5.6_1.3.3_nts.zip',
+          '5.4' => 'http://static.phalconphp.com/files/phalcon_x86_VC9_php5.4_1.3.4_nts.zip',
+          '5.5' => 'http://static.phalconphp.com/files/phalcon_x86_VC11_php5.5_1.3.4_nts.zip',
+          '5.6' => 'http://static.phalconphp.com/files/phalcon_x86_VC11_php5.6_1.3.4_nts.zip',
         ),
         'x64' => array(
-          '5.4' => 'http://static.phalconphp.com/files/phalcon_x64_VC9_php5.4_1.3.3_nts.zip',
-          '5.5' => 'http://static.phalconphp.com/files/phalcon_x64_VC11_php5.5_1.3.3_nts.zip',
-          '5.6' => 'http://static.phalconphp.com/files/phalcon_x64_VC11_php5.6_1.3.3_nts.zip',
+          '5.4' => 'http://static.phalconphp.com/files/phalcon_x64_VC9_php5.4_1.3.4_nts.zip',
+          '5.5' => 'http://static.phalconphp.com/files/phalcon_x64_VC11_php5.5_1.3.4_nts.zip',
+          '5.6' => 'http://static.phalconphp.com/files/phalcon_x64_VC11_php5.6_1.3.4_nts.zip',
         ),
       ),
     ),
