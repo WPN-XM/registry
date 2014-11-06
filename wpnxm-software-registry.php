@@ -1262,66 +1262,42 @@
   'phpext_phalcon' => array(
     'name' => 'PHP Extension Phalcon',
     'website' => 'http://phalconphp.com/',
-    '1.3.1' => array(
-      'x86' => array(
-        '5.4' => 'http://static.phalconphp.com/files/phalcon_x86_VC9_php5.4_1.3.1_nts.zip',
-        '5.5' => 'http://static.phalconphp.com/files/phalcon_x86_VC11_php5.5_1.3.1_nts.zip',
-        '5.6' => 'http://static.phalconphp.com/files/phalcon_x86_VC11_php5.6_1.3.1_nts.zip',
-      ),
-      'x64' => array(
-        '5.4' => 'http://static.phalconphp.com/files/phalcon_x64_VC9_php5.4_1.3.1_nts.zip',
-        '5.5' => 'http://static.phalconphp.com/files/phalcon_x64_VC11_php5.5_1.3.1_nts.zip',
-        '5.6' => 'http://static.phalconphp.com/files/phalcon_x64_VC11_php5.6_1.3.1_nts.zip',
-      ),
-    ),
-    '1.3.2' => array(
-      'x86' => array(
-        '5.4' => 'http://static.phalconphp.com/files/phalcon_x86_VC9_php5.4_1.3.2_nts.zip',
-        '5.5' => 'http://static.phalconphp.com/files/phalcon_x86_VC11_php5.5_1.3.2_nts.zip',
-        '5.6' => 'http://static.phalconphp.com/files/phalcon_x86_VC11_php5.6_1.3.2_nts.zip',
-      ),
-      'x64' => array(
-        '5.4' => 'http://static.phalconphp.com/files/phalcon_x64_VC9_php5.4_1.3.2_nts.zip',
-        '5.5' => 'http://static.phalconphp.com/files/phalcon_x64_VC11_php5.5_1.3.2_nts.zip',
-        '5.6' => 'http://static.phalconphp.com/files/phalcon_x64_VC11_php5.6_1.3.2_nts.zip',
-      ),
-    ),
     '1.3.3' => array(
       'x86' => array(
-        '5.4' => 'http://static.phalconphp.com/files/phalcon_x86_VC9_php5.4_1.3.3_nts.zip',
-        '5.5' => 'http://static.phalconphp.com/files/phalcon_x86_VC11_php5.5_1.3.3_nts.zip',
-        '5.6' => 'http://static.phalconphp.com/files/phalcon_x86_VC11_php5.6_1.3.3_nts.zip',
+        '5.4' => 'http://static.phalconphp.com/files/phalcon_x86_VC9_php5.4.0_1.3.3_nts.zip',
+        '5.5' => 'http://static.phalconphp.com/files/phalcon_x86_VC11_php5.5.0_1.3.3_nts.zip',
+        '5.6' => 'http://static.phalconphp.com/files/phalcon_x86_VC11_php5.6.0_1.3.3_nts.zip',
       ),
       'x64' => array(
-        '5.4' => 'http://static.phalconphp.com/files/phalcon_x64_VC9_php5.4_1.3.3_nts.zip',
-        '5.5' => 'http://static.phalconphp.com/files/phalcon_x64_VC11_php5.5_1.3.3_nts.zip',
-        '5.6' => 'http://static.phalconphp.com/files/phalcon_x64_VC11_php5.6_1.3.3_nts.zip',
+        '5.4' => 'http://static.phalconphp.com/files/phalcon_x64_VC9_php5.4.0_1.3.3_nts.zip',
+        '5.5' => 'http://static.phalconphp.com/files/phalcon_x64_VC11_php5.5.0_1.3.3_nts.zip',
+        '5.6' => 'http://static.phalconphp.com/files/phalcon_x64_VC11_php5.6.0_1.3.3_nts.zip',
       ),
     ),
     '1.3.4' => array(
       'x86' => array(
-        '5.4' => 'http://static.phalconphp.com/files/phalcon_x86_VC9_php5.4_1.3.4_nts.zip',
-        '5.5' => 'http://static.phalconphp.com/files/phalcon_x86_VC11_php5.5_1.3.4_nts.zip',
-        '5.6' => 'http://static.phalconphp.com/files/phalcon_x86_VC11_php5.6_1.3.4_nts.zip',
+        '5.4' => 'http://static.phalconphp.com/files/phalcon_x86_VC9_php5.4.0_1.3.4_nts.zip',
+        '5.5' => 'http://static.phalconphp.com/files/phalcon_x86_VC11_php5.5.0_1.3.4_nts.zip',
+        '5.6' => 'http://static.phalconphp.com/files/phalcon_x86_VC11_php5.6.0_1.3.4_nts.zip',
       ),
       'x64' => array(
-        '5.4' => 'http://static.phalconphp.com/files/phalcon_x64_VC9_php5.4_1.3.4_nts.zip',
-        '5.5' => 'http://static.phalconphp.com/files/phalcon_x64_VC11_php5.5_1.3.4_nts.zip',
-        '5.6' => 'http://static.phalconphp.com/files/phalcon_x64_VC11_php5.6_1.3.4_nts.zip',
+        '5.4' => 'http://static.phalconphp.com/files/phalcon_x64_VC9_php5.4.0_1.3.4_nts.zip',
+        '5.5' => 'http://static.phalconphp.com/files/phalcon_x64_VC11_php5.5.0_1.3.4_nts.zip',
+        '5.6' => 'http://static.phalconphp.com/files/phalcon_x64_VC11_php5.6.0_1.3.4_nts.zip',
       ),
     ),
     'latest' => array(
       'version' => '1.3.4',
       'url' => array(
         'x86' => array(
-          '5.4' => 'http://static.phalconphp.com/files/phalcon_x86_VC9_php5.4_1.3.4_nts.zip',
-          '5.5' => 'http://static.phalconphp.com/files/phalcon_x86_VC11_php5.5_1.3.4_nts.zip',
-          '5.6' => 'http://static.phalconphp.com/files/phalcon_x86_VC11_php5.6_1.3.4_nts.zip',
+          '5.4' => 'http://static.phalconphp.com/files/phalcon_x86_VC9_php5.4.0_1.3.4_nts.zip',
+          '5.5' => 'http://static.phalconphp.com/files/phalcon_x86_VC11_php5.5.0_1.3.4_nts.zip',
+          '5.6' => 'http://static.phalconphp.com/files/phalcon_x86_VC11_php5.6.0_1.3.4_nts.zip',
         ),
         'x64' => array(
-          '5.4' => 'http://static.phalconphp.com/files/phalcon_x64_VC9_php5.4_1.3.4_nts.zip',
-          '5.5' => 'http://static.phalconphp.com/files/phalcon_x64_VC11_php5.5_1.3.4_nts.zip',
-          '5.6' => 'http://static.phalconphp.com/files/phalcon_x64_VC11_php5.6_1.3.4_nts.zip',
+          '5.4' => 'http://static.phalconphp.com/files/phalcon_x64_VC9_php5.4.0_1.3.4_nts.zip',
+          '5.5' => 'http://static.phalconphp.com/files/phalcon_x64_VC11_php5.5.0_1.3.4_nts.zip',
+          '5.6' => 'http://static.phalconphp.com/files/phalcon_x64_VC11_php5.6.0_1.3.4_nts.zip',
         ),
       ),
     ),
