@@ -1,10 +1,10 @@
 [
 [ "adminer",        "http:\/\/wpn-xm.org\/get.php?s=adminer&v=4.1.0",              "adminer.php",        "4.1.0" ],
 [ "composer",       "http:\/\/wpn-xm.org\/get.php?s=composer&v=1.0",               "composer.phar",      "1.0" ],
-[ "mariadb",        "http:\/\/wpn-xm.org\/get.php?s=mariadb&v=10.1.0",             "mariadb.zip",        "10.1.0" ],
-[ "nginx",          "http:\/\/wpn-xm.org\/get.php?s=nginx&v=1.7.5",                "nginx.zip",          "1.7.5" ],
+[ "mariadb",        "http:\/\/wpn-xm.org\/get.php?s=mariadb&v=10.1.1",             "mariadb.zip",        "10.1.1" ],
+[ "nginx",          "http:\/\/wpn-xm.org\/get.php?s=nginx&v=1.7.7",                "nginx.zip",          "1.7.7" ],
 [ "php",            "http:\/\/wpn-xm.org\/get.php?s=php&v=5.4.33",                 "php.zip",            "5.4.33" ],
-[ "phpext_xdebug",  "http:\/\/wpn-xm.org\/get.php?s=phpext_xdebug&v=2.2.4&p=5.4",  "phpext_xdebug.zip",  "2.2.4" ],
+[ "phpext_xdebug",  "http:\/\/wpn-xm.org\/get.php?s=phpext_xdebug&v=2.2.5&p=5.4",  "phpext_xdebug.zip",  "2.2.5" ],
 [ "pickle",         "http:\/\/wpn-xm.org\/get.php?s=pickle&v=0.1.1",               "pickle.phar",        "0.1.1" ],
 [ "wpnxmscp",       "http:\/\/wpn-xm.org\/get.php?s=wpnxmscp&v=0.8.0",             "wpnxmscp.zip",       "0.8.0" ]
 ]
