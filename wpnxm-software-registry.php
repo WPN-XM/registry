@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Fri, 14 Nov 2014 21:22:45 +0000.
+    * Last Update Fri, 14 Nov 2014 21:22:57 +0000.
     * Do not edit manually!
     */
 
@@ -811,12 +811,14 @@
     '5.5.16' => 'http://windows.php.net/downloads/releases/archives/php-5.5.16-nts-Win32-VC11-x64.zip',
     '5.5.17' => 'http://windows.php.net/downloads/releases/php-5.5.17-nts-Win32-VC11-x64.zip',
     '5.5.18' => 'http://windows.php.net/downloads/releases/php-5.5.18-nts-Win32-VC11-x64.zip',
+    '5.5.19' => 'http://windows.php.net/downloads/releases/php-5.5.19-nts-Win32-VC11-x64.zip',
     '5.6.0' => 'http://windows.php.net/downloads/releases/php-5.6.0-nts-Win32-VC11-x64.zip',
     '5.6.1' => 'http://windows.php.net/downloads/releases/php-5.6.1-nts-Win32-VC11-x64.zip',
     '5.6.2' => 'http://windows.php.net/downloads/releases/php-5.6.2-nts-Win32-VC11-x64.zip',
+    '5.6.3' => 'http://windows.php.net/downloads/releases/php-5.6.3-nts-Win32-VC11-x64.zip',
     'latest' => array(
-      'version' => '5.6.2',
-      'url' => 'http://windows.php.net/downloads/releases/php-5.6.2-nts-Win32-VC11-x64.zip',
+      'version' => '5.6.3',
+      'url' => 'http://windows.php.net/downloads/releases/php-5.6.3-nts-Win32-VC11-x64.zip',
     ),
   ),
   'phpext_amqp' => array(
