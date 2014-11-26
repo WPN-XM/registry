@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Thu, 20 Nov 2014 15:31:38 +0000.
+    * Last Update Wed, 26 Nov 2014 01:49:30 +0000.
     * Do not edit manually!
     */
 
@@ -1754,9 +1754,10 @@
     '9.3.3' => 'http://get.enterprisedb.com/postgresql/postgresql-9.3.3-1-windows-binaries.zip',
     '9.3.4' => 'http://get.enterprisedb.com/postgresql/postgresql-9.3.4-1-windows-binaries.zip',
     '9.3.5' => 'http://get.enterprisedb.com/postgresql/postgresql-9.3.5-1-windows-binaries.zip',
+    '9.4.0' => 'http://get.enterprisedb.com/postgresql/postgresql-9.4.0-1-windows-binaries.zip',
     'latest' => array(
-      'version' => '9.3.5',
-      'url' => 'http://get.enterprisedb.com/postgresql/postgresql-9.3.5-1-windows-binaries.zip',
+      'version' => '9.4.0',
+      'url' => 'http://get.enterprisedb.com/postgresql/postgresql-9.4.0-1-windows-binaries.zip',
     ),
   ),
   'redis' => array(
