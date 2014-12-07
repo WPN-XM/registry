@@ -1746,7 +1746,7 @@
     ),
   ),
   'postgresql' => array(
-    'name' => 'PostgreSQL',
+    'name' => 'PostgreSQL x86',
     'website' => 'http://www.postgresql.org/',
     '8.4.17' => 'http://get.enterprisedb.com/postgresql/postgresql-8.4.17-1-windows-binaries.zip',
     '9.0.13' => 'http://get.enterprisedb.com/postgresql/postgresql-9.0.13-1-windows-binaries.zip',
@@ -1762,6 +1762,16 @@
     '9.3.5' => 'http://get.enterprisedb.com/postgresql/postgresql-9.3.5-1-windows-binaries.zip',
     '9.4.0-rc1' => 'http://get.enterprisedb.com/postgresql/postgresql-9.4.0-rc1-windows-binaries.zip',
     'latest' => array(
+      'version' => '9.4.0-rc1',
+      'url' => 'http://get.enterprisedb.com/postgresql/postgresql-9.4.0-rc1-windows-binaries.zip',
+    ),
+  ),
+  'postgresql-x64' => array(
+   'name' => 'PostgreSQL x64',
+   'website' => 'http://www.postgresql.org/',
+   '9.3.5' => 'http://get.enterprisedb.com/postgresql/postgresql-9.3.5-1-windows-x64-binaries.zip',
+   '9.4.0-rc1' => 'http://get.enterprisedb.com/postgresql/postgresql-9.4.0-rc1-windows-x64-binaries.zip',
+   'latest' => array(
       'version' => '9.4.0-rc1',
       'url' => 'http://get.enterprisedb.com/postgresql/postgresql-9.4.0-rc1-windows-binaries.zip',
     ),
