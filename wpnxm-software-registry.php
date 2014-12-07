@@ -112,7 +112,7 @@
     ),
   ),
   'mariadb' => array(
-    'name' => 'MariaDB',
+    'name' => 'MariaDB x86',
     'website' => 'http://mariadb.org/',
     '5.1.49' => 'http://archive.mariadb.org/mariadb-5.1.49/kvm-zip-winxp-x86/mariadb-noinstall-5.1.49-win32.zip',
     '5.1.50' => 'http://archive.mariadb.org/mariadb-5.1.50/win2008r2-vs2010-i386/mariadb-5.1.50-win32.zip',
@@ -192,6 +192,15 @@
       'url' => 'http://ftp.hosteurope.de/mirror/archive.mariadb.org/mariadb-10.1.2/win32-packages/mariadb-10.1.2-win32.zip',
     ),
   ),
+  'mariadb-x64' => array(
+    'name' => 'MariaDB x64',
+    'website' => 'http://mariadb.org/',
+    '10.1.12' => 'http://ftp.hosteurope.de/mirror/archive.mariadb.org/mariadb-10.1.2/winx64-packages/mariadb-10.1.2-winx64.zip',
+    'latest' => array(
+      'version' => '10.1.2',
+      'url' => 'http://ftp.hosteurope.de/mirror/archive.mariadb.org/mariadb-10.1.2/winx64-packages/mariadb-10.1.2-winx64.zip',
+    ),
+  ),
   'memadmin' => array(
     'name' => 'Memadmin',
     'website' => 'http://www.junopen.com/memadmin/',
@@ -248,7 +257,7 @@
     ),
   ),
   'mongodb-x64' => array(
-    'name' => 'MongoDB-x64',
+    'name' => 'MongoDB x64',
     'website' => 'http://mongodb.org/',
     '2.0.3' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2008plus-2.0.3.zip',
     '2.0.4' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2008plus-2.0.4.zip',
