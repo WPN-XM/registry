@@ -1760,10 +1760,10 @@
     '9.3.3' => 'http://get.enterprisedb.com/postgresql/postgresql-9.3.3-1-windows-binaries.zip',
     '9.3.4' => 'http://get.enterprisedb.com/postgresql/postgresql-9.3.4-1-windows-binaries.zip',
     '9.3.5' => 'http://get.enterprisedb.com/postgresql/postgresql-9.3.5-1-windows-binaries.zip',
-    '9.4.0' => 'http://get.enterprisedb.com/postgresql/postgresql-9.4.0-1-windows-binaries.zip',
+    '9.4.0-rc1' => 'http://get.enterprisedb.com/postgresql/postgresql-9.4.0-rc1-windows-binaries.zip',
     'latest' => array(
-      'version' => '9.4.0',
-      'url' => 'http://get.enterprisedb.com/postgresql/postgresql-9.4.0-1-windows-binaries.zip',
+      'version' => '9.4.0-rc1',
+      'url' => 'http://get.enterprisedb.com/postgresql/postgresql-9.4.0-rc1-windows-binaries.zip',
     ),
   ),
   'redis' => array(
