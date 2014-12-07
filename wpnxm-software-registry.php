@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Sat, 06 Dec 2014 15:18:49 +0000.
+    * Last Update Sun, 07 Dec 2014 13:13:55 +0000.
     * Do not edit manually!
     */
 
@@ -186,9 +186,10 @@
     '10.0.12' => 'http://archive.mariadb.org/mariadb-10.0.12/win32-packages/mariadb-10.0.12-win32.zip',
     '10.1.0' => 'http://ftp.hosteurope.de/mirror/archive.mariadb.org/mariadb-10.1.0/win32-packages/mariadb-10.1.0-win32.zip',
     '10.1.1' => 'http://ftp.hosteurope.de/mirror/archive.mariadb.org/mariadb-10.1.1/win32-packages/mariadb-10.1.1-win32.zip',
+    '10.1.2' => 'http://ftp.hosteurope.de/mirror/archive.mariadb.org/mariadb-10.1.2/win32-packages/mariadb-10.1.2-win32.zip',
     'latest' => array(
-      'version' => '10.1.1',
-      'url' => 'http://ftp.hosteurope.de/mirror/archive.mariadb.org/mariadb-10.1.1/win32-packages/mariadb-10.1.1-win32.zip',
+      'version' => '10.1.2',
+      'url' => 'http://ftp.hosteurope.de/mirror/archive.mariadb.org/mariadb-10.1.2/win32-packages/mariadb-10.1.2-win32.zip',
     ),
   ),
   'memadmin' => array(
@@ -1767,11 +1768,11 @@
     ),
   ),
   'postgresql-x64' => array(
-   'name' => 'PostgreSQL x64',
-   'website' => 'http://www.postgresql.org/',
-   '9.3.5' => 'http://get.enterprisedb.com/postgresql/postgresql-9.3.5-1-windows-x64-binaries.zip',
-   '9.4.0-rc1' => 'http://get.enterprisedb.com/postgresql/postgresql-9.4.0-rc1-windows-x64-binaries.zip',
-   'latest' => array(
+    'name' => 'PostgreSQL x64',
+    'website' => 'http://www.postgresql.org/',
+    '9.3.5' => 'http://get.enterprisedb.com/postgresql/postgresql-9.3.5-1-windows-x64-binaries.zip',
+    '9.4.0-rc1' => 'http://get.enterprisedb.com/postgresql/postgresql-9.4.0-rc1-windows-x64-binaries.zip',
+    'latest' => array(
       'version' => '9.4.0-rc1',
       'url' => 'http://get.enterprisedb.com/postgresql/postgresql-9.4.0-rc1-windows-binaries.zip',
     ),
