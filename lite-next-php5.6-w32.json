@@ -1,7 +1,7 @@
 [
 [ "adminer",        "http:\/\/wpn-xm.org\/get.php?s=adminer&v=4.1.0",              "adminer.php",        "4.1.0" ],
 [ "composer",       "http:\/\/wpn-xm.org\/get.php?s=composer&v=1.0",               "composer.phar",      "1.0" ],
-[ "mariadb",        "http:\/\/wpn-xm.org\/get.php?s=mariadb&v=10.1.1",             "mariadb.zip",        "10.1.1" ],
+[ "mariadb",        "http:\/\/wpn-xm.org\/get.php?s=mariadb&v=10.1.2",             "mariadb.zip",        "10.1.2" ],
 [ "nginx",          "http:\/\/wpn-xm.org\/get.php?s=nginx&v=1.7.8",                "nginx.zip",          "1.7.8" ],
 [ "php",            "http:\/\/wpn-xm.org\/get.php?s=php&v=5.6.3",                  "php.zip",            "5.6.3" ],
 [ "phpext_xdebug",  "http:\/\/wpn-xm.org\/get.php?s=phpext_xdebug&v=2.2.6&p=5.6",  "phpext_xdebug.zip",  "2.2.6" ],
