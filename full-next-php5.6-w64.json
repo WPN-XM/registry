@@ -4,7 +4,7 @@
 [ "composer",               "http:\/\/wpn-xm.org\/get.php?s=composer&v=1.0",                         "composer.phar",              "1.0" ],
 [ "imagick",                "http:\/\/wpn-xm.org\/get.php?s=imagick&v=6.9.0-0",                      "imagick.zip",                "6.9.0-0" ],
 [ "junction",               "http:\/\/wpn-xm.org\/get.php?s=junction&v=1.0",                         "junction.zip",               "1.0" ],
-[ "mariadb",                "http:\/\/wpn-xm.org\/get.php?s=mariadb&v=10.1.2",                       "mariadb.zip",                "10.1.2" ],
+[ "mariadb-x64",            "http:\/\/wpn-xm.org\/get.php?s=mariadb-x64&v=10.1.2",                   "mariadb.zip",                "10.1.2" ],
 [ "memadmin",               "http:\/\/wpn-xm.org\/get.php?s=memadmin&v=1.0.12",                      "memadmin.zip",               "1.0.12" ],
 [ "memcached",              "http:\/\/wpn-xm.org\/get.php?s=memcached&v=1.5.7",                      "memcached.zip",              "1.5.7" ],
 [ "mongodb-x64",            "http:\/\/wpn-xm.org\/get.php?s=mongodb-x64&v=2.7.8",                    "mongodb.zip",                "2.7.8" ],
