@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Wed, 17 Dec 2014 23:07:55 +0000.
+    * Last Update Wed, 17 Dec 2014 23:07:59 +0000.
     * Do not edit manually!
     */
 
@@ -830,13 +830,15 @@
     '5.5.17' => 'http://windows.php.net/downloads/releases/php-5.5.17-nts-Win32-VC11-x64.zip',
     '5.5.18' => 'http://windows.php.net/downloads/releases/php-5.5.18-nts-Win32-VC11-x64.zip',
     '5.5.19' => 'http://windows.php.net/downloads/releases/php-5.5.19-nts-Win32-VC11-x64.zip',
+    '5.5.20' => 'http://windows.php.net/downloads/releases/php-5.5.20-nts-Win32-VC11-x64.zip',
     '5.6.0' => 'http://windows.php.net/downloads/releases/php-5.6.0-nts-Win32-VC11-x64.zip',
     '5.6.1' => 'http://windows.php.net/downloads/releases/php-5.6.1-nts-Win32-VC11-x64.zip',
     '5.6.2' => 'http://windows.php.net/downloads/releases/php-5.6.2-nts-Win32-VC11-x64.zip',
     '5.6.3' => 'http://windows.php.net/downloads/releases/php-5.6.3-nts-Win32-VC11-x64.zip',
+    '5.6.4' => 'http://windows.php.net/downloads/releases/php-5.6.4-nts-Win32-VC11-x64.zip',
     'latest' => array(
-      'version' => '5.6.3',
-      'url' => 'http://windows.php.net/downloads/releases/php-5.6.3-nts-Win32-VC11-x64.zip',
+      'version' => '5.6.4',
+      'url' => 'http://windows.php.net/downloads/releases/php-5.6.4-nts-Win32-VC11-x64.zip',
     ),
   ),
   'phpext_amqp' => array(
