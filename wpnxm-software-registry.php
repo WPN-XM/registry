@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Wed, 17 Dec 2014 23:07:49 +0000.
+    * Last Update Wed, 17 Dec 2014 23:07:55 +0000.
     * Do not edit manually!
     */
 
@@ -71,9 +71,10 @@
     '0.5.2' => 'http://gobuild3.qiniudn.com/github.com/gogits/gogs/tag-v-v0.5.2/gogs-windows-386.zip',
     '0.5.5' => 'http://gobuild3.qiniudn.com/github.com/gogits/gogs/tag-v-v0.5.5/gogs-windows-386.zip',
     '0.5.8' => 'http://gobuild3.qiniudn.com/github.com/gogits/gogs/tag-v-v0.5.8/gogs-windows-386.zip',
+    '0.5.9' => 'http://gobuild3.qiniudn.com/github.com/gogits/gogs/tag-v-v0.5.9/gogs-windows-386.zip',
     'latest' => array(
-      'version' => '0.5.8',
-      'url' => 'http://gobuild3.qiniudn.com/github.com/gogits/gogs/tag-v-v0.5.8/gogs-windows-386.zip',
+      'version' => '0.5.9',
+      'url' => 'http://gobuild3.qiniudn.com/github.com/gogits/gogs/tag-v-v0.5.9/gogs-windows-386.zip',
     ),
   ),
   'imagick' => array(
