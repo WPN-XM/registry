@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Wed, 17 Dec 2014 23:07:41 +0000.
+    * Last Update Wed, 17 Dec 2014 23:07:49 +0000.
     * Do not edit manually!
     */
 
@@ -59,9 +59,10 @@
     '0.5.2' => 'https://github.com/gogits/gogs/releases/download/v0.5.2/windows_amd64.zip',
     '0.5.5' => 'https://github.com/gogits/gogs/releases/download/v0.5.5/windows_amd64.zip',
     '0.5.8' => 'https://github.com/gogits/gogs/releases/download/v0.5.8/windows_amd64.zip',
+    '0.5.9' => 'https://github.com/gogits/gogs/releases/download/v0.5.9/windows_amd64.zip',
     'latest' => array(
-      'version' => '0.5.8',
-      'url' => 'https://github.com/gogits/gogs/releases/download/v0.5.8/windows_amd64.zip',
+      'version' => '0.5.9',
+      'url' => 'https://github.com/gogits/gogs/releases/download/v0.5.9/windows_amd64.zip',
     ),
   ),
   'gogs-x86' => array(
