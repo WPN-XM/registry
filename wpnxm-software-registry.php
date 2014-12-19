@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Fri, 19 Dec 2014 13:04:21 +0000.
+    * Last Update Fri, 19 Dec 2014 13:04:31 +0000.
     * Do not edit manually!
     */
 
@@ -325,9 +325,10 @@
     'website' => 'http://msysgit.github.io/',
     '1.9.4-preview20140815' => 'https://github.com/msysgit/msysgit/releases/download/Git-1.9.4-preview20140815/PortableGit-1.9.4-preview20140815.7z',
     '1.9.4-preview20140929' => 'https://github.com/msysgit/msysgit/releases/download/Git-1.9.4-preview20140929/PortableGit-1.9.4-preview20140929.7z',
+    '1.9.5-preview20141217' => 'https://github.com/msysgit/msysgit/releases/download/Git-1.9.5-preview20141217/PortableGit-1.9.5-preview20141217.7z',
     'latest' => array(
-      'version' => '1.9.4-preview20140929',
-      'url' => 'https://github.com/msysgit/msysgit/releases/download/Git-1.9.4-preview20140929/PortableGit-1.9.4-preview20140929.7z',
+      'version' => '1.9.5-preview20141217',
+      'url' => 'https://github.com/msysgit/msysgit/releases/download/Git-1.9.5-preview20141217/PortableGit-1.9.5-preview20141217.7z',
     ),
   ),
   'nginx' => array(
