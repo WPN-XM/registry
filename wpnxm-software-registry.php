@@ -1,7 +1,7 @@
 <?php
    /**
     * WPИ-XM Server Stack
-    * Copyright © 2010 - 2014 Jens-André Koch <jakoch@web.de>
+    * Copyright © 2010 - 2015 Jens-André Koch <jakoch@web.de>
     * http://wpn-xm.org/
     *
     * This source file is subject to the terms of the MIT license.
@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Wed, 31 Dec 2014 03:37:55 +0000.
+    * Last Update Mon, 05 Jan 2015 23:51:02 +0000.
     * Do not edit manually!
     */
 
@@ -1755,9 +1755,10 @@
     '4.3.2' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.3.2/phpMyAdmin-4.3.2-english.zip',
     '4.3.3' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.3.3/phpMyAdmin-4.3.3-english.zip',
     '4.3.4' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.3.4/phpMyAdmin-4.3.4-english.zip',
+    '4.3.5' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.3.5/phpMyAdmin-4.3.5-english.zip',
     'latest' => array(
-      'version' => '4.3.4',
-      'url' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.3.4/phpMyAdmin-4.3.4-english.zip',
+      'version' => '4.3.5',
+      'url' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.3.5/phpMyAdmin-4.3.5-english.zip',
     ),
   ),
   'pickle' => array(
