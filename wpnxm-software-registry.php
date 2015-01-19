@@ -792,6 +792,14 @@
       'url' => 'http://windows.php.net/downloads/releases/php-5.6.4-nts-Win32-VC11-x86.zip',
     ),
   ),
+  'php-cs-fixer' => array(
+    'name' => 'PHP CS Fixer',
+    'website' => 'http://cs.sensiolabs.org/',
+    'latest' => array(
+      'version' => 'latest',
+      'url' => 'http://get.sensiolabs.org/php-cs-fixer.phar',
+    ),
+  ),
   'php-qa' => array(
     'name' => 'PHP QA x86',
     'website' => 'http://php.net/',
