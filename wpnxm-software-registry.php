@@ -1808,6 +1808,15 @@
       'url' => 'http://get.enterprisedb.com/postgresql/postgresql-9.4.0-rc1-windows-binaries.zip',
     ),
   ),
+  'rabbitmq' => array(
+    'name' => 'RabbitMQ',
+    'website' => 'http://www.rabbitmq.com/',
+    '3.4.2.51207' => 'http://www.rabbitmq.com/nightlies/rabbitmq-server/current/rabbitmq-server-windows-3.4.2.51207.zip',
+    'latest' => array(
+      'version' => '3.4.2.51207',
+      'url' => 'http://www.rabbitmq.com/nightlies/rabbitmq-server/current/rabbitmq-server-windows-3.4.2.51207.zip',
+    ),
+  ),
   'redis' => array(
     'name' => 'Redis',
     'website' => 'http://redis.io/',
