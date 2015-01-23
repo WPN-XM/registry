@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Fri, 09 Jan 2015 12:59:37 +0000.
+    * Last Update Thu, 22 Jan 2015 21:56:45 +0000.
     * Do not edit manually!
     */
 
@@ -103,9 +103,10 @@
     '6.9.0-0' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.9.0-0-Q16-x86-windows.zip',
     '6.9.0-2' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.9.0-2-Q16-x86-windows.zip',
     '6.9.0-3' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.9.0-3-Q16-x86-windows.zip',
+    '6.9.0-4' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.9.0-4-Q16-x86-windows.zip',
     'latest' => array(
-      'version' => '6.9.0-3',
-      'url' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.9.0-3-Q16-x86-windows.zip',
+      'version' => '6.9.0-4',
+      'url' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.9.0-4-Q16-x86-windows.zip',
     ),
   ),
   'junction' => array(
@@ -529,9 +530,10 @@
     '0.11.12' => 'http://nodejs.org/dist/v0.11.12/node.exe',
     '0.11.13' => 'http://nodejs.org/dist/v0.11.13/node.exe',
     '0.11.14' => 'http://nodejs.org/dist/v0.11.14/node.exe',
+    '0.11.15' => 'http://nodejs.org/dist/v0.11.15/node.exe',
     'latest' => array(
-      'version' => '0.11.14',
-      'url' => 'http://nodejs.org/dist/v0.11.14/node.exe',
+      'version' => '0.11.15',
+      'url' => 'http://nodejs.org/dist/v0.11.15/node.exe',
     ),
   ),
   'nodenpm' => array(
@@ -761,6 +763,7 @@
     '5.4.34' => 'http://windows.php.net/downloads/releases/php-5.4.34-nts-Win32-VC9-x86.zip',
     '5.4.35' => 'http://windows.php.net/downloads/releases/php-5.4.35-nts-Win32-VC9-x86.zip',
     '5.4.36' => 'http://windows.php.net/downloads/releases/php-5.4.36-nts-Win32-VC9-x86.zip',
+    '5.4.37' => 'http://windows.php.net/downloads/releases/php-5.4.37-nts-Win32-VC9-x86.zip',
     '5.5.0' => 'http://windows.php.net/downloads/releases/archives/php-5.5.0-nts-Win32-VC11-x86.zip',
     '5.5.1' => 'http://windows.php.net/downloads/releases/archives/php-5.5.1-nts-Win32-VC11-x86.zip',
     '5.5.2' => 'http://windows.php.net/downloads/releases/archives/php-5.5.2-nts-Win32-VC11-x86.zip',
@@ -782,14 +785,24 @@
     '5.5.18' => 'http://windows.php.net/downloads/releases/php-5.5.18-nts-Win32-VC11-x86.zip',
     '5.5.19' => 'http://windows.php.net/downloads/releases/php-5.5.19-nts-Win32-VC11-x86.zip',
     '5.5.20' => 'http://windows.php.net/downloads/releases/php-5.5.20-nts-Win32-VC11-x86.zip',
+    '5.5.21' => 'http://windows.php.net/downloads/releases/php-5.5.21-nts-Win32-VC11-x86.zip',
     '5.6.0' => 'http://windows.php.net/downloads/releases/php-5.6.0-nts-Win32-VC11-x86.zip',
     '5.6.1' => 'http://windows.php.net/downloads/releases/php-5.6.1-nts-Win32-VC11-x86.zip',
     '5.6.2' => 'http://windows.php.net/downloads/releases/php-5.6.2-nts-Win32-VC11-x86.zip',
     '5.6.3' => 'http://windows.php.net/downloads/releases/php-5.6.3-nts-Win32-VC11-x86.zip',
     '5.6.4' => 'http://windows.php.net/downloads/releases/php-5.6.4-nts-Win32-VC11-x86.zip',
+    '5.6.5' => 'http://windows.php.net/downloads/releases/php-5.6.5-nts-Win32-VC11-x86.zip',
     'latest' => array(
-      'version' => '5.6.4',
-      'url' => 'http://windows.php.net/downloads/releases/php-5.6.4-nts-Win32-VC11-x86.zip',
+      'version' => '5.6.5',
+      'url' => 'http://windows.php.net/downloads/releases/php-5.6.5-nts-Win32-VC11-x86.zip',
+    ),
+  ),
+  'php-cs-fixer' => array(
+    'name' => 'PHP CS Fixer',
+    'website' => 'http://cs.sensiolabs.org/',
+    'latest' => array(
+      'version' => 'latest',
+      'url' => 'http://get.sensiolabs.org/php-cs-fixer.phar',
     ),
   ),
   'php-qa' => array(
@@ -842,14 +855,16 @@
     '5.5.18' => 'http://windows.php.net/downloads/releases/php-5.5.18-nts-Win32-VC11-x64.zip',
     '5.5.19' => 'http://windows.php.net/downloads/releases/php-5.5.19-nts-Win32-VC11-x64.zip',
     '5.5.20' => 'http://windows.php.net/downloads/releases/php-5.5.20-nts-Win32-VC11-x64.zip',
+    '5.5.21' => 'http://windows.php.net/downloads/releases/php-5.5.21-nts-Win32-VC11-x64.zip',
     '5.6.0' => 'http://windows.php.net/downloads/releases/php-5.6.0-nts-Win32-VC11-x64.zip',
     '5.6.1' => 'http://windows.php.net/downloads/releases/php-5.6.1-nts-Win32-VC11-x64.zip',
     '5.6.2' => 'http://windows.php.net/downloads/releases/php-5.6.2-nts-Win32-VC11-x64.zip',
     '5.6.3' => 'http://windows.php.net/downloads/releases/php-5.6.3-nts-Win32-VC11-x64.zip',
     '5.6.4' => 'http://windows.php.net/downloads/releases/php-5.6.4-nts-Win32-VC11-x64.zip',
+    '5.6.5' => 'http://windows.php.net/downloads/releases/php-5.6.5-nts-Win32-VC11-x64.zip',
     'latest' => array(
-      'version' => '5.6.4',
-      'url' => 'http://windows.php.net/downloads/releases/php-5.6.4-nts-Win32-VC11-x64.zip',
+      'version' => '5.6.5',
+      'url' => 'http://windows.php.net/downloads/releases/php-5.6.5-nts-Win32-VC11-x64.zip',
     ),
   ),
   'phpext_amqp' => array(
@@ -1585,17 +1600,28 @@
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.2.6/php_xdebug-2.2.6-5.6-nts-VC11-x64.zip',
       ),
     ),
+    '2.2.7' => array(
+      'x86' => array(
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.2.7/php_xdebug-2.2.7-5.4-nts-VC9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.2.7/php_xdebug-2.2.7-5.5-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.2.7/php_xdebug-2.2.7-5.6-nts-VC11-x86.zip',
+      ),
+      'x64' => array(
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.2.7/php_xdebug-2.2.7-5.5-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.2.7/php_xdebug-2.2.7-5.6-nts-VC11-x64.zip',
+      ),
+    ),
     'latest' => array(
-      'version' => '2.2.6',
+      'version' => '2.2.7',
       'url' => array(
         'x86' => array(
-          '5.4' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.2.6/php_xdebug-2.2.6-5.4-nts-VC9-x86.zip',
-          '5.5' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.2.6/php_xdebug-2.2.6-5.5-nts-VC11-x86.zip',
-          '5.6' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.2.6/php_xdebug-2.2.6-5.6-nts-VC11-x86.zip',
+          '5.4' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.2.7/php_xdebug-2.2.7-5.4-nts-VC9-x86.zip',
+          '5.5' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.2.7/php_xdebug-2.2.7-5.5-nts-VC11-x86.zip',
+          '5.6' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.2.7/php_xdebug-2.2.7-5.6-nts-VC11-x86.zip',
         ),
         'x64' => array(
-          '5.5' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.2.6/php_xdebug-2.2.6-5.5-nts-VC11-x64.zip',
-          '5.6' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.2.6/php_xdebug-2.2.6-5.6-nts-VC11-x64.zip',
+          '5.5' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.2.7/php_xdebug-2.2.7-5.5-nts-VC11-x64.zip',
+          '5.6' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.2.7/php_xdebug-2.2.7-5.6-nts-VC11-x64.zip',
         ),
       ),
     ),
@@ -1762,9 +1788,10 @@
     '4.3.4' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.3.4/phpMyAdmin-4.3.4-english.zip',
     '4.3.5' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.3.5/phpMyAdmin-4.3.5-english.zip',
     '4.3.6' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.3.6/phpMyAdmin-4.3.6-english.zip',
+    '4.3.7' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.3.7/phpMyAdmin-4.3.7-english.zip',
     'latest' => array(
-      'version' => '4.3.6',
-      'url' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.3.6/phpMyAdmin-4.3.6-english.zip',
+      'version' => '4.3.7',
+      'url' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.3.7/phpMyAdmin-4.3.7-english.zip',
     ),
   ),
   'pickle' => array(
@@ -1806,6 +1833,15 @@
     'latest' => array(
       'version' => '9.4.0-rc1',
       'url' => 'http://get.enterprisedb.com/postgresql/postgresql-9.4.0-rc1-windows-binaries.zip',
+    ),
+  ),
+  'rabbitmq' => array(
+    'name' => 'RabbitMQ',
+    'website' => 'http://www.rabbitmq.com/',
+    '3.4.2.51207' => 'http://www.rabbitmq.com/nightlies/rabbitmq-server/current/rabbitmq-server-windows-3.4.2.51207.zip',
+    'latest' => array(
+      'version' => '3.4.2.51207',
+      'url' => 'http://www.rabbitmq.com/nightlies/rabbitmq-server/current/rabbitmq-server-windows-3.4.2.51207.zip',
     ),
   ),
   'redis' => array(
