@@ -680,7 +680,7 @@
     ),
   ),
   'openssl' => array(
-    'name' => 'OpenSSL',
+    'name' => 'OpenSSL (32-bit)',
     'website' => 'http://slproweb.com/',
     '1.0.1L' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1L.exe',
     '1.0.1c' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1c.exe',
@@ -694,6 +694,23 @@
     'latest' => array(
       'version' => '1.0.1L',
       'url' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1L.exe',
+    ),
+  ),
+  'openssl-x64' => array(
+    'name' => 'OpenSSL (64-bit)',
+    'website' => 'http://slproweb.com/',
+    '1.0.1L' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1L.exe',
+    '1.0.1c' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1c.exe',
+    '1.0.1d' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1d.exe',
+    '1.0.1e' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1e.exe',
+    '1.0.1f' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1f.exe',
+    '1.0.1g' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1g.exe',
+    '1.0.1h' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1h.exe',
+    '1.0.1i' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1i.exe',
+    '1.0.1j' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1j.exe',
+    'latest' => array(
+      'version' => '1.0.1L',
+      'url' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1L.exe',
     ),
   ),
   'pear' => array(
