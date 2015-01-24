@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Thu, 22 Jan 2015 21:56:45 +0000.
+    * Last Update Sat, 24 Jan 2015 01:49:27 +0000.
     * Do not edit manually!
     */
 
@@ -684,6 +684,7 @@
   'openssl' => array(
     'name' => 'OpenSSL',
     'website' => 'http://slproweb.com/',
+    '1.0.1L' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1L.exe',
     '1.0.1c' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1c.exe',
     '1.0.1d' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1d.exe',
     '1.0.1e' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1e.exe',
@@ -693,8 +694,8 @@
     '1.0.1i' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1i.exe',
     '1.0.1j' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1j.exe',
     'latest' => array(
-      'version' => '1.0.1j',
-      'url' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1j.exe',
+      'version' => '1.0.1L',
+      'url' => 'http://slproweb.com/download/Win32OpenSSL_Light-1_0_1L.exe',
     ),
   ),
   'pear' => array(
