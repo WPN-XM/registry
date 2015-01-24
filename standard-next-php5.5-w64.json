@@ -35,5 +35,6 @@
 [ "uprofiler",              "http:\/\/wpn-xm.org\/get.php?s=uprofiler&v=1.0",                                    "uprofiler.zip",              "1.0" ],
 [ "varnish",                "http:\/\/wpn-xm.org\/get.php?s=varnish&v=3.0.2",                                    "varnish.zip",                "3.0.2" ],
 [ "webgrind",               "http:\/\/wpn-xm.org\/get.php?s=webgrind&v=1.0",                                     "webgrind.zip",               "1.0" ],
-[ "wpnxmscp",               "http:\/\/wpn-xm.org\/get.php?s=wpnxmscp&v=0.8.0",                                   "wpnxmscp.zip",               "0.8.0" ]
+[ "wpnxmscp",               "http:\/\/wpn-xm.org\/get.php?s=wpnxmscp&v=0.8.0",                                   "wpnxmscp.zip",               "0.8.0" ],
+[ "yuicompressor",          "http:\/\/wpn-xm.org\/get.php?s=yuicompressor&v=2.4.8",                              "yuicompressor.jar",          "2.4.8" ]
 ]
