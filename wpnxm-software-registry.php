@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Thu, 29 Jan 2015 22:55:40 +0000.
+    * Last Update Sun, 01 Feb 2015 11:48:01 +0000.
     * Do not edit manually!
     */
 
@@ -529,9 +529,10 @@
     '0.11.13' => 'http://nodejs.org/dist/v0.11.13/node.exe',
     '0.11.14' => 'http://nodejs.org/dist/v0.11.14/node.exe',
     '0.11.15' => 'http://nodejs.org/dist/v0.11.15/node.exe',
+    '0.11.16' => 'http://nodejs.org/dist/v0.11.16/node.exe',
     'latest' => array(
-      'version' => '0.11.15',
-      'url' => 'http://nodejs.org/dist/v0.11.15/node.exe',
+      'version' => '0.11.16',
+      'url' => 'http://nodejs.org/dist/v0.11.16/node.exe',
     ),
   ),
   'nodenpm' => array(
@@ -699,15 +700,15 @@
   'openssl-x64' => array(
     'name' => 'OpenSSL (64-bit)',
     'website' => 'http://slproweb.com/',
+    '1.0.1j' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1j.exe',
+    '1.0.1e' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1e.exe',
+    '1.0.1h' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1h.exe',
+    '1.0.1g' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1g.exe',
+    '1.0.1d' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1d.exe',
     '1.0.1c' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1c.exe',
     '1.0.1f' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1f.exe',
     '1.0.1L' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1L.exe',
-    '1.0.1d' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1d.exe',
     '1.0.1i' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1i.exe',
-    '1.0.1h' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1h.exe',
-    '1.0.1j' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1j.exe',
-    '1.0.1g' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1g.exe',
-    '1.0.1e' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1e.exe',
     'latest' => array(
       'version' => '1.0.1L',
       'url' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1L.exe',
