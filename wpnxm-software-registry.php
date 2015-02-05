@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Thu, 05 Feb 2015 18:18:54 +0000.
+    * Last Update Thu, 05 Feb 2015 18:19:01 +0000.
     * Do not edit manually!
     */
 
@@ -700,15 +700,15 @@
   'openssl-x64' => array(
     'name' => 'OpenSSL (64-bit)',
     'website' => 'http://slproweb.com/',
+    '1.0.1e' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1e.exe',
+    '1.0.1d' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1d.exe',
+    '1.0.1j' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1j.exe',
+    '1.0.1h' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1h.exe',
+    '1.0.1L' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1L.exe',
     '1.0.1f' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1f.exe',
     '1.0.1i' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1i.exe',
     '1.0.1c' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1c.exe',
-    '1.0.1L' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1L.exe',
     '1.0.1g' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1g.exe',
-    '1.0.1j' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1j.exe',
-    '1.0.1e' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1e.exe',
-    '1.0.1h' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1h.exe',
-    '1.0.1d' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1d.exe',
     'latest' => array(
       'version' => '1.0.1L',
       'url' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1L.exe',
@@ -1860,9 +1860,10 @@
     '9.3.5' => 'http://get.enterprisedb.com/postgresql/postgresql-9.3.5-1-windows-binaries.zip',
     '9.4.0-rc1' => 'http://get.enterprisedb.com/postgresql/postgresql-9.4.0-rc1-windows-binaries.zip',
     '9.4.0' => 'http://get.enterprisedb.com/postgresql/postgresql-9.4.0-1-windows-binaries.zip',
+    '9.4.1' => 'http://get.enterprisedb.com/postgresql/postgresql-9.4.1-1-windows-binaries.zip',
     'latest' => array(
-      'version' => '9.4.0',
-      'url' => 'http://get.enterprisedb.com/postgresql/postgresql-9.4.0-1-windows-binaries.zip',
+      'version' => '9.4.1',
+      'url' => 'http://get.enterprisedb.com/postgresql/postgresql-9.4.1-1-windows-binaries.zip',
     ),
   ),
   'postgresql-x64' => array(
