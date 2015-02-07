@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Thu, 05 Feb 2015 18:19:10 +0000.
+    * Last Update Sat, 07 Feb 2015 20:07:43 +0000.
     * Do not edit manually!
     */
 
@@ -31,9 +31,10 @@
     '4.0.2' => 'http://garr.dl.sourceforge.net/project/adminer/Adminer/Adminer%204.0.2/adminer-4.0.2.php',
     '4.0.3' => 'http://garr.dl.sourceforge.net/project/adminer/Adminer/Adminer%204.0.3/adminer-4.0.3.php',
     '4.1.0' => 'http://garr.dl.sourceforge.net/project/adminer/Adminer/Adminer%204.1.0/adminer-4.1.0.php',
+    '4.2.0' => 'http://garr.dl.sourceforge.net/project/adminer/Adminer/Adminer%204.2.0/adminer-4.2.0.php',
     'latest' => array(
-      'version' => '4.1.0',
-      'url' => 'http://garr.dl.sourceforge.net/project/adminer/Adminer/Adminer%204.1.0/adminer-4.1.0.php',
+      'version' => '4.2.0',
+      'url' => 'http://garr.dl.sourceforge.net/project/adminer/Adminer/Adminer%204.2.0/adminer-4.2.0.php',
     ),
   ),
   'closure-compiler' => array(
@@ -700,15 +701,15 @@
   'openssl-x64' => array(
     'name' => 'OpenSSL (64-bit)',
     'website' => 'http://slproweb.com/',
+    '1.0.1g' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1g.exe',
+    '1.0.1h' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1h.exe',
+    '1.0.1i' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1i.exe',
+    '1.0.1f' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1f.exe',
+    '1.0.1j' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1j.exe',
     '1.0.1d' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1d.exe',
     '1.0.1L' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1L.exe',
     '1.0.1e' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1e.exe',
-    '1.0.1j' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1j.exe',
     '1.0.1c' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1c.exe',
-    '1.0.1i' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1i.exe',
-    '1.0.1g' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1g.exe',
-    '1.0.1f' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1f.exe',
-    '1.0.1h' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1h.exe',
     'latest' => array(
       'version' => '1.0.1L',
       'url' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1L.exe',
