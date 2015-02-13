@@ -69,13 +69,10 @@
   'gogs-x86' => array(
     'name' => 'Gogs (Go Git Service) x86',
     'website' => 'http://gogs.io/',
-    '0.5.2' => 'https://github.com/gogits/gogs/releases/download/v0.5.2/gogs-windows-386.zip',
-    '0.5.5' => 'https://github.com/gogits/gogs/releases/download/v0.5.5/gogs-windows-386.zip',
-    '0.5.8' => 'https://github.com/gogits/gogs/releases/download/v0.5.8/gogs-windows-386.zip',
-    '0.5.9' => 'https://github.com/gogits/gogs/releases/download/v0.5.9/gogs-windows-386.zip',
+    '0.5.9' => 'https://github.com/gogits/gogs/releases/download/v0.5.9/windows_386.zip',
     'latest' => array(
       'version' => '0.5.9',
-      'url' => 'https://github.com/gogits/gogs/releases/download/v0.5.9/gogs-windows-386.zip',
+      'url' => 'https://github.com/gogits/gogs/releases/download/v0.5.9/windows_386.zip',
     ),
   ),
   'imagick' => array(
