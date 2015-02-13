@@ -8,7 +8,7 @@
 [ "memcached",              "http:\/\/wpn-xm.org\/get.php?s=memcached&v=1.4.5",                      "memcached.zip",              "1.4.5" ],
 [ "mongodb",                "http:\/\/wpn-xm.org\/get.php?s=mongodb&v=2.7.8",                        "mongodb.zip",                "2.7.8" ],
 [ "nginx",                  "http:\/\/wpn-xm.org\/get.php?s=nginx&v=1.7.10",                         "nginx.zip",                  "1.7.10" ],
-[ "openssl",                "http:\/\/wpn-xm.org\/get.php?s=openssl&v=1.0.1i",                       "openssl.exe",                "1.0.1i" ],
+[ "openssl",                "http:\/\/wpn-xm.org\/get.php?s=openssl&v=1.0.2",                        "openssl.exe",                "1.0.2" ],
 [ "pear",                   "http:\/\/wpn-xm.org\/get.php?s=pear&v=1.0",                             "go-pear.phar",               "1.0" ],
 [ "php",                    "http:\/\/wpn-xm.org\/get.php?s=php&v=5.5.21",                           "php.zip",                    "5.5.21" ],
 [ "phpext_amqp",            "http:\/\/wpn-xm.org\/get.php?s=phpext_amqp&v=1.4.0&p=5.5",              "phpext_amqp.zip",            "1.4.0" ],
