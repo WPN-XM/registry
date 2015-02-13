@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Fri, 13 Feb 2015 11:47:17 +0000.
+    * Last Update Fri, 13 Feb 2015 11:47:25 +0000.
     * Do not edit manually!
     */
 
@@ -704,15 +704,15 @@
   'openssl-x64' => array(
     'name' => 'OpenSSL (64-bit)',
     'website' => 'http://slproweb.com/',
+    '1.0.1i' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1i.exe',
+    '1.0.1g' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1g.exe',
+    '1.0.1f' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1f.exe',
+    '1.0.1c' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1c.exe',
+    '1.0.1h' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1h.exe',
     '1.0.1e' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1e.exe',
     '1.0.1d' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1d.exe',
     '1.0.1j' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1j.exe',
-    '1.0.1h' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1h.exe',
     '1.0.1L' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1L.exe',
-    '1.0.1f' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1f.exe',
-    '1.0.1i' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1i.exe',
-    '1.0.1c' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1c.exe',
-    '1.0.1g' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1g.exe',
     'latest' => array(
       'version' => '1.0.1L',
       'url' => 'http://slproweb.com/download/Win64OpenSSL_Light-1_0_1L.exe',
@@ -1899,9 +1899,10 @@
     'website' => 'http://www.rabbitmq.com/',
     '3.4.2.51207' => 'http://www.rabbitmq.com/nightlies/rabbitmq-server/current/rabbitmq-server-windows-3.4.2.51207.zip',
     '3.4.3' => 'https://www.rabbitmq.com/releases/rabbitmq-server/current/rabbitmq-server-windows-3.4.3.zip',
+    '3.4.4' => 'https://www.rabbitmq.com/releases/rabbitmq-server/current/rabbitmq-server-windows-3.4.4.zip',
     'latest' => array(
-      'version' => '3.4.3',
-      'url' => 'https://www.rabbitmq.com/releases/rabbitmq-server/current/rabbitmq-server-windows-3.4.3.zip',
+      'version' => '3.4.4',
+      'url' => 'https://www.rabbitmq.com/releases/rabbitmq-server/current/rabbitmq-server-windows-3.4.4.zip',
     ),
   ),
   'redis' => array(
