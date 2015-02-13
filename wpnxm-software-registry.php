@@ -1905,8 +1905,7 @@
   'rabbitmq' => array(
     'name' => 'RabbitMQ',
     'website' => 'http://www.rabbitmq.com/',
-    '3.4.2.51207' => 'http://www.rabbitmq.com/nightlies/rabbitmq-server/current/rabbitmq-server-windows-3.4.2.51207.zip',
-    '3.4.3' => 'https://www.rabbitmq.com/releases/rabbitmq-server/current/rabbitmq-server-windows-3.4.3.zip',
+    '3.4.3' => 'https://www.rabbitmq.com/releases/rabbitmq-server/v3.4.3/rabbitmq-server-windows-3.4.3.zip',
     '3.4.4' => 'https://www.rabbitmq.com/releases/rabbitmq-server/current/rabbitmq-server-windows-3.4.4.zip',
     'latest' => array(
       'version' => '3.4.4',
