@@ -208,11 +208,11 @@
   'memadmin' => array(
     'name' => 'Memadmin',
     'website' => 'http://www.junopen.com/memadmin/',
-    '1.0.11' => 'https://codeload.github.com/junstor/memadmin/zip/v1.0.11',
-    '1.0.12' => 'https://codeload.github.com/junstor/memadmin/zip/v1.0.12',
+    '1.0.11' => 'https://github.com/junstor/memadmin/archive/v1.0.11.zip',
+    '1.0.12' => 'https://github.com/junstor/memadmin/archive/v1.0.12.zip',
     'latest' => array(
       'version' => '1.0.12',
-      'url' => 'https://codeload.github.com/junstor/memadmin/zip/v1.0.12',
+      'url' => 'https://github.com/junstor/memadmin/archive/v1.0.12.zip',
     ),
   ),
   'memcached' => array(
