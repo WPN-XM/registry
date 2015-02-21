@@ -11,7 +11,7 @@
 [ "mongodb-x64",            "http:\/\/wpn-xm.org\/get.php?s=mongodb-x64&v=2.7.8",                                "mongodb.zip",                "2.7.8" ],
 [ "msysgit",                "http:\/\/wpn-xm.org\/get.php?s=msysgit&v=1.9.5-preview20141217",                    "msysgit.7z",                 "1.9.5-preview20141217" ],
 [ "nginx",                  "http:\/\/wpn-xm.org\/get.php?s=nginx&v=1.7.10",                                     "nginx.zip",                  "1.7.10" ],
-[ "node",                   "http:\/\/wpn-xm.org\/get.php?s=node&v=0.12.0",                                      "node.exe",                   "0.12.0" ],
+[ "node-x64",               "http:\/\/wpn-xm.org\/get.php?s=node-x64&v=0.12.0",                                  "node.exe",                   "0.12.0" ],
 [ "nodenpm",                "http:\/\/wpn-xm.org\/get.php?s=nodenpm&v=1.4.12",                                   "nodenpm.zip",                "1.4.12" ],
 [ "openssl-x64",            "http:\/\/wpn-xm.org\/get.php?s=openssl-x64&v=1.0.2",                                "openssl.exe",                "1.0.2" ],
 [ "pear",                   "http:\/\/wpn-xm.org\/get.php?s=pear&v=1.0",                                         "go-pear.phar",               "1.0" ],
