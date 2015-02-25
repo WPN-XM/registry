@@ -203,7 +203,7 @@
     'name' => 'MariaDB x64',
     'website' => 'http://mariadb.org/',
     '10.1.2' => 'http://archive.mariadb.org/mariadb-10.1.2/winx64-packages/mariadb-10.1.2-winx64.zip',
-    '10.1.3' => 'http://archive.mariadb.org/mariadb-10.1.3/winx64-packages/mariadb-10.1.3-winx64.zip'
+    '10.1.3' => 'http://archive.mariadb.org/mariadb-10.1.3/winx64-packages/mariadb-10.1.3-winx64.zip',
     'latest' => array(
       'version' => '10.1.3',
       'url' => 'http://archive.mariadb.org/mariadb-10.1.3/winx64-packages/mariadb-10.1.3-winx64.zip',
