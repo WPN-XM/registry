@@ -201,10 +201,10 @@
   'mariadb-x64' => array(
     'name' => 'MariaDB x64',
     'website' => 'http://mariadb.org/',
-    '10.1.2' => 'http://mirror3.layerjet.com/mariadb-10.1.2/winx64-packages/mariadb-10.1.2-winx64.zip',
+    '10.1.2' => 'http://mirror3.layerjet.com/mariadb/mariadb-10.1.2/winx64-packages/mariadb-10.1.2-winx64.zip',
     'latest' => array(
       'version' => '10.1.2',
-      'url' => 'http://mirror3.layerjet.com/mariadb-10.1.2/winx64-packages/mariadb-10.1.2-winx64.zip',
+      'url' => 'http://mirror3.layerjet.com/mariadb/mariadb-10.1.2/winx64-packages/mariadb-10.1.2-winx64.zip',
     ),
   ),
   'memadmin' => array(
