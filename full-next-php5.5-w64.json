@@ -3,7 +3,7 @@
 [ "closure-compiler",       "http:\/\/wpn-xm.org\/get.php?s=closure-compiler&v=latest",                          "closure-compiler.zip",       "latest" ],
 [ "composer",               "http:\/\/wpn-xm.org\/get.php?s=composer&v=1.0",                                     "composer.phar",              "1.0" ],
 [ "gogs-x64",               "http:\/\/wpn-xm.org\/get.php?s=gogs-x64&v=0.5.9",                                   "gotgitservice.zip",          "0.5.9" ],
-[ "imagick",                "http:\/\/wpn-xm.org\/get.php?s=imagick&v=6.9.0-7",                                  "imagick.zip",                "6.9.0-7" ],
+[ "imagick",                "http:\/\/wpn-xm.org\/get.php?s=imagick&v=6.9.0-8",                                  "imagick.zip",                "6.9.0-8" ],
 [ "junction",               "http:\/\/wpn-xm.org\/get.php?s=junction&v=1.0",                                     "junction.zip",               "1.0" ],
 [ "mariadb-x64",            "http:\/\/wpn-xm.org\/get.php?s=mariadb-x64&v=10.1.2",                               "mariadb.zip",                "10.1.2" ],
 [ "memadmin",               "http:\/\/wpn-xm.org\/get.php?s=memadmin&v=1.0.12",                                  "memadmin.zip",               "1.0.12" ],
