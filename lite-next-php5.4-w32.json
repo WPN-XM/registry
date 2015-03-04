@@ -6,5 +6,5 @@
 [ "php",            "http:\/\/wpn-xm.org\/get.php?s=php&v=5.4.38",                 "php.zip",            "5.4.38" ],
 [ "phpext_xdebug",  "http:\/\/wpn-xm.org\/get.php?s=phpext_xdebug&v=2.3.1&p=5.4",  "phpext_xdebug.zip",  "2.3.1" ],
 [ "pickle",         "http:\/\/wpn-xm.org\/get.php?s=pickle&v=0.1.1",               "pickle.phar",        "0.1.1" ],
-[ "wpnxmscp",       "http:\/\/wpn-xm.org\/get.php?s=wpnxmscp&v=0.8.0",             "wpnxmscp.zip",       "0.8.0" ]
+[ "wpnxmscp",       "http:\/\/wpn-xm.org\/get.php?s=wpnxmscp&v=0.8.1",             "wpnxmscp.zip",       "0.8.1" ]
 ]
