@@ -2152,7 +2152,7 @@
     ),
   ),
   'wpnxmscp' => array(
-    'name' => 'WPN-XM SCP',
+    'name' => 'WPN-XM SCP x86',
     'website' => 'http://wpn-xm.org/',
     '0.3.0' => 'http://wpn-xm.org/files/wpnxm-scp-0.3.0.zip',
     '0.4.0' => 'http://wpn-xm.org/files/wpnxm-scp-0.4.0.zip',
@@ -2160,9 +2160,19 @@
     '0.6.0' => 'http://wpn-xm.org/files/wpnxm-scp-0.6.0.zip',
     '0.6.1' => 'http://wpn-xm.org/files/wpnxm-scp-0.6.1.zip',
     '0.8.0' => 'http://wpn-xm.org/files/wpnxm-scp-0.8.0.zip',
+    '0.8.1' => 'https://github.com/WPN-XM/server-control-panel/releases/download/0.8.1/wpnxm-scp-x86.zip',
     'latest' => array(
-      'version' => '0.8.0',
-      'url' => 'http://wpn-xm.org/files/wpnxm-scp-0.8.0.zip',
+      'version' => '0.8.1',
+      'url' => 'https://github.com/WPN-XM/server-control-panel/releases/download/0.8.1/wpnxm-scp-x86.zip',
+    ),
+  ),
+  'wpnxmscp-x64' => array(
+    'name' => 'WPN-XM SCP x86_64',
+    'website' => 'http://wpn-xm.org/',
+    '0.8.1' => 'https://github.com/WPN-XM/server-control-panel/releases/download/0.8.1/wpnxm-scp-x86_64.zip',
+    'latest' => array(
+      'version' => '0.8.1',
+      'url' => 'https://github.com/WPN-XM/server-control-panel/releases/download/0.8.1/wpnxm-scp-x86_64.zip',
     ),
   ),
   'xhprof' => array(
