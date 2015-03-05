@@ -27,7 +27,7 @@
 [ "phpext_xdebug",          "http:\/\/wpn-xm.org\/get.php?s=phpext_xdebug&v=2.3.1&p=5.4",            "phpext_xdebug.dll",          "2.3.1" ],
 [ "phpext_zmq",             "http:\/\/wpn-xm.org\/get.php?s=phpext_zmq&v=1.1.2&p=5.4",               "phpext_zmq.zip",             "1.1.2" ],
 [ "phpmemcachedadmin",      "http:\/\/wpn-xm.org\/get.php?s=phpmemcachedadmin&v=1.2.2",              "phpmemcachedadmin.zip",      "1.2.2" ],
-[ "phpmyadmin",             "http:\/\/wpn-xm.org\/get.php?s=phpmyadmin&v=4.3.11.1",                  "phpmyadmin.zip",             "4.3.11.1" ],
+[ "phpmyadmin",             "http:\/\/wpn-xm.org\/get.php?s=phpmyadmin&v=4.4.0-alpha1",              "phpmyadmin.zip",             "4.4.0-alpha1" ],
 [ "pickle",                 "http:\/\/wpn-xm.org\/get.php?s=pickle&v=0.4.0",                         "pickle.phar",                "0.4.0" ],
 [ "redis",                  "http:\/\/wpn-xm.org\/get.php?s=redis&v=2.6.14",                         "redis.zip",                  "2.6.14" ],
 [ "rockmongo",              "http:\/\/wpn-xm.org\/get.php?s=rockmongo&v=1.1.7",                      "rockmongo.zip",              "1.1.7" ],
