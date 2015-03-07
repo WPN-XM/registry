@@ -2174,7 +2174,6 @@
   'wpnxmscp-x64' => array(
     'name' => 'WPN-XM SCP x86_64',
     'website' => 'http://wpn-xm.org/',
-    '0.8.0' => 'https://github.com/WPN-XM/server-control-panel/releases/download/0.8.1/wpnxm-scp-x86_64.zip',
     '0.8.1' => 'https://github.com/WPN-XM/server-control-panel/releases/download/0.8.1/wpnxm-scp-x86_64_boxed.zip',
     'latest' => array(
       'version' => '0.8.1',
