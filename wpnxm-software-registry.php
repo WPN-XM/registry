@@ -2009,10 +2009,10 @@
     '4.3.9' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.3.9/phpMyAdmin-4.3.9-english.zip',
     '4.3.10' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.3.10/phpMyAdmin-4.3.10-english.zip',
     '4.3.11.1' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.3.11.1/phpMyAdmin-4.3.11.1-english.zip',
-    '4.4.0-alpha1' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.4.0-alpha1/phpMyAdmin-4.4.0-alpha1-english.zip',
+    '4.4.0-alpha1' => 'http://sourceforge.net/projects/phpmyadmin/files/phpMyAdmin/4.4.0-alpha1/phpMyAdmin-4.4.0-alpha1-english.zip/download',
     'latest' => array(
       'version' => '4.4.0-alpha1',
-      'url' => 'http://switch.dl.sourceforge.net/project/phpmyadmin/phpMyAdmin/4.4.0-alpha1/phpMyAdmin-4.4.0-alpha1-english.zip',
+      'url' => 'http://sourceforge.net/projects/phpmyadmin/files/phpMyAdmin/4.4.0-alpha1/phpMyAdmin-4.4.0-alpha1-english.zip/download',
     ),
   ),
   'pickle' => array(
