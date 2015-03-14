@@ -1,5 +1,5 @@
 [
-[ "adminer",        "http:\/\/wpn-xm.org\/get.php?s=adminer&v=4.2.0",              "adminer.php",        "4.2.0" ],
+[ "adminer",        "http:\/\/wpn-xm.org\/get.php?s=adminer&v=4.2.1",              "adminer.php",        "4.2.1" ],
 [ "composer",       "http:\/\/wpn-xm.org\/get.php?s=composer&v=1.0",               "composer.phar",      "1.0" ],
 [ "mariadb",        "http:\/\/wpn-xm.org\/get.php?s=mariadb&v=10.1.3",             "mariadb.zip",        "10.1.3" ],
 [ "nginx",          "http:\/\/wpn-xm.org\/get.php?s=nginx&v=1.7.10",               "nginx.zip",          "1.7.10" ],
