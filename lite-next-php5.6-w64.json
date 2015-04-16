@@ -3,7 +3,7 @@
 [ "composer",       "http:\/\/wpn-xm.org\/get.php?s=composer&v=1.0",                           "composer.phar",      "1.0" ],
 [ "mariadb-x64",    "http:\/\/wpn-xm.org\/get.php?s=mariadb-x64&v=10.1.4",                     "mariadb.zip",        "10.1.4" ],
 [ "nginx",          "http:\/\/wpn-xm.org\/get.php?s=nginx&v=1.7.12",                           "nginx.zip",          "1.7.12" ],
-[ "php-x64",        "http:\/\/wpn-xm.org\/get.php?s=php-x64&v=5.6.7",                          "php.zip",            "5.6.7" ],
+[ "php-x64",        "http:\/\/wpn-xm.org\/get.php?s=php-x64&v=5.6.8",                          "php.zip",            "5.6.8" ],
 [ "phpext_xdebug",  "http:\/\/wpn-xm.org\/get.php?s=phpext_xdebug&v=2.3.2&p=5.6&bitsize=x64",  "phpext_xdebug.zip",  "2.3.2" ],
 [ "pickle",         "http:\/\/wpn-xm.org\/get.php?s=pickle&v=0.4.0",                           "pickle.phar",        "0.4.0" ],
 [ "wpnxmscp-x64",   "http:\/\/wpn-xm.org\/get.php?s=wpnxmscp-x64&v=0.8.1",                     "wpnxmscp.zip",       "0.8.1" ]
