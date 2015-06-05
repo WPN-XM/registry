@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Fri, 05 Jun 2015 13:14:12 +0000.
+    * Last Update Fri, 05 Jun 2015 13:14:34 +0000.
     * Do not edit manually!
     */
 
@@ -2186,10 +2186,9 @@
     '9.4.0' => 'http://get.enterprisedb.com/postgresql/postgresql-9.4.0-1-windows-binaries.zip',
     '9.4.1' => 'http://get.enterprisedb.com/postgresql/postgresql-9.4.1-1-windows-binaries.zip',
     '9.4.2' => 'http://get.enterprisedb.com/postgresql/postgresql-9.4.2-1-windows-binaries.zip',
-    '9.4.3' => 'http://get.enterprisedb.com/postgresql/postgresql-9.4.3-1-windows-binaries.zip',
     'latest' => array(
-      'version' => '9.4.3',
-      'url' => 'http://get.enterprisedb.com/postgresql/postgresql-9.4.3-1-windows-binaries.zip',
+      'version' => '9.4.2',
+      'url' => 'http://get.enterprisedb.com/postgresql/postgresql-9.4.2-1-windows-binaries.zip',
     ),
   ),
   'postgresql-x64' => array(
@@ -2199,9 +2198,10 @@
     '9.4.0-rc1' => 'http://get.enterprisedb.com/postgresql/postgresql-9.4.0-rc1-windows-x64-binaries.zip',
     '9.4.1' => 'http://get.enterprisedb.com/postgresql/postgresql-9.4.1-1-windows-x64-binaries.zip',
     '9.4.2' => 'http://get.enterprisedb.com/postgresql/postgresql-9.4.2-1-windows-x64-binaries.zip',
+    '9.4.3' => 'http://get.enterprisedb.com/postgresql/postgresql-9.4.3-1-windows-x64-binaries.zip',
     'latest' => array(
-      'version' => '9.4.2',
-      'url' => 'http://get.enterprisedb.com/postgresql/postgresql-9.4.2-1-windows-x64-binaries.zip',
+      'version' => '9.4.3',
+      'url' => 'http://get.enterprisedb.com/postgresql/postgresql-9.4.3-1-windows-x64-binaries.zip',
     ),
   ),
   'rabbitmq' => array(
