@@ -181,11 +181,11 @@
     '10.1.1' => 'http://archive.mariadb.org/mariadb-10.1.1/win32-packages/mariadb-10.1.1-win32.zip',
     '10.1.2' => 'http://archive.mariadb.org/mariadb-10.1.2/win32-packages/mariadb-10.1.2-win32.zip',
     '10.1.3' => 'http://archive.mariadb.org/mariadb-10.1.3/win32-packages/mariadb-10.1.3-win32.zip',
-    '10.1.4' => 'http://mirror3.layerjet.com/mariadb/mariadb-10.1.4/win32-packages/mariadb-10.1.4-win32.zip',
-    '10.1.5' => 'http://mirror3.layerjet.com/mariadb/mariadb-10.1.5/win32-packages/mariadb-10.1.5-win32.zip',
+    '10.1.4' => 'http://mirrors.n-ix.net/mariadb/mariadb-10.1.4/win32-packages/mariadb-10.1.4-win32.zip',
+    '10.1.5' => 'http://mirrors.n-ix.net/mariadb/mariadb-10.1.5/win32-packages/mariadb-10.1.5-win32.zip',
     'latest' => array(
       'version' => '10.1.5',
-      'url' => 'http://mirror3.layerjet.com/mariadb/mariadb-10.1.5/win32-packages/mariadb-10.1.5-win32.zip',
+      'url' => 'http://mirrors.n-ix.net/mariadb/mariadb-10.1.5/win32-packages/mariadb-10.1.5-win32.zip',
     ),
   ),
   'mariadb-x64' => array(
