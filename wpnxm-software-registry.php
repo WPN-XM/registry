@@ -182,10 +182,10 @@
     '10.1.2' => 'http://archive.mariadb.org/mariadb-10.1.2/win32-packages/mariadb-10.1.2-win32.zip',
     '10.1.3' => 'http://archive.mariadb.org/mariadb-10.1.3/win32-packages/mariadb-10.1.3-win32.zip',
     '10.1.4' => 'http://archive.mariadb.org/mariadb/mariadb-10.1.4/win32-packages/mariadb-10.1.4-win32.zip',
-    '10.1.5' => 'http://ams2.mirrors.digitalocean.com/mariadb/mariadb-10.1.5/win32-packages/mariadb-10.1.5-win32.zip',
+    '10.1.5' => 'http://mirror.jmu.edu/pub/mariadb/mariadb-10.1.5/win32-packages/mariadb-10.1.5-win32.zip',
     'latest' => array(
       'version' => '10.1.5',
-      'url' => 'http://ams2.mirrors.digitalocean.com/mariadb/mariadb-10.1.5/win32-packages/mariadb-10.1.5-win32.zip',
+      'url' => 'http://mirror.jmu.edu/pub/mariadb/mariadb-10.1.5/win32-packages/mariadb-10.1.5-win32.zip',
     ),
   ),
   'mariadb-x64' => array(
@@ -194,10 +194,10 @@
     '10.1.2' => 'http://archive.mariadb.org/mariadb/mariadb-10.1.2/winx64-packages/mariadb-10.1.2-winx64.zip',
     '10.1.3' => 'http://archive.mariadb.org/mariadb/mariadb-10.1.3/winx64-packages/mariadb-10.1.3-winx64.zip',
     '10.1.4' => 'http://archive.mariadb.org/mariadb/mariadb-10.1.4/winx64-packages/mariadb-10.1.4-winx64.zip',
-    '10.1.5' => 'http://ams2.mirrors.digitalocean.com/mariadb/mariadb-10.1.5/winx64-packages/mariadb-10.1.5-winx64.zip',
+    '10.1.5' => 'http://mirror.jmu.edu/pub/mariadb/mariadb-10.1.5/winx64-packages/mariadb-10.1.5-winx64.zip',
     'latest' => array(
       'version' => '10.1.5',
-      'url' => 'http://ams2.mirrors.digitalocean.com/mariadb/mariadb-10.1.5/winx64-packages/mariadb-10.1.5-winx64.zip',
+      'url' => 'http://mirror.jmu.edu/pub/mariadb/mariadb-10.1.5/winx64-packages/mariadb-10.1.5-winx64.zip',
     ),
   ),
   'memadmin' => array(
