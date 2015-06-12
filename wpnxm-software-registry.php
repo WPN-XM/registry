@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Fri, 12 Jun 2015 16:08:26 +0000.
+    * Last Update Fri, 12 Jun 2015 16:08:42 +0000.
     * Do not edit manually!
     */
 
@@ -60,10 +60,9 @@
     'website' => 'http://conemu.github.io/',
     '15.05.13' => 'https://github.com/Maximus5/ConEmu/releases/download/v15.05.13/ConEmuPack.150513.7z',
     '15.06.08' => 'https://github.com/Maximus5/ConEmu/releases/download/v15.06.08/ConEmuPack.150608.7z',
-    '15.06.10' => 'https://github.com/Maximus5/ConEmu/releases/download/v15.06.10/ConEmuPack.150610.7z',
     'latest' => array(
-      'version' => '15.06.10',
-      'url' => 'https://github.com/Maximus5/ConEmu/releases/download/v15.06.10/ConEmuPack.150610.7z',
+      'version' => '15.06.08',
+      'url' => 'https://github.com/Maximus5/ConEmu/releases/download/v15.06.08/ConEmuPack.150608.7z',
     ),
   ),
   'gogs-x64' => array(
@@ -2205,9 +2204,10 @@
     '9.4.1' => 'http://get.enterprisedb.com/postgresql/postgresql-9.4.1-1-windows-binaries.zip',
     '9.4.2' => 'http://get.enterprisedb.com/postgresql/postgresql-9.4.2-1-windows-binaries.zip',
     '9.4.3' => 'http://get.enterprisedb.com/postgresql/postgresql-9.4.3-1-windows-binaries.zip',
+    '9.4.4' => 'http://get.enterprisedb.com/postgresql/postgresql-9.4.4-1-windows-binaries.zip',
     'latest' => array(
-      'version' => '9.4.3',
-      'url' => 'http://get.enterprisedb.com/postgresql/postgresql-9.4.3-1-windows-binaries.zip',
+      'version' => '9.4.4',
+      'url' => 'http://get.enterprisedb.com/postgresql/postgresql-9.4.4-1-windows-binaries.zip',
     ),
   ),
   'postgresql-x64' => array(
