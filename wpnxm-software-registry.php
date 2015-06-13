@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Sat, 13 Jun 2015 09:47:05 +0000.
+    * Last Update Sat, 13 Jun 2015 09:47:43 +0000.
     * Do not edit manually!
     */
 
@@ -781,19 +781,19 @@
     'name' => 'OpenSSL (64-bit)',
     'website' => 'http://indy.fulgan.com/SSL/',
     '0.9.8ze' => 'http://indy.fulgan.com/SSL/openssl-0.9.8ze-x64_86-win64.zip',
-    '0.9.8zd' => 'http://indy.fulgan.com/SSL/openssl-0.9.8zd-x64_86-win64.zip',
     '0.9.8s' => 'http://indy.fulgan.com/SSL/openssl-0.9.8s-x64_86-win64.zip',
-    '0.9.8u' => 'http://indy.fulgan.com/SSL/openssl-0.9.8u-x64_86-win64.zip',
+    '0.9.8zd' => 'http://indy.fulgan.com/SSL/openssl-0.9.8zd-x64_86-win64.zip',
     '0.9.8zc' => 'http://indy.fulgan.com/SSL/openssl-0.9.8zc-x64_86-win64.zip',
-    '0.9.8y' => 'http://indy.fulgan.com/SSL/openssl-0.9.8y-x64_86-win64.zip',
-    '0.9.8zb' => 'http://indy.fulgan.com/SSL/openssl-0.9.8zb-x64_86-win64.zip',
-    '0.9.8w' => 'http://indy.fulgan.com/SSL/openssl-0.9.8w-x64_86-win64.zip',
-    '0.9.8x' => 'http://indy.fulgan.com/SSL/openssl-0.9.8x-x64_86-win64.zip',
+    '0.9.8u' => 'http://indy.fulgan.com/SSL/openssl-0.9.8u-x64_86-win64.zip',
     '0.9.8t' => 'http://indy.fulgan.com/SSL/openssl-0.9.8t-x64_86-win64.zip',
-    '1.0.0o' => 'http://indy.fulgan.com/SSL/openssl-1.0.0o-x64_86-win64.zip',
+    '0.9.8x' => 'http://indy.fulgan.com/SSL/openssl-0.9.8x-x64_86-win64.zip',
+    '0.9.8w' => 'http://indy.fulgan.com/SSL/openssl-0.9.8w-x64_86-win64.zip',
+    '0.9.8zb' => 'http://indy.fulgan.com/SSL/openssl-0.9.8zb-x64_86-win64.zip',
+    '0.9.8y' => 'http://indy.fulgan.com/SSL/openssl-0.9.8y-x64_86-win64.zip',
+    '1.0.0n' => 'http://indy.fulgan.com/SSL/openssl-1.0.0n-x64_86-win64.zip',
     '1.0.0q' => 'http://indy.fulgan.com/SSL/openssl-1.0.0q-x64_86-win64.zip',
     '1.0.0l' => 'http://indy.fulgan.com/SSL/openssl-1.0.0l-x64_86-win64.zip',
-    '1.0.0n' => 'http://indy.fulgan.com/SSL/openssl-1.0.0n-x64_86-win64.zip',
+    '1.0.0o' => 'http://indy.fulgan.com/SSL/openssl-1.0.0o-x64_86-win64.zip',
     '1.0.0f' => 'http://indy.fulgan.com/SSL/openssl-1.0.0f-x64_86-win64.zip',
     '1.0.0g' => 'http://indy.fulgan.com/SSL/openssl-1.0.0g-x64_86-win64.zip',
     '1.0.0k' => 'http://indy.fulgan.com/SSL/openssl-1.0.0k-x64_86-win64.zip',
@@ -807,17 +807,18 @@
     '1.0.1i' => 'http://indy.fulgan.com/SSL/openssl-1.0.1i-x64_86-win64.zip',
     '1.0.1k' => 'http://indy.fulgan.com/SSL/openssl-1.0.1k-x64_86-win64.zip',
     '1.0.1g' => 'http://indy.fulgan.com/SSL/openssl-1.0.1g-x64_86-win64.zip',
+    '1.0.1h' => 'http://indy.fulgan.com/SSL/openssl-1.0.1h-x64_86-win64.zip',
     '1.0.1c' => 'http://indy.fulgan.com/SSL/openssl-1.0.1c-x64_86-win64.zip',
     '1.0.1e' => 'http://indy.fulgan.com/SSL/openssl-1.0.1e-x64_86-win64.zip',
-    '1.0.1h' => 'http://indy.fulgan.com/SSL/openssl-1.0.1h-x64_86-win64.zip',
     '1.0.1f' => 'http://indy.fulgan.com/SSL/openssl-1.0.1f-x64_86-win64.zip',
     '1.0.1b' => 'http://indy.fulgan.com/SSL/openssl-1.0.1b-x64_86-win64.zip',
     '1.0.1' => 'http://indy.fulgan.com/SSL/openssl-1.0.1-x64_86-win64.zip',
+    '1.0.2c' => 'http://indy.fulgan.com/SSL/openssl-1.0.2c-x64_86-win64.zip',
     '1.0.2a' => 'http://indy.fulgan.com/SSL/openssl-1.0.2a-x64_86-win64.zip',
     '1.0.2' => 'http://indy.fulgan.com/SSL/openssl-1.0.2-x64_86-win64.zip',
     'latest' => array(
-      'version' => '1.0.2a',
-      'url' => 'http://indy.fulgan.com/SSL/openssl-1.0.2a-x64_86-win64.zip',
+      'version' => '1.0.2c',
+      'url' => 'http://indy.fulgan.com/SSL/openssl-1.0.2c-x64_86-win64.zip',
     ),
   ),
   'pear' => array(
