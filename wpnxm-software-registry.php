@@ -2319,9 +2319,10 @@
     '11.0.51106.1' => 'http://download.microsoft.com/download/1/6/B/16B06F60-3B20-4FF2-B699-5E9B7962F9AE/VSU1/vcredist_x86.exe',
     '11.0.60610.1' => 'http://download.microsoft.com/download/1/6/B/16B06F60-3B20-4FF2-B699-5E9B7962F9AE/VSU3/vcredist_x86.exe',
     '11.0.61030' => 'http://download.microsoft.com/download/1/6/B/16B06F60-3B20-4FF2-B699-5E9B7962F9AE/VSU_4/vcredist_x86.exe',
+    '14.0.22816' => 'http://download.microsoft.com/download/0/4/1/041224F6-A7DC-486B-BD66-BCAAF74B6919/vc_redist.x86.exe',
     'latest' => array(
-      'version' => '11.0.61030',
-      'url' => 'http://download.microsoft.com/download/1/6/B/16B06F60-3B20-4FF2-B699-5E9B7962F9AE/VSU_4/vcredist_x86.exe',
+      'version' => '14.0.22816',
+      'url' => 'http://download.microsoft.com/download/0/4/1/041224F6-A7DC-486B-BD66-BCAAF74B6919/vc_redist.x86.exe',
     ),
   ),
   'vcredist-x64' => array(
@@ -2334,9 +2335,10 @@
     '11.0.50727.1' => 'http://download.microsoft.com/download/1/6/B/16B06F60-3B20-4FF2-B699-5E9B7962F9AE/vcredist_x64.exe',
     '11.0.60610.1' => 'http://download.microsoft.com/download/1/6/B/16B06F60-3B20-4FF2-B699-5E9B7962F9AE/VSU3/vcredist_x64.exe',
     '11.0.61030' => 'http://download.microsoft.com/download/1/6/B/16B06F60-3B20-4FF2-B699-5E9B7962F9AE/VSU_4/vcredist_x64.exe',
+    '14.0.22816' => 'http://download.microsoft.com/download/0/4/1/041224F6-A7DC-486B-BD66-BCAAF74B6919/vc_redist.x64.exe',
     'latest' => array(
-      'version' => '11.0.61030',
-      'url' => 'http://download.microsoft.com/download/1/6/B/16B06F60-3B20-4FF2-B699-5E9B7962F9AE/VSU_4/vcredist_x64.exe',
+      'version' => '14.0.22816',
+      'url' => 'http://download.microsoft.com/download/0/4/1/041224F6-A7DC-486B-BD66-BCAAF74B6919/vc_redist.x64.exe',
     ),
   ),
   'webgrind' => array(
