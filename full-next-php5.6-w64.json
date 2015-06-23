@@ -2,6 +2,7 @@
 [ "adminer",                "http:\/\/wpn-xm.org\/get.php?s=adminer&v=4.2.1",                                    "adminer.php",                "4.2.1" ],
 [ "closure-compiler",       "http:\/\/wpn-xm.org\/get.php?s=closure-compiler&v=latest",                          "closure-compiler.zip",       "latest" ],
 [ "composer",               "http:\/\/wpn-xm.org\/get.php?s=composer&v=1.0",                                     "composer.phar",              "1.0" ],
+[ "conemu",                 "http:\/\/wpn-xm.org\/get.php?s=conemu&v=15.06.10",                                  "conemu.7z",                  "15.06.10" ],
 [ "gogs-x64",               "http:\/\/wpn-xm.org\/get.php?s=gogs-x64&v=0.5.13",                                  "gogitservice.zip",           "0.5.13" ],
 [ "imagick",                "http:\/\/wpn-xm.org\/get.php?s=imagick&v=6.9.1-6",                                  "imagick.zip",                "6.9.1-6" ],
 [ "junction",               "http:\/\/wpn-xm.org\/get.php?s=junction&v=1.0",                                     "junction.zip",               "1.0" ],
