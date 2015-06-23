@@ -13,7 +13,7 @@
 [ "nginx",                  "http:\/\/wpn-xm.org\/get.php?s=nginx&v=1.9.1",                                      "nginx.zip",                  "1.9.1" ],
 [ "node-x64",               "http:\/\/wpn-xm.org\/get.php?s=node-x64&v=0.12.5",                                  "node.exe",                   "0.12.5" ],
 [ "nodenpm",                "http:\/\/wpn-xm.org\/get.php?s=nodenpm&v=1.4.12",                                   "nodenpm.zip",                "1.4.12" ],
-[ "openssl-x64",            "http:\/\/wpn-xm.org\/get.php?s=openssl-x64&v=1.0.2",                                "openssl.zip",                "1.0.2" ],
+[ "openssl-x64",            "http:\/\/wpn-xm.org\/get.php?s=openssl-x64&v=1.0.2c",                                "openssl.zip",                "1.0.2c" ],
 [ "pear",                   "http:\/\/wpn-xm.org\/get.php?s=pear&v=1.0",                                         "go-pear.phar",               "1.0" ],
 [ "perl-x64",               "http:\/\/wpn-xm.org\/get.php?s=perl-x64&v=5.22.0.1",                                "perl.zip",                   "5.22.0.1" ],
 [ "php-cs-fixer",           "http:\/\/wpn-xm.org\/get.php?s=php-cs-fixer&v=latest",                              "php-cs-fixer.phar",          "latest" ],
