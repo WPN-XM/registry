@@ -1364,7 +1364,7 @@
   ),
   'phpext_mongo' => array(
     'name' => 'PHP Extension Mongo',
-    'website' => 'http://www.mongodb.org/display/DOCS/PHP+Language+Center/',
+    'website' => 'http://docs.mongodb.org/ecosystem/drivers/php/',
     '1.4.2' => array(
       'x86' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.4.2/php_mongo-1.4.2-5.4-nts-VC9-x86.zip',
