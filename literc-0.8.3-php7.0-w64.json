@@ -1,0 +1,11 @@
+[
+[ "adminer",        "http:\/\/wpn-xm.org\/get.php?s=adminer&v=4.2.1",                          "adminer.php",        "4.2.1" ],
+[ "composer",       "http:\/\/wpn-xm.org\/get.php?s=composer&v=1.0",                           "composer.phar",      "1.0" ],
+[ "mariadb-x64",    "http:\/\/wpn-xm.org\/get.php?s=mariadb-x64&v=10.1.5",                     "mariadb.zip",        "10.1.5" ],
+[ "nginx",          "http:\/\/wpn-xm.org\/get.php?s=nginx&v=1.9.2",                            "nginx.zip",          "1.9.2" ],
+[ "openssl-x64",    "http:\/\/wpn-xm.org\/get.php?s=openssl-x64&v=1.0.2c",                     "openssl.zip",        "1.0.2c" ],
+[ "php-qa-x64",     "http:\/\/wpn-xm.org\/get.php?s=php-qa-x64&v=7.0.0alpha2",                 "php.zip",            "7.0.0alpha2" ],
+[ "phpext_xdebug",  "http:\/\/wpn-xm.org\/get.php?s=phpext_xdebug&v=2.3.3&p=5.6&bitsize=x64",  "phpext_xdebug.zip",  "2.3.3" ],
+[ "pickle",         "http:\/\/wpn-xm.org\/get.php?s=pickle&v=0.4.0",                           "pickle.phar",        "0.4.0" ],
+[ "wpnxmscp-x64",   "http:\/\/wpn-xm.org\/get.php?s=wpnxmscp-x64&v=0.8.4",                     "wpnxmscp.zip",       "0.8.4" ]
+]
