@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Wed, 24 Jun 2015 21:56:28 +0000.
+    * Last Update Sun, 28 Jun 2015 13:38:37 +0000.
     * Do not edit manually!
     */
 
@@ -2260,9 +2260,10 @@
     'website' => 'http://redis.io/',
     '2.6.0' => 'https://github.com/MSOpenTech/redis/raw/2.6/bin/release/redisbin.zip',
     '2.6.14' => 'https://github.com/MSOpenTech/redis/raw/2_6_14_rebase/bin/release/redis-2.6.14.zip',
+    '2.8.21' => 'https://github.com/MSOpenTech/redis/releases/download/win-2.8.21/redis-2.8.21.zip',
     'latest' => array(
-      'version' => '2.6.14',
-      'url' => 'https://github.com/MSOpenTech/redis/raw/2_6_14_rebase/bin/release/redis-2.6.14.zip',
+      'version' => '2.8.21',
+      'url' => 'https://github.com/MSOpenTech/redis/releases/download/win-2.8.21/redis-2.8.21.zip',
     ),
   ),
   'robomongo' => array(
