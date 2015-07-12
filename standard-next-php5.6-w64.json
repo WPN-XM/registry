@@ -3,7 +3,6 @@
 [ "closure-compiler",       "http:\/\/wpn-xm.org\/get.php?s=closure-compiler&v=latest",                          "closure-compiler.zip",       "latest" ],
 [ "composer",               "http:\/\/wpn-xm.org\/get.php?s=composer&v=1.0",                                     "composer.phar",              "1.0" ],
 [ "conemu",                 "http:\/\/wpn-xm.org\/get.php?s=conemu&v=15.06.21",                                  "conemu.7z",                  "15.06.21" ],
-[ "junction",               "http:\/\/wpn-xm.org\/get.php?s=junction&v=1.0",                                     "junction.zip",               "1.0" ],
 [ "mariadb-x64",            "http:\/\/wpn-xm.org\/get.php?s=mariadb-x64&v=10.1.5",                               "mariadb.zip",                "10.1.5" ],
 [ "memadmin",               "http:\/\/wpn-xm.org\/get.php?s=memadmin&v=1.0.12",                                  "memadmin.zip",               "1.0.12" ],
 [ "memcached",              "http:\/\/wpn-xm.org\/get.php?s=memcached&v=1.4.5",                                  "memcached.zip",              "1.4.5" ],

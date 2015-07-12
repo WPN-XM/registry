@@ -101,15 +101,6 @@
       'url' => 'http://www.imagemagick.org/download/binaries/ImageMagick-6.9.1-6-Q16-x86-windows.zip',
     ),
   ),
-  'junction' => array(
-    'name' => 'Junction',
-    'website' => 'http://technet.microsoft.com/de-de/sysinternals/bb896768.aspx',
-    '1.0' => 'http://download.sysinternals.com/files/Junction.zip',
-    'latest' => array(
-      'version' => '1.0',
-      'url' => 'http://download.sysinternals.com/files/Junction.zip',
-    ),
-  ),
   'mariadb' => array(
     'name' => 'MariaDB x86',
     'website' => 'http://mariadb.org/',
