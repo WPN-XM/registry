@@ -2289,14 +2289,12 @@
     ),
   ),
   'redis' => array(
-    'name' => 'Redis',
+    'name' => 'Redis x64',
     'website' => 'http://redis.io/',
-    '2.6.0' => 'https://github.com/MSOpenTech/redis/raw/2.6/bin/release/redisbin.zip',
-    '2.6.14' => 'https://github.com/MSOpenTech/redis/raw/2_6_14_rebase/bin/release/redis-2.6.14.zip',
-    '2.8.21' => 'https://github.com/MSOpenTech/redis/releases/download/win-2.8.21/redis-2.8.21.zip',
+    '2.8.21' => 'https://github.com/MSOpenTech/redis/releases/download/win-2.8.21/redis-x64-2.8.21.zip',
     'latest' => array(
       'version' => '2.8.21',
-      'url' => 'https://github.com/MSOpenTech/redis/releases/download/win-2.8.21/redis-2.8.21.zip',
+      'url' => 'https://github.com/MSOpenTech/redis/releases/download/win-2.8.21/redis-x64-2.8.21.zip',
     ),
   ),
   'robomongo' => array(
