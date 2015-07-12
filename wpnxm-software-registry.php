@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Sun, 12 Jul 2015 09:05:35 +0000.
+    * Last Update Sun, 12 Jul 2015 09:05:59 +0000.
     * Do not edit manually!
     */
 
@@ -822,9 +822,10 @@
     '1.0.2' => 'http://indy.fulgan.com/SSL/openssl-1.0.2-x64_86-win64.zip',
     '1.0.2a' => 'http://indy.fulgan.com/SSL/openssl-1.0.2a-x64_86-win64.zip',
     '1.0.2c' => 'http://indy.fulgan.com/SSL/openssl-1.0.2c-x64_86-win64.zip',
+    '1.0.2d' => 'http://indy.fulgan.com/SSL/openssl-1.0.2d-x64_86-win64.zip',
     'latest' => array(
-      'version' => '1.0.2c',
-      'url' => 'http://indy.fulgan.com/SSL/openssl-1.0.2c-x64_86-win64.zip',
+      'version' => '1.0.2d',
+      'url' => 'http://indy.fulgan.com/SSL/openssl-1.0.2d-x64_86-win64.zip',
     ),
   ),
   'pear' => array(
