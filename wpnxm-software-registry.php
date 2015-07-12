@@ -69,7 +69,7 @@
     ),
   ),
   'gogs-x64' => array(
-    'name' => 'Gogs (Go Git Service) x64',
+    'name' => 'Go Git Service x64',
     'website' => 'http://gogs.io/',
     '0.5.2' => 'https://github.com/gogits/gogs/releases/download/v0.5.2/windows_amd64.zip',
     '0.5.5' => 'https://github.com/gogits/gogs/releases/download/v0.5.5/windows_amd64.zip',
@@ -82,7 +82,7 @@
     ),
   ),
   'gogs-x86' => array(
-    'name' => 'Gogs (Go Git Service) x86',
+    'name' => 'Go Git Service x86',
     'website' => 'http://gogs.io/',
     '0.5.9' => 'https://github.com/gogits/gogs/releases/download/v0.5.9/windows_386.zip',
     'latest' => array(
