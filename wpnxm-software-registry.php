@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Fri, 31 Jul 2015 18:05:26 +0000.
+    * Last Update Fri, 31 Jul 2015 18:06:05 +0000.
     * Do not edit manually!
     */
 
@@ -204,10 +204,11 @@
     '10.1.2' => 'http://archive.mariadb.org/mariadb/mariadb-10.1.2/winx64-packages/mariadb-10.1.2-winx64.zip',
     '10.1.3' => 'http://archive.mariadb.org/mariadb/mariadb-10.1.3/winx64-packages/mariadb-10.1.3-winx64.zip',
     '10.1.4' => 'http://archive.mariadb.org/mariadb/mariadb-10.1.4/winx64-packages/mariadb-10.1.4-winx64.zip',
-    '10.1.5' => 'http://sfo1.mirrors.digitalocean.com/mariadb/mariadb-10.1.5/winx64-packages/mariadb-10.1.5-winx64.zip',
+    '10.1.5' => 'http://mirror.jmu.edu/pub/mariadb/mariadb-10.1.5/winx64-packages/mariadb-10.1.5-winx64.zip',
+    '10.1.6' => 'http://mirror.jmu.edu/pub/mariadb/mariadb-10.1.6/winx64-packages/mariadb-10.1.6-winx64.zip',
     'latest' => array(
-      'version' => '10.1.5',
-      'url' => 'http://sfo1.mirrors.digitalocean.com/mariadb/mariadb-10.1.5/winx64-packages/mariadb-10.1.5-winx64.zip',
+      'version' => '10.1.6',
+      'url' => 'http://mirror.jmu.edu/pub/mariadb/mariadb-10.1.6/winx64-packages/mariadb-10.1.6-winx64.zip',
     ),
   ),
   'memadmin' => array(
