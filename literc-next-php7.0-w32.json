@@ -1,11 +1,11 @@
 [
 [ "adminer",        "http:\/\/wpn-xm.org\/get.php?s=adminer&v=4.2.1",              "adminer.php",        "4.2.1" ],
 [ "composer",       "http:\/\/wpn-xm.org\/get.php?s=composer&v=1.0",               "composer.phar",      "1.0" ],
-[ "conemu",                 "http:\/\/wpn-xm.org\/get.php?s=conemu&v=15.07.07",                                  "conemu.7z",                  "15.07.07" ],
-[ "mariadb",        "http:\/\/wpn-xm.org\/get.php?s=mariadb&v=10.1.5",             "mariadb.zip",        "10.1.5" ],
-[ "nginx",          "http:\/\/wpn-xm.org\/get.php?s=nginx&v=1.9.2",                "nginx.zip",          "1.9.2" ],
+[ "conemu",         "http:\/\/wpn-xm.org\/get.php?s=conemu&v=15.07.28",            "conemu.7z",          "15.07.28" ],
+[ "mariadb",        "http:\/\/wpn-xm.org\/get.php?s=mariadb&v=10.1.6",             "mariadb.zip",        "10.1.6" ],
+[ "nginx",          "http:\/\/wpn-xm.org\/get.php?s=nginx&v=1.9.3",                "nginx.zip",          "1.9.3" ],
 [ "openssl",        "http:\/\/wpn-xm.org\/get.php?s=openssl&v=1.0.2c",             "openssl.zip",        "1.0.2c" ],
-[ "php-qa",         "http:\/\/wpn-xm.org\/get.php?s=php-qa&v=7.0.0beta1",          "php.zip",            "7.0.0beta1" ],
+[ "php-qa",         "http:\/\/wpn-xm.org\/get.php?s=php-qa&v=7.0.0beta2",          "php.zip",            "7.0.0beta2" ],
 [ "phpext_xdebug",  "http:\/\/wpn-xm.org\/get.php?s=phpext_xdebug&v=2.3.3&p=7.0",  "phpext_xdebug.zip",  "2.3.3" ],
 [ "pickle",         "http:\/\/wpn-xm.org\/get.php?s=pickle&v=0.4.0",               "pickle.phar",        "0.4.0" ],
 [ "wpnxmscp",       "http:\/\/wpn-xm.org\/get.php?s=wpnxmscp&v=0.8.4",             "wpnxmscp.zip",       "0.8.4" ]
