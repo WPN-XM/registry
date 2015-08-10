@@ -1,5 +1,5 @@
 [
-[ "adminer",                "http:\/\/wpn-xm.org\/get.php?s=adminer&v=4.2.1",                        "adminer.php",                "4.2.1" ],
+[ "adminer",                "http:\/\/wpn-xm.org\/get.php?s=adminer&v=4.2.2",                        "adminer.php",                "4.2.2" ],
 [ "closure-compiler",       "http:\/\/wpn-xm.org\/get.php?s=closure-compiler&v=latest",              "closure-compiler.zip",       "latest" ],
 [ "composer",               "http:\/\/wpn-xm.org\/get.php?s=composer&v=1.0",                         "composer.phar",              "1.0" ],
 [ "conemu",                 "http:\/\/wpn-xm.org\/get.php?s=conemu&v=15.07.28",                      "conemu.7z",                  "15.07.28" ],
@@ -16,7 +16,7 @@
 [ "openssl",                "http:\/\/wpn-xm.org\/get.php?s=openssl&v=1.0.2c",                       "openssl.zip",                "1.0.2c" ],
 [ "pear",                   "http:\/\/wpn-xm.org\/get.php?s=pear&v=1.0",                             "go-pear.phar",               "1.0" ],
 [ "perl",                   "http:\/\/wpn-xm.org\/get.php?s=perl&v=5.22.0.1",                        "perl.zip",                   "5.22.0.1" ],
-[ "php",                    "http:\/\/wpn-xm.org\/get.php?s=php&v=5.6.11",                           "php.zip",                    "5.6.11" ],
+[ "php",                    "http:\/\/wpn-xm.org\/get.php?s=php&v=5.6.12",                           "php.zip",                    "5.6.12" ],
 [ "php-cs-fixer",           "http:\/\/wpn-xm.org\/get.php?s=php-cs-fixer&v=latest",                  "php-cs-fixer.phar",          "latest" ],
 [ "phpext_amqp",            "http:\/\/wpn-xm.org\/get.php?s=phpext_amqp&v=1.4.0&&p=5.6",             "phpext_amqp.zip",            "1.4.0" ],
 [ "phpext_apcu",            "http:\/\/wpn-xm.org\/get.php?s=phpext_apcu&v=4.0.7&p=5.6",              "phpext_apcu.zip",            "4.0.7" ],
@@ -43,6 +43,6 @@
 [ "sendmail",               "http:\/\/wpn-xm.org\/get.php?s=sendmail&v=1.0",                         "sendmail.zip",               "1.0" ],
 [ "varnish",                "http:\/\/wpn-xm.org\/get.php?s=varnish&v=3.0.2",                        "varnish.zip",                "3.0.2" ],
 [ "webgrind",               "http:\/\/wpn-xm.org\/get.php?s=webgrind&v=1.0",                         "webgrind.zip",               "1.0" ],
-[ "wpnxmscp",               "http:\/\/wpn-xm.org\/get.php?s=wpnxmscp&v=0.8.4",                       "wpnxmscp.zip",               "0.8.4" ],
+[ "wpnxmscp",               "http:\/\/wpn-xm.org\/get.php?s=wpnxmscp&v=0.8.5",                       "wpnxmscp.zip",               "0.8.5" ],
 [ "yuicompressor",          "http:\/\/wpn-xm.org\/get.php?s=yuicompressor&v=2.4.8",                  "yuicompressor.jar",          "2.4.8" ]
 ]
