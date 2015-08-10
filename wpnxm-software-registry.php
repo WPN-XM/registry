@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Fri, 31 Jul 2015 18:08:52 +0000.
+    * Last Update Mon, 10 Aug 2015 12:37:54 +0000.
     * Do not edit manually!
     */
 
@@ -2450,9 +2450,10 @@
     '0.8.2' => 'https://github.com/WPN-XM/server-control-panel/releases/download/0.8.2/wpnxm-scp-x86_64_boxed.zip',
     '0.8.3' => 'https://github.com/WPN-XM/server-control-panel/releases/download/0.8.3/wpnxm-scp-x86_64_boxed.zip',
     '0.8.4' => 'https://github.com/WPN-XM/server-control-panel/releases/download/0.8.4/wpnxm-scp-x86_64_boxed.zip',
+    '0.8.5' => 'https://github.com/WPN-XM/server-control-panel/releases/download/0.8.5/wpnxm-scp-x86_64_boxed.zip',
     'latest' => array(
-      'version' => '0.8.4',
-      'url' => 'https://github.com/WPN-XM/server-control-panel/releases/download/0.8.4/wpnxm-scp-x86_64_boxed.zip',
+      'version' => '0.8.5',
+      'url' => 'https://github.com/WPN-XM/server-control-panel/releases/download/0.8.5/wpnxm-scp-x86_64_boxed.zip',
     ),
   ),
   'xhprof' => array(
