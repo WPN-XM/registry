@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Mon, 10 Aug 2015 13:01:55 +0000.
+    * Last Update Mon, 10 Aug 2015 13:02:09 +0000.
     * Do not edit manually!
     */
 
@@ -1033,9 +1033,10 @@
     '7.0.0alpha2' => 'http://windows.php.net/downloads/qa/php-7.0.0alpha2-nts-Win32-VC14-x64.zip',
     '7.0.0beta1' => 'http://windows.php.net/downloads/qa/php-7.0.0beta1-nts-Win32-VC14-x64.zip',
     '7.0.0beta2' => 'http://windows.php.net/downloads/qa/php-7.0.0beta2-nts-Win32-VC14-x64.zip',
+    '7.0.0beta3' => 'http://windows.php.net/downloads/qa/php-7.0.0beta3-nts-Win32-VC14-x64.zip',
     'latest' => array(
-      'version' => '7.0.0beta2',
-      'url' => 'http://windows.php.net/downloads/qa/php-7.0.0beta2-nts-Win32-VC14-x64.zip',
+      'version' => '7.0.0beta3',
+      'url' => 'http://windows.php.net/downloads/qa/php-7.0.0beta3-nts-Win32-VC14-x64.zip',
     ),
   ),
   'php-x64' => array(
