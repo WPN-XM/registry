@@ -362,6 +362,15 @@
       'url' => 'https://github.com/git-for-windows/git/releases/download/v2.5.0.windows.1/PortableGit-2.5.0-32-bit.7z.exe',
     ),
   ),
+  'msysgit-x64' => array(
+    'name' => 'Git for Windows x64',
+    'website' => 'http://msysgit.github.io/',
+    '2.5.0' => 'https://github.com/git-for-windows/git/releases/download/v2.5.0.windows.1/PortableGit-2.5.0-64-bit.7z.exe',
+    'latest' => array(
+      'version' => '2.5.0',
+      'url' => 'https://github.com/git-for-windows/git/releases/download/v2.5.0.windows.1/PortableGit-2.5.0-64-bit.7z.exe',
+    ),
+  ),
   'nginx' => array(
     'name' => 'Nginx',
     'website' => 'http://nginx.org/',
