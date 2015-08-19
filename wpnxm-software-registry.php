@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Wed, 19 Aug 2015 10:50:09 +0000.
+    * Last Update Wed, 19 Aug 2015 17:39:57 +0000.
     * Do not edit manually!
     */
 
@@ -350,15 +350,16 @@
     ),
   ),
   'msysgit' => array(
-    'name' => 'msysgit',
+    'name' => 'Git for Windows',
     'website' => 'http://msysgit.github.io/',
     '1.9.4-preview20140815' => 'https://github.com/msysgit/msysgit/releases/download/Git-1.9.4-preview20140815/PortableGit-1.9.4-preview20140815.7z',
     '1.9.4-preview20140929' => 'https://github.com/msysgit/msysgit/releases/download/Git-1.9.4-preview20140929/PortableGit-1.9.4-preview20140929.7z',
     '1.9.5-preview20141217' => 'https://github.com/msysgit/msysgit/releases/download/Git-1.9.5-preview20141217/PortableGit-1.9.5-preview20141217.7z',
     '1.9.5-preview20150319' => 'https://github.com/msysgit/msysgit/releases/download/Git-1.9.5-preview20150319/PortableGit-1.9.5-preview20150319.7z',
+    '2.5.0' => 'https://github.com/git-for-windows/git/releases/download/v2.5.0.windows.1/PortableGit-2.5.0-32-bit.7z.exe',
     'latest' => array(
-      'version' => '1.9.5-preview20150319',
-      'url' => 'https://github.com/msysgit/msysgit/releases/download/Git-1.9.5-preview20150319/PortableGit-1.9.5-preview20150319.7z',
+      'version' => '2.5.0',
+      'url' => 'https://github.com/git-for-windows/git/releases/download/v2.5.0.windows.1/PortableGit-2.5.0-32-bit.7z.exe',
     ),
   ),
   'nginx' => array(
