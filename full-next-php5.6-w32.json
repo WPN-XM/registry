@@ -34,7 +34,7 @@
 [ "phpext_xdebug",          "http:\/\/wpn-xm.org\/get.php?s=phpext_xdebug&v=2.3.3&p=5.6",            "phpext_xdebug.zip",          "2.3.3" ],
 [ "phpext_zmq",             "http:\/\/wpn-xm.org\/get.php?s=phpext_zmq&v=1.1.2&p=5.6",               "phpext_zmq.zip",             "1.1.2" ],
 [ "phpmemcachedadmin",      "http:\/\/wpn-xm.org\/get.php?s=phpmemcachedadmin&v=1.2.2",              "phpmemcachedadmin.zip",      "1.2.2" ],
-[ "phpmyadmin",             "http:\/\/wpn-xm.org\/get.php?s=phpmyadmin&v=4.4.12",                    "phpmyadmin.zip",             "4.4.12" ],
+[ "phpmyadmin",             "http:\/\/wpn-xm.org\/get.php?s=phpmyadmin&v=4.4.14",                    "phpmyadmin.zip",             "4.4.14" ],
 [ "pickle",                 "http:\/\/wpn-xm.org\/get.php?s=pickle&v=0.4.0",                         "pickle.phar",                "0.4.0" ],
 [ "postgresql",             "http:\/\/wpn-xm.org\/get.php?s=postgresql&v=9.4.4",                     "postgresql.zip",             "9.4.4" ],
 [ "rabbitmq",               "http:\/\/wpn-xm.org\/get.php?s=rabbitmq&v=3.5.4",                       "rabbitmq.zip",               "3.5.4" ],
