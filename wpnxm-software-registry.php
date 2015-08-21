@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Fri, 21 Aug 2015 10:05:07 +0000.
+    * Last Update Fri, 21 Aug 2015 10:05:21 +0000.
     * Do not edit manually!
     */
 
@@ -273,9 +273,10 @@
     '3.1.4' => 'http://downloads.mongodb.org/win32/mongodb-win32-i386-3.1.4.zip',
     '3.1.5' => 'http://downloads.mongodb.org/win32/mongodb-win32-i386-3.1.5.zip',
     '3.1.6' => 'http://downloads.mongodb.org/win32/mongodb-win32-i386-3.1.6.zip',
+    '3.1.7' => 'http://downloads.mongodb.org/win32/mongodb-win32-i386-3.1.7.zip',
     'latest' => array(
-      'version' => '3.1.6',
-      'url' => 'http://downloads.mongodb.org/win32/mongodb-win32-i386-3.1.6.zip',
+      'version' => '3.1.7',
+      'url' => 'http://downloads.mongodb.org/win32/mongodb-win32-i386-3.1.7.zip',
     ),
   ),
   'mongodb-x64' => array(
