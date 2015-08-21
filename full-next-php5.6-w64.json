@@ -8,7 +8,7 @@
 [ "mariadb-x64",            "http:\/\/wpn-xm.org\/get.php?s=mariadb-x64&v=10.1.6",                               "mariadb.zip",                "10.1.6" ],
 [ "memadmin",               "http:\/\/wpn-xm.org\/get.php?s=memadmin&v=1.0.12",                                  "memadmin.zip",               "1.0.12" ],
 [ "memcached",              "http:\/\/wpn-xm.org\/get.php?s=memcached&v=1.4.5",                                  "memcached.zip",              "1.4.5" ],
-[ "mongodb-x64",            "http:\/\/wpn-xm.org\/get.php?s=mongodb-x64&v=3.1.6",                                "mongodb.zip",                "3.1.6" ],
+[ "mongodb-x64",            "http:\/\/wpn-xm.org\/get.php?s=mongodb-x64&v=3.1.7",                                "mongodb.zip",                "3.1.7" ],
 [ "msysgit-x64",            "http:\/\/wpn-xm.org\/get.php?s=msysgit-x64&v=2.5.0",                                "msysgit.exe",                "2.5.0" ],
 [ "nginx",                  "http:\/\/wpn-xm.org\/get.php?s=nginx&v=1.9.4",                                      "nginx.zip",                  "1.9.4" ],
 [ "node-x64",               "http:\/\/wpn-xm.org\/get.php?s=node-x64&v=0.12.7",                                  "node.exe",                   "0.12.7" ],
