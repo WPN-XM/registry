@@ -71,6 +71,15 @@
       'url' => 'https://github.com/Maximus5/ConEmu/releases/download/v15.08.16/ConEmuPack.150816.7z',
     ),
   ),
+  'heidisql' => array(
+    'name' => 'HeidiSQL',
+    'website' => 'http://www.heidisql.com/',
+    '9.3' => 'http://www.heidisql.com/downloads/releases/HeidiSQL_9.3_Portable.zip',
+    'latest' => array(
+      'version' => '9.3',
+      'url' => 'http://www.heidisql.com/downloads/releases/HeidiSQL_9.3_Portable.zip',
+    ),
+  ),
   'gogs-x64' => array(
     'name' => 'Go Git Service x64',
     'website' => 'http://gogs.io/',
