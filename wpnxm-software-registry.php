@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Fri, 04 Sep 2015 10:12:12 +0000.
+    * Last Update Fri, 04 Sep 2015 10:12:27 +0000.
     * Do not edit manually!
     */
 
@@ -1102,7 +1102,8 @@
     '5.5.25' => 'http://windows.php.net/downloads/releases/archives/php-5.5.25-nts-Win32-VC11-x64.zip',
     '5.5.26' => 'http://windows.php.net/downloads/releases/archives/php-5.5.26-nts-Win32-VC11-x64.zip',
     '5.5.27' => 'http://windows.php.net/downloads/releases/archives/php-5.5.27-nts-Win32-VC11-x64.zip',
-    '5.5.28' => 'http://windows.php.net/downloads/releases/php-5.5.28-nts-Win32-VC11-x64.zip',
+    '5.5.28' => 'http://windows.php.net/downloads/releases/archives/php-5.5.28-nts-Win32-VC11-x64.zip',
+    '5.5.29' => 'http://windows.php.net/downloads/releases/php-5.5.29-nts-Win32-VC11-x64.zip',
     '5.6.0' => 'http://windows.php.net/downloads/releases/archives/php-5.6.0-nts-Win32-VC11-x64.zip',
     '5.6.1' => 'http://windows.php.net/downloads/releases/archives/php-5.6.1-nts-Win32-VC11-x64.zip',
     '5.6.2' => 'http://windows.php.net/downloads/releases/archives/php-5.6.2-nts-Win32-VC11-x64.zip',
@@ -1115,10 +1116,11 @@
     '5.6.9' => 'http://windows.php.net/downloads/releases/archives/php-5.6.9-nts-Win32-VC11-x64.zip',
     '5.6.10' => 'http://windows.php.net/downloads/releases/archives/php-5.6.10-nts-Win32-VC11-x64.zip',
     '5.6.11' => 'http://windows.php.net/downloads/releases/archives/php-5.6.11-nts-Win32-VC11-x64.zip',
-    '5.6.12' => 'http://windows.php.net/downloads/releases/php-5.6.12-nts-Win32-VC11-x64.zip',
+    '5.6.12' => 'http://windows.php.net/downloads/releases/archives/php-5.6.12-nts-Win32-VC11-x64.zip',
+    '5.6.13' => 'http://windows.php.net/downloads/releases/php-5.6.13-nts-Win32-VC11-x64.zip',
     'latest' => array(
-      'version' => '5.6.12',
-      'url' => 'http://windows.php.net/downloads/releases/php-5.6.12-nts-Win32-VC11-x64.zip',
+      'version' => '5.6.13',
+      'url' => 'http://windows.php.net/downloads/releases/php-5.6.13-nts-Win32-VC11-x64.zip',
     ),
   ),
   'phpext_amqp' => array(
