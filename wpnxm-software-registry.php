@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Fri, 04 Sep 2015 10:11:59 +0000.
+    * Last Update Fri, 04 Sep 2015 10:12:12 +0000.
     * Do not edit manually!
     */
 
@@ -1048,26 +1048,27 @@
   'php-qa-x64' => array(
     'name' => 'PHP QA x64',
     'website' => 'http://php.net/',
-    '5.6.0RC4' => 'http://windows.php.net/downloads/qa/archives/php-5.6.0RC4-nts-Win32-VC11-x64.zip',
-    '5.6.1RC1' => 'http://windows.php.net/downloads/qa/archives/php-5.6.1RC1-nts-Win32-VC11-x64.zip',
-    '5.6.3RC1' => 'http://windows.php.net/downloads/qa/archives/php-5.6.3RC1-nts-Win32-VC11-x64.zip',
-    '5.6.4RC1' => 'http://windows.php.net/downloads/qa/archives/php-5.6.4RC1-nts-Win32-VC11-x64.zip',
-    '5.6.5RC1' => 'http://windows.php.net/downloads/qa/archives/php-5.6.5RC1-nts-Win32-VC11-x64.zip',
-    '5.6.6RC1' => 'http://windows.php.net/downloads/qa/archives/php-5.6.6RC1-nts-Win32-VC11-x64.zip',
-    '5.6.7RC1' => 'http://windows.php.net/downloads/qa/archives/php-5.6.7RC1-nts-Win32-VC11-x64.zip',
-    '5.6.8RC1' => 'http://windows.php.net/downloads/qa/archives/php-5.6.8RC1-nts-Win32-VC11-x64.zip',
-    '5.6.9RC1' => 'http://windows.php.net/downloads/qa/archives/php-5.6.9RC1-nts-Win32-VC11-x64.zip',
-    '5.6.10RC1' => 'http://windows.php.net/downloads/qa/archives/php-5.6.10RC1-nts-Win32-VC11-x64.zip',
-    '5.6.11RC1' => 'http://windows.php.net/downloads/qa/archives/php-5.6.11RC1-nts-Win32-VC11-x64.zip',
-    '7.0.0alpha1' => 'http://windows.php.net/downloads/qa/archives/php-7.0.0alpha1-nts-Win32-VC14-x64.zip',
-    '7.0.0alpha2' => 'http://windows.php.net/downloads/qa/archives/php-7.0.0alpha2-nts-Win32-VC14-x64.zip',
-    '7.0.0beta1' => 'http://windows.php.net/downloads/qa/archives/php-7.0.0beta1-nts-Win32-VC14-x64.zip',
-    '7.0.0beta2' => 'http://windows.php.net/downloads/qa/archives/php-7.0.0beta2-nts-Win32-VC14-x64.zip',
-    '7.0.0beta3' => 'http://windows.php.net/downloads/qa/archives/php-7.0.0beta3-nts-Win32-VC14-x64.zip',
-    '7.0.0RC1' => 'http://windows.php.net/downloads/qa/php-7.0.0RC1-nts-Win32-VC14-x64.zip',
+    '5.6.0RC4' => 'http://windows.php.net/downloads/qa/archives/archives/php-5.6.0RC4-nts-Win32-VC11-x64.zip',
+    '5.6.1RC1' => 'http://windows.php.net/downloads/qa/archives/archives/php-5.6.1RC1-nts-Win32-VC11-x64.zip',
+    '5.6.3RC1' => 'http://windows.php.net/downloads/qa/archives/archives/php-5.6.3RC1-nts-Win32-VC11-x64.zip',
+    '5.6.4RC1' => 'http://windows.php.net/downloads/qa/archives/archives/php-5.6.4RC1-nts-Win32-VC11-x64.zip',
+    '5.6.5RC1' => 'http://windows.php.net/downloads/qa/archives/archives/php-5.6.5RC1-nts-Win32-VC11-x64.zip',
+    '5.6.6RC1' => 'http://windows.php.net/downloads/qa/archives/archives/php-5.6.6RC1-nts-Win32-VC11-x64.zip',
+    '5.6.7RC1' => 'http://windows.php.net/downloads/qa/archives/archives/php-5.6.7RC1-nts-Win32-VC11-x64.zip',
+    '5.6.8RC1' => 'http://windows.php.net/downloads/qa/archives/archives/php-5.6.8RC1-nts-Win32-VC11-x64.zip',
+    '5.6.9RC1' => 'http://windows.php.net/downloads/qa/archives/archives/php-5.6.9RC1-nts-Win32-VC11-x64.zip',
+    '5.6.10RC1' => 'http://windows.php.net/downloads/qa/archives/archives/php-5.6.10RC1-nts-Win32-VC11-x64.zip',
+    '5.6.11RC1' => 'http://windows.php.net/downloads/qa/archives/archives/php-5.6.11RC1-nts-Win32-VC11-x64.zip',
+    '7.0.0alpha1' => 'http://windows.php.net/downloads/qa/archives/archives/php-7.0.0alpha1-nts-Win32-VC14-x64.zip',
+    '7.0.0alpha2' => 'http://windows.php.net/downloads/qa/archives/archives/php-7.0.0alpha2-nts-Win32-VC14-x64.zip',
+    '7.0.0beta1' => 'http://windows.php.net/downloads/qa/archives/archives/php-7.0.0beta1-nts-Win32-VC14-x64.zip',
+    '7.0.0beta2' => 'http://windows.php.net/downloads/qa/archives/archives/php-7.0.0beta2-nts-Win32-VC14-x64.zip',
+    '7.0.0beta3' => 'http://windows.php.net/downloads/qa/archives/archives/php-7.0.0beta3-nts-Win32-VC14-x64.zip',
+    '7.0.0RC1' => 'http://windows.php.net/downloads/qa/archives/php-7.0.0RC1-nts-Win32-VC14-x64.zip',
+    '7.0.0RC2' => 'http://windows.php.net/downloads/qa/php-7.0.0RC2-nts-Win32-VC14-x64.zip',
     'latest' => array(
-      'version' => '7.0.0RC1',
-      'url' => 'http://windows.php.net/downloads/qa/php-7.0.0RC1-nts-Win32-VC14-x64.zip',
+      'version' => '7.0.0RC2',
+      'url' => 'http://windows.php.net/downloads/qa/php-7.0.0RC2-nts-Win32-VC14-x64.zip',
     ),
   ),
   'php-x64' => array(
