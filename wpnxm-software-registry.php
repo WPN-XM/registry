@@ -2534,6 +2534,15 @@
       'url' => 'https://github.com/jokkedk/webgrind/archive/master.zip',
     ),
   ),
+  'wpnxm-benchmark' => array(
+    'name' => 'WPN-XM Benchmark',
+    'website' => 'https://github.com/WPN-XM/benchmark-tools/',
+    '1.0.0' => 'https://github.com/WPN-XM/benchmark-tools/releases/download/v1.0/wpnxm-benchmark-1.0.0.zip',
+    'latest' => array(
+      'version' => '1.0.0',
+      'url' => 'https://github.com/WPN-XM/benchmark-tools/releases/download/v1.0/wpnxm-benchmark-1.0.0.zip',
+    ),
+  ),
   'wpnxmscp' => array(
     'name' => 'WPN-XM SCP x86',
     'website' => 'http://wpn-xm.org/',
