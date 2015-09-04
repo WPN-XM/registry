@@ -39,6 +39,14 @@
       'url' => 'http://garr.dl.sourceforge.net/project/adminer/Adminer/Adminer%204.2.2/adminer-4.2.2.php',
     ),
   ),
+  'apache-benchmark' => array(
+    'name' => 'Apache Benchmark (ab)',
+    'website' => 'http://httpd.apache.org/docs/2.4/programs/ab.html',
+    'latest' => array(
+      'version' => 'latest',
+      'url' => 'https://github.com/WPN-XM/benchmark-tools/releases/download/v1.0/ab.zip',
+    ),
+  ),
   'closure-compiler' => array(
     'name' => 'Google Closure Compiler',
     'website' => 'http://code.google.com/p/closure-compiler/',
