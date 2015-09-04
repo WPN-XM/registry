@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Tue, 01 Sep 2015 10:01:30 +0000.
+    * Last Update Fri, 04 Sep 2015 10:10:56 +0000.
     * Do not edit manually!
     */
 
@@ -71,15 +71,6 @@
       'url' => 'https://github.com/Maximus5/ConEmu/releases/download/v15.08.16/ConEmuPack.150816.7z',
     ),
   ),
-  'heidisql' => array(
-    'name' => 'HeidiSQL',
-    'website' => 'http://www.heidisql.com/',
-    '9.3' => 'http://www.heidisql.com/downloads/releases/HeidiSQL_9.3_Portable.zip',
-    'latest' => array(
-      'version' => '9.3',
-      'url' => 'http://www.heidisql.com/downloads/releases/HeidiSQL_9.3_Portable.zip',
-    ),
-  ),
   'gogs-x64' => array(
     'name' => 'Go Git Service x64',
     'website' => 'http://gogs.io/',
@@ -100,6 +91,15 @@
     'latest' => array(
       'version' => '0.5.9',
       'url' => 'https://github.com/gogits/gogs/releases/download/v0.5.9/windows_386.zip',
+    ),
+  ),
+  'heidisql' => array(
+    'name' => 'HeidiSQL',
+    'website' => 'http://www.heidisql.com/',
+    '9.3' => 'http://www.heidisql.com/downloads/releases/HeidiSQL_9.3_Portable.zip',
+    'latest' => array(
+      'version' => '9.3',
+      'url' => 'http://www.heidisql.com/downloads/releases/HeidiSQL_9.3_Portable.zip',
     ),
   ),
   'imagick' => array(
@@ -971,7 +971,8 @@
     '5.4.41' => 'http://windows.php.net/downloads/releases/archives/php-5.4.41-nts-Win32-VC9-x86.zip',
     '5.4.42' => 'http://windows.php.net/downloads/releases/archives/php-5.4.42-nts-Win32-VC9-x86.zip',
     '5.4.43' => 'http://windows.php.net/downloads/releases/archives/php-5.4.43-nts-Win32-VC9-x86.zip',
-    '5.4.44' => 'http://windows.php.net/downloads/releases/php-5.4.44-nts-Win32-VC9-x86.zip',
+    '5.4.44' => 'http://windows.php.net/downloads/releases/archives/php-5.4.44-nts-Win32-VC9-x86.zip',
+    '5.4.45' => 'http://windows.php.net/downloads/releases/php-5.4.45-nts-Win32-VC9-x86.zip',
     '5.5.0' => 'http://windows.php.net/downloads/releases/archives/php-5.5.0-nts-Win32-VC11-x86.zip',
     '5.5.1' => 'http://windows.php.net/downloads/releases/archives/php-5.5.1-nts-Win32-VC11-x86.zip',
     '5.5.2' => 'http://windows.php.net/downloads/releases/archives/php-5.5.2-nts-Win32-VC11-x86.zip',
@@ -1000,7 +1001,8 @@
     '5.5.25' => 'http://windows.php.net/downloads/releases/archives/php-5.5.25-nts-Win32-VC11-x86.zip',
     '5.5.26' => 'http://windows.php.net/downloads/releases/archives/php-5.5.26-nts-Win32-VC11-x86.zip',
     '5.5.27' => 'http://windows.php.net/downloads/releases/archives/php-5.5.27-nts-Win32-VC11-x86.zip',
-    '5.5.28' => 'http://windows.php.net/downloads/releases/php-5.5.28-nts-Win32-VC11-x86.zip',
+    '5.5.28' => 'http://windows.php.net/downloads/releases/archives/php-5.5.28-nts-Win32-VC11-x86.zip',
+    '5.5.29' => 'http://windows.php.net/downloads/releases/php-5.5.29-nts-Win32-VC11-x86.zip',
     '5.6.0' => 'http://windows.php.net/downloads/releases/archives/php-5.6.0-nts-Win32-VC11-x86.zip',
     '5.6.1' => 'http://windows.php.net/downloads/releases/archives/php-5.6.1-nts-Win32-VC11-x86.zip',
     '5.6.2' => 'http://windows.php.net/downloads/releases/archives/php-5.6.2-nts-Win32-VC11-x86.zip',
@@ -1013,10 +1015,11 @@
     '5.6.9' => 'http://windows.php.net/downloads/releases/archives/php-5.6.9-nts-Win32-VC11-x86.zip',
     '5.6.10' => 'http://windows.php.net/downloads/releases/archives/php-5.6.10-nts-Win32-VC11-x86.zip',
     '5.6.11' => 'http://windows.php.net/downloads/releases/archives/php-5.6.11-nts-Win32-VC11-x86.zip',
-    '5.6.12' => 'http://windows.php.net/downloads/releases/php-5.6.12-nts-Win32-VC11-x86.zip',
+    '5.6.12' => 'http://windows.php.net/downloads/releases/archives/php-5.6.12-nts-Win32-VC11-x86.zip',
+    '5.6.13' => 'http://windows.php.net/downloads/releases/php-5.6.13-nts-Win32-VC11-x86.zip',
     'latest' => array(
-      'version' => '5.6.12',
-      'url' => 'http://windows.php.net/downloads/releases/php-5.6.12-nts-Win32-VC11-x86.zip',
+      'version' => '5.6.13',
+      'url' => 'http://windows.php.net/downloads/releases/php-5.6.13-nts-Win32-VC11-x86.zip',
     ),
   ),
   'php-cs-fixer' => array(
