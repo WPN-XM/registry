@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Fri, 04 Sep 2015 10:10:56 +0000.
+    * Last Update Fri, 04 Sep 2015 10:11:59 +0000.
     * Do not edit manually!
     */
 
@@ -1033,15 +1033,16 @@
   'php-qa' => array(
     'name' => 'PHP QA x86',
     'website' => 'http://php.net/',
-    '5.6.11RC1' => 'http://windows.php.net/downloads/qa/archives/php-5.6.11RC1-nts-Win32-VC11-x86.zip',
-    '7.0.0alpha2' => 'http://windows.php.net/downloads/qa/archives/php-7.0.0alpha2-nts-Win32-VC14-x86.zip',
-    '7.0.0beta1' => 'http://windows.php.net/downloads/qa/archives/php-7.0.0beta1-nts-Win32-VC14-x86.zip',
-    '7.0.0beta2' => 'http://windows.php.net/downloads/qa/archives/php-7.0.0beta2-nts-Win32-VC14-x86.zip',
-    '7.0.0beta3' => 'http://windows.php.net/downloads/qa/archives/php-7.0.0beta3-nts-Win32-VC14-x86.zip',
-    '7.0.0RC1' => 'http://windows.php.net/downloads/qa/php-7.0.0RC1-nts-Win32-VC14-x86.zip',
+    '5.6.11RC1' => 'http://windows.php.net/downloads/qa/archives/archives/php-5.6.11RC1-nts-Win32-VC11-x86.zip',
+    '7.0.0alpha2' => 'http://windows.php.net/downloads/qa/archives/archives/php-7.0.0alpha2-nts-Win32-VC14-x86.zip',
+    '7.0.0beta1' => 'http://windows.php.net/downloads/qa/archives/archives/php-7.0.0beta1-nts-Win32-VC14-x86.zip',
+    '7.0.0beta2' => 'http://windows.php.net/downloads/qa/archives/archives/php-7.0.0beta2-nts-Win32-VC14-x86.zip',
+    '7.0.0beta3' => 'http://windows.php.net/downloads/qa/archives/archives/php-7.0.0beta3-nts-Win32-VC14-x86.zip',
+    '7.0.0RC1' => 'http://windows.php.net/downloads/qa/archives/php-7.0.0RC1-nts-Win32-VC14-x86.zip',
+    '7.0.0RC2' => 'http://windows.php.net/downloads/qa/php-7.0.0RC2-nts-Win32-VC14-x86.zip',
     'latest' => array(
-      'version' => '7.0.0RC1',
-      'url' => 'http://windows.php.net/downloads/qa/php-7.0.0RC1-nts-Win32-VC14-x86.zip',
+      'version' => '7.0.0RC2',
+      'url' => 'http://windows.php.net/downloads/qa/php-7.0.0RC2-nts-Win32-VC14-x86.zip',
     ),
   ),
   'php-qa-x64' => array(
