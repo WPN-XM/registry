@@ -937,6 +937,18 @@
       'url' => 'http://strawberryperl.com/download/5.22.0.1/strawberry-perl-5.22.0.1-64bit.zip',
     ),
   ),
+  'phantomjs' => array(
+    'name' => 'PhantomJS',
+    'website' => 'http://phantomjs.org/',
+    '2.0.0' => 'https://bitbucket.org/ariya/phantomjs/downloads/phantomjs-2.0.0-windows.zip',
+    '1.9.8' => 'https://bitbucket.org/ariya/phantomjs/downloads/phantomjs-1.9.8-windows.zip',
+    '1.9.7' => 'https://bitbucket.org/ariya/phantomjs/downloads/phantomjs-1.9.7-windows.zip',
+    '1.9.6' => 'https://bitbucket.org/ariya/phantomjs/downloads/phantomjs-1.9.6-windows.zip',
+    'latest' => array(
+      'version' => '2.0.0',
+      'url' => 'https://bitbucket.org/ariya/phantomjs/downloads/phantomjs-2.0.0-windows.zip',
+    ),
+  ),
   'php' => array(
     'name' => 'PHP x86',
     'website' => 'http://php.net/',
