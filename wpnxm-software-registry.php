@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Fri, 04 Sep 2015 10:12:27 +0000.
+    * Last Update Thu, 10 Sep 2015 09:56:42 +0000.
     * Do not edit manually!
     */
 
@@ -213,9 +213,10 @@
     '10.1.4' => 'http://archive.mariadb.org/mariadb/mariadb-10.1.4/win32-packages/mariadb-10.1.4-win32.zip',
     '10.1.5' => 'http://mirror.jmu.edu/pub/mariadb/mariadb-10.1.5/win32-packages/mariadb-10.1.5-win32.zip',
     '10.1.6' => 'http://mirror.jmu.edu/pub/mariadb/mariadb-10.1.6/win32-packages/mariadb-10.1.6-win32.zip',
+    '10.1.7' => 'http://mirror.jmu.edu/pub/mariadb/mariadb-10.1.7/win32-packages/mariadb-10.1.7-win32.zip',
     'latest' => array(
-      'version' => '10.1.6',
-      'url' => 'http://mirror.jmu.edu/pub/mariadb/mariadb-10.1.6/win32-packages/mariadb-10.1.6-win32.zip',
+      'version' => '10.1.7',
+      'url' => 'http://mirror.jmu.edu/pub/mariadb/mariadb-10.1.7/win32-packages/mariadb-10.1.7-win32.zip',
     ),
   ),
   'mariadb-x64' => array(
@@ -940,10 +941,10 @@
   'phantomjs' => array(
     'name' => 'PhantomJS',
     'website' => 'http://phantomjs.org/',
-    '2.0.0' => 'https://bitbucket.org/ariya/phantomjs/downloads/phantomjs-2.0.0-windows.zip',
-    '1.9.8' => 'https://bitbucket.org/ariya/phantomjs/downloads/phantomjs-1.9.8-windows.zip',
-    '1.9.7' => 'https://bitbucket.org/ariya/phantomjs/downloads/phantomjs-1.9.7-windows.zip',
     '1.9.6' => 'https://bitbucket.org/ariya/phantomjs/downloads/phantomjs-1.9.6-windows.zip',
+    '1.9.7' => 'https://bitbucket.org/ariya/phantomjs/downloads/phantomjs-1.9.7-windows.zip',
+    '1.9.8' => 'https://bitbucket.org/ariya/phantomjs/downloads/phantomjs-1.9.8-windows.zip',
+    '2.0.0' => 'https://bitbucket.org/ariya/phantomjs/downloads/phantomjs-2.0.0-windows.zip',
     'latest' => array(
       'version' => '2.0.0',
       'url' => 'https://bitbucket.org/ariya/phantomjs/downloads/phantomjs-2.0.0-windows.zip',
