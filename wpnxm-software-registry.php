@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Thu, 10 Sep 2015 21:24:51 +0000.
+    * Last Update Sun, 13 Sep 2015 16:26:24 +0000.
     * Do not edit manually!
     */
 
@@ -75,9 +75,10 @@
     '15.07.28' => 'https://github.com/Maximus5/ConEmu/releases/download/v15.07.28/ConEmuPack.150728.7z',
     '15.08.16' => 'https://github.com/Maximus5/ConEmu/releases/download/v15.08.16/ConEmuPack.150816.7z',
     '15.09.08' => 'https://github.com/Maximus5/ConEmu/releases/download/v15.09.08/ConEmuPack.150908.7z',
+    '15.09.10' => 'https://github.com/Maximus5/ConEmu/releases/download/v15.09.10/ConEmuPack.150910.7z',
     'latest' => array(
-      'version' => '15.09.08',
-      'url' => 'https://github.com/Maximus5/ConEmu/releases/download/v15.09.08/ConEmuPack.150908.7z',
+      'version' => '15.09.10',
+      'url' => 'https://github.com/Maximus5/ConEmu/releases/download/v15.09.10/ConEmuPack.150910.7z',
     ),
   ),
   'gogs-x64' => array(
@@ -2556,10 +2557,10 @@
   'wpnxm-benchmark' => array(
     'name' => 'WPN-XM Benchmark',
     'website' => 'https://github.com/WPN-XM/benchmark-tools/',
-    '1.0.0' => 'https://github.com/WPN-XM/benchmark-tools/releases/download/v1.0/wpnxm-benchmark-1.0.0.zip',
+    '1.0.0' => 'https://github.com/WPN-XM/benchmark-tools/archive/v1.0.0.zip',
     'latest' => array(
       'version' => '1.0.0',
-      'url' => 'https://github.com/WPN-XM/benchmark-tools/releases/download/v1.0/wpnxm-benchmark-1.0.0.zip',
+      'url' => 'https://github.com/WPN-XM/benchmark-tools/archive/v1.0.0.zip',
     ),
   ),
   'wpnxmscp' => array(
