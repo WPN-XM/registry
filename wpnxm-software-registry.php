@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Sun, 20 Sep 2015 09:09:54 +0000.
+    * Last Update Sun, 20 Sep 2015 09:37:39 +0000.
     * Do not edit manually!
     */
 
@@ -615,9 +615,10 @@
     '0.12.6' => 'http://nodejs.org/dist/v0.12.6/node.exe',
     '0.12.7' => 'http://nodejs.org/dist/v0.12.7/node.exe',
     '4.0.0' => 'http://nodejs.org/dist/v4.0.0/node.exe',
+    '4.1.0' => 'http://nodejs.org/dist/v4.1.0/node.exe',
     'latest' => array(
-      'version' => '4.0.0',
-      'url' => 'http://nodejs.org/dist/v4.0.0/node.exe',
+      'version' => '4.1.0',
+      'url' => 'http://nodejs.org/dist/v4.1.0/node.exe',
     ),
   ),
   'node-x64' => array(
