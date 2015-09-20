@@ -616,11 +616,11 @@
     '0.12.5' => 'http://nodejs.org/dist/v0.12.5/node.exe',
     '0.12.6' => 'http://nodejs.org/dist/v0.12.6/node.exe',
     '0.12.7' => 'http://nodejs.org/dist/v0.12.7/node.exe',
-    '4.0.0' => 'http://nodejs.org/dist/v4.0.0/node.exe',
-    '4.1.0' => 'http://nodejs.org/dist/v4.1.0/node.exe',
+    '4.0.0' => 'http://nodejs.org/dist/v4.0.0/win-x86/node.exe',
+    '4.1.0' => 'http://nodejs.org/dist/v4.1.0/win-x86/node.exe',
     'latest' => array(
       'version' => '4.1.0',
-      'url' => 'http://nodejs.org/dist/v4.1.0/node.exe',
+      'url' => 'http://nodejs.org/dist/v4.1.0/win-x86/node.exe',
     ),
   ),
   'node-x64' => array(
@@ -652,11 +652,11 @@
     '0.12.5' => 'http://nodejs.org/dist/v0.12.5/x64/node.exe',
     '0.12.6' => 'http://nodejs.org/dist/v0.12.6/x64/node.exe',
     '0.12.7' => 'http://nodejs.org/dist/v0.12.7/x64/node.exe',
-    '4.0.0' => 'http://nodejs.org/dist/v4.0.0/x64/node.exe',
-    '4.1.0' => 'http://nodejs.org/dist/v4.1.0/x64/node.exe',
+    '4.0.0' => 'http://nodejs.org/dist/v4.0.0/win-x64/node.exe',
+    '4.1.0' => 'http://nodejs.org/dist/v4.1.0/win-x64/node.exe',
     'latest' => array(
       'version' => '4.1.0',
-      'url' => 'http://nodejs.org/dist/v4.1.0/x64/node.exe',
+      'url' => 'http://nodejs.org/dist/v4.1.0/win-x64/node.exe',
     ),
   ),
   'nodenpm' => array(
