@@ -34,7 +34,7 @@
 [ "phpext_xdebug",          "http:\/\/wpn-xm.org\/get.php?s=phpext_xdebug&v=2.3.3&p=5.6&bitsize=x64",            "phpext_xdebug.zip",          "2.3.3" ],
 [ "phpext_zmq",             "http:\/\/wpn-xm.org\/get.php?s=phpext_zmq&v=1.1.2&p=5.6&bitsize=x64",               "phpext_zmq.zip",             "1.1.2" ],
 [ "phpmemcachedadmin",      "http:\/\/wpn-xm.org\/get.php?s=phpmemcachedadmin&v=1.2.2",                          "phpmemcachedadmin.zip",      "1.2.2" ],
-[ "phpmyadmin",             "http:\/\/wpn-xm.org\/get.php?s=phpmyadmin&v=4.5.0",                                 "phpmyadmin.zip",             "4.5.0" ],
+[ "phpmyadmin",             "http:\/\/wpn-xm.org\/get.php?s=phpmyadmin&v=4.4.15",                                "phpmyadmin.zip",             "4.4.15" ],
 [ "pickle",                 "http:\/\/wpn-xm.org\/get.php?s=pickle&v=0.4.0",                                     "pickle.phar",                "0.4.0" ],
 [ "postgresql-x64",         "http:\/\/wpn-xm.org\/get.php?s=postgresql-x64&v=9.4.4",                             "postgresql.zip",             "9.4.4" ],
 [ "rabbitmq",               "http:\/\/wpn-xm.org\/get.php?s=rabbitmq&v=3.5.4",                                   "rabbitmq.zip",               "3.5.4" ],
@@ -43,6 +43,7 @@
 [ "sendmail",               "http:\/\/wpn-xm.org\/get.php?s=sendmail&v=1.0",                                     "sendmail.zip",               "1.0" ],
 [ "varnish",                "http:\/\/wpn-xm.org\/get.php?s=varnish&v=3.0.2",                                    "varnish.zip",                "3.0.2" ],
 [ "webgrind",               "http:\/\/wpn-xm.org\/get.php?s=webgrind&v=1.0",                                     "webgrind.zip",               "1.0" ],
+[ "wpnxm-benchmark",        "http:\/\/wpn-xm.org\/get.php?s=wpnxm-benchmark&v=1.0.0",                            "wpnxm-benchmark.zip",        "1.0.0" ],
 [ "wpnxmscp-x64",           "http:\/\/wpn-xm.org\/get.php?s=wpnxmscp-x64&v=0.8.5",                               "wpnxmscp.zip",               "0.8.5" ],
 [ "yuicompressor",          "http:\/\/wpn-xm.org\/get.php?s=yuicompressor&v=2.4.8",                              "yuicompressor.jar",          "2.4.8" ]
 ]
