@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Thu, 24 Sep 2015 14:31:43 +0000.
+    * Last Update Tue, 29 Sep 2015 10:37:23 +0000.
     * Do not edit manually!
     */
 
@@ -2114,18 +2114,11 @@
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/wincache/1.3.7.7/php_wincache-1.3.7.7-5.6-nts-VC11-x64.zip',
       ),
     ),
+    '2.0.0.1' => array(
+    ),
     'latest' => array(
-      'version' => '1.3.7.7',
+      'version' => '2.0.0.1',
       'url' => array(
-        'x86' => array(
-          '5.4' => 'http://windows.php.net/downloads/pecl/releases/wincache/1.3.7.7/php_wincache-1.3.7.7-5.4-nts-VC9-x86.zip',
-          '5.5' => 'http://windows.php.net/downloads/pecl/releases/wincache/1.3.7.7/php_wincache-1.3.7.7-5.5-nts-VC11-x86.zip',
-          '5.6' => 'http://windows.php.net/downloads/pecl/releases/wincache/1.3.7.7/php_wincache-1.3.7.7-5.6-nts-VC11-x86.zip',
-        ),
-        'x64' => array(
-          '5.5' => 'http://windows.php.net/downloads/pecl/releases/wincache/1.3.7.7/php_wincache-1.3.7.7-5.5-nts-VC11-x64.zip',
-          '5.6' => 'http://windows.php.net/downloads/pecl/releases/wincache/1.3.7.7/php_wincache-1.3.7.7-5.6-nts-VC11-x64.zip',
-        ),
       ),
     ),
   ),
