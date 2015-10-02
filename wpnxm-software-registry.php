@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Tue, 29 Sep 2015 10:37:33 +0000.
+    * Last Update Fri, 02 Oct 2015 14:25:58 +0000.
     * Do not edit manually!
     */
 
@@ -1039,7 +1039,8 @@
     '5.5.26' => 'http://windows.php.net/downloads/releases/archives/php-5.5.26-nts-Win32-VC11-x86.zip',
     '5.5.27' => 'http://windows.php.net/downloads/releases/archives/php-5.5.27-nts-Win32-VC11-x86.zip',
     '5.5.28' => 'http://windows.php.net/downloads/releases/archives/php-5.5.28-nts-Win32-VC11-x86.zip',
-    '5.5.29' => 'http://windows.php.net/downloads/releases/php-5.5.29-nts-Win32-VC11-x86.zip',
+    '5.5.29' => 'http://windows.php.net/downloads/releases/archives/php-5.5.29-nts-Win32-VC11-x86.zip',
+    '5.5.30' => 'http://windows.php.net/downloads/releases/php-5.5.30-nts-Win32-VC11-x86.zip',
     '5.6.0' => 'http://windows.php.net/downloads/releases/archives/php-5.6.0-nts-Win32-VC11-x86.zip',
     '5.6.1' => 'http://windows.php.net/downloads/releases/archives/php-5.6.1-nts-Win32-VC11-x86.zip',
     '5.6.2' => 'http://windows.php.net/downloads/releases/archives/php-5.6.2-nts-Win32-VC11-x86.zip',
@@ -1053,10 +1054,11 @@
     '5.6.10' => 'http://windows.php.net/downloads/releases/archives/php-5.6.10-nts-Win32-VC11-x86.zip',
     '5.6.11' => 'http://windows.php.net/downloads/releases/archives/php-5.6.11-nts-Win32-VC11-x86.zip',
     '5.6.12' => 'http://windows.php.net/downloads/releases/archives/php-5.6.12-nts-Win32-VC11-x86.zip',
-    '5.6.13' => 'http://windows.php.net/downloads/releases/php-5.6.13-nts-Win32-VC11-x86.zip',
+    '5.6.13' => 'http://windows.php.net/downloads/releases/archives/php-5.6.13-nts-Win32-VC11-x86.zip',
+    '5.6.14' => 'http://windows.php.net/downloads/releases/php-5.6.14-nts-Win32-VC11-x86.zip',
     'latest' => array(
-      'version' => '5.6.13',
-      'url' => 'http://windows.php.net/downloads/releases/php-5.6.13-nts-Win32-VC11-x86.zip',
+      'version' => '5.6.14',
+      'url' => 'http://windows.php.net/downloads/releases/php-5.6.14-nts-Win32-VC11-x86.zip',
     ),
   ),
   'php-cs-fixer' => array(
