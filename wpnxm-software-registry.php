@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Fri, 02 Oct 2015 14:26:33 +0000.
+    * Last Update Thu, 08 Oct 2015 13:05:53 +0000.
     * Do not edit manually!
     */
 
@@ -2460,10 +2460,11 @@
     '3.5.2' => 'https://www.rabbitmq.com/releases/rabbitmq-server/v3.5.2/rabbitmq-server-windows-3.5.2.zip',
     '3.5.3' => 'https://www.rabbitmq.com/releases/rabbitmq-server/v3.5.3/rabbitmq-server-windows-3.5.3.zip',
     '3.5.4' => 'https://www.rabbitmq.com/releases/rabbitmq-server/v3.5.4/rabbitmq-server-windows-3.5.4.zip',
-    '3.5.5' => 'https://www.rabbitmq.com/releases/rabbitmq-server/current/rabbitmq-server-windows-3.5.5.zip',
+    '3.5.5' => 'https://www.rabbitmq.com/releases/rabbitmq-server/v3.5.5/rabbitmq-server-windows-3.5.5.zip',
+    '3.5.6' => 'https://www.rabbitmq.com/releases/rabbitmq-server/current/rabbitmq-server-windows-3.5.6.zip',
     'latest' => array(
-      'version' => '3.5.5',
-      'url' => 'https://www.rabbitmq.com/releases/rabbitmq-server/current/rabbitmq-server-windows-3.5.5.zip',
+      'version' => '3.5.6',
+      'url' => 'https://www.rabbitmq.com/releases/rabbitmq-server/current/rabbitmq-server-windows-3.5.6.zip',
     ),
   ),
   'redis' => array(
