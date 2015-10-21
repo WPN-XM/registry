@@ -1406,6 +1406,24 @@
       ),
     ),
   ),
+  'phpext_ioncube' => array(
+    'name' => 'PHP Extension ionCube',
+    'website' => 'https://www.ioncube.com/loaders.php',
+    'latest' => array(
+      'version' => '1.0',
+      'url' => array(
+        'x86' => array(
+          '5.4' => 'http://downloads3.ioncube.com/loader_downloads/ioncube_loaders_win_nonts_vc9_x86.zip',
+          '5.5' => 'http://downloads3.ioncube.com/loader_downloads/ioncube_loaders_win_nonts_vc11_x86.zip',
+          '5.6' => 'http://downloads3.ioncube.com/loader_downloads/ioncube_loaders_win_nonts_vc11_x86.zip',
+        ),
+        'x64' => array(
+          '5.5' => 'http://downloads3.ioncube.com/loader_downloads/ioncube_loaders_win_nonts_vc11_x86-64.zip',
+          '5.6' => 'http://downloads3.ioncube.com/loader_downloads/ioncube_loaders_win_nonts_vc11_x86-64.zip',
+        ),
+      ),
+    ),
+  ),
   'phpext_jsond' => array(
     'name' => 'PHP Extension JsonD',
     'website' => 'http://php.net/jsond',
