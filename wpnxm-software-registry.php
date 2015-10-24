@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Wed, 21 Oct 2015 12:58:10 +0000.
+    * Last Update Sat, 24 Oct 2015 18:26:27 +0000.
     * Do not edit manually!
     */
 
@@ -1412,15 +1412,15 @@
     'name' => 'PHP Extension ionCube',
     'website' => 'https://www.ioncube.com/loaders.php',
     '5.0.17' => array(
-        'x86' => array(
-          '5.4' => 'http://downloads3.ioncube.com/loader_downloads/ioncube_loaders_win_nonts_vc9_x86.zip',
-          '5.5' => 'http://downloads3.ioncube.com/loader_downloads/ioncube_loaders_win_nonts_vc11_x86.zip',
-          '5.6' => 'http://downloads3.ioncube.com/loader_downloads/ioncube_loaders_win_nonts_vc11_x86.zip',
-        ),
-        'x64' => array(
-          '5.5' => 'http://downloads3.ioncube.com/loader_downloads/ioncube_loaders_win_nonts_vc11_x86-64.zip',
-          '5.6' => 'http://downloads3.ioncube.com/loader_downloads/ioncube_loaders_win_nonts_vc11_x86-64.zip',
-        ),
+      'x86' => array(
+        '5.4' => 'http://downloads3.ioncube.com/loader_downloads/ioncube_loaders_win_nonts_vc9_x86.zip',
+        '5.5' => 'http://downloads3.ioncube.com/loader_downloads/ioncube_loaders_win_nonts_vc11_x86.zip',
+        '5.6' => 'http://downloads3.ioncube.com/loader_downloads/ioncube_loaders_win_nonts_vc11_x86.zip',
+      ),
+      'x64' => array(
+        '5.5' => 'http://downloads3.ioncube.com/loader_downloads/ioncube_loaders_win_nonts_vc11_x86-64.zip',
+        '5.6' => 'http://downloads3.ioncube.com/loader_downloads/ioncube_loaders_win_nonts_vc11_x86-64.zip',
+      ),
     ),
     'latest' => array(
       'version' => '5.0.17',
@@ -2449,9 +2449,10 @@
     '4.4.15' => 'https://files.phpmyadmin.net/phpMyAdmin/4.4.15/phpMyAdmin-4.4.15-english.zip',
     '4.5.0.1' => 'https://files.phpmyadmin.net/phpMyAdmin/4.5.0.1/phpMyAdmin-4.5.0.1-english.zip',
     '4.5.0.2' => 'https://files.phpmyadmin.net/phpMyAdmin/4.5.0.2/phpMyAdmin-4.5.0.2-english.zip',
+    '4.5.1' => 'https://files.phpmyadmin.net/phpMyAdmin/4.5.1/phpMyAdmin-4.5.1-english.zip',
     'latest' => array(
-      'version' => '4.5.0.2',
-      'url' => 'https://files.phpmyadmin.net/phpMyAdmin/4.5.0.2/phpMyAdmin-4.5.0.2-english.zip',
+      'version' => '4.5.1',
+      'url' => 'https://files.phpmyadmin.net/phpMyAdmin/4.5.1/phpMyAdmin-4.5.1-english.zip',
     ),
   ),
   'pickle' => array(
