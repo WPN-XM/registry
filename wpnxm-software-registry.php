@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Sat, 24 Oct 2015 18:26:27 +0000.
+    * Last Update Thu, 29 Oct 2015 00:14:35 +0000.
     * Do not edit manually!
     */
 
@@ -1832,17 +1832,22 @@
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/msgpack/0.5.7/php_msgpack-0.5.7-5.6-nts-VC11-x64.zip',
       ),
     ),
+    '2.0.0' => array(
+      'x86' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/msgpack/2.0.0/php_msgpack-2.0.0-7.0-nts-VC14-x86.zip',
+      ),
+      'x64' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/msgpack/2.0.0/php_msgpack-2.0.0-7.0-nts-VC14-x64.zip',
+      ),
+    ),
     'latest' => array(
-      'version' => '0.5.7',
+      'version' => '2.0.0',
       'url' => array(
         'x86' => array(
-          '5.4' => 'http://windows.php.net/downloads/pecl/releases/msgpack/0.5.7/php_msgpack-0.5.7-5.4-nts-VC9-x86.zip',
-          '5.5' => 'http://windows.php.net/downloads/pecl/releases/msgpack/0.5.7/php_msgpack-0.5.7-5.5-nts-VC11-x86.zip',
-          '5.6' => 'http://windows.php.net/downloads/pecl/releases/msgpack/0.5.7/php_msgpack-0.5.7-5.6-nts-VC11-x86.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/msgpack/2.0.0/php_msgpack-2.0.0-7.0-nts-VC14-x86.zip',
         ),
         'x64' => array(
-          '5.5' => 'http://windows.php.net/downloads/pecl/releases/msgpack/0.5.7/php_msgpack-0.5.7-5.5-nts-VC11-x64.zip',
-          '5.6' => 'http://windows.php.net/downloads/pecl/releases/msgpack/0.5.7/php_msgpack-0.5.7-5.6-nts-VC11-x64.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/msgpack/2.0.0/php_msgpack-2.0.0-7.0-nts-VC14-x64.zip',
         ),
       ),
     ),
