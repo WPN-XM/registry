@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Fri, 30 Oct 2015 10:53:57 +0000.
+    * Last Update Fri, 30 Oct 2015 13:46:54 +0000.
     * Do not edit manually!
     */
 
@@ -603,10 +603,10 @@
   'ngrok' => array(
     'name' => 'ngrok x32',
     'website' => 'https://ngrok.com/',
-    '0.0.0' => '',
+    '2.0.19' => 'https://dl.ngrok.com/ngrok_2.0.19_windows_386.zip',
     'latest' => array(
-      'version' => '',
-      'url' => '',
+      'version' => '2.0.19',
+      'url' => 'https://dl.ngrok.com/ngrok_2.0.19_windows_386.zip',
     ),
   ),
   'node' => array(
