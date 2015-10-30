@@ -10,7 +10,7 @@
 [ "nginx",                  "http:\/\/wpn-xm.org\/get.php?s=nginx&v=1.9.4",                          "nginx.zip",                  "1.9.4" ],
 [ "openssl",                "http:\/\/wpn-xm.org\/get.php?s=openssl&v=1.0.2c",                       "openssl.zip",                "1.0.2c" ],
 [ "pear",                   "http:\/\/wpn-xm.org\/get.php?s=pear&v=1.0",                             "go-pear.phar",               "1.0" ],
-[ "php",                    "http:\/\/wpn-xm.org\/get.php?s=php&v=5.6.14",                           "php.zip",                    "5.6.14" ],
+[ "php",                    "http:\/\/wpn-xm.org\/get.php?s=php&v=5.6.15",                           "php.zip",                    "5.6.15" ],
 [ "php-cs-fixer",           "http:\/\/wpn-xm.org\/get.php?s=php-cs-fixer&v=latest",                  "php-cs-fixer.phar",          "latest" ],
 [ "phpext_amqp",            "http:\/\/wpn-xm.org\/get.php?s=phpext_amqp&v=1.4.0&p=5.6",              "phpext_amqp.zip",            "1.4.0" ],
 [ "phpext_apcu",            "http:\/\/wpn-xm.org\/get.php?s=phpext_apcu&v=4.0.7&p=5.6",              "phpext_apcu.zip",            "4.0.7" ],
