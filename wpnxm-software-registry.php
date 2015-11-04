@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Sat, 31 Oct 2015 14:14:14 +0000.
+    * Last Update Wed, 04 Nov 2015 18:09:55 +0000.
     * Do not edit manually!
     */
 
@@ -2578,6 +2578,15 @@
     'latest' => array(
       'version' => '1.1.7',
       'url' => 'https://github.com/iwind/rockmongo/archive/1.1.7.zip',
+    ),
+  ),
+  'selenium' => array(
+    'name' => 'Selenium',
+    'website' => 'http://seleniumhq.org',
+    '2.48.2' => 'http://selenium-release.storage.googleapis.com/2.48/selenium-server-standalone-2.48.2.jar',
+    'latest' => array(
+      'version' => '2.48.2',
+      'url' => 'http://selenium-release.storage.googleapis.com/2.48/selenium-server-standalone-2.48.2.jar',
     ),
   ),
   'sendmail' => array(
