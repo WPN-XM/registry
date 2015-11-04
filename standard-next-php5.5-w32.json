@@ -17,7 +17,7 @@
 [ "phpext_jsond",           "http:\/\/wpn-xm.org\/get.php?s=phpext_jsond&v=1.3.0&p=5.5",             "phpext_jsond.zip",           "1.3.0" ],
 [ "phpext_mailparse",       "http:\/\/wpn-xm.org\/get.php?s=phpext_mailparse&v=2.1.6&p=5.5",         "phpext_mailparse.zip",       "2.1.6" ],
 [ "phpext_memcache",        "http:\/\/wpn-xm.org\/get.php?s=phpext_memcache&v=3.0.8&p=5.5",          "phpext_memcache.zip",        "3.0.8" ],
-[ "phpext_mongo",           "http:\/\/wpn-xm.org\/get.php?s=phpext_mongo&v=1.6.11&p=5.5",            "phpext_mongo.zip",           "1.6.11" ],
+[ "phpext_mongodb",         "http:\/\/wpn-xm.org\/get.php?s=phpext_mongodb&v=1.0.0&p=5.5",           "phpext_mongodb.zip",         "1.0.0" ],
 [ "phpext_msgpack",         "http:\/\/wpn-xm.org\/get.php?s=phpext_msgpack&v=2.0.0&p=5.5",           "phpext_msgpack.zip",         "2.0.0" ],
 [ "phpext_phalcon",         "http:\/\/wpn-xm.org\/get.php?s=phpext_phalcon&v=2.1.0&p=5.5",           "phpext_phalcon.zip",         "2.1.0" ],
 [ "phpext_rar",             "http:\/\/wpn-xm.org\/get.php?s=phpext_rar&v=3.0.2&p=5.5",               "phpext_rar.zip",             "3.0.2" ],
