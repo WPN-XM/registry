@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Wed, 04 Nov 2015 18:09:55 +0000.
+    * Last Update Wed, 04 Nov 2015 18:15:20 +0000.
     * Do not edit manually!
     */
 
@@ -2596,6 +2596,15 @@
     'latest' => array(
       'version' => '1.0',
       'url' => 'http://www.glob.com.au/sendmail/sendmail.zip',
+    ),
+  ),
+  'sphinx' => array(
+    'name' => 'Selenium',
+    'website' => 'http://sphinxsearch.com/',
+    '0.0' => '',
+    'latest' => array(
+      'version' => '0',
+      'url' => '',
     ),
   ),
   'uprofiler' => array(
