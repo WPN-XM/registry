@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Wed, 04 Nov 2015 18:15:20 +0000.
+    * Last Update Wed, 04 Nov 2015 18:18:17 +0000.
     * Do not edit manually!
     */
 
@@ -2602,9 +2602,10 @@
     'name' => 'Selenium',
     'website' => 'http://sphinxsearch.com/',
     '0.0' => '',
+    '2.2.10' => 'http://sphinxsearch.com/files/sphinx-2.2.10-release-win64-full.zip',
     'latest' => array(
-      'version' => '0',
-      'url' => '',
+      'version' => '2.2.10',
+      'url' => 'http://sphinxsearch.com/files/sphinx-2.2.10-release-win64-full.zip',
     ),
   ),
   'uprofiler' => array(
