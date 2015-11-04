@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Wed, 04 Nov 2015 18:28:09 +0000.
+    * Last Update Wed, 04 Nov 2015 18:33:48 +0000.
     * Do not edit manually!
     */
 
@@ -1800,6 +1800,123 @@
         'x64' => array(
           '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.6.11/php_mongo-1.6.11-5.5-nts-VC11-x64.zip',
           '5.6' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.6.11/php_mongo-1.6.11-5.6-nts-VC11-x64.zip',
+        ),
+      ),
+    ),
+  ),
+  'phpext_mongodb' => array(
+    'name' => 'PHP Extension MongoDb',
+    'website' => 'http://php.net/mongodb/',
+    '0.3.1' => array(
+      'x86' => array(
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongodb/0.3.1/php_mongodb-0.3.1-5.5-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/mongodb/0.3.1/php_mongodb-0.3.1-5.6-nts-VC11-x86.zip',
+      ),
+      'x64' => array(
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongodb/0.3.1/php_mongodb-0.3.1-5.5-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/mongodb/0.3.1/php_mongodb-0.3.1-5.6-nts-VC11-x64.zip',
+      ),
+    ),
+    '0.4.0' => array(
+      'x86' => array(
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongodb/0.4.0/php_mongodb-0.4.0-5.5-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/mongodb/0.4.0/php_mongodb-0.4.0-5.6-nts-VC11-x86.zip',
+      ),
+      'x64' => array(
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongodb/0.4.0/php_mongodb-0.4.0-5.5-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/mongodb/0.4.0/php_mongodb-0.4.0-5.6-nts-VC11-x64.zip',
+      ),
+    ),
+    '0.4.1' => array(
+      'x86' => array(
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongodb/0.4.1/php_mongodb-0.4.1-5.5-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/mongodb/0.4.1/php_mongodb-0.4.1-5.6-nts-VC11-x86.zip',
+      ),
+      'x64' => array(
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongodb/0.4.1/php_mongodb-0.4.1-5.5-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/mongodb/0.4.1/php_mongodb-0.4.1-5.6-nts-VC11-x64.zip',
+      ),
+    ),
+    '0.5.0' => array(
+      'x86' => array(
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongodb/0.5.0/php_mongodb-0.5.0-5.5-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/mongodb/0.5.0/php_mongodb-0.5.0-5.6-nts-VC11-x86.zip',
+      ),
+      'x64' => array(
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongodb/0.5.0/php_mongodb-0.5.0-5.5-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/mongodb/0.5.0/php_mongodb-0.5.0-5.6-nts-VC11-x64.zip',
+      ),
+    ),
+    '0.5.1' => array(
+      'x86' => array(
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongodb/0.5.1/php_mongodb-0.5.1-5.5-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/mongodb/0.5.1/php_mongodb-0.5.1-5.6-nts-VC11-x86.zip',
+      ),
+      'x64' => array(
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongodb/0.5.1/php_mongodb-0.5.1-5.5-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/mongodb/0.5.1/php_mongodb-0.5.1-5.6-nts-VC11-x64.zip',
+      ),
+    ),
+    '0.6.0' => array(
+      'x86' => array(
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongodb/0.6.0/php_mongodb-0.6.0-5.5-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/mongodb/0.6.0/php_mongodb-0.6.0-5.6-nts-VC11-x86.zip',
+      ),
+      'x64' => array(
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongodb/0.6.0/php_mongodb-0.6.0-5.5-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/mongodb/0.6.0/php_mongodb-0.6.0-5.6-nts-VC11-x64.zip',
+      ),
+    ),
+    '0.6.1' => array(
+      'x86' => array(
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongodb/0.6.1/php_mongodb-0.6.1-5.5-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/mongodb/0.6.1/php_mongodb-0.6.1-5.6-nts-VC11-x86.zip',
+      ),
+      'x64' => array(
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongodb/0.6.1/php_mongodb-0.6.1-5.5-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/mongodb/0.6.1/php_mongodb-0.6.1-5.6-nts-VC11-x64.zip',
+      ),
+    ),
+    '0.6.2' => array(
+      'x86' => array(
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongodb/0.6.2/php_mongodb-0.6.2-5.5-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/mongodb/0.6.2/php_mongodb-0.6.2-5.6-nts-VC11-x86.zip',
+      ),
+      'x64' => array(
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongodb/0.6.2/php_mongodb-0.6.2-5.5-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/mongodb/0.6.2/php_mongodb-0.6.2-5.6-nts-VC11-x64.zip',
+      ),
+    ),
+    '0.6.3' => array(
+      'x86' => array(
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongodb/0.6.3/php_mongodb-0.6.3-5.5-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/mongodb/0.6.3/php_mongodb-0.6.3-5.6-nts-VC11-x86.zip',
+      ),
+      'x64' => array(
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongodb/0.6.3/php_mongodb-0.6.3-5.5-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/mongodb/0.6.3/php_mongodb-0.6.3-5.6-nts-VC11-x64.zip',
+      ),
+    ),
+    '1.0.0' => array(
+      'x86' => array(
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongodb/1.0.0/php_mongodb-1.0.0-5.5-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/mongodb/1.0.0/php_mongodb-1.0.0-5.6-nts-VC11-x86.zip',
+      ),
+      'x64' => array(
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongodb/1.0.0/php_mongodb-1.0.0-5.5-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/mongodb/1.0.0/php_mongodb-1.0.0-5.6-nts-VC11-x64.zip',
+      ),
+    ),
+    'latest' => array(
+      'version' => '1.0.0',
+      'url' => array(
+        'x86' => array(
+          '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongodb/1.0.0/php_mongodb-1.0.0-5.5-nts-VC11-x86.zip',
+          '5.6' => 'http://windows.php.net/downloads/pecl/releases/mongodb/1.0.0/php_mongodb-1.0.0-5.6-nts-VC11-x86.zip',
+        ),
+        'x64' => array(
+          '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongodb/1.0.0/php_mongodb-1.0.0-5.5-nts-VC11-x64.zip',
+          '5.6' => 'http://windows.php.net/downloads/pecl/releases/mongodb/1.0.0/php_mongodb-1.0.0-5.6-nts-VC11-x64.zip',
         ),
       ),
     ),
