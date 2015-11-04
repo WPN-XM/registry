@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Wed, 04 Nov 2015 18:18:17 +0000.
+    * Last Update Wed, 04 Nov 2015 18:28:09 +0000.
     * Do not edit manually!
     */
 
@@ -1990,6 +1990,55 @@
         'x64' => array(
           '5.5' => 'http://windows.php.net/downloads/pecl/releases/rar/3.0.2/php_rar-3.0.2-5.5-nts-VC11-x64.zip',
           '5.6' => 'http://windows.php.net/downloads/pecl/releases/rar/3.0.2/php_rar-3.0.2-5.6-nts-VC11-x64.zip',
+        ),
+      ),
+    ),
+  ),
+  'phpext_sphinx' => array(
+    'name' => 'PHP Extension Sphinx',
+    'website' => 'http://php.net/sphinx/',
+    '1.3.0' => array(
+      'x86' => array(
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/sphinx/1.3.0/php_sphinx-1.3.0-5.4-nts-VC9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/sphinx/1.3.0/php_sphinx-1.3.0-5.5-nts-VC11-x86.zip',
+      ),
+      'x64' => array(
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/sphinx/1.3.0/php_sphinx-1.3.0-5.5-nts-VC11-x64.zip',
+      ),
+    ),
+    '1.3.2' => array(
+      'x86' => array(
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/sphinx/1.3.2/php_sphinx-1.3.2-5.4-nts-VC9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/sphinx/1.3.2/php_sphinx-1.3.2-5.5-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/sphinx/1.3.2/php_sphinx-1.3.2-5.6-nts-VC11-x86.zip',
+      ),
+      'x64' => array(
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/sphinx/1.3.2/php_sphinx-1.3.2-5.5-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/sphinx/1.3.2/php_sphinx-1.3.2-5.6-nts-VC11-x64.zip',
+      ),
+    ),
+    '1.3.3' => array(
+      'x86' => array(
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/sphinx/1.3.3/php_sphinx-1.3.3-5.4-nts-VC9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/sphinx/1.3.3/php_sphinx-1.3.3-5.5-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/sphinx/1.3.3/php_sphinx-1.3.3-5.6-nts-VC11-x86.zip',
+      ),
+      'x64' => array(
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/sphinx/1.3.3/php_sphinx-1.3.3-5.5-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/sphinx/1.3.3/php_sphinx-1.3.3-5.6-nts-VC11-x64.zip',
+      ),
+    ),
+    'latest' => array(
+      'version' => '1.3.3',
+      'url' => array(
+        'x86' => array(
+          '5.4' => 'http://windows.php.net/downloads/pecl/releases/sphinx/1.3.3/php_sphinx-1.3.3-5.4-nts-VC9-x86.zip',
+          '5.5' => 'http://windows.php.net/downloads/pecl/releases/sphinx/1.3.3/php_sphinx-1.3.3-5.5-nts-VC11-x86.zip',
+          '5.6' => 'http://windows.php.net/downloads/pecl/releases/sphinx/1.3.3/php_sphinx-1.3.3-5.6-nts-VC11-x86.zip',
+        ),
+        'x64' => array(
+          '5.5' => 'http://windows.php.net/downloads/pecl/releases/sphinx/1.3.3/php_sphinx-1.3.3-5.5-nts-VC11-x64.zip',
+          '5.6' => 'http://windows.php.net/downloads/pecl/releases/sphinx/1.3.3/php_sphinx-1.3.3-5.6-nts-VC11-x64.zip',
         ),
       ),
     ),
