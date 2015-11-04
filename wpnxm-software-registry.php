@@ -2599,9 +2599,8 @@
     ),
   ),
   'sphinx' => array(
-    'name' => 'Selenium',
+    'name' => 'Sphinx Search',
     'website' => 'http://sphinxsearch.com/',
-    '0.0' => '',
     '2.2.10' => 'http://sphinxsearch.com/files/sphinx-2.2.10-release-win64-full.zip',
     'latest' => array(
       'version' => '2.2.10',
