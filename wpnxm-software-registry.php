@@ -2765,7 +2765,7 @@
     ),
   ),
   'sphinx' => array(
-    'name' => 'Sphinx Search',
+    'name' => 'Sphinx Search x86',
     'website' => 'http://sphinxsearch.com/',
     '2.2.10' => 'http://sphinxsearch.com/files/sphinx-2.2.10-release-win32-full.zip',
     'latest' => array(
@@ -2774,7 +2774,7 @@
     ),
   ),
   'sphinx-x64' => array(
-    'name' => 'Sphinx Search',
+    'name' => 'Sphinx Search x64',
     'website' => 'http://sphinxsearch.com/',
     '2.2.10' => 'http://sphinxsearch.com/files/sphinx-2.2.10-release-win64-full.zip',
     'latest' => array(
