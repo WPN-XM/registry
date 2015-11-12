@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Wed, 04 Nov 2015 18:33:48 +0000.
+    * Last Update Thu, 12 Nov 2015 21:48:27 +0000.
     * Do not edit manually!
     */
 
@@ -45,6 +45,16 @@
     'latest' => array(
       'version' => 'latest',
       'url' => 'https://github.com/WPN-XM/benchmark-tools/releases/download/v1.0/ab.zip',
+    ),
+  ),
+  'chromedriver' => array(
+    'name' => 'ChromeDriver',
+    'website' => 'https://sites.google.com/a/chromium.org/chromedriver/',
+    '0.0' => 'http://getcomposer.org/composer.phar',
+    '2.20' => 'http://chromedriver.storage.googleapis.com/2.20/chromedriver_win32.zip',
+    'latest' => array(
+      'version' => '2.20',
+      'url' => 'http://chromedriver.storage.googleapis.com/2.20/chromedriver_win32.zip',
     ),
   ),
   'closure-compiler' => array(
@@ -2156,6 +2166,31 @@
         'x64' => array(
           '5.5' => 'http://windows.php.net/downloads/pecl/releases/sphinx/1.3.3/php_sphinx-1.3.3-5.5-nts-VC11-x64.zip',
           '5.6' => 'http://windows.php.net/downloads/pecl/releases/sphinx/1.3.3/php_sphinx-1.3.3-5.6-nts-VC11-x64.zip',
+        ),
+      ),
+    ),
+  ),
+  'phpext_stats' => array(
+    'name' => 'PHP Extension Stats',
+    'website' => 'http://php.net/stats',
+    '0.0.0' => array(
+      'x86' => array(
+        '5.4' => 'http://windows.php.net/downloads/pecl/snaps/uprofiler/0.9.2/php_uprofiler-0.9.2-5.4-nts-VC9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/snaps/uprofiler/0.9.2/php_uprofiler-0.9.2-5.5-nts-VC11-x86.zip',
+      ),
+      'x64' => array(
+        '5.5' => 'http://windows.php.net/downloads/pecl/snaps/uprofiler/0.9.2/php_uprofiler-0.9.2-5.5-nts-VC11-x64.zip',
+      ),
+    ),
+    'latest' => array(
+      'version' => '0.0.0',
+      'url' => array(
+        'x86' => array(
+          '5.4' => 'http://windows.php.net/downloads/pecl/snaps/uprofiler/0.9.2/php_uprofiler-0.9.2-5.4-nts-VC9-x86.zip',
+          '5.5' => 'http://windows.php.net/downloads/pecl/snaps/uprofiler/0.9.2/php_uprofiler-0.9.2-5.5-nts-VC11-x86.zip',
+        ),
+        'x64' => array(
+          '5.5' => 'http://windows.php.net/downloads/pecl/snaps/uprofiler/0.9.2/php_uprofiler-0.9.2-5.5-nts-VC11-x64.zip',
         ),
       ),
     ),
