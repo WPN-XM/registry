@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Thu, 12 Nov 2015 21:56:42 +0000.
+    * Last Update Thu, 12 Nov 2015 21:56:48 +0000.
     * Do not edit manually!
     */
 
@@ -423,9 +423,10 @@
     '2.6.0' => 'https://github.com/git-for-windows/git/releases/download/v2.6.0.windows.1/PortableGit-2.6.0-64-bit.7z.exe',
     '2.6.1' => 'https://github.com/git-for-windows/git/releases/download/v2.6.1.windows.1/PortableGit-2.6.1-64-bit.7z.exe',
     '2.6.2' => 'https://github.com/git-for-windows/git/releases/download/v2.6.2.windows.1/PortableGit-2.6.2-64-bit.7z.exe',
+    '2.6.3' => 'https://github.com/git-for-windows/git/releases/download/v2.6.3.windows.1/PortableGit-2.6.3-64-bit.7z.exe',
     'latest' => array(
-      'version' => '2.6.2',
-      'url' => 'https://github.com/git-for-windows/git/releases/download/v2.6.2.windows.1/PortableGit-2.6.2-64-bit.7z.exe',
+      'version' => '2.6.3',
+      'url' => 'https://github.com/git-for-windows/git/releases/download/v2.6.3.windows.1/PortableGit-2.6.3-64-bit.7z.exe',
     ),
   ),
   'nginx' => array(
