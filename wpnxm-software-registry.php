@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Thu, 12 Nov 2015 21:56:48 +0000.
+    * Last Update Fri, 13 Nov 2015 13:30:11 +0000.
     * Do not edit manually!
     */
 
@@ -2177,24 +2177,28 @@
   'phpext_stats' => array(
     'name' => 'PHP Extension Stats',
     'website' => 'http://php.net/stats',
-    '0.0.0' => array(
+    '1.0.3' => array(
       'x86' => array(
-        '5.4' => 'http://windows.php.net/downloads/pecl/snaps/uprofiler/0.9.2/php_uprofiler-0.9.2-5.4-nts-VC9-x86.zip',
-        '5.5' => 'http://windows.php.net/downloads/pecl/snaps/uprofiler/0.9.2/php_uprofiler-0.9.2-5.5-nts-VC11-x86.zip',
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/stats/1.0.3/php_stats-1.0.3-5.4-nts-VC9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/stats/1.0.3/php_stats-1.0.3-5.5-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/stats/1.0.3/php_stats-1.0.3-5.6-nts-VC11-x86.zip',
       ),
       'x64' => array(
-        '5.5' => 'http://windows.php.net/downloads/pecl/snaps/uprofiler/0.9.2/php_uprofiler-0.9.2-5.5-nts-VC11-x64.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/stats/1.0.3/php_stats-1.0.3-5.5-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/stats/1.0.3/php_stats-1.0.3-5.6-nts-VC11-x64.zip',
       ),
     ),
     'latest' => array(
-      'version' => '0.0.0',
+      'version' => '1.0.3',
       'url' => array(
         'x86' => array(
-          '5.4' => 'http://windows.php.net/downloads/pecl/snaps/uprofiler/0.9.2/php_uprofiler-0.9.2-5.4-nts-VC9-x86.zip',
-          '5.5' => 'http://windows.php.net/downloads/pecl/snaps/uprofiler/0.9.2/php_uprofiler-0.9.2-5.5-nts-VC11-x86.zip',
+          '5.4' => 'http://windows.php.net/downloads/pecl/releases/stats/1.0.3/php_stats-1.0.3-5.4-nts-VC9-x86.zip',
+          '5.5' => 'http://windows.php.net/downloads/pecl/releases/stats/1.0.3/php_stats-1.0.3-5.5-nts-VC11-x86.zip',
+          '5.6' => 'http://windows.php.net/downloads/pecl/releases/stats/1.0.3/php_stats-1.0.3-5.6-nts-VC11-x86.zip',
         ),
         'x64' => array(
-          '5.5' => 'http://windows.php.net/downloads/pecl/snaps/uprofiler/0.9.2/php_uprofiler-0.9.2-5.5-nts-VC11-x64.zip',
+          '5.5' => 'http://windows.php.net/downloads/pecl/releases/stats/1.0.3/php_stats-1.0.3-5.5-nts-VC11-x64.zip',
+          '5.6' => 'http://windows.php.net/downloads/pecl/releases/stats/1.0.3/php_stats-1.0.3-5.6-nts-VC11-x64.zip',
         ),
       ),
     ),
