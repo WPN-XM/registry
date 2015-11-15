@@ -105,6 +105,15 @@
       'url' => 'https://github.com/Maximus5/ConEmu/releases/download/v15.11.09/ConEmuPack.151109.7z',
     ),
   ),
+  'couchbase' => array(
+    'name' => 'Couchbase x86',
+    'website' => 'http://couchbase.com/',
+    '4.1.0' => 'http://packages.couchbase.com/releases/4.1.0-dp/couchbase-server_4.1.0-dp-windows_x86.exe',
+    'latest' => array(
+      'version' => '4.1.0',
+      'url' => 'http://packages.couchbase.com/releases/4.1.0-dp/couchbase-server_4.1.0-dp-windows_x86.exe',
+    ),
+  ),
   'couchbase-x64' => array(
     'name' => 'Couchbase x64',
     'website' => 'http://couchbase.com/',
