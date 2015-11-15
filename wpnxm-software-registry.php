@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Sun, 15 Nov 2015 22:13:46 +0000.
+    * Last Update Sun, 15 Nov 2015 23:17:59 +0000.
     * Do not edit manually!
     */
 
@@ -103,6 +103,15 @@
     'latest' => array(
       'version' => '15.11.09',
       'url' => 'https://github.com/Maximus5/ConEmu/releases/download/v15.11.09/ConEmuPack.151109.7z',
+    ),
+  ),
+  'couchbase-x64' => array(
+    'name' => 'Couchbase x64',
+    'website' => 'http://couchbase.com/',
+    '4.1.0' => 'http://packages.couchbase.com/releases/4.1.0-dp/couchbase-server_4.1.0-dp-windows_amd64.exe',
+    'latest' => array(
+      'version' => '4.1.0',
+      'url' => 'http://packages.couchbase.com/releases/4.1.0-dp/couchbase-server_4.1.0-dp-windows_amd64.exe',
     ),
   ),
   'firebird' => array(
