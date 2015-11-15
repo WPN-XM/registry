@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Sun, 15 Nov 2015 11:08:53 +0000.
+    * Last Update Sun, 15 Nov 2015 22:10:47 +0000.
     * Do not edit manually!
     */
 
@@ -45,6 +45,13 @@
     'latest' => array(
       'version' => 'latest',
       'url' => 'https://github.com/WPN-XM/benchmark-tools/releases/download/v1.0/ab.zip',
+    ),
+  ),
+  'arangodb-x64' => array(
+    '2.7.1' => 'https://www.arangodb.com/repositories/Windows7/x86_64/ArangoDB-2.7.1-win64.zip',
+    'latest' => array(
+      'version' => '2.7.1',
+      'url' => 'https://www.arangodb.com/repositories/Windows7/x86_64/ArangoDB-2.7.1-win64.zip',
     ),
   ),
   'chromedriver' => array(
@@ -94,6 +101,12 @@
     'latest' => array(
       'version' => '15.11.09',
       'url' => 'https://github.com/Maximus5/ConEmu/releases/download/v15.11.09/ConEmuPack.151109.7z',
+    ),
+  ),
+  'firebird' => array(
+    'latest' => array(
+      'version' => '',
+      'url' => '',
     ),
   ),
   'gogs-x64' => array(
