@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Sun, 15 Nov 2015 22:13:29 +0000.
+    * Last Update Sun, 15 Nov 2015 22:13:46 +0000.
     * Do not edit manually!
     */
 
@@ -106,9 +106,12 @@
     ),
   ),
   'firebird' => array(
+    'name' => 'Firebird SQL',
+    'website' => 'http://www.firebirdsql.org/',
+    '3.0-RC1' => 'http://sourceforge.net/projects/firebird/files/firebird-win32/3.0-RC1/Firebird-3.0.0.32136_0_Win32_RC1.exe/download',
     'latest' => array(
-      'version' => '',
-      'url' => '',
+      'version' => '3.0-RC1',
+      'url' => 'http://sourceforge.net/projects/firebird/files/firebird-win32/3.0-RC1/Firebird-3.0.0.32136_0_Win32_pdb_RC1.exe/download',
     ),
   ),
   'gogs-x64' => array(
