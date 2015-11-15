@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Sun, 15 Nov 2015 23:17:59 +0000.
+    * Last Update Sun, 15 Nov 2015 23:28:39 +0000.
     * Do not edit manually!
     */
 
@@ -2912,6 +2912,15 @@
     'latest' => array(
       'version' => '14.0.22816',
       'url' => 'http://download.microsoft.com/download/0/4/1/041224F6-A7DC-486B-BD66-BCAAF74B6919/vc_redist.x64.exe',
+    ),
+  ),
+  'virtuoso-x64' => array(
+    'name' => 'Virtuoso x64',
+    'website' => 'http://virtuoso.openlinksw.com/',
+    '7.2.1' => 'https://github.com/openlink/virtuoso-opensource/releases/download/v7.2.1/virtuoso-opensource-win-x64-20150625.zip',
+    'latest' => array(
+      'version' => '7.2.1',
+      'url' => 'https://github.com/openlink/virtuoso-opensource/releases/download/v7.2.1/virtuoso-opensource-win-x64-20150625.zip',
     ),
   ),
   'webgrind' => array(
