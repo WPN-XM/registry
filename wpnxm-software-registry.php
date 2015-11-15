@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Sun, 15 Nov 2015 23:38:17 +0000.
+    * Last Update Sun, 15 Nov 2015 23:42:40 +0000.
     * Do not edit manually!
     */
 
@@ -465,6 +465,20 @@
     'latest' => array(
       'version' => '2.6.3',
       'url' => 'https://github.com/git-for-windows/git/releases/download/v2.6.3.windows.1/PortableGit-2.6.3-64-bit.7z.exe',
+    ),
+  ),
+  'neo4j-x64' => array(
+    'name' => 'Neo4j x64',
+    'website' => 'http://neo4j.com/',
+    0 => '',
+    '1.9.9' => 'http://neo4j.com/artifact.php?name=neo4j-community-1.9.9-windows.zip',
+    '2.0.4' => 'http://neo4j.com/artifact.php?name=neo4j-community-2.0.4-windows.zip',
+    '2.1.8' => 'http://neo4j.com/artifact.php?name=neo4j-community-2.1.8-windows.zip',
+    '2.2.7' => 'http://neo4j.com/artifact.php?name=neo4j-community-2.2.7-windows.zip',
+    '2.3.1' => 'http://neo4j.com/artifact.php?name=neo4j-community-2.3.1-windows.zip',
+    'latest' => array(
+      'version' => '2.3.1',
+      'url' => 'http://neo4j.com/artifact.php?name=neo4j-community-2.3.1-windows.zip',
     ),
   ),
   'nginx' => array(
