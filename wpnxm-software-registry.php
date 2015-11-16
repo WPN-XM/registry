@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Mon, 16 Nov 2015 14:30:08 +0000.
+    * Last Update Mon, 16 Nov 2015 20:09:43 +0000.
     * Do not edit manually!
     */
 
@@ -54,6 +54,62 @@
     'latest' => array(
       'version' => '2.7.1',
       'url' => 'https://www.arangodb.com/repositories/Windows7/x86_64/ArangoDB-2.7.1-win64.zip',
+    ),
+  ),
+  'cassandra-x64' => array(
+    'name' => 'Cassandra x64',
+    'website' => 'http://cassandra.apache.org/',
+    '1.1.12' => 'http://downloads.datastax.com/community/datastax-community-64bit_1.1.12.msi',
+    '1.2.4' => 'http://downloads.datastax.com/community/datastax-community-64bit_1.2.4.msi',
+    '1.2.5' => 'http://downloads.datastax.com/community/datastax-community-64bit_1.2.5.msi',
+    '1.2.6' => 'http://downloads.datastax.com/community/datastax-community-64bit_1.2.6.msi',
+    '1.2.8' => 'http://downloads.datastax.com/community/datastax-community-64bit_1.2.8.msi',
+    '1.2.9' => 'http://downloads.datastax.com/community/datastax-community-64bit_1.2.9.msi',
+    '1.2.10' => 'http://downloads.datastax.com/community/datastax-community-64bit_1.2.10.msi',
+    '1.2.11' => 'http://downloads.datastax.com/community/datastax-community-64bit_1.2.11.msi',
+    '1.2.12' => 'http://downloads.datastax.com/community/datastax-community-64bit_1.2.12.msi',
+    '1.2.13' => 'http://downloads.datastax.com/community/datastax-community-64bit_1.2.13.msi',
+    '1.2.15' => 'http://downloads.datastax.com/community/datastax-community-64bit_1.2.15.msi',
+    '1.2.16' => 'http://downloads.datastax.com/community/datastax-community-64bit_1.2.16.msi',
+    '1.2.18' => 'http://downloads.datastax.com/community/datastax-community-64bit_1.2.18.msi',
+    '1.2.19' => 'http://downloads.datastax.com/community/datastax-community-64bit_1.2.19.msi',
+    '2.0.0' => 'http://downloads.datastax.com/community/datastax-community-64bit_2.0.0.msi',
+    '2.0.1' => 'http://downloads.datastax.com/community/datastax-community-64bit_2.0.1.msi',
+    '2.0.2' => 'http://downloads.datastax.com/community/datastax-community-64bit_2.0.2.msi',
+    '2.0.3' => 'http://downloads.datastax.com/community/datastax-community-64bit_2.0.3.msi',
+    '2.0.4' => 'http://downloads.datastax.com/community/datastax-community-64bit_2.0.4.msi',
+    '2.0.5' => 'http://downloads.datastax.com/community/datastax-community-64bit_2.0.5.msi',
+    '2.0.6' => 'http://downloads.datastax.com/community/datastax-community-64bit_2.0.6.msi',
+    '2.0.7' => 'http://downloads.datastax.com/community/datastax-community-64bit_2.0.7.msi',
+    '2.0.8' => 'http://downloads.datastax.com/community/datastax-community-64bit_2.0.8.msi',
+    '2.0.9' => 'http://downloads.datastax.com/community/datastax-community-64bit_2.0.9.msi',
+    '2.0.10' => 'http://downloads.datastax.com/community/datastax-community-64bit_2.0.10.msi',
+    '2.0.11' => 'http://downloads.datastax.com/community/datastax-community-64bit_2.0.11.msi',
+    '2.0.12' => 'http://downloads.datastax.com/community/datastax-community-64bit_2.0.12.msi',
+    '2.0.13' => 'http://downloads.datastax.com/community/datastax-community-64bit_2.0.13.msi',
+    '2.0.14' => 'http://downloads.datastax.com/community/datastax-community-64bit_2.0.14.msi',
+    '2.0.15' => 'http://downloads.datastax.com/community/datastax-community-64bit_2.0.15.msi',
+    '2.0.16' => 'http://downloads.datastax.com/community/datastax-community-64bit_2.0.16.msi',
+    '2.0.17' => 'http://downloads.datastax.com/community/datastax-community-64bit_2.0.17.msi',
+    '2.1.0' => 'http://downloads.datastax.com/community/datastax-community-64bit_2.1.0.msi',
+    '2.1.1' => 'http://downloads.datastax.com/community/datastax-community-64bit_2.1.1.msi',
+    '2.1.2' => 'http://downloads.datastax.com/community/datastax-community-64bit_2.1.2.msi',
+    '2.1.3' => 'http://downloads.datastax.com/community/datastax-community-64bit_2.1.3.msi',
+    '2.1.4' => 'http://downloads.datastax.com/community/datastax-community-64bit_2.1.4.msi',
+    '2.1.5' => 'http://downloads.datastax.com/community/datastax-community-64bit_2.1.5.msi',
+    '2.1.6' => 'http://downloads.datastax.com/community/datastax-community-64bit_2.1.6.msi',
+    '2.1.7' => 'http://downloads.datastax.com/community/datastax-community-64bit_2.1.7.msi',
+    '2.1.8' => 'http://downloads.datastax.com/community/datastax-community-64bit_2.1.8.msi',
+    '2.1.9' => 'http://downloads.datastax.com/community/datastax-community-64bit_2.1.9.msi',
+    '2.1.10' => 'http://downloads.datastax.com/community/datastax-community-64bit_2.1.10.msi',
+    '2.1.11' => 'http://downloads.datastax.com/community/datastax-community-64bit_2.1.11.msi',
+    '2.2.0' => 'http://downloads.datastax.com/community/datastax-community-64bit_2.2.0.msi',
+    '2.2.1' => 'http://downloads.datastax.com/community/datastax-community-64bit_2.2.1.msi',
+    '2.2.2' => 'http://downloads.datastax.com/community/datastax-community-64bit_2.2.2.msi',
+    '2.2.3' => 'http://downloads.datastax.com/community/datastax-community-64bit_2.2.3.msi',
+    'latest' => array(
+      'version' => '2.2.3',
+      'url' => 'http://downloads.datastax.com/community/datastax-community-64bit_2.2.3.msi',
     ),
   ),
   'chromedriver' => array(
