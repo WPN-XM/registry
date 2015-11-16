@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Mon, 16 Nov 2015 20:24:29 +0000.
+    * Last Update Mon, 16 Nov 2015 20:29:20 +0000.
     * Do not edit manually!
     */
 
@@ -242,6 +242,15 @@
     'latest' => array(
       'version' => '7.0.0-0',
       'url' => 'http://www.imagemagick.org/download/binaries/ImageMagick-7.0.0-0-portable-Q16-x64.zip',
+    ),
+  ),
+  'influxdb-x64' => array(
+    'name' => 'InfluxDb x64',
+    'website' => 'https://influxdb.com/',
+    '0.9.4.2' => 'https://s3.amazonaws.com/influxdb/influxdb_0.9.4.2_amd64.msi',
+    'latest' => array(
+      'version' => '0.9.4.2',
+      'url' => 'https://s3.amazonaws.com/influxdb/influxdb_0.9.4.2_amd64.msi',
     ),
   ),
   'mariadb' => array(
