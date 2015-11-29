@@ -1,8 +1,8 @@
 [
-[ "adminer",          "http:\/\/wpn-xm.org\/get.php?s=adminer&v=4.2.2",              "adminer.php",          "4.2.2" ],
+[ "adminer",          "http:\/\/wpn-xm.org\/get.php?s=adminer&v=4.2.3",              "adminer.php",          "4.2.3" ],
 [ "composer",         "http:\/\/wpn-xm.org\/get.php?s=composer&v=1.0",               "composer.phar",        "1.0" ],
-[ "conemu",           "http:\/\/wpn-xm.org\/get.php?s=conemu&v=15.11.09",            "conemu.7z",            "15.11.09" ],
-[ "mariadb",          "http:\/\/wpn-xm.org\/get.php?s=mariadb&v=10.1.8",             "mariadb.zip",          "10.1.8" ],
+[ "conemu",           "http:\/\/wpn-xm.org\/get.php?s=conemu&v=15.11.26",            "conemu.7z",            "15.11.26" ],
+[ "mariadb",          "http:\/\/wpn-xm.org\/get.php?s=mariadb&v=10.1.9",             "mariadb.zip",          "10.1.9" ],
 [ "nginx",            "http:\/\/wpn-xm.org\/get.php?s=nginx&v=1.9.4",                "nginx.zip",            "1.9.4" ],
 [ "openssl",          "http:\/\/wpn-xm.org\/get.php?s=openssl&v=1.0.2c",             "openssl.zip",          "1.0.2c" ],
 [ "php",              "http:\/\/wpn-xm.org\/get.php?s=php&v=5.5.30",                 "php.zip",              "5.5.30" ],
