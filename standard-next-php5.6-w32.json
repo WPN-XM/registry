@@ -25,7 +25,7 @@
 [ "phpext_uploadprogress",  "http:\/\/wpn-xm.org\/get.php?s=phpext_uploadprogress&v=1.0.3.1&p=5.6",  "phpext_uploadprogress.zip",  "1.0.3.1" ],
 [ "phpext_varnish",         "http:\/\/wpn-xm.org\/get.php?s=phpext_varnish&v=1.2.1&p=5.6",           "phpext_varnish.zip",         "1.2.1" ],
 [ "phpext_wincache",        "http:\/\/wpn-xm.org\/get.php?s=phpext_wincache&v=2.0.0.1&p=5.6",        "phpext_wincache.zip",        "2.0.0.1" ],
-[ "phpext_xdebug",          "http:\/\/wpn-xm.org\/get.php?s=phpext_xdebug&v=2.3.3&p=5.6",            "phpext_xdebug.zip",          "2.3.3" ],
+[ "phpext_xdebug",          "http:\/\/wpn-xm.org\/get.php?s=phpext_xdebug&v=2.4.0rc1&p=5.6",         "phpext_xdebug.zip",          "2.4.0rc1" ],
 [ "phpext_zmq",             "http:\/\/wpn-xm.org\/get.php?s=phpext_zmq&v=1.1.2&p=5.6",               "phpext_zmq.zip",             "1.1.2" ],
 [ "phpmemcachedadmin",      "http:\/\/wpn-xm.org\/get.php?s=phpmemcachedadmin&v=1.2.2",              "phpmemcachedadmin.zip",      "1.2.2" ],
 [ "phpmyadmin",             "http:\/\/wpn-xm.org\/get.php?s=phpmyadmin&v=4.5.2",                     "phpmyadmin.zip",             "4.5.2" ],
