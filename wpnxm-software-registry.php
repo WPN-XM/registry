@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Sun, 29 Nov 2015 19:55:27 +0000.
+    * Last Update Sun, 29 Nov 2015 19:55:32 +0000.
     * Do not edit manually!
     */
 
@@ -34,9 +34,10 @@
     '4.2.0' => 'https://www.adminer.org/static/download/4.2.0/adminer-4.2.0.php',
     '4.2.1' => 'https://www.adminer.org/static/download/4.2.1/adminer-4.2.1.php',
     '4.2.2' => 'https://www.adminer.org/static/download/4.2.2/adminer-4.2.2.php',
+    '4.2.3' => 'https://www.adminer.org/static/download/4.2.3/adminer-4.2.3.php',
     'latest' => array(
-      'version' => '4.2.2',
-      'url' => 'https://www.adminer.org/static/download/4.2.2/adminer-4.2.2.php',
+      'version' => '4.2.3',
+      'url' => 'https://www.adminer.org/static/download/4.2.3/adminer-4.2.3.php',
     ),
   ),
   'apache-benchmark' => array(
