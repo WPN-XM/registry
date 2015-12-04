@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Thu, 03 Dec 2015 22:45:11 +0000.
+    * Last Update Fri, 04 Dec 2015 11:34:58 +0000.
     * Do not edit manually!
     */
 
@@ -785,9 +785,10 @@
     '4.2.1' => 'http://nodejs.org/dist/v4.2.1/win-x86/node.exe',
     '5.0.0' => 'http://nodejs.org/dist/v5.0.0/win-x86/node.exe',
     '5.1.0' => 'http://nodejs.org/dist/v5.1.0/win-x86/node.exe',
+    '5.1.1' => 'http://nodejs.org/dist/v5.1.1/win-x86/node.exe',
     'latest' => array(
-      'version' => '5.1.0',
-      'url' => 'http://nodejs.org/dist/v5.1.0/win-x86/node.exe',
+      'version' => '5.1.1',
+      'url' => 'http://nodejs.org/dist/v5.1.1/win-x86/node.exe',
     ),
   ),
   'node-x64' => array(
@@ -1504,6 +1505,14 @@
       'x64' => array(
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.7/php_apcu-4.0.7-5.5-nts-VC11-x64.zip',
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.7/php_apcu-4.0.7-5.6-nts-VC11-x64.zip',
+      ),
+    ),
+    '5.0.1' => array(
+      'x86' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/apcu/5.1.0/php_apcu-5.1.0-7.0-nts-vc14-x86.zip',
+      ),
+      'x64' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/apcu/5.1.0/php_apcu-5.1.0-7.0-nts-vc14-x64.zip',
       ),
     ),
     'latest' => array(
