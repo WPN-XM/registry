@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Fri, 11 Dec 2015 15:04:17 +0000.
+    * Last Update Fri, 11 Dec 2015 15:05:42 +0000.
     * Do not edit manually!
     */
 
@@ -110,9 +110,10 @@
     '2.2.2' => 'http://downloads.datastax.com/community/datastax-community-64bit_2.2.2.msi',
     '2.2.3' => 'http://downloads.datastax.com/community/datastax-community-64bit_2.2.3.msi',
     '3.0.0' => 'http://downloads.datastax.com/community/datastax-community-64bit_3.0.0.msi',
+    '3.0.1' => 'http://downloads.datastax.com/community/datastax-community-64bit_3.0.1.msi',
     'latest' => array(
-      'version' => '3.0.0',
-      'url' => 'http://downloads.datastax.com/community/datastax-community-64bit_3.0.0.msi',
+      'version' => '3.0.1',
+      'url' => 'http://downloads.datastax.com/community/datastax-community-64bit_3.0.1.msi',
     ),
   ),
   'chromedriver' => array(
