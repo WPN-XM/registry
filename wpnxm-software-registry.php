@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Fri, 11 Dec 2015 15:03:22 +0000.
+    * Last Update Fri, 11 Dec 2015 15:03:37 +0000.
     * Do not edit manually!
     */
 
@@ -161,9 +161,10 @@
     '15.11.09' => 'https://github.com/Maximus5/ConEmu/releases/download/v15.11.09/ConEmuPack.151109.7z',
     '15.11.26' => 'https://github.com/Maximus5/ConEmu/releases/download/v15.11.26/ConEmuPack.151126.7z',
     '15.12.02' => 'https://github.com/Maximus5/ConEmu/releases/download/v15.12.02/ConEmuPack.151202.7z',
+    '15.12.10' => 'https://github.com/Maximus5/ConEmu/releases/download/v15.12.10/ConEmuPack.151210.7z',
     'latest' => array(
-      'version' => '15.12.02',
-      'url' => 'https://github.com/Maximus5/ConEmu/releases/download/v15.12.02/ConEmuPack.151202.7z',
+      'version' => '15.12.10',
+      'url' => 'https://github.com/Maximus5/ConEmu/releases/download/v15.12.10/ConEmuPack.151210.7z',
     ),
   ),
   'couchbase' => array(
