@@ -3,7 +3,7 @@
 [ "closure-compiler",       "http:\/\/wpn-xm.org\/get.php?s=closure-compiler&v=latest",                          "closure-compiler.zip",       "latest" ],
 [ "composer",               "http:\/\/wpn-xm.org\/get.php?s=composer&v=1.0",                                     "composer.phar",              "1.0" ],
 [ "conemu",                 "http:\/\/wpn-xm.org\/get.php?s=conemu&v=15.12.10",                                  "conemu.7z",                  "15.12.10" ],
-[ "gogs-x64",               "http:\/\/wpn-xm.org\/get.php?s=gogs-x64&v=0.7.33",                                  "gogitservice.zip",           "0.7.33" ],
+[ "gogs-x64",               "http:\/\/wpn-xm.org\/get.php?s=gogs-x64&v=0.8.0",                                   "gogitservice.zip",           "0.8.0" ],
 [ "imagick-x64",            "http:\/\/wpn-xm.org\/get.php?s=imagick-x64&v=7.0.0-0",                              "imagick.zip",                "7.0.0-0" ],
 [ "mariadb-x64",            "http:\/\/wpn-xm.org\/get.php?s=mariadb-x64&v=10.1.9",                               "mariadb.zip",                "10.1.9" ],
 [ "memadmin",               "http:\/\/wpn-xm.org\/get.php?s=memadmin&v=1.0.12",                                  "memadmin.zip",               "1.0.12" ],
