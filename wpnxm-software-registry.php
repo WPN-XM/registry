@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Sun, 13 Dec 2015 16:38:22 +0000.
+    * Last Update Sun, 13 Dec 2015 16:57:19 +0000.
     * Do not edit manually!
     */
 
@@ -2177,26 +2177,12 @@
       ),
     ),
     '1.0.0' => array(
-      'x86' => array(
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongodb/1.0.0/php_mongodb-1.0.0-5.5-nts-VC11-x86.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/mongodb/1.0.0/php_mongodb-1.0.0-5.6-nts-VC11-x86.zip',
-      ),
-      'x64' => array(
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongodb/1.0.0/php_mongodb-1.0.0-5.5-nts-VC11-x64.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/mongodb/1.0.0/php_mongodb-1.0.0-5.6-nts-VC11-x64.zip',
-      ),
+    ),
+    '1.0.1' => array(
     ),
     'latest' => array(
-      'version' => '1.0.0',
+      'version' => '1.0.1',
       'url' => array(
-        'x86' => array(
-          '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongodb/1.0.0/php_mongodb-1.0.0-5.5-nts-VC11-x86.zip',
-          '5.6' => 'http://windows.php.net/downloads/pecl/releases/mongodb/1.0.0/php_mongodb-1.0.0-5.6-nts-VC11-x86.zip',
-        ),
-        'x64' => array(
-          '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongodb/1.0.0/php_mongodb-1.0.0-5.5-nts-VC11-x64.zip',
-          '5.6' => 'http://windows.php.net/downloads/pecl/releases/mongodb/1.0.0/php_mongodb-1.0.0-5.6-nts-VC11-x64.zip',
-        ),
       ),
     ),
   ),
