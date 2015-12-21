@@ -1552,8 +1552,8 @@
       ),
     ),
   ),
-  'phpext_couchbase' => array(
-    'name' => 'PHP Extension Couchbase',
+  'phpext_ioncube' => array(
+    'name' => 'PHP Extension Ioncube',
     'website' => 'https://github.com/couchbase/php-ext-couchbase',
     '5.0.17' => array(
       'x86' => array(
