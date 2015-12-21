@@ -1554,7 +1554,7 @@
   ),
   'phpext_ioncube' => array(
     'name' => 'PHP Extension Ioncube',
-    'website' => 'https://github.com/couchbase/php-ext-couchbase',
+    'website' => 'http://www.ioncube.com/loaders.php',
     '5.0.17' => array(
       'x86' => array(
         '5.4' => 'http://downloads3.ioncube.com/loader_downloads/ioncube_loaders_win_nonts_vc9_x86.zip',
