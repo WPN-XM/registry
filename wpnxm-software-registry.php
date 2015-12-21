@@ -1581,6 +1581,29 @@
       ),
     ),
   ),
+  'phpext_ice' => array(
+    'name' => 'PHP Extension Ice',
+    'website' => 'http://www.iceframework.org',
+    '1.0.36' => array(
+      'x86' => array(
+        '5.6.0' => 'http://www.iceframework.org/dll/ice-1.0.36-php-5.6.16-nts-vc11-x86.zip',
+      ),
+      'x64' => array(
+        '5.6.0' => 'http://www.iceframework.org/dll/ice-1.0.36-php-5.6.16-nts-vc11-x64.zip',
+      ),
+    ),
+    'latest' => array(
+      'version' => '1.0.36',
+      'url' => array(
+        'x86' => array(
+          '5.6.0' => 'http://www.iceframework.org/dll/ice-1.0.36-php-5.6.16-nts-vc11-x86.zip',
+        ),
+        'x64' => array(
+          '5.6.0' => 'http://www.iceframework.org/dll/ice-1.0.36-php-5.6.16-nts-vc11-x64.zip',
+        ),
+      ),
+    ),
+  ),
   'phpext_imagick' => array(
     'name' => 'PHP Extension Imagick',
     'website' => 'http://php.net/imagick',
