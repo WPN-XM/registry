@@ -3063,15 +3063,15 @@
   'robomongo' => array(
     'name' => 'RoboMongo',
     'website' => 'http://robomongo.com/',
-    '0.8.0' => 'http://robomongo.org/files/windows/Robomongo-0.8.0-i386.zip',
-    '0.8.1' => 'http://robomongo.org/files/windows/Robomongo-0.8.1-i386.zip',
-    '0.8.2' => 'http://robomongo.org/files/windows/Robomongo-0.8.2-i386.zip',
-    '0.8.3' => 'http://robomongo.org/files/windows/Robomongo-0.8.3-i386.zip',
-    '0.8.4' => 'http://robomongo.org/files/windows/Robomongo-0.8.4-i386.zip',
-    '0.8.5' => 'http://robomongo.org/files/windows/Robomongo-0.8.5-i386.zip',
+    '0.8.0' => 'http://app.robomongo.org/files/windows/Robomongo-0.8.0-i386.zip',
+    '0.8.1' => 'http://app.robomongo.org/files/windows/Robomongo-0.8.1-i386.zip',
+    '0.8.2' => 'http://app.robomongo.org/files/windows/Robomongo-0.8.2-i386.zip',
+    '0.8.3' => 'http://app.robomongo.org/files/windows/Robomongo-0.8.3-i386.zip',
+    '0.8.4' => 'http://app.robomongo.org/files/windows/Robomongo-0.8.4-i386.zip',
+    '0.8.5' => 'http://app.robomongo.org/files/windows/Robomongo-0.8.5-i386.zip',
     'latest' => array(
       'version' => '0.8.5',
-      'url' => 'http://robomongo.org/files/windows/Robomongo-0.8.5-i386.zip',
+      'url' => 'http://app.robomongo.org/files/windows/Robomongo-0.8.5-i386.zip',
     ),
   ),
   'rockmongo' => array(
