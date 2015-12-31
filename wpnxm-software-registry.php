@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Sun, 13 Dec 2015 19:36:26 +0000.
+    * Last Update Thu, 31 Dec 2015 17:35:01 +0000.
     * Do not edit manually!
     */
 
@@ -1260,10 +1260,11 @@
     '5.6.14' => 'http://windows.php.net/downloads/releases/archives/php-5.6.14-nts-Win32-VC11-x86.zip',
     '5.6.15' => 'http://windows.php.net/downloads/releases/archives/php-5.6.15-nts-Win32-VC11-x86.zip',
     '5.6.16' => 'http://windows.php.net/downloads/releases/php-5.6.16-nts-Win32-VC11-x86.zip',
-    '7.0.0' => 'http://windows.php.net/downloads/releases/php-7.0.0-nts-Win32-VC14-x86.zip',
+    '7.0.0' => 'http://windows.php.net/downloads/releases/archives/php-7.0.0-nts-Win32-VC14-x86.zip',
+    '7.0.1' => 'http://windows.php.net/downloads/releases/php-7.0.1-nts-Win32-VC14-x86.zip',
     'latest' => array(
-      'version' => '7.0.0',
-      'url' => 'http://windows.php.net/downloads/releases/php-7.0.0-nts-Win32-VC14-x86.zip',
+      'version' => '7.0.1',
+      'url' => 'http://windows.php.net/downloads/releases/php-7.0.1-nts-Win32-VC14-x86.zip',
     ),
   ),
   'php-cs-fixer' => array(
@@ -1548,35 +1549,6 @@
         'x64' => array(
           '5.5' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.7/php_apcu-4.0.7-5.5-nts-VC11-x64.zip',
           '5.6' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.7/php_apcu-4.0.7-5.6-nts-VC11-x64.zip',
-        ),
-      ),
-    ),
-  ),
-  'phpext_ioncube' => array(
-    'name' => 'PHP Extension Ioncube',
-    'website' => 'http://www.ioncube.com/loaders.php',
-    '5.0.17' => array(
-      'x86' => array(
-        '5.4' => 'http://downloads3.ioncube.com/loader_downloads/ioncube_loaders_win_nonts_vc9_x86.zip',
-        '5.5' => 'http://downloads3.ioncube.com/loader_downloads/ioncube_loaders_win_nonts_vc11_x86.zip',
-        '5.6' => 'http://downloads3.ioncube.com/loader_downloads/ioncube_loaders_win_nonts_vc11_x86.zip',
-      ),
-      'x64' => array(
-        '5.5' => 'http://downloads3.ioncube.com/loader_downloads/ioncube_loaders_win_nonts_vc11_x86-64.zip',
-        '5.6' => 'http://downloads3.ioncube.com/loader_downloads/ioncube_loaders_win_nonts_vc11_x86-64.zip',
-      ),
-    ),
-    'latest' => array(
-      'version' => '5.0.17',
-      'url' => array(
-        'x86' => array(
-          '5.4' => 'http://downloads3.ioncube.com/loader_downloads/ioncube_loaders_win_nonts_vc9_x86.zip',
-          '5.5' => 'http://downloads3.ioncube.com/loader_downloads/ioncube_loaders_win_nonts_vc11_x86.zip',
-          '5.6' => 'http://downloads3.ioncube.com/loader_downloads/ioncube_loaders_win_nonts_vc11_x86.zip',
-        ),
-        'x64' => array(
-          '5.5' => 'http://downloads3.ioncube.com/loader_downloads/ioncube_loaders_win_nonts_vc11_x86-64.zip',
-          '5.6' => 'http://downloads3.ioncube.com/loader_downloads/ioncube_loaders_win_nonts_vc11_x86-64.zip',
         ),
       ),
     ),
@@ -2670,12 +2642,12 @@
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/wincache/1.3.7.7/php_wincache-1.3.7.7-5.4-nts-VC9-x86.zip',
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/wincache/1.3.7.7/php_wincache-1.3.7.7-5.4-nts-VC9-x86.zip',
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/wincache/1.3.7.7/php_wincache-1.3.7.7-5.4-nts-VC9-x86.zip',
-        ),
+      ),
       'x64' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/wincache/1.3.7.7/php_wincache-1.3.7.7-5.4-nts-VC9-x86.zip',
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/wincache/1.3.7.7/php_wincache-1.3.7.7-5.4-nts-VC9-x86.zip',
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/wincache/1.3.7.7/php_wincache-1.3.7.7-5.4-nts-VC9-x86.zip',
-        ),
+      ),
     ),
     'latest' => array(
       'version' => '1.3.7.7',
