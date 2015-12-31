@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Thu, 31 Dec 2015 17:44:04 +0000.
+    * Last Update Thu, 31 Dec 2015 17:44:48 +0000.
     * Do not edit manually!
     */
 
@@ -53,9 +53,10 @@
     'website' => 'https://www.arangodb.com/',
     '2.7.1' => 'https://www.arangodb.com/repositories/Windows7/x86_64/ArangoDB-2.7.1-win64.zip',
     '2.7.2' => 'https://www.arangodb.com/repositories/Windows7/x86_64/ArangoDB-2.7.2-win64.zip',
+    '2.7.3' => 'https://www.arangodb.com/repositories/Windows7/x86_64/ArangoDB-2.7.3-win64.zip',
     'latest' => array(
-      'version' => '2.7.2',
-      'url' => 'https://www.arangodb.com/repositories/Windows7/x86_64/ArangoDB-2.7.2-win64.zip',
+      'version' => '2.7.3',
+      'url' => 'https://www.arangodb.com/repositories/Windows7/x86_64/ArangoDB-2.7.3-win64.zip',
     ),
   ),
   'cassandra-x64' => array(
