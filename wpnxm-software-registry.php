@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Thu, 31 Dec 2015 17:43:48 +0000.
+    * Last Update Thu, 31 Dec 2015 17:44:04 +0000.
     * Do not edit manually!
     */
 
@@ -1100,9 +1100,10 @@
     '2.1.5' => 'http://orientdb.com/download.php?email=unknown@unknown.com&file=orientdb-community-2.1.5.zip&os=win',
     '2.1.6' => 'http://orientdb.com/download.php?email=unknown@unknown.com&file=orientdb-community-2.1.6.zip&os=win',
     '2.1.7' => 'http://orientdb.com/download.php?email=unknown@unknown.com&file=orientdb-community-2.1.7.zip&os=win',
+    '2.1.8' => 'http://orientdb.com/download.php?email=unknown@unknown.com&file=orientdb-community-2.1.8.zip&os=win',
     'latest' => array(
-      'version' => '2.1.7',
-      'url' => 'http://orientdb.com/download.php?email=unknown@unknown.com&file=orientdb-community-2.1.7.zip&os=win',
+      'version' => '2.1.8',
+      'url' => 'http://orientdb.com/download.php?email=unknown@unknown.com&file=orientdb-community-2.1.8.zip&os=win',
     ),
   ),
   'pear' => array(
