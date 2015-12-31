@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Thu, 31 Dec 2015 17:35:36 +0000.
+    * Last Update Thu, 31 Dec 2015 17:36:20 +0000.
     * Do not edit manually!
     */
 
@@ -349,9 +349,10 @@
     '10.1.7' => 'http://mirror.jmu.edu/pub/mariadb/mariadb-10.1.7/win32-packages/mariadb-10.1.7-win32.zip',
     '10.1.8' => 'http://mirror.jmu.edu/pub/mariadb/mariadb-10.1.8/win32-packages/mariadb-10.1.8-win32.zip',
     '10.1.9' => 'http://mirror.jmu.edu/pub/mariadb/mariadb-10.1.9/win32-packages/mariadb-10.1.9-win32.zip',
+    '10.1.10' => 'http://mirror.jmu.edu/pub/mariadb/mariadb-10.1.10/win32-packages/mariadb-10.1.10-win32.zip',
     'latest' => array(
-      'version' => '10.1.9',
-      'url' => 'http://mirror.jmu.edu/pub/mariadb/mariadb-10.1.9/win32-packages/mariadb-10.1.9-win32.zip',
+      'version' => '10.1.10',
+      'url' => 'http://mirror.jmu.edu/pub/mariadb/mariadb-10.1.10/win32-packages/mariadb-10.1.10-win32.zip',
     ),
   ),
   'mariadb-x64' => array(
