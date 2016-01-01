@@ -1,7 +1,7 @@
 <?php
    /**
     * WPИ-XM Server Stack
-    * Copyright © 2010 - 2015 Jens-André Koch <jakoch@web.de>
+    * Copyright © 2010 - 2016 Jens-André Koch <jakoch@web.de>
     * http://wpn-xm.org/
     *
     * This source file is subject to the terms of the MIT license.
@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Thu, 31 Dec 2015 17:44:48 +0000.
+    * Last Update Fri, 01 Jan 2016 15:59:57 +0000.
     * Do not edit manually!
     */
 
@@ -209,9 +209,10 @@
     '0.7.22' => 'https://github.com/gogits/gogs/releases/download/v0.7.22/windows_amd64.zip',
     '0.7.33' => 'https://github.com/gogits/gogs/releases/download/v0.7.33/windows_amd64.zip',
     '0.8.0' => 'https://github.com/gogits/gogs/releases/download/v0.8.0/windows_amd64.zip',
+    '0.8.10' => 'https://github.com/gogits/gogs/releases/download/v0.8.10/windows_amd64.zip',
     'latest' => array(
-      'version' => '0.8.0',
-      'url' => 'https://github.com/gogits/gogs/releases/download/v0.8.0/windows_amd64.zip',
+      'version' => '0.8.10',
+      'url' => 'https://github.com/gogits/gogs/releases/download/v0.8.10/windows_amd64.zip',
     ),
   ),
   'gogs-x86' => array(
