@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Fri, 01 Jan 2016 16:49:27 +0000.
+    * Last Update Fri, 01 Jan 2016 18:33:26 +0000.
     * Do not edit manually!
     */
 
@@ -223,9 +223,10 @@
     '0.7.22' => 'https://github.com/gogits/gogs/releases/download/v0.7.22/windows_386.zip',
     '0.7.33' => 'https://github.com/gogits/gogs/releases/download/v0.7.33/windows_386.zip',
     '0.8.0' => 'https://github.com/gogits/gogs/releases/download/v0.8.0/windows_386.zip',
+    '0.8.10' => 'https://github.com/gogits/gogs/releases/download/v0.8.10/windows_386.zip',
     'latest' => array(
-      'version' => '0.8.0',
-      'url' => 'https://github.com/gogits/gogs/releases/download/v0.8.0/windows_386.zip',
+      'version' => '0.8.10',
+      'url' => 'https://github.com/gogits/gogs/releases/download/v0.8.10/windows_386.zip',
     ),
   ),
   'heidisql' => array(
