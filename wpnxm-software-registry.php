@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Fri, 01 Jan 2016 18:33:26 +0000.
+    * Last Update Sat, 02 Jan 2016 10:28:00 +0000.
     * Do not edit manually!
     */
 
@@ -3121,6 +3121,15 @@
     'latest' => array(
       'version' => '1.0',
       'url' => 'http://www.glob.com.au/sendmail/sendmail.zip',
+    ),
+  ),
+  'sharex' => array(
+    'name' => 'ShareX',
+    'website' => 'https://getsharex.com/',
+    '10.5.0' => 'https://github.com/ShareX/ShareX/releases/download/v10.5.0/ShareX-portable.zip',
+    'latest' => array(
+      'version' => '10.5.0',
+      'url' => 'https://github.com/ShareX/ShareX/releases/download/v10.5.0/ShareX-portable.zip',
     ),
   ),
   'sphinx' => array(
