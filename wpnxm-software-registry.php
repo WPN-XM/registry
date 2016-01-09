@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Sat, 09 Jan 2016 13:18:42 +0000.
+    * Last Update Sat, 09 Jan 2016 13:20:03 +0000.
     * Do not edit manually!
     */
 
@@ -535,9 +535,10 @@
     '2.6.2' => 'https://github.com/git-for-windows/git/releases/download/v2.6.2.windows.1/PortableGit-2.6.2-32-bit.7z.exe',
     '2.6.3' => 'https://github.com/git-for-windows/git/releases/download/v2.6.3.windows.1/PortableGit-2.6.3-32-bit.7z.exe',
     '2.6.4' => 'https://github.com/git-for-windows/git/releases/download/v2.6.4.windows.1/PortableGit-2.6.4-32-bit.7z.exe',
+    '2.7.0' => 'https://github.com/git-for-windows/git/releases/download/v2.7.0.windows.1/PortableGit-2.7.0-32-bit.7z.exe',
     'latest' => array(
-      'version' => '2.6.4',
-      'url' => 'https://github.com/git-for-windows/git/releases/download/v2.6.4.windows.1/PortableGit-2.6.4-32-bit.7z.exe',
+      'version' => '2.7.0',
+      'url' => 'https://github.com/git-for-windows/git/releases/download/v2.7.0.windows.1/PortableGit-2.7.0-32-bit.7z.exe',
     ),
   ),
   'msysgit-x64' => array(
@@ -3132,8 +3133,6 @@
     ),
   ),
   'sharex' => array(
-    'name' => 'ShareX',
-    'website' => 'https://getsharex.com/',
     '10.5.0' => 'https://github.com/ShareX/ShareX/releases/download/v10.5.0/ShareX-portable.zip',
     'latest' => array(
       'version' => '10.5.0',
