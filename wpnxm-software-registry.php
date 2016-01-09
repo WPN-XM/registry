@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Sat, 09 Jan 2016 21:01:57 +0000.
+    * Last Update Sat, 09 Jan 2016 21:15:24 +0000.
     * Do not edit manually!
     */
 
@@ -1573,6 +1573,54 @@
           '5.5' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.7/php_apcu-4.0.7-5.5-nts-VC11-x64.zip',
           '5.6' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.7/php_apcu-4.0.7-5.6-nts-VC11-x64.zip',
         ),
+      ),
+    ),
+  ),
+  'phpext_couchbase' => array(
+    'name' => 'PHP Extension Couchbase',
+    'website' => 'https://pecl.php.net/package/couchbase',
+    '0.1.13' => array(
+      'x86' => array(
+        '5.4' => 'http://wpn-xm.org/files/php_apc-5.4-nts-VC9-x86.zip',
+      ),
+    ),
+    '1.1.5' => array(
+      'x86' => array(
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/couchbase/1.1.5/php_couchbase-1.1.5-5.4-nts-VC9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/couchbase/1.1.5/php_couchbase-1.1.5-5.4-nts-VC9-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/couchbase/1.1.5/php_couchbase-1.1.5-5.4-nts-VC9-x86.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/couchbase/1.1.5/php_couchbase-1.1.5-5.4-nts-VC9-x86.zip',
+      ),
+      'x64' => array(
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/couchbase/1.1.5/php_couchbase-1.1.5-5.4-nts-VC9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/couchbase/1.1.5/php_couchbase-1.1.5-5.4-nts-VC9-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/couchbase/1.1.5/php_couchbase-1.1.5-5.4-nts-VC9-x86.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/couchbase/1.1.5/php_couchbase-1.1.5-5.4-nts-VC9-x86.zip',
+      ),
+    ),
+    '1.2.1' => array(
+    ),
+    '1.2.2' => array(
+    ),
+    '2.0.1' => array(
+    ),
+    '2.0.2' => array(
+    ),
+    '2.0.3' => array(
+    ),
+    '2.0.4' => array(
+    ),
+    '2.0.5' => array(
+    ),
+    '2.0.6' => array(
+    ),
+    '2.0.7' => array(
+    ),
+    '2.1.0' => array(
+    ),
+    'latest' => array(
+      'version' => '2.1.0',
+      'url' => array(
       ),
     ),
   ),
