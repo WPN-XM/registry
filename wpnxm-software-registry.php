@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Sat, 09 Jan 2016 22:37:07 +0000.
+    * Last Update Sat, 09 Jan 2016 22:39:53 +0000.
     * Do not edit manually!
     */
 
@@ -2655,17 +2655,22 @@
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/stats/1.0.3/php_stats-1.0.3-5.6-nts-VC11-x64.zip',
       ),
     ),
+    '2.0.1' => array(
+      'x86' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/stats/2.0.1/php_stats-2.0.1-7.0-nts-VC14-x86.zip',
+      ),
+      'x64' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/stats/2.0.1/php_stats-2.0.1-7.0-nts-VC14-x64.zip',
+      ),
+    ),
     'latest' => array(
-      'version' => '1.0.3',
+      'version' => '2.0.1',
       'url' => array(
         'x86' => array(
-          '5.4' => 'http://windows.php.net/downloads/pecl/releases/stats/1.0.3/php_stats-1.0.3-5.4-nts-VC9-x86.zip',
-          '5.5' => 'http://windows.php.net/downloads/pecl/releases/stats/1.0.3/php_stats-1.0.3-5.5-nts-VC11-x86.zip',
-          '5.6' => 'http://windows.php.net/downloads/pecl/releases/stats/1.0.3/php_stats-1.0.3-5.6-nts-VC11-x86.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/stats/2.0.1/php_stats-2.0.1-7.0-nts-VC14-x86.zip',
         ),
         'x64' => array(
-          '5.5' => 'http://windows.php.net/downloads/pecl/releases/stats/1.0.3/php_stats-1.0.3-5.5-nts-VC11-x64.zip',
-          '5.6' => 'http://windows.php.net/downloads/pecl/releases/stats/1.0.3/php_stats-1.0.3-5.6-nts-VC11-x64.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/stats/2.0.1/php_stats-2.0.1-7.0-nts-VC14-x64.zip',
         ),
       ),
     ),
