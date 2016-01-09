@@ -3138,6 +3138,8 @@
     ),
   ),
   'sharex' => array(
+    'name' => 'ShareX',
+    'website' => 'https://getsharex.com/',
     '10.5.0' => 'https://github.com/ShareX/ShareX/releases/download/v10.5.0/ShareX-portable.zip',
     'latest' => array(
       'version' => '10.5.0',
