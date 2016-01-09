@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Sat, 09 Jan 2016 23:08:20 +0000.
+    * Last Update Sat, 09 Jan 2016 23:08:35 +0000.
     * Do not edit manually!
     */
 
@@ -3397,9 +3397,10 @@
     'name' => 'ShareX',
     'website' => 'https://getsharex.com/',
     '10.5.0' => 'https://github.com/ShareX/ShareX/releases/download/v10.5.0/ShareX-portable.zip',
+    '10.6.0' => 'https://github.com/ShareX/ShareX/releases/download/v10.6.0/ShareX-portable.zip',
     'latest' => array(
-      'version' => '10.5.0',
-      'url' => 'https://github.com/ShareX/ShareX/releases/download/v10.5.0/ShareX-portable.zip',
+      'version' => '10.6.0',
+      'url' => 'https://github.com/ShareX/ShareX/releases/download/v10.6.0/ShareX-portable.zip',
     ),
   ),
   'sphinx' => array(
