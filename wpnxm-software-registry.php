@@ -1426,8 +1426,6 @@
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/amqp/1.2.0/php_amqp-1.2.0-5.5-nts-VC11-x64.zip',
       ),
     ),
-    '1.3.0' => array(
-    ),
     '1.4.0' => array(
       'x86' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/amqp/1.4.0/php_amqp-1.4.0-5.4-nts-VC9-x86.zip',
@@ -1484,8 +1482,6 @@
   'phpext_apcu' => array(
     'name' => 'PHP Extension APCu',
     'website' => 'http://php.net/apcu/',
-    '4.0.0' => array(
-    ),
     '4.0.1' => array(
       'x86' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.1/php_apcu-4.0.1-5.4-nts-VC9-x86.zip',
@@ -1583,21 +1579,6 @@
   'phpext_hprose' => array(
     'name' => 'PHP Extension Hprose',
     'website' => 'https://pecl.php.net/package/hprose',
-    0 => array(
-      'x86' => array(
-        '5.4' => 'http://windows.php.net/downloads/pecl/releases/apc/3.1.11/php_apc-3.1.11-5.4-nts-VC9-x86.zip',
-      ),
-    ),
-    '1.2.0' => array(
-    ),
-    '1.3.0' => array(
-    ),
-    '1.3.1' => array(
-    ),
-    '1.3.2' => array(
-    ),
-    '1.4.0' => array(
-    ),
     '1.4.1' => array(
       'x86' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.4.1/php_hprose-1.4.1-5.4-nts-VC9-x86.zip',
@@ -1625,8 +1606,6 @@
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.4.2/php_hprose-1.4.2-5.4-nts-VC9-x86.zip',
         '7.0' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.4.2/php_hprose-1.4.2-5.4-nts-VC9-x86.zip',
       ),
-    ),
-    '1.5.0' => array(
     ),
     '1.5.1' => array(
       'x86' => array(
@@ -1725,8 +1704,6 @@
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.1/php_hprose-1.6.1-5.4-nts-VC9-x86.zip',
         '7.0' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.1/php_hprose-1.6.1-5.4-nts-VC9-x86.zip',
       ),
-    ),
-    '1.6.2' => array(
     ),
     '1.6.3' => array(
       'x86' => array(
@@ -2062,8 +2039,6 @@
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.4.5/php_mongo-1.4.5-5.5-nts-VC11-x64.zip',
       ),
     ),
-    '1.5.0' => array(
-    ),
     '1.5.1' => array(
       'x86' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.5.1/php_mongo-1.5.1-5.4-nts-VC9-x86.zip',
@@ -2118,8 +2093,6 @@
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.5.5/php_mongo-1.5.5-5.5-nts-VC11-x64.zip',
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/mongo/1.5.5/php_mongo-1.5.5-5.6-nts-VC11-x64.zip',
       ),
-    ),
-    '1.5.6' => array(
     ),
     '1.5.7' => array(
       'x86' => array(
@@ -2946,8 +2919,6 @@
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.2.7/php_xdebug-2.2.7-5.6-nts-VC11-x64.zip',
       ),
     ),
-    '2.3.0' => array(
-    ),
     '2.3.1' => array(
       'x86' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.3.1/php_xdebug-2.3.1-5.4-nts-VC9-x86.zip',
@@ -2980,8 +2951,6 @@
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.3.3/php_xdebug-2.3.3-5.5-nts-VC11-x64.zip',
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.3.3/php_xdebug-2.3.3-5.6-nts-VC11-x64.zip',
       ),
-    ),
-    '2.4.0beta1' => array(
     ),
     '2.4.0rc1' => array(
       'x86' => array(
@@ -3079,8 +3048,6 @@
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.0.6/php_zmq-1.0.6-5.5-nts-VC11-x64.zip',
       ),
     ),
-    '1.0.8' => array(
-    ),
     '1.0.9' => array(
       'x86' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.0.9/php_zmq-1.0.9-5.4-nts-VC9-x86.zip',
@@ -3089,8 +3056,6 @@
       'x64' => array(
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.0.9/php_zmq-1.0.9-5.5-nts-VC11-x64.zip',
       ),
-    ),
-    '1.1.0' => array(
     ),
     '1.1.1' => array(
       'x86' => array(
