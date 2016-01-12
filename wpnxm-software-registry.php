@@ -2661,7 +2661,7 @@
   ),
   'phpext_redis' => array(
     'name' => 'PHP Redis',
-    'website' => 'http://php.net/redis',
+    'website' => 'https://pecl.php.net/package/redis',
     '2.2.7' => array(
       'x86' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/redis/2.2.7/php_redis-2.2.7-5.4-nts-VC9-x86.zip',
@@ -2739,7 +2739,7 @@
   ),
   'phpext_stats' => array(
     'name' => 'PHP Extension Stats',
-    'website' => 'http://php.net/stats',
+    'website' => 'https://pecl.php.net/package/stats',
     '1.0.3' => array(
       'x86' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/stats/1.0.3/php_stats-1.0.3-5.4-nts-VC9-x86.zip',
