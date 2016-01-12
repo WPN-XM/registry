@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Sat, 09 Jan 2016 23:08:35 +0000.
+    * Last Update Tue, 12 Jan 2016 15:22:21 +0000.
     * Do not edit manually!
     */
 
@@ -2655,6 +2655,35 @@
         'x64' => array(
           '5.5' => 'http://windows.php.net/downloads/pecl/releases/rar/3.0.2/php_rar-3.0.2-5.5-nts-VC11-x64.zip',
           '5.6' => 'http://windows.php.net/downloads/pecl/releases/rar/3.0.2/php_rar-3.0.2-5.6-nts-VC11-x64.zip',
+        ),
+      ),
+    ),
+  ),
+  'phpext_redis' => array(
+    'name' => 'PHP Redis',
+    'website' => 'http://php.net/redis',
+    '2.2.7' => array(
+      'x86' => array(
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/redis/2.2.7/php_redis-2.2.7-5.4-nts-VC9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/redis/2.2.7/php_redis-2.2.7-5.5-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/redis/2.2.7/php_redis-2.2.7-5.6-nts-VC11-x86.zip',
+      ),
+      'x64' => array(
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/redis/2.2.7/php_redis-2.2.7-5.5-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/redis/2.2.7/php_redis-2.2.7-5.6-nts-VC11-x64.zip',
+      ),
+    ),
+    'latest' => array(
+      'version' => '2.2.7',
+      'url' => array(
+        'x86' => array(
+          '5.4' => 'http://windows.php.net/downloads/pecl/releases/redis/2.2.7/php_redis-2.2.7-5.4-nts-VC9-x86.zip',
+          '5.5' => 'http://windows.php.net/downloads/pecl/releases/redis/2.2.7/php_redis-2.2.7-5.5-nts-VC11-x86.zip',
+          '5.6' => 'http://windows.php.net/downloads/pecl/releases/redis/2.2.7/php_redis-2.2.7-5.6-nts-VC11-x86.zip',
+        ),
+        'x64' => array(
+          '5.5' => 'http://windows.php.net/downloads/pecl/releases/redis/2.2.7/php_redis-2.2.7-5.5-nts-VC11-x64.zip',
+          '5.6' => 'http://windows.php.net/downloads/pecl/releases/redis/2.2.7/php_redis-2.2.7-5.6-nts-VC11-x64.zip',
         ),
       ),
     ),
