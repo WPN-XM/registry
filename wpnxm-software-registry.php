@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Sun, 17 Jan 2016 22:29:59 +0000.
+    * Last Update Sun, 17 Jan 2016 22:30:55 +0000.
     * Do not edit manually!
     */
 
@@ -3012,9 +3012,126 @@
     ),
   ),
   'phpext_timezonedb' => array(
+    '2014.10' => array(
+      'x86' => array(
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2014.10/php_timezonedb-2014.10-5.4-nts-VC9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2014.10/php_timezonedb-2014.10-5.5-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2014.10/php_timezonedb-2014.10-5.6-nts-VC11-x86.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2014.10/php_timezonedb-2014.10-7.0-nts-VC14-x86.zip',
+      ),
+      'x64' => array(
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2014.10/php_timezonedb-2014.10-5.5-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2014.10/php_timezonedb-2014.10-5.6-nts-VC11-x64.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2014.10/php_timezonedb-2014.10-7.0-nts-VC14-x64.zip',
+      ),
+    ),
+    '2015.1' => array(
+      'x86' => array(
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2015.1/php_timezonedb-2015.1-5.4-nts-VC9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2015.1/php_timezonedb-2015.1-5.5-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2015.1/php_timezonedb-2015.1-5.6-nts-VC11-x86.zip',
+      ),
+      'x64' => array(
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2015.1/php_timezonedb-2015.1-5.5-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2015.1/php_timezonedb-2015.1-5.6-nts-VC11-x64.zip',
+      ),
+    ),
+    '2015.2' => array(
+      'x86' => array(
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2015.2/php_timezonedb-2015.2-5.4-nts-VC9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2015.2/php_timezonedb-2015.2-5.5-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2015.2/php_timezonedb-2015.2-5.6-nts-VC11-x86.zip',
+      ),
+      'x64' => array(
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2015.2/php_timezonedb-2015.2-5.5-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2015.2/php_timezonedb-2015.2-5.6-nts-VC11-x64.zip',
+      ),
+    ),
+    '2015.3' => array(
+      'x86' => array(
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2015.3/php_timezonedb-2015.3-5.4-nts-VC9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2015.3/php_timezonedb-2015.3-5.5-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2015.3/php_timezonedb-2015.3-5.6-nts-VC11-x86.zip',
+      ),
+      'x64' => array(
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2015.3/php_timezonedb-2015.3-5.5-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2015.3/php_timezonedb-2015.3-5.6-nts-VC11-x64.zip',
+      ),
+    ),
+    '2015.4' => array(
+      'x86' => array(
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2015.4/php_timezonedb-2015.4-5.5-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2015.4/php_timezonedb-2015.4-5.6-nts-VC11-x86.zip',
+      ),
+      'x64' => array(
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2015.4/php_timezonedb-2015.4-5.5-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2015.4/php_timezonedb-2015.4-5.6-nts-VC11-x64.zip',
+      ),
+    ),
+    '2015.5' => array(
+      'x86' => array(
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2015.5/php_timezonedb-2015.5-5.5-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2015.5/php_timezonedb-2015.5-5.6-nts-VC11-x86.zip',
+      ),
+      'x64' => array(
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2015.5/php_timezonedb-2015.5-5.5-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2015.5/php_timezonedb-2015.5-5.6-nts-VC11-x64.zip',
+      ),
+    ),
+    '2015.6' => array(
+      'x86' => array(
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2015.6/php_timezonedb-2015.6-5.4-nts-VC9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2015.6/php_timezonedb-2015.6-5.5-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2015.6/php_timezonedb-2015.6-5.6-nts-VC11-x86.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2015.6/php_timezonedb-2015.6-7.0-nts-VC14-x86.zip',
+      ),
+      'x64' => array(
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2015.6/php_timezonedb-2015.6-5.5-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2015.6/php_timezonedb-2015.6-5.6-nts-VC11-x64.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2015.6/php_timezonedb-2015.6-7.0-nts-VC14-x64.zip',
+      ),
+    ),
+    '2015.6.1' => array(
+      'x86' => array(
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2015.6.1/php_timezonedb-2015.6.1-5.4-nts-VC9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2015.6.1/php_timezonedb-2015.6.1-5.5-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2015.6.1/php_timezonedb-2015.6.1-5.6-nts-VC11-x86.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2015.6.1/php_timezonedb-2015.6.1-7.0-nts-VC14-x86.zip',
+      ),
+      'x64' => array(
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2015.6.1/php_timezonedb-2015.6.1-5.5-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2015.6.1/php_timezonedb-2015.6.1-5.6-nts-VC11-x64.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2015.6.1/php_timezonedb-2015.6.1-7.0-nts-VC14-x64.zip',
+      ),
+    ),
+    '2015.7' => array(
+      'x86' => array(
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2015.7/php_timezonedb-2015.7-5.4-nts-VC9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2015.7/php_timezonedb-2015.7-5.5-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2015.7/php_timezonedb-2015.7-5.6-nts-VC11-x86.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2015.7/php_timezonedb-2015.7-7.0-nts-VC14-x86.zip',
+      ),
+      'x64' => array(
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2015.7/php_timezonedb-2015.7-5.5-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2015.7/php_timezonedb-2015.7-5.6-nts-VC11-x64.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2015.7/php_timezonedb-2015.7-7.0-nts-VC14-x64.zip',
+      ),
+    ),
     'latest' => array(
-      'version' => '0.0.0',
-      'url' => '',
+      'version' => '2015.7',
+      'url' => array(
+        'x86' => array(
+          '5.4' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2015.7/php_timezonedb-2015.7-5.4-nts-VC9-x86.zip',
+          '5.5' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2015.7/php_timezonedb-2015.7-5.5-nts-VC11-x86.zip',
+          '5.6' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2015.7/php_timezonedb-2015.7-5.6-nts-VC11-x86.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2015.7/php_timezonedb-2015.7-7.0-nts-VC14-x86.zip',
+        ),
+        'x64' => array(
+          '5.5' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2015.7/php_timezonedb-2015.7-5.5-nts-VC11-x64.zip',
+          '5.6' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2015.7/php_timezonedb-2015.7-5.6-nts-VC11-x64.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2015.7/php_timezonedb-2015.7-7.0-nts-VC14-x64.zip',
+        ),
+      ),
     ),
   ),
   'phpext_trader' => array(
