@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Tue, 12 Jan 2016 15:22:21 +0000.
+    * Last Update Sun, 17 Jan 2016 22:28:40 +0000.
     * Do not edit manually!
     */
 
@@ -1601,6 +1601,18 @@
       ),
     ),
   ),
+  'phpext_event' => array(
+    'latest' => array(
+      'version' => '0.0.0',
+      'url' => '',
+    ),
+  ),
+  'phpext_geoip' => array(
+    'latest' => array(
+      'version' => '0.0.0',
+      'url' => '',
+    ),
+  ),
   'phpext_hprose' => array(
     'name' => 'PHP Extension Hprose',
     'website' => 'https://pecl.php.net/package/hprose',
@@ -1790,6 +1802,12 @@
       ),
     ),
   ),
+  'phpext_igbinary' => array(
+    'latest' => array(
+      'version' => '0.0.0',
+      'url' => '',
+    ),
+  ),
   'phpext_imagick' => array(
     'name' => 'PHP Extension Imagick',
     'website' => 'http://php.net/imagick',
@@ -1965,6 +1983,44 @@
         'x64' => array(
           '5.5' => 'http://windows.php.net/downloads/pecl/releases/jsond/1.3.0/php_jsond-1.3.0-5.5-nts-VC11-x64.zip',
           '5.6' => 'http://windows.php.net/downloads/pecl/releases/jsond/1.3.0/php_jsond-1.3.0-5.6-nts-VC11-x64.zip',
+        ),
+      ),
+    ),
+  ),
+  'phpext_lzf' => array(
+    '1.6.2' => array(
+      'x86' => array(
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/lzf/1.6.2/php_lzf-1.6.2-5.4-nts-VC9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/lzf/1.6.2/php_lzf-1.6.2-5.5-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/lzf/1.6.2/php_lzf-1.6.2-5.6-nts-VC11-x86.zip',
+      ),
+      'x64' => array(
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/lzf/1.6.2/php_lzf-1.6.2-5.5-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/lzf/1.6.2/php_lzf-1.6.2-5.6-nts-VC11-x64.zip',
+      ),
+    ),
+    '1.6.3' => array(
+      'x86' => array(
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/lzf/1.6.3/php_lzf-1.6.3-5.4-nts-VC9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/lzf/1.6.3/php_lzf-1.6.3-5.5-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/lzf/1.6.3/php_lzf-1.6.3-5.6-nts-VC11-x86.zip',
+      ),
+      'x64' => array(
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/lzf/1.6.3/php_lzf-1.6.3-5.5-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/lzf/1.6.3/php_lzf-1.6.3-5.6-nts-VC11-x64.zip',
+      ),
+    ),
+    'latest' => array(
+      'version' => '1.6.3',
+      'url' => array(
+        'x86' => array(
+          '5.4' => 'http://windows.php.net/downloads/pecl/releases/lzf/1.6.3/php_lzf-1.6.3-5.4-nts-VC9-x86.zip',
+          '5.5' => 'http://windows.php.net/downloads/pecl/releases/lzf/1.6.3/php_lzf-1.6.3-5.5-nts-VC11-x86.zip',
+          '5.6' => 'http://windows.php.net/downloads/pecl/releases/lzf/1.6.3/php_lzf-1.6.3-5.6-nts-VC11-x86.zip',
+        ),
+        'x64' => array(
+          '5.5' => 'http://windows.php.net/downloads/pecl/releases/lzf/1.6.3/php_lzf-1.6.3-5.5-nts-VC11-x64.zip',
+          '5.6' => 'http://windows.php.net/downloads/pecl/releases/lzf/1.6.3/php_lzf-1.6.3-5.6-nts-VC11-x64.zip',
         ),
       ),
     ),
@@ -2534,6 +2590,18 @@
       ),
     ),
   ),
+  'phpext_oauth' => array(
+    'latest' => array(
+      'version' => '0.0.0',
+      'url' => '',
+    ),
+  ),
+  'phpext_oci8' => array(
+    'latest' => array(
+      'version' => '0.0.0',
+      'url' => '',
+    ),
+  ),
   'phpext_phalcon' => array(
     'name' => 'PHP Extension Phalcon',
     'website' => 'http://phalconphp.com/',
@@ -2688,6 +2756,12 @@
       ),
     ),
   ),
+  'phpext_solr' => array(
+    'latest' => array(
+      'version' => '0.0.0',
+      'url' => '',
+    ),
+  ),
   'phpext_sphinx' => array(
     'name' => 'PHP Extension Sphinx',
     'website' => 'http://php.net/sphinx/',
@@ -2769,6 +2843,18 @@
           '7.0' => 'http://windows.php.net/downloads/pecl/releases/stats/2.0.1/php_stats-2.0.1-7.0-nts-VC14-x64.zip',
         ),
       ),
+    ),
+  ),
+  'phpext_stomp' => array(
+    'latest' => array(
+      'version' => '0.0.0',
+      'url' => '',
+    ),
+  ),
+  'phpext_timezonedb' => array(
+    'latest' => array(
+      'version' => '0.0.0',
+      'url' => '',
     ),
   ),
   'phpext_trader' => array(
@@ -3156,6 +3242,12 @@
           '5.5' => 'http://windows.php.net/downloads/pecl/releases/xhprof/0.10.6/php_xhprof-0.10.6-5.5-nts-VC11-x64.zip',
         ),
       ),
+    ),
+  ),
+  'phpext_zip' => array(
+    'latest' => array(
+      'version' => '0.0.0',
+      'url' => '',
     ),
   ),
   'phpext_zmq' => array(
