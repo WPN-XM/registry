@@ -1602,6 +1602,8 @@
     ),
   ),
   'phpext_event' => array(
+    'name' => 'PHP Extension Event',
+    'website' => 'https://pecl.php.net/package/event',
     '1.9.0' => array(
       'x86' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/event/1.9.0/php_event-1.9.0-5.4-nts-VC9-x86.zip',
@@ -1704,6 +1706,8 @@
     ),
   ),
   'phpext_geoip' => array(
+    'name' => 'PHP Extension GeoIP',
+    'website' => 'https://pecl.php.net/package/geoip',
     '1.0.8' => array(
       'x86' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/geoip/1.0.8/php_geoip-1.0.8-5.4-nts-VC9-x86.zip',
@@ -1931,6 +1935,8 @@
     ),
   ),
   'phpext_igbinary' => array(
+    'name' => 'PHP Extension igbinary',
+    'website' => 'https://pecl.php.net/package/igbinary',
     '1.1.1' => array(
       'x86' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/igbinary/1.1.1/php_igbinary-1.1.1-5.4-nts-VC9-x86.zip',
@@ -2153,6 +2159,8 @@
     ),
   ),
   'phpext_lzf' => array(
+    'name' => 'PHP Extension lzf',
+    'website' => 'https://pecl.php.net/package/lzf',
     '1.6.2' => array(
       'x86' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/lzf/1.6.2/php_lzf-1.6.2-5.4-nts-VC9-x86.zip',
@@ -2756,6 +2764,8 @@
     ),
   ),
   'phpext_oauth' => array(
+    'name' => 'PHP Extension OAuth',
+    'website' => 'https://pecl.php.net/package/oauth',
     '1.2.2' => array(
       'x86' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/oauth/1.2.2/php_oauth-1.2.2-5.4-nts-VC9-x86.zip',
@@ -2797,6 +2807,8 @@
     ),
   ),
   'phpext_oci8' => array(
+    'name' => 'PHP Extension OCI8',
+    'website' => 'https://pecl.php.net/package/oci8',
     '1.4.10' => array(
       'x86' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/oci8/1.4.10/php_oci8-1.4.10-5.4-nts-VC9-x86.zip',
@@ -3021,6 +3033,8 @@
     ),
   ),
   'phpext_solr' => array(
+    'name' => 'PHP Extension Solr',
+    'website' => 'https://pecl.php.net/package/solr',
     '1.0.2' => array(
       'x86' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/solr/1.0.2/php_solr-1.0.2-5.4-nts-VC9-x86.zip',
@@ -3184,6 +3198,8 @@
     ),
   ),
   'phpext_stomp' => array(
+    'name' => 'PHP Extension Stomp',
+    'website' => 'https://pecl.php.net/package/stomp',
     '1.0.4' => array(
       'x86' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/stomp/1.0.4/php_stomp-1.0.4-5.4-nts-VC9-x86.zip',
@@ -3238,6 +3254,8 @@
     ),
   ),
   'phpext_timezonedb' => array(
+    'name' => 'PHP Extension TimezoneDB',
+    'website' => 'https://pecl.php.net/package/timezonedb',
     '2014.10' => array(
       'x86' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2014.10/php_timezonedb-2014.10-5.4-nts-VC9-x86.zip',
@@ -3748,6 +3766,8 @@
     ),
   ),
   'phpext_zip' => array(
+    'name' => 'PHP Extension Zip',
+    'website' => 'https://pecl.php.net/package/zip',
     '1.12.2' => array(
       'x86' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/zip/1.12.2/php_zip-1.12.2-5.4-nts-VC9-x86.zip',
