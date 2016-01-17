@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Sun, 17 Jan 2016 22:31:21 +0000.
+    * Last Update Sun, 17 Jan 2016 22:37:07 +0000.
     * Do not edit manually!
     */
 
@@ -3554,9 +3554,87 @@
     ),
   ),
   'phpext_zip' => array(
+    '1.12.2' => array(
+      'x86' => array(
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/zip/1.12.2/php_zip-1.12.2-5.4-nts-VC9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/zip/1.12.2/php_zip-1.12.2-5.5-nts-VC11-x86.zip',
+      ),
+      'x64' => array(
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/zip/1.12.2/php_zip-1.12.2-5.5-nts-VC11-x64.zip',
+      ),
+    ),
+    '1.12.3' => array(
+      'x86' => array(
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/zip/1.12.3/php_zip-1.12.3-5.4-nts-VC9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/zip/1.12.3/php_zip-1.12.3-5.5-nts-VC11-x86.zip',
+      ),
+      'x64' => array(
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/zip/1.12.3/php_zip-1.12.3-5.5-nts-VC11-x64.zip',
+      ),
+    ),
+    '1.12.4' => array(
+      'x86' => array(
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/zip/1.12.4/php_zip-1.12.4-5.4-nts-VC9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/zip/1.12.4/php_zip-1.12.4-5.5-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/zip/1.12.4/php_zip-1.12.4-5.6-nts-VC11-x86.zip',
+      ),
+      'x64' => array(
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/zip/1.12.4/php_zip-1.12.4-5.5-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/zip/1.12.4/php_zip-1.12.4-5.6-nts-VC11-x64.zip',
+      ),
+    ),
+    '1.12.5' => array(
+      'x86' => array(
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/zip/1.12.5/php_zip-1.12.5-5.4-nts-VC9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/zip/1.12.5/php_zip-1.12.5-5.5-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/zip/1.12.5/php_zip-1.12.5-5.6-nts-VC11-x86.zip',
+      ),
+      'x64' => array(
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/zip/1.12.5/php_zip-1.12.5-5.5-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/zip/1.12.5/php_zip-1.12.5-5.6-nts-VC11-x64.zip',
+      ),
+    ),
+    '1.13.0' => array(
+      'x86' => array(
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/zip/1.13.0/php_zip-1.13.0-5.4-nts-VC9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/zip/1.13.0/php_zip-1.13.0-5.5-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/zip/1.13.0/php_zip-1.13.0-5.6-nts-VC11-x86.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/zip/1.13.0/php_zip-1.13.0-7.0-nts-VC14-x86.zip',
+      ),
+      'x64' => array(
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/zip/1.13.0/php_zip-1.13.0-5.5-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/zip/1.13.0/php_zip-1.13.0-5.6-nts-VC11-x64.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/zip/1.13.0/php_zip-1.13.0-7.0-nts-VC14-x64.zip',
+      ),
+    ),
+    '1.13.1' => array(
+      'x86' => array(
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/zip/1.13.1/php_zip-1.13.1-5.4-nts-VC9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/zip/1.13.1/php_zip-1.13.1-5.5-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/zip/1.13.1/php_zip-1.13.1-5.6-nts-VC11-x86.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/zip/1.13.1/php_zip-1.13.1-7.0-nts-VC14-x86.zip',
+      ),
+      'x64' => array(
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/zip/1.13.1/php_zip-1.13.1-5.5-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/zip/1.13.1/php_zip-1.13.1-5.6-nts-VC11-x64.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/zip/1.13.1/php_zip-1.13.1-7.0-nts-VC14-x64.zip',
+      ),
+    ),
     'latest' => array(
-      'version' => '0.0.0',
-      'url' => '',
+      'version' => '1.13.1',
+      'url' => array(
+        'x86' => array(
+          '5.4' => 'http://windows.php.net/downloads/pecl/releases/zip/1.13.1/php_zip-1.13.1-5.4-nts-VC9-x86.zip',
+          '5.5' => 'http://windows.php.net/downloads/pecl/releases/zip/1.13.1/php_zip-1.13.1-5.5-nts-VC11-x86.zip',
+          '5.6' => 'http://windows.php.net/downloads/pecl/releases/zip/1.13.1/php_zip-1.13.1-5.6-nts-VC11-x86.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/zip/1.13.1/php_zip-1.13.1-7.0-nts-VC14-x86.zip',
+        ),
+        'x64' => array(
+          '5.5' => 'http://windows.php.net/downloads/pecl/releases/zip/1.13.1/php_zip-1.13.1-5.5-nts-VC11-x64.zip',
+          '5.6' => 'http://windows.php.net/downloads/pecl/releases/zip/1.13.1/php_zip-1.13.1-5.6-nts-VC11-x64.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/zip/1.13.1/php_zip-1.13.1-7.0-nts-VC14-x64.zip',
+        ),
+      ),
     ),
   ),
   'phpext_zmq' => array(
