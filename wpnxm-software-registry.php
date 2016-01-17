@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Sun, 17 Jan 2016 22:30:55 +0000.
+    * Last Update Sun, 17 Jan 2016 22:31:21 +0000.
     * Do not edit manually!
     */
 
@@ -1704,9 +1704,41 @@
     ),
   ),
   'phpext_geoip' => array(
+    '1.0.8' => array(
+      'x86' => array(
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/geoip/1.0.8/php_geoip-1.0.8-5.4-nts-VC9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/geoip/1.0.8/php_geoip-1.0.8-5.5-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/geoip/1.0.8/php_geoip-1.0.8-5.6-nts-VC11-x86.zip',
+      ),
+      'x64' => array(
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/geoip/1.0.8/php_geoip-1.0.8-5.5-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/geoip/1.0.8/php_geoip-1.0.8-5.6-nts-VC11-x64.zip',
+      ),
+    ),
+    '1.1.0' => array(
+      'x86' => array(
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/geoip/1.1.0/php_geoip-1.1.0-5.4-nts-VC9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/geoip/1.1.0/php_geoip-1.1.0-5.5-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/geoip/1.1.0/php_geoip-1.1.0-5.6-nts-VC11-x86.zip',
+      ),
+      'x64' => array(
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/geoip/1.1.0/php_geoip-1.1.0-5.5-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/geoip/1.1.0/php_geoip-1.1.0-5.6-nts-VC11-x64.zip',
+      ),
+    ),
     'latest' => array(
-      'version' => '0.0.0',
-      'url' => '',
+      'version' => '1.1.0',
+      'url' => array(
+        'x86' => array(
+          '5.4' => 'http://windows.php.net/downloads/pecl/releases/geoip/1.1.0/php_geoip-1.1.0-5.4-nts-VC9-x86.zip',
+          '5.5' => 'http://windows.php.net/downloads/pecl/releases/geoip/1.1.0/php_geoip-1.1.0-5.5-nts-VC11-x86.zip',
+          '5.6' => 'http://windows.php.net/downloads/pecl/releases/geoip/1.1.0/php_geoip-1.1.0-5.6-nts-VC11-x86.zip',
+        ),
+        'x64' => array(
+          '5.5' => 'http://windows.php.net/downloads/pecl/releases/geoip/1.1.0/php_geoip-1.1.0-5.5-nts-VC11-x64.zip',
+          '5.6' => 'http://windows.php.net/downloads/pecl/releases/geoip/1.1.0/php_geoip-1.1.0-5.6-nts-VC11-x64.zip',
+        ),
+      ),
     ),
   ),
   'phpext_hprose' => array(
