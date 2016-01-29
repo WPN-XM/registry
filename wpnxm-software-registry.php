@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Thu, 28 Jan 2016 11:14:19 +0000.
+    * Last Update Fri, 29 Jan 2016 23:01:41 +0000.
     * Do not edit manually!
     */
 
@@ -760,9 +760,10 @@
     '1.9.2' => 'http://nginx.org/download/nginx-1.9.2.zip',
     '1.9.3' => 'http://nginx.org/download/nginx-1.9.3.zip',
     '1.9.4' => 'http://nginx.org/download/nginx-1.9.4.zip',
+    '1.9.10' => 'http://nginx.org/download/nginx-1.9.10.zip',
     'latest' => array(
-      'version' => '1.9.4',
-      'url' => 'http://nginx.org/download/nginx-1.9.4.zip',
+      'version' => '1.9.10',
+      'url' => 'http://nginx.org/download/nginx-1.9.10.zip',
     ),
   ),
   'ngrok' => array(
