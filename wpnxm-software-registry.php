@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Tue, 02 Feb 2016 23:43:36 +0000.
+    * Last Update Tue, 02 Feb 2016 23:43:49 +0000.
     * Do not edit manually!
     */
 
@@ -2287,14 +2287,22 @@
         '7.0' => 'http://windows.php.net/downloads/pecl/releases/mailparse/3.0.0/php_mailparse-3.0.0-7.0-nts-VC14-x64.zip',
       ),
     ),
+    '3.0.1' => array(
+      'x86' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/mailparse/3.0.1/php_mailparse-3.0.1-7.0-nts-VC14-x86.zip',
+      ),
+      'x64' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/mailparse/3.0.1/php_mailparse-3.0.1-7.0-nts-VC14-x64.zip',
+      ),
+    ),
     'latest' => array(
-      'version' => '3.0.0',
+      'version' => '3.0.1',
       'url' => array(
         'x86' => array(
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/mailparse/3.0.0/php_mailparse-3.0.0-7.0-nts-VC14-x86.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/mailparse/3.0.1/php_mailparse-3.0.1-7.0-nts-VC14-x86.zip',
         ),
         'x64' => array(
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/mailparse/3.0.0/php_mailparse-3.0.0-7.0-nts-VC14-x64.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/mailparse/3.0.1/php_mailparse-3.0.1-7.0-nts-VC14-x64.zip',
         ),
       ),
     ),
