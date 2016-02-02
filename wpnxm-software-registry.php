@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Fri, 29 Jan 2016 23:01:41 +0000.
+    * Last Update Tue, 02 Feb 2016 23:42:18 +0000.
     * Do not edit manually!
     */
 
@@ -123,9 +123,10 @@
     'name' => 'ChromeDriver',
     'website' => 'https://sites.google.com/a/chromium.org/chromedriver/',
     '2.20' => 'http://chromedriver.storage.googleapis.com/2.20/chromedriver_win32.zip',
+    '2.21' => 'http://chromedriver.storage.googleapis.com/2.21/chromedriver_win32.zip',
     'latest' => array(
-      'version' => '2.20',
-      'url' => 'http://chromedriver.storage.googleapis.com/2.20/chromedriver_win32.zip',
+      'version' => '2.21',
+      'url' => 'http://chromedriver.storage.googleapis.com/2.21/chromedriver_win32.zip',
     ),
   ),
   'closure-compiler' => array(
