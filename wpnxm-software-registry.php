@@ -11,7 +11,7 @@
    /**
     * WPN-XM Software Registry
     * ------------------------
-    * Last Update Tue, 02 Feb 2016 23:44:13 +0000.
+    * Last Update Sat, 06 Feb 2016 00:05:34 +0000.
     * Do not edit manually!
     */
 
@@ -4279,9 +4279,11 @@
     '0.8.3' => 'http://app.robomongo.org/files/windows/Robomongo-0.8.3-i386.zip',
     '0.8.4' => 'http://app.robomongo.org/files/windows/Robomongo-0.8.4-i386.zip',
     '0.8.5' => 'http://app.robomongo.org/files/windows/Robomongo-0.8.5-i386.zip',
+    '0.9.0-rc3' => 'http://download.robomongo.org/0.9.0-rc3/windows/robomongo-0.9.0-rc3-windows-x86_64-0476204.exe',
+    '0.9.0-rc4' => 'http://download.robomongo.org/0.9.0-rc4/windows/robomongo-0.9.0-rc4-windows-x86_64-8c830b6.exe',
     'latest' => array(
-      'version' => '0.8.5',
-      'url' => 'http://app.robomongo.org/files/windows/Robomongo-0.8.5-i386.zip',
+      'version' => '0.9.0-rc4',
+      'url' => 'http://download.robomongo.org/0.9.0-rc4/windows/robomongo-0.9.0-rc4-windows-x86_64-8c830b6.exe',
     ),
   ),
   'rockmongo' => array(
