@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Thu, 11 Feb 2016 21:23:30 +0000.
+    * Last Update Thu, 11 Feb 2016 21:23:37 +0000.
     * Do not edit manually!
     */
 
@@ -1137,9 +1137,10 @@
     '2.1.7' => 'http://orientdb.com/download.php?email=unknown@unknown.com&file=orientdb-community-2.1.7.zip&os=win',
     '2.1.8' => 'http://orientdb.com/download.php?email=unknown@unknown.com&file=orientdb-community-2.1.8.zip&os=win',
     '2.1.9' => 'http://orientdb.com/download.php?email=unknown@unknown.com&file=orientdb-community-2.1.9.zip&os=win',
+    '2.1.10' => 'http://orientdb.com/download.php?email=unknown@unknown.com&file=orientdb-community-2.1.10.zip&os=win',
     'latest' => array(
-      'version' => '2.1.9',
-      'url' => 'http://orientdb.com/download.php?email=unknown@unknown.com&file=orientdb-community-2.1.9.zip&os=win',
+      'version' => '2.1.10',
+      'url' => 'http://orientdb.com/download.php?email=unknown@unknown.com&file=orientdb-community-2.1.10.zip&os=win',
     ),
   ),
   'pear' => array(
