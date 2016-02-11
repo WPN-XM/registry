@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Thu, 11 Feb 2016 21:22:31 +0000.
+    * Last Update Thu, 11 Feb 2016 21:22:37 +0000.
     * Do not edit manually!
     */
 
@@ -1581,6 +1581,28 @@
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.7/php_apcu-4.0.7-5.6-nts-VC11-x64.zip',
       ),
     ),
+    '4.0.8' => array(
+      'x86' => array(
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.8/php_apcu-4.0.8-5.4-nts-VC9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.8/php_apcu-4.0.8-5.5-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.8/php_apcu-4.0.8-5.6-nts-VC11-x86.zip',
+      ),
+      'x64' => array(
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.8/php_apcu-4.0.8-5.5-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.8/php_apcu-4.0.8-5.6-nts-VC11-x64.zip',
+      ),
+    ),
+    '4.0.10' => array(
+      'x86' => array(
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.10/php_apcu-4.0.10-5.4-nts-VC9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.10/php_apcu-4.0.10-5.5-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.10/php_apcu-4.0.10-5.6-nts-VC11-x86.zip',
+      ),
+      'x64' => array(
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.10/php_apcu-4.0.10-5.5-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.10/php_apcu-4.0.10-5.6-nts-VC11-x64.zip',
+      ),
+    ),
     '5.0.1' => array(
       'x86' => array(
         '7.0' => 'http://windows.php.net/downloads/pecl/releases/apcu/5.1.0/php_apcu-5.1.0-7.0-nts-vc14-x86.zip',
@@ -1589,17 +1611,38 @@
         '7.0' => 'http://windows.php.net/downloads/pecl/releases/apcu/5.1.0/php_apcu-5.1.0-7.0-nts-vc14-x64.zip',
       ),
     ),
+    '5.1.0' => array(
+      'x86' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/apcu/5.1.0/php_apcu-5.1.0-7.0-nts-VC14-x86.zip',
+      ),
+      'x64' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/apcu/5.1.0/php_apcu-5.1.0-7.0-nts-VC14-x64.zip',
+      ),
+    ),
+    '5.1.2' => array(
+      'x86' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/apcu/5.1.2/php_apcu-5.1.2-7.0-nts-VC14-x86.zip',
+      ),
+      'x64' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/apcu/5.1.2/php_apcu-5.1.2-7.0-nts-VC14-x64.zip',
+      ),
+    ),
+    '5.1.3' => array(
+      'x86' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/apcu/5.1.3/php_apcu-5.1.3-7.0-nts-VC14-x86.zip',
+      ),
+      'x64' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/apcu/5.1.3/php_apcu-5.1.3-7.0-nts-VC14-x64.zip',
+      ),
+    ),
     'latest' => array(
-      'version' => '4.0.7',
+      'version' => '5.1.3',
       'url' => array(
         'x86' => array(
-          '5.4' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.7/php_apcu-4.0.7-5.4-nts-VC9-x86.zip',
-          '5.5' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.7/php_apcu-4.0.7-5.5-nts-VC11-x86.zip',
-          '5.6' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.7/php_apcu-4.0.7-5.6-nts-VC11-x86.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/apcu/5.1.3/php_apcu-5.1.3-7.0-nts-VC14-x86.zip',
         ),
         'x64' => array(
-          '5.5' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.7/php_apcu-4.0.7-5.5-nts-VC11-x64.zip',
-          '5.6' => 'http://windows.php.net/downloads/pecl/releases/apcu/4.0.7/php_apcu-4.0.7-5.6-nts-VC11-x64.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/apcu/5.1.3/php_apcu-5.1.3-7.0-nts-VC14-x64.zip',
         ),
       ),
     ),
