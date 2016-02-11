@@ -1,0 +1,13 @@
+[
+[ "adminer",          "http:\/\/wpn-xm.org\/get.php?s=adminer&v=4.2.3",                 "adminer.php",          "4.2.3" ],
+[ "composer",         "http:\/\/wpn-xm.org\/get.php?s=composer&v=1.0",                  "composer.phar",        "1.0" ],
+[ "conemu",           "http:\/\/wpn-xm.org\/get.php?s=conemu&v=15.12.24",               "conemu.7z",            "15.12.24" ],
+[ "mariadb",          "http:\/\/wpn-xm.org\/get.php?s=mariadb&v=10.1.10",               "mariadb.zip",          "10.1.10" ],
+[ "nginx",            "http:\/\/wpn-xm.org\/get.php?s=nginx&v=1.9.4",                   "nginx.zip",            "1.9.4" ],
+[ "openssl",          "http:\/\/wpn-xm.org\/get.php?s=openssl&v=1.0.2e",                "openssl.zip",          "1.0.2e" ],
+[ "php",              "http:\/\/wpn-xm.org\/get.php?s=php&v=5.6.17",                    "php.zip",              "5.6.17" ],
+[ "phpext_xdebug",    "http:\/\/wpn-xm.org\/get.php?s=phpext_xdebug&v=2.4.0rc3&p=5.6",  "phpext_xdebug.zip",    "2.4.0rc3" ],
+[ "pickle",           "http:\/\/wpn-xm.org\/get.php?s=pickle&v=0.4.0",                  "pickle.phar",          "0.4.0" ],
+[ "wpnxm-benchmark",  "http:\/\/wpn-xm.org\/get.php?s=wpnxm-benchmark&v=1.0.0",         "wpnxm-benchmark.zip",  "1.0.0" ],
+[ "wpnxmscp",         "http:\/\/wpn-xm.org\/get.php?s=wpnxmscp&v=0.8.5",                "wpnxmscp.zip",         "0.8.5" ]
+]
