@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Thu, 11 Feb 2016 21:23:55 +0000.
+    * Last Update Thu, 11 Feb 2016 21:24:00 +0000.
     * Do not edit manually!
     */
 
@@ -35,9 +35,10 @@
     '4.2.1' => 'https://www.adminer.org/static/download/4.2.1/adminer-4.2.1.php',
     '4.2.2' => 'https://www.adminer.org/static/download/4.2.2/adminer-4.2.2.php',
     '4.2.3' => 'https://www.adminer.org/static/download/4.2.3/adminer-4.2.3.php',
+    '4.2.4' => 'https://www.adminer.org/static/download/4.2.4/adminer-4.2.4.php',
     'latest' => array(
-      'version' => '4.2.3',
-      'url' => 'https://www.adminer.org/static/download/4.2.3/adminer-4.2.3.php',
+      'version' => '4.2.4',
+      'url' => 'https://www.adminer.org/static/download/4.2.4/adminer-4.2.4.php',
     ),
   ),
   'apache-benchmark' => array(
