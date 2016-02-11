@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Thu, 11 Feb 2016 21:22:19 +0000.
+    * Last Update Thu, 11 Feb 2016 21:22:25 +0000.
     * Do not edit manually!
     */
 
@@ -3655,27 +3655,57 @@
     '1.3.7.7' => array(
       'x86' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/wincache/1.3.7.7/php_wincache-1.3.7.7-5.4-nts-VC9-x86.zip',
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/wincache/1.3.7.7/php_wincache-1.3.7.7-5.4-nts-VC9-x86.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/wincache/1.3.7.7/php_wincache-1.3.7.7-5.4-nts-VC9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/wincache/1.3.7.7/php_wincache-1.3.7.7-5.5-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/wincache/1.3.7.7/php_wincache-1.3.7.7-5.6-nts-VC11-x86.zip',
       ),
       'x64' => array(
-        '5.4' => 'http://windows.php.net/downloads/pecl/releases/wincache/1.3.7.7/php_wincache-1.3.7.7-5.4-nts-VC9-x86.zip',
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/wincache/1.3.7.7/php_wincache-1.3.7.7-5.4-nts-VC9-x86.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/wincache/1.3.7.7/php_wincache-1.3.7.7-5.4-nts-VC9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/wincache/1.3.7.7/php_wincache-1.3.7.7-5.5-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/wincache/1.3.7.7/php_wincache-1.3.7.7-5.6-nts-VC11-x64.zip',
+      ),
+    ),
+    '1.3.7.9' => array(
+      'x86' => array(
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/wincache/1.3.7.9/php_wincache-1.3.7.9-5.4-nts-VC9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/wincache/1.3.7.9/php_wincache-1.3.7.9-5.5-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/wincache/1.3.7.9/php_wincache-1.3.7.9-5.6-nts-VC11-x86.zip',
+      ),
+      'x64' => array(
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/wincache/1.3.7.9/php_wincache-1.3.7.9-5.5-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/wincache/1.3.7.9/php_wincache-1.3.7.9-5.6-nts-VC11-x64.zip',
+      ),
+    ),
+    '2.0.0.1' => array(
+      'x86' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/wincache/2.0.0.1/php_wincache-2.0.0.1-7.0-nts-VC14-x86.zip',
+      ),
+      'x64' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/wincache/2.0.0.1/php_wincache-2.0.0.1-7.0-nts-VC14-x64.zip',
+      ),
+    ),
+    '2.0.0.4' => array(
+      'x86' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/wincache/2.0.0.4/php_wincache-2.0.0.4-7.0-nts-VC14-x86.zip',
+      ),
+      'x64' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/wincache/2.0.0.4/php_wincache-2.0.0.4-7.0-nts-VC14-x64.zip',
+      ),
+    ),
+    '2.0.0.5' => array(
+      'x86' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/wincache/2.0.0.5/php_wincache-2.0.0.5-7.0-nts-VC14-x86.zip',
+      ),
+      'x64' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/wincache/2.0.0.5/php_wincache-2.0.0.5-7.0-nts-VC14-x64.zip',
       ),
     ),
     'latest' => array(
-      'version' => '1.3.7.7',
+      'version' => '2.0.0.5',
       'url' => array(
         'x86' => array(
-          '5.4' => 'http://windows.php.net/downloads/pecl/releases/wincache/1.3.7.7/php_wincache-1.3.7.7-5.4-nts-VC9-x86.zip',
-          '5.5' => 'http://windows.php.net/downloads/pecl/releases/wincache/1.3.7.7/php_wincache-1.3.7.7-5.4-nts-VC9-x86.zip',
-          '5.6' => 'http://windows.php.net/downloads/pecl/releases/wincache/1.3.7.7/php_wincache-1.3.7.7-5.4-nts-VC9-x86.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/wincache/2.0.0.5/php_wincache-2.0.0.5-7.0-nts-VC14-x86.zip',
         ),
         'x64' => array(
-          '5.4' => 'http://windows.php.net/downloads/pecl/releases/wincache/1.3.7.7/php_wincache-1.3.7.7-5.4-nts-VC9-x86.zip',
-          '5.5' => 'http://windows.php.net/downloads/pecl/releases/wincache/1.3.7.7/php_wincache-1.3.7.7-5.4-nts-VC9-x86.zip',
-          '5.6' => 'http://windows.php.net/downloads/pecl/releases/wincache/1.3.7.7/php_wincache-1.3.7.7-5.4-nts-VC9-x86.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/wincache/2.0.0.5/php_wincache-2.0.0.5-7.0-nts-VC14-x64.zip',
         ),
       ),
     ),
