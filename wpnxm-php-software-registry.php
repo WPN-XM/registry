@@ -24,11 +24,12 @@
     'tags' => array(
     ),
     'requirements' => array(
-      'php_version' => '',
-      'php_extensions' => '',
+      'php-version' => '',
+      'php-extensions' => '',
     ),
-    'github' => '',
+    'source-url' => '',
     'license' => '',
+    'license-url' => '',
     'logo' => '',
     'screenshots' => array(
     ),
@@ -47,11 +48,12 @@
     'tags' => array(
     ),
     'requirements' => array(
-      'php_version' => '',
-      'php_extensions' => '',
+      'php-version' => '',
+      'php-extensions' => '',
     ),
-    'github' => '',
+    'source-url' => '',
     'license' => '',
+    'license-url' => '',
     'logo' => '',
     'screenshots' => array(
     ),
@@ -70,11 +72,12 @@
     'tags' => array(
     ),
     'requirements' => array(
-      'php_version' => '',
-      'php_extensions' => '',
+      'php-version' => '',
+      'php-extensions' => '',
     ),
-    'github' => '',
+    'source-url' => '',
     'license' => '',
+    'license-url' => '',
     'logo' => '',
     'screenshots' => array(
     ),
@@ -93,11 +96,12 @@
     'tags' => array(
     ),
     'requirements' => array(
-      'php_version' => '',
-      'php_extensions' => '',
+      'php-version' => '',
+      'php-extensions' => '',
     ),
-    'github' => '',
+    'source-url' => '',
     'license' => '',
+    'license-url' => '',
     'logo' => '',
     'screenshots' => array(
     ),
@@ -116,11 +120,12 @@
     'tags' => array(
     ),
     'requirements' => array(
-      'php_version' => '',
-      'php_extensions' => '',
+      'php-version' => '',
+      'php-extensions' => '',
     ),
-    'github' => '',
+    'source-url' => '',
     'license' => '',
+    'license-url' => '',
     'logo' => '',
     'screenshots' => array(
     ),
@@ -139,11 +144,12 @@
     'tags' => array(
     ),
     'requirements' => array(
-      'php_version' => '',
-      'php_extensions' => '',
+      'php-version' => '',
+      'php-extensions' => '',
     ),
-    'github' => '',
+    'source-url' => '',
     'license' => '',
+    'license-url' => '',
     'logo' => '',
     'screenshots' => array(
     ),
@@ -162,11 +168,12 @@
     'tags' => array(
     ),
     'requirements' => array(
-      'php_version' => '',
-      'php_extensions' => '',
+      'php-version' => '',
+      'php-extensions' => '',
     ),
-    'github' => '',
+    'source-url' => '',
     'license' => '',
+    'license-url' => '',
     'logo' => '',
     'screenshots' => array(
     ),
@@ -185,11 +192,12 @@
     'tags' => array(
     ),
     'requirements' => array(
-      'php_version' => '',
-      'php_extensions' => '',
+      'php-version' => '',
+      'php-extensions' => '',
     ),
-    'github' => '',
+    'source-url' => '',
     'license' => '',
+    'license-url' => '',
     'logo' => '',
     'screenshots' => array(
     ),
@@ -208,11 +216,12 @@
     'tags' => array(
     ),
     'requirements' => array(
-      'php_version' => '',
-      'php_extensions' => '',
+      'php-version' => '',
+      'php-extensions' => '',
     ),
-    'github' => '',
+    'source-url' => '',
     'license' => '',
+    'license-url' => '',
     'logo' => '',
     'screenshots' => array(
     ),
@@ -231,11 +240,12 @@
     'tags' => array(
     ),
     'requirements' => array(
-      'php_version' => '',
-      'php_extensions' => '',
+      'php-version' => '',
+      'php-extensions' => '',
     ),
-    'github' => '',
+    'source-url' => '',
     'license' => '',
+    'license-url' => '',
     'logo' => '',
     'screenshots' => array(
     ),
@@ -254,11 +264,12 @@
     'tags' => array(
     ),
     'requirements' => array(
-      'php_version' => '',
-      'php_extensions' => '',
+      'php-version' => '',
+      'php-extensions' => '',
     ),
-    'github' => '',
+    'source-url' => '',
     'license' => '',
+    'license-url' => '',
     'logo' => '',
     'screenshots' => array(
     ),
@@ -277,11 +288,12 @@
     'tags' => array(
     ),
     'requirements' => array(
-      'php_version' => '',
-      'php_extensions' => '',
+      'php-version' => '',
+      'php-extensions' => '',
     ),
-    'github' => '',
+    'source-url' => '',
     'license' => '',
+    'license-url' => '',
     'logo' => '',
     'screenshots' => array(
     ),
@@ -300,11 +312,12 @@
     'tags' => array(
     ),
     'requirements' => array(
-      'php_version' => '',
-      'php_extensions' => '',
+      'php-version' => '',
+      'php-extensions' => '',
     ),
-    'github' => '',
+    'source-url' => '',
     'license' => '',
+    'license-url' => '',
     'logo' => '',
     'screenshots' => array(
     ),
@@ -323,11 +336,12 @@
     'tags' => array(
     ),
     'requirements' => array(
-      'php_version' => '',
-      'php_extensions' => '',
+      'php-version' => '',
+      'php-extensions' => '',
     ),
-    'github' => '',
+    'source-url' => '',
     'license' => '',
+    'license-url' => '',
     'logo' => '',
     'screenshots' => array(
     ),
@@ -346,11 +360,12 @@
     'tags' => array(
     ),
     'requirements' => array(
-      'php_version' => '',
-      'php_extensions' => '',
+      'php-version' => '',
+      'php-extensions' => '',
     ),
-    'github' => '',
+    'source-url' => '',
     'license' => '',
+    'license-url' => '',
     'logo' => '',
     'screenshots' => array(
     ),
@@ -369,11 +384,12 @@
     'tags' => array(
     ),
     'requirements' => array(
-      'php_version' => '',
-      'php_extensions' => '',
+      'php-version' => '',
+      'php-extensions' => '',
     ),
-    'github' => '',
+    'source-url' => '',
     'license' => '',
+    'license-url' => '',
     'logo' => '',
     'screenshots' => array(
     ),
@@ -392,11 +408,12 @@
     'tags' => array(
     ),
     'requirements' => array(
-      'php_version' => '',
-      'php_extensions' => '',
+      'php-version' => '',
+      'php-extensions' => '',
     ),
-    'github' => '',
+    'source-url' => '',
     'license' => '',
+    'license-url' => '',
     'logo' => '',
     'screenshots' => array(
     ),
@@ -415,11 +432,12 @@
     'tags' => array(
     ),
     'requirements' => array(
-      'php_version' => '',
-      'php_extensions' => '',
+      'php-version' => '',
+      'php-extensions' => '',
     ),
-    'github' => '',
+    'source-url' => '',
     'license' => '',
+    'license-url' => '',
     'logo' => '',
     'screenshots' => array(
     ),
@@ -438,11 +456,12 @@
     'tags' => array(
     ),
     'requirements' => array(
-      'php_version' => '',
-      'php_extensions' => '',
+      'php-version' => '',
+      'php-extensions' => '',
     ),
-    'github' => '',
+    'source-url' => '',
     'license' => '',
+    'license-url' => '',
     'logo' => '',
     'screenshots' => array(
     ),
@@ -461,11 +480,12 @@
     'tags' => array(
     ),
     'requirements' => array(
-      'php_version' => '',
-      'php_extensions' => '',
+      'php-version' => '',
+      'php-extensions' => '',
     ),
-    'github' => '',
+    'source-url' => '',
     'license' => '',
+    'license-url' => '',
     'logo' => '',
     'screenshots' => array(
     ),
@@ -484,11 +504,12 @@
     'tags' => array(
     ),
     'requirements' => array(
-      'php_version' => '',
-      'php_extensions' => '',
+      'php-version' => '',
+      'php-extensions' => '',
     ),
-    'github' => '',
+    'source-url' => '',
     'license' => '',
+    'license-url' => '',
     'logo' => '',
     'screenshots' => array(
     ),
@@ -507,11 +528,12 @@
     'tags' => array(
     ),
     'requirements' => array(
-      'php_version' => '',
-      'php_extensions' => '',
+      'php-version' => '',
+      'php-extensions' => '',
     ),
-    'github' => '',
+    'source-url' => '',
     'license' => '',
+    'license-url' => '',
     'logo' => '',
     'screenshots' => array(
     ),
@@ -530,11 +552,12 @@
     'tags' => array(
     ),
     'requirements' => array(
-      'php_version' => '',
-      'php_extensions' => '',
+      'php-version' => '',
+      'php-extensions' => '',
     ),
-    'github' => '',
+    'source-url' => '',
     'license' => '',
+    'license-url' => '',
     'logo' => '',
     'screenshots' => array(
     ),
@@ -553,11 +576,12 @@
     'tags' => array(
     ),
     'requirements' => array(
-      'php_version' => '',
-      'php_extensions' => '',
+      'php-version' => '',
+      'php-extensions' => '',
     ),
-    'github' => '',
+    'source-url' => '',
     'license' => '',
+    'license-url' => '',
     'logo' => '',
     'screenshots' => array(
     ),
@@ -576,11 +600,12 @@
     'tags' => array(
     ),
     'requirements' => array(
-      'php_version' => '',
-      'php_extensions' => '',
+      'php-version' => '',
+      'php-extensions' => '',
     ),
-    'github' => '',
+    'source-url' => '',
     'license' => '',
+    'license-url' => '',
     'logo' => '',
     'screenshots' => array(
     ),
@@ -599,11 +624,12 @@
     'tags' => array(
     ),
     'requirements' => array(
-      'php_version' => '',
-      'php_extensions' => '',
+      'php-version' => '',
+      'php-extensions' => '',
     ),
-    'github' => '',
+    'source-url' => '',
     'license' => '',
+    'license-url' => '',
     'logo' => '',
     'screenshots' => array(
     ),
@@ -622,11 +648,12 @@
     'tags' => array(
     ),
     'requirements' => array(
-      'php_version' => '',
-      'php_extensions' => '',
+      'php-version' => '',
+      'php-extensions' => '',
     ),
-    'github' => '',
+    'source-url' => '',
     'license' => '',
+    'license-url' => '',
     'logo' => '',
     'screenshots' => array(
     ),
@@ -645,11 +672,12 @@
     'tags' => array(
     ),
     'requirements' => array(
-      'php_version' => '',
-      'php_extensions' => '',
+      'php-version' => '',
+      'php-extensions' => '',
     ),
-    'github' => '',
+    'source-url' => '',
     'license' => '',
+    'license-url' => '',
     'logo' => '',
     'screenshots' => array(
     ),
@@ -668,11 +696,12 @@
     'tags' => array(
     ),
     'requirements' => array(
-      'php_version' => '',
-      'php_extensions' => '',
+      'php-version' => '',
+      'php-extensions' => '',
     ),
-    'github' => '',
+    'source-url' => '',
     'license' => '',
+    'license-url' => '',
     'logo' => '',
     'screenshots' => array(
     ),
@@ -691,11 +720,12 @@
     'tags' => array(
     ),
     'requirements' => array(
-      'php_version' => '',
-      'php_extensions' => '',
+      'php-version' => '',
+      'php-extensions' => '',
     ),
-    'github' => '',
+    'source-url' => '',
     'license' => '',
+    'license-url' => '',
     'logo' => '',
     'screenshots' => array(
     ),
