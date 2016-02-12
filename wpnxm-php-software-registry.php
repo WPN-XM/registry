@@ -30,6 +30,7 @@
     'source-url' => '',
     'license' => '',
     'license-url' => '',
+    'docs-url' => '',
     'logo' => '',
     'screenshots' => array(
     ),
@@ -54,6 +55,7 @@
     'source-url' => '',
     'license' => '',
     'license-url' => '',
+    'docs-url' => '',
     'logo' => '',
     'screenshots' => array(
     ),
@@ -78,6 +80,7 @@
     'source-url' => '',
     'license' => '',
     'license-url' => '',
+    'docs-url' => '',
     'logo' => '',
     'screenshots' => array(
     ),
@@ -102,6 +105,7 @@
     'source-url' => '',
     'license' => '',
     'license-url' => '',
+    'docs-url' => '',
     'logo' => '',
     'screenshots' => array(
     ),
@@ -126,6 +130,7 @@
     'source-url' => '',
     'license' => '',
     'license-url' => '',
+    'docs-url' => '',
     'logo' => '',
     'screenshots' => array(
     ),
@@ -150,6 +155,7 @@
     'source-url' => '',
     'license' => '',
     'license-url' => '',
+    'docs-url' => '',
     'logo' => '',
     'screenshots' => array(
     ),
@@ -174,6 +180,7 @@
     'source-url' => '',
     'license' => '',
     'license-url' => '',
+    'docs-url' => '',
     'logo' => '',
     'screenshots' => array(
     ),
@@ -198,6 +205,7 @@
     'source-url' => '',
     'license' => '',
     'license-url' => '',
+    'docs-url' => '',
     'logo' => '',
     'screenshots' => array(
     ),
@@ -222,6 +230,7 @@
     'source-url' => '',
     'license' => '',
     'license-url' => '',
+    'docs-url' => '',
     'logo' => '',
     'screenshots' => array(
     ),
@@ -246,6 +255,7 @@
     'source-url' => '',
     'license' => '',
     'license-url' => '',
+    'docs-url' => '',
     'logo' => '',
     'screenshots' => array(
     ),
@@ -270,6 +280,7 @@
     'source-url' => '',
     'license' => '',
     'license-url' => '',
+    'docs-url' => '',
     'logo' => '',
     'screenshots' => array(
     ),
@@ -294,6 +305,7 @@
     'source-url' => '',
     'license' => '',
     'license-url' => '',
+    'docs-url' => '',
     'logo' => '',
     'screenshots' => array(
     ),
@@ -318,6 +330,7 @@
     'source-url' => '',
     'license' => '',
     'license-url' => '',
+    'docs-url' => '',
     'logo' => '',
     'screenshots' => array(
     ),
@@ -342,6 +355,7 @@
     'source-url' => '',
     'license' => '',
     'license-url' => '',
+    'docs-url' => '',
     'logo' => '',
     'screenshots' => array(
     ),
@@ -366,6 +380,7 @@
     'source-url' => '',
     'license' => '',
     'license-url' => '',
+    'docs-url' => '',
     'logo' => '',
     'screenshots' => array(
     ),
@@ -390,6 +405,7 @@
     'source-url' => '',
     'license' => '',
     'license-url' => '',
+    'docs-url' => '',
     'logo' => '',
     'screenshots' => array(
     ),
@@ -414,6 +430,7 @@
     'source-url' => '',
     'license' => '',
     'license-url' => '',
+    'docs-url' => '',
     'logo' => '',
     'screenshots' => array(
     ),
@@ -438,6 +455,7 @@
     'source-url' => '',
     'license' => '',
     'license-url' => '',
+    'docs-url' => '',
     'logo' => '',
     'screenshots' => array(
     ),
@@ -462,6 +480,7 @@
     'source-url' => '',
     'license' => '',
     'license-url' => '',
+    'docs-url' => '',
     'logo' => '',
     'screenshots' => array(
     ),
@@ -486,6 +505,7 @@
     'source-url' => '',
     'license' => '',
     'license-url' => '',
+    'docs-url' => '',
     'logo' => '',
     'screenshots' => array(
     ),
@@ -510,6 +530,7 @@
     'source-url' => '',
     'license' => '',
     'license-url' => '',
+    'docs-url' => '',
     'logo' => '',
     'screenshots' => array(
     ),
@@ -534,6 +555,7 @@
     'source-url' => '',
     'license' => '',
     'license-url' => '',
+    'docs-url' => '',
     'logo' => '',
     'screenshots' => array(
     ),
@@ -558,6 +580,7 @@
     'source-url' => '',
     'license' => '',
     'license-url' => '',
+    'docs-url' => '',
     'logo' => '',
     'screenshots' => array(
     ),
@@ -582,6 +605,7 @@
     'source-url' => '',
     'license' => '',
     'license-url' => '',
+    'docs-url' => '',
     'logo' => '',
     'screenshots' => array(
     ),
@@ -606,6 +630,7 @@
     'source-url' => '',
     'license' => '',
     'license-url' => '',
+    'docs-url' => '',
     'logo' => '',
     'screenshots' => array(
     ),
@@ -630,6 +655,7 @@
     'source-url' => '',
     'license' => '',
     'license-url' => '',
+    'docs-url' => '',
     'logo' => '',
     'screenshots' => array(
     ),
@@ -654,6 +680,7 @@
     'source-url' => '',
     'license' => '',
     'license-url' => '',
+    'docs-url' => '',
     'logo' => '',
     'screenshots' => array(
     ),
@@ -678,6 +705,7 @@
     'source-url' => '',
     'license' => '',
     'license-url' => '',
+    'docs-url' => '',
     'logo' => '',
     'screenshots' => array(
     ),
@@ -702,6 +730,7 @@
     'source-url' => '',
     'license' => '',
     'license-url' => '',
+    'docs-url' => '',
     'logo' => '',
     'screenshots' => array(
     ),
@@ -726,6 +755,7 @@
     'source-url' => '',
     'license' => '',
     'license-url' => '',
+    'docs-url' => '',
     'logo' => '',
     'screenshots' => array(
     ),
