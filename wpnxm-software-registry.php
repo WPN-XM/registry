@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Sun, 14 Feb 2016 01:59:08 +0000.
+    * Last Update Sun, 14 Feb 2016 02:17:33 +0000.
     * Do not edit manually!
     */
 
@@ -61,6 +61,15 @@
     'latest' => array(
       'version' => '2.8.2',
       'url' => 'https://www.arangodb.com/repositories/Windows7/x86_64/ArangoDB-2.8.2-win64.zip',
+    ),
+  ),
+  'aria2-x86' => array(
+    'name' => 'aria2 x86',
+    'website' => 'https://github.com/tatsuhiro-t/aria2',
+    '1.19.3' => 'https://github.com/tatsuhiro-t/aria2/releases/download/release-1.19.3/aria2-1.19.3-win-32bit-build1.zip',
+    'latest' => array(
+      'version' => '1.19.3',
+      'url' => 'https://github.com/tatsuhiro-t/aria2/releases/download/release-1.19.3/aria2-1.19.3-win-32bit-build1.zip',
     ),
   ),
   'cassandra-x64' => array(
