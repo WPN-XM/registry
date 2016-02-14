@@ -40,6 +40,22 @@
     ),
     'logo' => '',
   ),
+  'aria2-x64' => array(
+    'description' => 'aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.',
+    'category' => 'tool',
+    'tags' => array(
+      'download', 'tool'
+    ),
+    'logo' => '',
+  ),
+  'aria2-x86' => array(
+    'description' => 'aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.',
+    'category' => 'tool',
+    'tags' => array(
+      'download', 'tool'
+    ),
+    'logo' => '',
+  ),
   'cassandra-x64' => array(
     'description' => 'Cassandra is a distributed database for managing large amounts of structured data across many commodity servers, while providing highly available service and no single point of failure.',
     'category' => 'database',
@@ -93,6 +109,22 @@
     'category' => 'database',
     'tags' => array(
       'database', 'nosql'
+    ),
+    'logo' => '',
+  ),
+  'curl-x64' => array(
+    'description' => 'cURL is an open source command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, Gopher, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, POP3, POP3S, RTMP, RTSP, SCP, SFTP, SMB, SMTP, SMTPS, Telnet and TFTP. curl supports SSL certificates, HTTP POST, HTTP PUT, FTP uploading, HTTP form based upload, proxies, HTTP/2, cookies, user+password authentication (Basic, Plain, Digest, CRAM-MD5, NTLM, Negotiate and Kerberos), file transfer resume, proxy tunneling and more.',
+    'category' => 'tool',
+    'tags' => array(
+      'download', 'tool'
+    ),
+    'logo' => '',
+  ),
+  'curl-x86' => array(
+    'description' => 'cURL is an open source command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, Gopher, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, POP3, POP3S, RTMP, RTSP, SCP, SFTP, SMB, SMTP, SMTPS, Telnet and TFTP. curl supports SSL certificates, HTTP POST, HTTP PUT, FTP uploading, HTTP form based upload, proxies, HTTP/2, cookies, user+password authentication (Basic, Plain, Digest, CRAM-MD5, NTLM, Negotiate and Kerberos), file transfer resume, proxy tunneling and more.',
+    'category' => 'tool',
+    'tags' => array(
+      'download', 'tool'
     ),
     'logo' => '',
   ),
