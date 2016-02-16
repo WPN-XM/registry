@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Tue, 16 Feb 2016 12:29:42 +0000.
+    * Last Update Tue, 16 Feb 2016 12:30:15 +0000.
     * Do not edit manually!
     */
 
@@ -4399,6 +4399,15 @@
     'latest' => array(
       'version' => '0.7.4',
       'url' => 'https://sourceforge.net/projects/qcachegrindwin/files/0.7.4/qcachegrind074-x64.zip/download',
+    ),
+  ),
+  'qcachegrind-x86' => array(
+    'name' => 'QCacheGrind x86',
+    'website' => 'https://sourceforge.net/projects/qcachegrindwin/',
+    '0.7.4' => 'https://sourceforge.net/projects/qcachegrindwin/files/0.7.4/qcachegrind074-32bit-x86.zip/download',
+    'latest' => array(
+      'version' => '0.7.4',
+      'url' => 'https://sourceforge.net/projects/qcachegrindwin/files/0.7.4/qcachegrind074-32bit-x86.zip/download',
     ),
   ),
   'rabbitmq' => array(
