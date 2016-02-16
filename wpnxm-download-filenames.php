@@ -91,6 +91,8 @@ return array(
     'pickle'                => 'pickle.phar',
     'postgresql'            => 'postgresql.zip',
     'postgresql-x64'        => 'postgresql.zip',
+    'qcachegrind-x64'       => 'qcachegrind.zip',
+    'qcachegrind-x86'       => 'qcachegrind.zip',
     'rabbitmq'              => 'rabbitmq.zip',
     'redis'                 => 'redis.zip',
     'rockmongo'             => 'rockmongo.zip',
@@ -102,6 +104,7 @@ return array(
     'varnish'               => 'varnish.zip',
     // vcredist_x86.exe (do not delete this comment, its for easier comparison with the .iss file)
     'webgrind'              => 'webgrind.zip',
+    'wincachegrind'         => 'wincachegrind.zip',
     'wpnxmscp'              => 'wpnxmscp.zip',
     'wpnxmscp-x64'          => 'wpnxmscp.zip',
     'wpnxm-benchmark'       => 'wpnxm-benchmark.zip',
