@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Sun, 14 Feb 2016 02:19:27 +0000.
+    * Last Update Tue, 16 Feb 2016 12:19:32 +0000.
     * Do not edit manually!
     */
 
@@ -4564,6 +4564,15 @@
     'latest' => array(
       'version' => '1.0',
       'url' => 'https://github.com/jokkedk/webgrind/archive/master.zip',
+    ),
+  ),
+  'wincachegrind' => array(
+    'name' => 'WinCacheGrind',
+    'website' => 'http://ceefour.github.io/wincachegrind/',
+    '1.1' => 'https://github.com/ceefour/wincachegrind/releases/download/-1.1/wincachegrind-1.1.zip',
+    'latest' => array(
+      'version' => '1.1',
+      'url' => 'https://github.com/ceefour/wincachegrind/releases/download/-1.1/wincachegrind-1.1.zip',
     ),
   ),
   'wpnxm-benchmark' => array(
