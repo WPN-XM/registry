@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Tue, 16 Feb 2016 12:30:15 +0000.
+    * Last Update Tue, 16 Feb 2016 14:23:18 +0000.
     * Do not edit manually!
     */
 
@@ -2297,18 +2297,30 @@
         '5.6.0' => 'http://downloads3.ioncube.com/loader_downloads/ioncube_loaders_win_nonts_vc11_x86-64.zip',
       ),
     ),
+    '5.0.23' => array(
+      'x86' => array(
+        '5.4.0' => 'http://downloads3.ioncube.com/loader_downloads/ioncube_loaders_win_nonts_vc9_x86_5.0.23.zip',
+        '5.5.0' => 'http://downloads3.ioncube.com/loader_downloads/ioncube_loaders_win_nonts_vc11_x86_5.0.23.zip',
+        '5.6.0' => 'http://downloads3.ioncube.com/loader_downloads/ioncube_loaders_win_nonts_vc11_x86_5.0.23.zip',
+      ),
+      'x64' => array(
+        '5.4.0' => 'http://downloads3.ioncube.com/loader_downloads/ioncube_loaders_win_nonts_vc9_x86-64_5.0.23.zip',
+        '5.5.0' => 'http://downloads3.ioncube.com/loader_downloads/ioncube_loaders_win_nonts_vc11_x86-64_5.0.23.zip',
+        '5.6.0' => 'http://downloads3.ioncube.com/loader_downloads/ioncube_loaders_win_nonts_vc11_x86-64_5.0.23.zip',
+      ),
+    ),
     'latest' => array(
-      'version' => '5.0.21',
+      'version' => '5.0.23',
       'url' => array(
         'x86' => array(
-          '5.4.0' => 'http://downloads3.ioncube.com/loader_downloads/ioncube_loaders_win_nonts_vc9_x86.zip',
-          '5.5.0' => 'http://downloads3.ioncube.com/loader_downloads/ioncube_loaders_win_nonts_vc11_x86.zip',
-          '5.6.0' => 'http://downloads3.ioncube.com/loader_downloads/ioncube_loaders_win_nonts_vc11_x86.zip',
+          '5.4.0' => 'http://downloads3.ioncube.com/loader_downloads/ioncube_loaders_win_nonts_vc9_x86_5.0.23.zip',
+          '5.5.0' => 'http://downloads3.ioncube.com/loader_downloads/ioncube_loaders_win_nonts_vc11_x86_5.0.23.zip',
+          '5.6.0' => 'http://downloads3.ioncube.com/loader_downloads/ioncube_loaders_win_nonts_vc11_x86_5.0.23.zip',
         ),
         'x64' => array(
-          '5.4.0' => 'http://downloads3.ioncube.com/loader_downloads/ioncube_loaders_win_nonts_vc9_x86-64.zip',
-          '5.5.0' => 'http://downloads3.ioncube.com/loader_downloads/ioncube_loaders_win_nonts_vc11_x86-64.zip',
-          '5.6.0' => 'http://downloads3.ioncube.com/loader_downloads/ioncube_loaders_win_nonts_vc11_x86-64.zip',
+          '5.4.0' => 'http://downloads3.ioncube.com/loader_downloads/ioncube_loaders_win_nonts_vc9_x86-64_5.0.23.zip',
+          '5.5.0' => 'http://downloads3.ioncube.com/loader_downloads/ioncube_loaders_win_nonts_vc11_x86-64_5.0.23.zip',
+          '5.6.0' => 'http://downloads3.ioncube.com/loader_downloads/ioncube_loaders_win_nonts_vc11_x86-64_5.0.23.zip',
         ),
       ),
     ),
