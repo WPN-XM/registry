@@ -217,7 +217,7 @@
     ),
   ),
   'joomla' => array(
-    'name' => 'Joomla',
+    'name' => 'Joomla!',
     'website' => '',
     'description' => '',
     'category' => '',
@@ -371,6 +371,31 @@
     'website' => '',
     'description' => '',
     'category' => '',
+    'tags' => array(
+    ),
+    'requirements' => array(
+      'php-version' => '',
+      'php-extensions' => '',
+    ),
+    'source-url' => '',
+    'license' => '',
+    'license-url' => '',
+    'docs-url' => '',
+    'logo' => '',
+    'screenshots' => array(
+    ),
+    'versions' => array(
+    ),
+    'latest' => array(
+      'version' => '',
+      'url' => '',
+    ),
+  ),
+  'orocrm' => array(
+    'name' => 'OroCRM',
+    'website' => 'http://www.orocrm.com/',
+    'description' => '',
+    'category' => 'CRM',
     'tags' => array(
     ),
     'requirements' => array(
@@ -591,6 +616,31 @@
       'url' => '',
     ),
   ),
+  'sugarcrm' => array(
+    'name' => 'SugarCRM',
+    'website' => 'https://www.sugarcrm.com/',
+    'description' => '',
+    'category' => 'CRM',
+    'tags' => array(
+    ),
+    'requirements' => array(
+      'php-version' => '',
+      'php-extensions' => '',
+    ),
+    'source-url' => '',
+    'license' => '',
+    'license-url' => '',
+    'docs-url' => '',
+    'logo' => '',
+    'screenshots' => array(
+    ),
+    'versions' => array(
+    ),
+    'latest' => array(
+      'version' => '',
+      'url' => '',
+    ),
+  ),
   'symfony-2' => array(
     'name' => 'Symfony 2',
     'website' => '',
@@ -643,8 +693,8 @@
   ),
   'typo3' => array(
     'name' => 'TYPO3',
-    'website' => '',
-    'description' => '',
+    'website' => 'https://typo3.org/',
+    'description' => 'TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.',
     'category' => '',
     'tags' => array(
     ),
@@ -653,7 +703,7 @@
       'php-extensions' => '',
     ),
     'source-url' => '',
-    'license' => '',
+    'license' => 'GNU/GPL',
     'license-url' => '',
     'docs-url' => '',
     'logo' => '',
