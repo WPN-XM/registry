@@ -1,0 +1,31 @@
+#
+# .travis.yml - configuration file for the travis continuous integration service
+#
+# see http://about.travis-ci.org/docs/user/languages/php for more hints
+#
+language: php
+
+php: [7.0]
+
+sudo: false
+
+cache:
+  directory:
+    - $HOME/.composer/cache/files
+
+script:
+  # lint
+  - php -l wpnxm-download-filenames.php
+  - php -l wpnxm-php-software-registry.php
+  - php -l wpnxm-registry-metadata.php
+  - php -l wpnxm-software-registry.php
+
+notifications:
+  email: false
+  irc:
+    channels:
+      - "irc.freenode.org#koch"
+    use_notice: true
+
+git:
+  depth: 10
