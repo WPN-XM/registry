@@ -4604,10 +4604,10 @@
   'wincachegrind' => array(
     'name' => 'WinCacheGrind',
     'website' => 'http://ceefour.github.io/wincachegrind/',
-    '1.1' => 'https://github.com/ceefour/wincachegrind/releases/download/-1.1/wincachegrind-1.1.zip',
+    '1.1' => 'https://github.com/ceefour/wincachegrind/releases/download/1.1/wincachegrind-1.1.zip',
     'latest' => array(
       'version' => '1.1',
-      'url' => 'https://github.com/ceefour/wincachegrind/releases/download/-1.1/wincachegrind-1.1.zip',
+      'url' => 'https://github.com/ceefour/wincachegrind/releases/download/1.1/wincachegrind-1.1.zip',
     ),
   ),
   'wpnxm-benchmark' => array(
