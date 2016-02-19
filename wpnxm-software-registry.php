@@ -4613,10 +4613,10 @@
   'wpnxm-benchmark' => array(
     'name' => 'WPN-XM Benchmark',
     'website' => 'https://github.com/WPN-XM/benchmark-tools/',
-    '1.0.0' => 'https://github.com/WPN-XM/benchmark-tools/archive/v1.0.0.zip',
+    '1.0.0' => 'https://github.com/WPN-XM/benchmark-tools/releases/download/v1.0.0/benchmark-tools-1.0.0.zip',
     'latest' => array(
       'version' => '1.0.0',
-      'url' => 'https://github.com/WPN-XM/benchmark-tools/archive/v1.0.0.zip',
+      'url' => 'https://github.com/WPN-XM/benchmark-tools/releases/download/v1.0.0/benchmark-tools-1.0.0.zip',
     ),
   ),
   'wpnxmscp' => array(
