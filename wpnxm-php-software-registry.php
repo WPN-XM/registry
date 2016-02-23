@@ -18,9 +18,9 @@
  return array(
   'backdrop' => array(
     'name' => 'Backdrop',
-    'website' => '',
+    'website' => 'https://backdropcms.org/',
     'description' => '',
-    'category' => '',
+    'category' => 'cms',
     'tags' => array(
     ),
     'requirements' => array(
@@ -43,9 +43,9 @@
   ),
   'cakephp' => array(
     'name' => 'CakePHP',
-    'website' => '',
+    'website' => 'http://cakephp.org/',
     'description' => '',
-    'category' => '',
+    'category' => 'framework',
     'tags' => array(
     ),
     'requirements' => array(
@@ -68,9 +68,9 @@
   ),
   'concrete5' => array(
     'name' => 'concrete5',
-    'website' => '',
+    'website' => 'http://www.concrete5.org/',
     'description' => '',
-    'category' => '',
+    'category' => 'cms',
     'tags' => array(
     ),
     'requirements' => array(
@@ -93,9 +93,9 @@
   ),
   'craft' => array(
     'name' => 'craft',
-    'website' => '',
+    'website' => 'https://craftcms.com/',
     'description' => '',
-    'category' => '',
+    'category' => 'cms',
     'tags' => array(
     ),
     'requirements' => array(
@@ -118,9 +118,9 @@
   ),
   'dokuwiki' => array(
     'name' => 'Dokuwiki',
-    'website' => '',
+    'website' => 'https://www.dokuwiki.org/',
     'description' => '',
-    'category' => '',
+    'category' => 'wiki',
     'tags' => array(
     ),
     'requirements' => array(
@@ -143,9 +143,9 @@
   ),
   'drupal' => array(
     'name' => 'Drupal',
-    'website' => '',
+    'website' => 'https://www.drupal.org/',
     'description' => '',
-    'category' => '',
+    'category' => 'cms',
     'tags' => array(
     ),
     'requirements' => array(
@@ -193,9 +193,9 @@
   ),
   'fuelphp' => array(
     'name' => 'FuelPHP',
-    'website' => '',
-    'description' => '',
-    'category' => '',
+    'website' => 'http://fuelphp.com/',
+    'description' => 'FuelPHP is a simple, flexible, community driven PHP 5.3+ framework, based on the best ideas of other frameworks, with a fresh start!',
+    'category' => 'framework',
     'tags' => array(
     ),
     'requirements' => array(
@@ -218,9 +218,9 @@
   ),
   'joomla' => array(
     'name' => 'Joomla!',
-    'website' => '',
+    'website' => 'https://www.joomla.org/',
     'description' => '',
-    'category' => '',
+    'category' => 'cms',
     'tags' => array(
     ),
     'requirements' => array(
@@ -243,9 +243,9 @@
   ),
   'laravel' => array(
     'name' => 'Laravel',
-    'website' => '',
+    'website' => 'https://laravel.com/',
     'description' => '',
-    'category' => '',
+    'category' => 'framework',
     'tags' => array(
     ),
     'requirements' => array(
@@ -268,9 +268,9 @@
   ),
   'lithium' => array(
     'name' => 'Lithium',
-    'website' => '',
+    'website' => 'http://li3.me/',
     'description' => '',
-    'category' => '',
+    'category' => 'framework',
     'tags' => array(
     ),
     'requirements' => array(
@@ -293,9 +293,9 @@
   ),
   'magento' => array(
     'name' => 'Magento',
-    'website' => '',
+    'website' => 'https://magento.com/',
     'description' => '',
-    'category' => '',
+    'category' => 'e-commerce',
     'tags' => array(
     ),
     'requirements' => array(
