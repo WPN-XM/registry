@@ -416,6 +416,32 @@
       'url' => '',
     ),
   ),
+  'ontowiki' => array(
+    'name' => 'OntoWiki',
+    'website' => 'http://ontowiki.net/',
+    'description' => 'Semantic data wiki as well as Linked Data publishing engine.',
+    'category' => 'wiki',
+    'tags' => array(
+      'semantic', 'semantic data', 'linked data', 'wiki'
+    ),
+    'requirements' => array(
+      'php-version' => '',
+      'php-extensions' => '',
+    ),
+    'source-url' => 'https://github.com/AKSW/OntoWiki',
+    'license' => 'GNU GPL v2',
+    'license-url' => 'https://github.com/AKSW/OntoWiki/blob/develop/application/LICENSE.txt',
+    'docs-url' => '',
+    'logo' => '',
+    'screenshots' => array(
+    ),
+    'versions' => array(
+    ),
+    'latest' => array(
+      'version' => '',
+      'url' => '',
+    ),
+  ),
   'oxid' => array(
     'name' => 'OXID',
     'website' => 'http://www.oxid-esales.com/',
