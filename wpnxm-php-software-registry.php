@@ -318,7 +318,7 @@
   ),
   'mediawiki' => array(
     'name' => 'MediaWiki',
-    'website' => '',
+    'website' => 'https://www.mediawiki.org/',
     'description' => '',
     'category' => '',
     'tags' => array(
@@ -343,7 +343,7 @@
   ),
   'neos' => array(
     'name' => 'Neos',
-    'website' => '',
+    'website' => 'https://www.neos.io/',
     'description' => '',
     'category' => '',
     'tags' => array(
@@ -368,9 +368,9 @@
   ),
   'october' => array(
     'name' => 'october',
-    'website' => '',
-    'description' => '',
-    'category' => '',
+    'website' => 'https://octobercms.com/',
+    'description' => 'October is a free, open-source, self-hosted CMS platform based on the Laravel PHP Framework.',
+    'category' => 'cms',
     'tags' => array(
     ),
     'requirements' => array(
@@ -418,9 +418,9 @@
   ),
   'oxid' => array(
     'name' => 'OXID',
-    'website' => '',
+    'website' => 'http://www.oxid-esales.com/',
     'description' => '',
-    'category' => '',
+    'category' => 'e-commerce',
     'tags' => array(
     ),
     'requirements' => array(
@@ -443,10 +443,11 @@
   ),
   'phpbb' => array(
     'name' => 'phpBB',
-    'website' => '',
+    'website' => 'https://www.phpbb.com/',
     'description' => '',
-    'category' => '',
+    'category' => 'board',
     'tags' => array(
+      'forum', 'bulletin', 'board'
     ),
     'requirements' => array(
       'php-version' => '',
@@ -468,9 +469,9 @@
   ),
   'ppi-framework' => array(
     'name' => 'PPI Framework',
-    'website' => '',
+    'website' => 'http://www.ppi.io/',
     'description' => '',
-    'category' => '',
+    'category' => 'framework',
     'tags' => array(
     ),
     'requirements' => array(
@@ -493,9 +494,9 @@
   ),
   'prestashop' => array(
     'name' => 'PrestaShop',
-    'website' => '',
+    'website' => 'https://www.prestashop.com/',
     'description' => '',
-    'category' => '',
+    'category' => 'e-commerce',
     'tags' => array(
     ),
     'requirements' => array(
@@ -518,9 +519,9 @@
   ),
   'redaxo' => array(
     'name' => 'redaxo',
-    'website' => '',
+    'website' => 'http://redaxo.org/',
     'description' => '',
-    'category' => '',
+    'category' => 'cms',
     'tags' => array(
     ),
     'requirements' => array(
@@ -543,7 +544,7 @@
   ),
   'sculpin' => array(
     'name' => 'sculpin',
-    'website' => '',
+    'website' => 'https://sculpin.io/',
     'description' => '',
     'category' => '',
     'tags' => array(
@@ -568,9 +569,9 @@
   ),
   'shopware' => array(
     'name' => 'shopware',
-    'website' => '',
+    'website' => 'https://shopware.com/',
     'description' => '',
-    'category' => '',
+    'category' => 'e-commerce',
     'tags' => array(
     ),
     'requirements' => array(
@@ -593,9 +594,9 @@
   ),
   'silverstripe' => array(
     'name' => 'SilverStripe',
-    'website' => '',
+    'website' => 'https://www.silverstripe.org/',
     'description' => '',
-    'category' => '',
+    'category' => 'CMS',
     'tags' => array(
     ),
     'requirements' => array(
@@ -643,9 +644,9 @@
   ),
   'symfony-2' => array(
     'name' => 'Symfony 2',
-    'website' => '',
+    'website' => 'https://symfony.com/',
     'description' => '',
-    'category' => '',
+    'category' => 'framework',
     'tags' => array(
     ),
     'requirements' => array(
@@ -668,9 +669,9 @@
   ),
   'symfony-3' => array(
     'name' => 'Symfony 3',
-    'website' => '',
+    'website' => 'https://symfony.com/',
     'description' => '',
-    'category' => '',
+    'category' => 'framework',
     'tags' => array(
     ),
     'requirements' => array(
@@ -716,9 +717,34 @@
       'url' => '',
     ),
   ),
+  'webedition' => array(
+    'name' => 'webEdition',
+    'website' => 'http://webedition.org/',
+    'description' => '',
+    'category' => 'cms',
+    'tags' => array(
+    ),
+    'requirements' => array(
+      'php-version' => '',
+      'php-extensions' => '',
+    ),
+    'source-url' => '',
+    'license' => '',
+    'license-url' => '',
+    'docs-url' => '',
+    'logo' => '',
+    'screenshots' => array(
+    ),
+    'versions' => array(
+    ),
+    'latest' => array(
+      'version' => '',
+      'url' => '',
+    ),
+  ),
   'wordpress' => array(
     'name' => 'Wordpress',
-    'website' => '',
+    'website' => 'https://wordpress.org/',
     'description' => '',
     'category' => '',
     'tags' => array(
@@ -770,7 +796,7 @@
     'name' => 'Zend Framework 1',
     'website' => '',
     'description' => '',
-    'category' => '',
+    'category' => 'framework',
     'tags' => array(
     ),
     'requirements' => array(
@@ -795,7 +821,7 @@
     'name' => 'Zend Framework 2',
     'website' => '',
     'description' => '',
-    'category' => '',
+    'category' => 'framework',
     'tags' => array(
     ),
     'requirements' => array(
