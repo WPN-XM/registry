@@ -3212,7 +3212,7 @@
     ),
   ),
   'phpext_redis' => array(
-    'name' => 'PHP Redis',
+    'name' => 'PHP Extension Redis',
     'website' => 'https://pecl.php.net/package/redis',
     '2.2.7' => array(
       'x86' => array(
