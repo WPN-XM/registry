@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Sun, 20 Mar 2016 10:28:16 +0000.
+    * Last Update Sun, 20 Mar 2016 10:28:24 +0000.
     * Do not edit manually!
     */
 
@@ -261,9 +261,10 @@
     '0.8.0' => 'https://github.com/gogits/gogs/releases/download/v0.8.0/windows_amd64.zip',
     '0.8.10' => 'https://github.com/gogits/gogs/releases/download/v0.8.10/windows_amd64.zip',
     '0.8.25' => 'https://github.com/gogits/gogs/releases/download/v0.8.25/windows_amd64.zip',
+    '0.9.13' => 'https://github.com/gogits/gogs/releases/download/v0.9.13/windows_amd64.zip',
     'latest' => array(
-      'version' => '0.8.25',
-      'url' => 'https://github.com/gogits/gogs/releases/download/v0.8.25/windows_amd64.zip',
+      'version' => '0.9.13',
+      'url' => 'https://github.com/gogits/gogs/releases/download/v0.9.13/windows_amd64.zip',
     ),
   ),
   'gogs-x86' => array(
