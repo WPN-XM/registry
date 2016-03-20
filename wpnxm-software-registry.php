@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Sun, 20 Mar 2016 10:29:30 +0000.
+    * Last Update Sun, 20 Mar 2016 10:29:36 +0000.
     * Do not edit manually!
     */
 
@@ -80,9 +80,10 @@
     'website' => 'https://github.com/tatsuhiro-t/aria2',
     '1.19.3' => 'https://github.com/tatsuhiro-t/aria2/releases/download/release-1.19.3/aria2-1.19.3-win-32bit-build1.zip',
     '1.20.0' => 'https://github.com/tatsuhiro-t/aria2/releases/download/release-1.20.0/aria2-1.20.0-win-32bit-build1.zip',
+    '1.21.0' => 'https://github.com/tatsuhiro-t/aria2/releases/download/release-1.21.0/aria2-1.21.0-win-32bit-build1.zip',
     'latest' => array(
-      'version' => '1.20.0',
-      'url' => 'https://github.com/tatsuhiro-t/aria2/releases/download/release-1.20.0/aria2-1.20.0-win-32bit-build1.zip',
+      'version' => '1.21.0',
+      'url' => 'https://github.com/tatsuhiro-t/aria2/releases/download/release-1.21.0/aria2-1.21.0-win-32bit-build1.zip',
     ),
   ),
   'cassandra-x64' => array(
