@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Sun, 20 Mar 2016 10:31:42 +0000.
+    * Last Update Sun, 20 Mar 2016 10:31:49 +0000.
     * Do not edit manually!
     */
 
@@ -3973,14 +3973,22 @@
         '7.0' => 'http://windows.php.net/downloads/pecl/releases/wincache/2.0.0.5/php_wincache-2.0.0.5-7.0-nts-VC14-x64.zip',
       ),
     ),
+    '2.0.0.6' => array(
+      'x86' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/wincache/2.0.0.6/php_wincache-2.0.0.6-7.0-nts-VC14-x86.zip',
+      ),
+      'x64' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/wincache/2.0.0.6/php_wincache-2.0.0.6-7.0-nts-VC14-x64.zip',
+      ),
+    ),
     'latest' => array(
-      'version' => '2.0.0.5',
+      'version' => '2.0.0.6',
       'url' => array(
         'x86' => array(
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/wincache/2.0.0.5/php_wincache-2.0.0.5-7.0-nts-VC14-x86.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/wincache/2.0.0.6/php_wincache-2.0.0.6-7.0-nts-VC14-x86.zip',
         ),
         'x64' => array(
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/wincache/2.0.0.5/php_wincache-2.0.0.5-7.0-nts-VC14-x64.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/wincache/2.0.0.6/php_wincache-2.0.0.6-7.0-nts-VC14-x64.zip',
         ),
       ),
     ),
