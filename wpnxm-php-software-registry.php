@@ -18,9 +18,9 @@
  return array(
   'backdrop' => array(
     'name' => 'Backdrop',
-    'website' => '',
+    'website' => 'https://backdropcms.org/',
     'description' => '',
-    'category' => '',
+    'category' => 'cms',
     'tags' => array(
     ),
     'requirements' => array(
@@ -43,9 +43,9 @@
   ),
   'cakephp' => array(
     'name' => 'CakePHP',
-    'website' => '',
+    'website' => 'http://cakephp.org/',
     'description' => '',
-    'category' => '',
+    'category' => 'framework',
     'tags' => array(
     ),
     'requirements' => array(
@@ -68,9 +68,9 @@
   ),
   'concrete5' => array(
     'name' => 'concrete5',
-    'website' => '',
+    'website' => 'http://www.concrete5.org/',
     'description' => '',
-    'category' => '',
+    'category' => 'cms',
     'tags' => array(
     ),
     'requirements' => array(
@@ -93,9 +93,9 @@
   ),
   'craft' => array(
     'name' => 'craft',
-    'website' => '',
+    'website' => 'https://craftcms.com/',
     'description' => '',
-    'category' => '',
+    'category' => 'cms',
     'tags' => array(
     ),
     'requirements' => array(
@@ -118,9 +118,9 @@
   ),
   'dokuwiki' => array(
     'name' => 'Dokuwiki',
-    'website' => '',
+    'website' => 'https://www.dokuwiki.org/',
     'description' => '',
-    'category' => '',
+    'category' => 'wiki',
     'tags' => array(
     ),
     'requirements' => array(
@@ -143,9 +143,9 @@
   ),
   'drupal' => array(
     'name' => 'Drupal',
-    'website' => '',
+    'website' => 'https://www.drupal.org/',
     'description' => '',
-    'category' => '',
+    'category' => 'cms',
     'tags' => array(
     ),
     'requirements' => array(
@@ -193,9 +193,9 @@
   ),
   'fuelphp' => array(
     'name' => 'FuelPHP',
-    'website' => '',
-    'description' => '',
-    'category' => '',
+    'website' => 'http://fuelphp.com/',
+    'description' => 'FuelPHP is a simple, flexible, community driven PHP 5.3+ framework, based on the best ideas of other frameworks, with a fresh start!',
+    'category' => 'framework',
     'tags' => array(
     ),
     'requirements' => array(
@@ -218,9 +218,9 @@
   ),
   'joomla' => array(
     'name' => 'Joomla!',
-    'website' => '',
+    'website' => 'https://www.joomla.org/',
     'description' => '',
-    'category' => '',
+    'category' => 'cms',
     'tags' => array(
     ),
     'requirements' => array(
@@ -243,9 +243,9 @@
   ),
   'laravel' => array(
     'name' => 'Laravel',
-    'website' => '',
+    'website' => 'https://laravel.com/',
     'description' => '',
-    'category' => '',
+    'category' => 'framework',
     'tags' => array(
     ),
     'requirements' => array(
@@ -268,9 +268,9 @@
   ),
   'lithium' => array(
     'name' => 'Lithium',
-    'website' => '',
+    'website' => 'http://li3.me/',
     'description' => '',
-    'category' => '',
+    'category' => 'framework',
     'tags' => array(
     ),
     'requirements' => array(
@@ -293,9 +293,9 @@
   ),
   'magento' => array(
     'name' => 'Magento',
-    'website' => '',
+    'website' => 'https://magento.com/',
     'description' => '',
-    'category' => '',
+    'category' => 'e-commerce',
     'tags' => array(
     ),
     'requirements' => array(
@@ -318,7 +318,7 @@
   ),
   'mediawiki' => array(
     'name' => 'MediaWiki',
-    'website' => '',
+    'website' => 'https://www.mediawiki.org/',
     'description' => '',
     'category' => '',
     'tags' => array(
@@ -343,7 +343,7 @@
   ),
   'neos' => array(
     'name' => 'Neos',
-    'website' => '',
+    'website' => 'https://www.neos.io/',
     'description' => '',
     'category' => '',
     'tags' => array(
@@ -368,9 +368,9 @@
   ),
   'october' => array(
     'name' => 'october',
-    'website' => '',
-    'description' => '',
-    'category' => '',
+    'website' => 'https://octobercms.com/',
+    'description' => 'October is a free, open-source, self-hosted CMS platform based on the Laravel PHP Framework.',
+    'category' => 'cms',
     'tags' => array(
     ),
     'requirements' => array(
@@ -416,11 +416,37 @@
       'url' => '',
     ),
   ),
+  'ontowiki' => array(
+    'name' => 'OntoWiki',
+    'website' => 'http://ontowiki.net/',
+    'description' => 'Semantic data wiki as well as Linked Data publishing engine.',
+    'category' => 'wiki',
+    'tags' => array(
+      'semantic', 'semantic data', 'linked data', 'wiki'
+    ),
+    'requirements' => array(
+      'php-version' => '',
+      'php-extensions' => '',
+    ),
+    'source-url' => 'https://github.com/AKSW/OntoWiki',
+    'license' => 'GNU GPL v2',
+    'license-url' => 'https://github.com/AKSW/OntoWiki/blob/develop/application/LICENSE.txt',
+    'docs-url' => '',
+    'logo' => '',
+    'screenshots' => array(
+    ),
+    'versions' => array(
+    ),
+    'latest' => array(
+      'version' => '',
+      'url' => '',
+    ),
+  ),
   'oxid' => array(
     'name' => 'OXID',
-    'website' => '',
+    'website' => 'http://www.oxid-esales.com/',
     'description' => '',
-    'category' => '',
+    'category' => 'e-commerce',
     'tags' => array(
     ),
     'requirements' => array(
@@ -443,10 +469,11 @@
   ),
   'phpbb' => array(
     'name' => 'phpBB',
-    'website' => '',
+    'website' => 'https://www.phpbb.com/',
     'description' => '',
-    'category' => '',
+    'category' => 'board',
     'tags' => array(
+      'forum', 'bulletin', 'board'
     ),
     'requirements' => array(
       'php-version' => '',
@@ -468,9 +495,9 @@
   ),
   'ppi-framework' => array(
     'name' => 'PPI Framework',
-    'website' => '',
+    'website' => 'http://www.ppi.io/',
     'description' => '',
-    'category' => '',
+    'category' => 'framework',
     'tags' => array(
     ),
     'requirements' => array(
@@ -493,9 +520,9 @@
   ),
   'prestashop' => array(
     'name' => 'PrestaShop',
-    'website' => '',
+    'website' => 'https://www.prestashop.com/',
     'description' => '',
-    'category' => '',
+    'category' => 'e-commerce',
     'tags' => array(
     ),
     'requirements' => array(
@@ -518,9 +545,9 @@
   ),
   'redaxo' => array(
     'name' => 'redaxo',
-    'website' => '',
+    'website' => 'http://redaxo.org/',
     'description' => '',
-    'category' => '',
+    'category' => 'cms',
     'tags' => array(
     ),
     'requirements' => array(
@@ -543,7 +570,7 @@
   ),
   'sculpin' => array(
     'name' => 'sculpin',
-    'website' => '',
+    'website' => 'https://sculpin.io/',
     'description' => '',
     'category' => '',
     'tags' => array(
@@ -568,9 +595,9 @@
   ),
   'shopware' => array(
     'name' => 'shopware',
-    'website' => '',
+    'website' => 'https://shopware.com/',
     'description' => '',
-    'category' => '',
+    'category' => 'e-commerce',
     'tags' => array(
     ),
     'requirements' => array(
@@ -593,9 +620,9 @@
   ),
   'silverstripe' => array(
     'name' => 'SilverStripe',
-    'website' => '',
+    'website' => 'https://www.silverstripe.org/',
     'description' => '',
-    'category' => '',
+    'category' => 'CMS',
     'tags' => array(
     ),
     'requirements' => array(
@@ -643,9 +670,9 @@
   ),
   'symfony-2' => array(
     'name' => 'Symfony 2',
-    'website' => '',
+    'website' => 'https://symfony.com/',
     'description' => '',
-    'category' => '',
+    'category' => 'framework',
     'tags' => array(
     ),
     'requirements' => array(
@@ -668,9 +695,9 @@
   ),
   'symfony-3' => array(
     'name' => 'Symfony 3',
-    'website' => '',
+    'website' => 'https://symfony.com/',
     'description' => '',
-    'category' => '',
+    'category' => 'framework',
     'tags' => array(
     ),
     'requirements' => array(
@@ -716,9 +743,34 @@
       'url' => '',
     ),
   ),
+  'webedition' => array(
+    'name' => 'webEdition',
+    'website' => 'http://webedition.org/',
+    'description' => '',
+    'category' => 'cms',
+    'tags' => array(
+    ),
+    'requirements' => array(
+      'php-version' => '',
+      'php-extensions' => '',
+    ),
+    'source-url' => '',
+    'license' => '',
+    'license-url' => '',
+    'docs-url' => '',
+    'logo' => '',
+    'screenshots' => array(
+    ),
+    'versions' => array(
+    ),
+    'latest' => array(
+      'version' => '',
+      'url' => '',
+    ),
+  ),
   'wordpress' => array(
     'name' => 'Wordpress',
-    'website' => '',
+    'website' => 'https://wordpress.org/',
     'description' => '',
     'category' => '',
     'tags' => array(
@@ -770,7 +822,7 @@
     'name' => 'Zend Framework 1',
     'website' => '',
     'description' => '',
-    'category' => '',
+    'category' => 'framework',
     'tags' => array(
     ),
     'requirements' => array(
@@ -795,7 +847,7 @@
     'name' => 'Zend Framework 2',
     'website' => '',
     'description' => '',
-    'category' => '',
+    'category' => 'framework',
     'tags' => array(
     ),
     'requirements' => array(
