@@ -23,6 +23,7 @@ return array(
     'closure-compiler'      => 'closure-compiler.zip',
     'composer'              => 'composer.phar', // ! phar file
     'conemu'                => 'conemu.7z',
+    'elasticsearch'         => 'elasticsearch.zip',
     'gogs-x86'              => 'gogitservice.zip',
     'gogs-x64'              => 'gogitservice.zip',
     'heidisql'              => 'heidisql.zip',
