@@ -1791,6 +1791,7 @@
         'x64' => array(
           '7.0' => 'http://windows.php.net/downloads/pecl/snaps/ast/20160204/php_ast-20160204-7.0-nts-vc14-x64.zip',
         ),
+      ),
     ),
   ),
   'phpext_cassandra' => array(
