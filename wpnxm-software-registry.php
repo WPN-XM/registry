@@ -1771,6 +1771,28 @@
       ),
     ),
   ),
+  'phpext_ast' => array(
+    'name' => 'PHP Extension AST',
+    'website' => 'https://github.com/nikic/php-ast',
+    '20160204' => array(
+      'x86' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/snaps/ast/20160204/php_ast-20160204-7.0-nts-vc14-x86.zip',
+      ),
+      'x64' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/snaps/ast/20160204/php_ast-20160204-7.0-nts-vc14-x64.zip',
+      ),
+    ),
+    'latest' => array(
+      'version' => '20160204',
+      'url' => array(
+        'x86' => array(
+          '7.0' => 'http://windows.php.net/downloads/pecl/snaps/ast/20160204/php_ast-20160204-7.0-nts-vc14-x86.zip',
+        ),
+        'x64' => array(
+          '7.0' => 'http://windows.php.net/downloads/pecl/snaps/ast/20160204/php_ast-20160204-7.0-nts-vc14-x64.zip',
+        ),
+    ),
+  ),
   'phpext_cassandra' => array(
     'name' => 'PHP Extension Cassandra',
     'website' => 'http://datastax.github.io/php-driver/',
