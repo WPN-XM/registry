@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Thu, 14 Apr 2016 22:00:00 +0000.
+    * Last Update Thu, 14 Apr 2016 22:00:06 +0000.
     * Do not edit manually!
     */
 
@@ -144,9 +144,10 @@
     '3.0.2' => 'http://downloads.datastax.com/community/datastax-community-64bit_3.0.2.msi',
     '3.0.3' => 'http://downloads.datastax.com/community/datastax-community-64bit_3.0.3.msi',
     '3.0.4' => 'http://downloads.datastax.com/community/datastax-community-64bit_3.0.4.msi',
+    '3.0.5' => 'http://downloads.datastax.com/community/datastax-community-64bit_3.0.5.msi',
     'latest' => array(
-      'version' => '3.0.4',
-      'url' => 'http://downloads.datastax.com/community/datastax-community-64bit_3.0.4.msi',
+      'version' => '3.0.5',
+      'url' => 'http://downloads.datastax.com/community/datastax-community-64bit_3.0.5.msi',
     ),
   ),
   'chromedriver' => array(
