@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Sun, 03 Apr 2016 14:34:55 +0000.
+    * Last Update Thu, 14 Apr 2016 21:45:06 +0000.
     * Do not edit manually!
     */
 
@@ -1774,7 +1774,7 @@
   'phpext_ast' => array(
     'name' => 'PHP Extension AST',
     'website' => 'https://github.com/nikic/php-ast',
-    '20160204' => array(
+    20160204 => array(
       'x86' => array(
         '7.0' => 'http://windows.php.net/downloads/pecl/snaps/ast/20160204/php_ast-20160204-7.0-nts-vc14-x86.zip',
       ),
@@ -4792,6 +4792,15 @@
     'latest' => array(
       'version' => '2.8.21',
       'url' => 'https://github.com/MSOpenTech/redis/releases/download/win-2.8.21/redis-x64-2.8.21.zip',
+    ),
+  ),
+  'rethinkdb-x64' => array(
+    'name' => 'RethinkDB',
+    'website' => 'https://www.rethinkdb.com/',
+    '2.3.0' => 'https://download.rethinkdb.com/windows/rethinkdb-2.3.0.zip',
+    'latest' => array(
+      'version' => '2.3.0',
+      'url' => 'https://download.rethinkdb.com/windows/rethinkdb-2.3.0.zip',
     ),
   ),
   'robomongo' => array(
