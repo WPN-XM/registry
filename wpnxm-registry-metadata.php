@@ -724,6 +724,14 @@
     ),
     'logo' => '',
   ),
+  'rethinkdb' => array(
+    'description' => 'RethinkDB is an open-source, scalable JSON database built from the ground up for the realtime web. ',
+    'category' => 'database',
+    'tags' => array(
+      'database', 'nosql', 'distributed', 'realtime', 'push', 'json'
+    ),
+    'logo' => '',
+  ),
   'robomongo' => array(
     'description' => 'MongoDB management tool.',
     'category' => 'tool',
