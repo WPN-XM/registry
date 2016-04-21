@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Thu, 14 Apr 2016 22:02:02 +0000.
+    * Last Update Thu, 21 Apr 2016 23:33:02 +0000.
     * Do not edit manually!
     */
 
@@ -4844,9 +4844,10 @@
     'name' => 'Redis x64',
     'website' => 'http://redis.io/',
     '2.8.21' => 'https://github.com/MSOpenTech/redis/releases/download/win-2.8.21/redis-x64-2.8.21.zip',
+    '2.8.2400' => 'https://github.com/MSOpenTech/redis/releases/download/win-2.8.2400/redis-x64-2.8.2400.zip',
     'latest' => array(
-      'version' => '2.8.21',
-      'url' => 'https://github.com/MSOpenTech/redis/releases/download/win-2.8.21/redis-x64-2.8.21.zip',
+      'version' => '2.8.2400',
+      'url' => 'https://github.com/MSOpenTech/redis/releases/download/win-2.8.2400/redis-x64-2.8.2400.zip',
     ),
   ),
   'rethinkdb-x64' => array(
