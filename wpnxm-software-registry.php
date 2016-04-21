@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Thu, 21 Apr 2016 23:34:53 +0000.
+    * Last Update Thu, 21 Apr 2016 23:35:07 +0000.
     * Do not edit manually!
     */
 
@@ -3388,14 +3388,22 @@
         '7.0' => 'http://windows.php.net/downloads/pecl/releases/oci8/2.1.0/php_oci8-2.1.0-7.0-nts-VC14-x64.zip',
       ),
     ),
+    '2.1.1' => array(
+      'x86' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/oci8/2.1.1/php_oci8-2.1.1-7.0-nts-VC14-x86.zip',
+      ),
+      'x64' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/oci8/2.1.1/php_oci8-2.1.1-7.0-nts-VC14-x64.zip',
+      ),
+    ),
     'latest' => array(
-      'version' => '2.1.0',
+      'version' => '2.1.1',
       'url' => array(
         'x86' => array(
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/oci8/2.1.0/php_oci8-2.1.0-7.0-nts-VC14-x86.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/oci8/2.1.1/php_oci8-2.1.1-7.0-nts-VC14-x86.zip',
         ),
         'x64' => array(
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/oci8/2.1.0/php_oci8-2.1.0-7.0-nts-VC14-x64.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/oci8/2.1.1/php_oci8-2.1.1-7.0-nts-VC14-x64.zip',
         ),
       ),
     ),
