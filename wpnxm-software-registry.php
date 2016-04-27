@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Wed, 27 Apr 2016 13:21:10 +0000.
+    * Last Update Wed, 27 Apr 2016 13:21:16 +0000.
     * Do not edit manually!
     */
 
@@ -864,9 +864,10 @@
     '1.9.13' => 'http://nginx.org/download/nginx-1.9.13.zip',
     '1.9.14' => 'http://nginx.org/download/nginx-1.9.14.zip',
     '1.9.15' => 'http://nginx.org/download/nginx-1.9.15.zip',
+    '1.10.0' => 'http://nginx.org/download/nginx-1.10.0.zip',
     'latest' => array(
-      'version' => '1.9.15',
-      'url' => 'http://nginx.org/download/nginx-1.9.15.zip',
+      'version' => '1.10.0',
+      'url' => 'http://nginx.org/download/nginx-1.10.0.zip',
     ),
   ),
   'ngrok' => array(
