@@ -5,7 +5,7 @@
 [ "mariadb",          "http:\/\/wpn-xm.org\/get.php?s=mariadb&v=10.2.0",                "mariadb.zip",          "10.2.0" ],
 [ "nginx",            "http:\/\/wpn-xm.org\/get.php?s=nginx&v=1.10.0",                  "nginx.zip",            "1.10.0" ],
 [ "openssl",          "http:\/\/wpn-xm.org\/get.php?s=openssl&v=1.0.2g",                "openssl.zip",          "1.0.2g" ],
-[ "php",              "http:\/\/wpn-xm.org\/get.php?s=php&v=5.5.34",                    "php.zip",              "5.5.34" ],
+[ "php",              "http:\/\/wpn-xm.org\/get.php?s=php&v=5.5.35",                    "php.zip",              "5.5.35" ],
 [ "phpext_xdebug",    "http:\/\/wpn-xm.org\/get.php?s=phpext_xdebug&v=2.4.0rc4&p=5.5",  "phpext_xdebug.zip",    "2.4.0rc4" ],
 [ "pickle",           "http:\/\/wpn-xm.org\/get.php?s=pickle&v=0.4.0",                  "pickle.phar",          "0.4.0" ],
 [ "wpnxm-benchmark",  "http:\/\/wpn-xm.org\/get.php?s=wpnxm-benchmark&v=1.0.0",         "wpnxm-benchmark.zip",  "1.0.0" ],
