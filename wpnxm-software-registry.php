@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Fri, 13 May 2016 12:02:38 +0000.
+    * Last Update Fri, 13 May 2016 12:02:43 +0000.
     * Do not edit manually!
     */
 
@@ -1308,9 +1308,10 @@
     '5.22.1.2' => 'http://strawberryperl.com/download/5.22.1.2/strawberry-perl-5.22.1.2-32bit.zip',
     '5.22.1.3' => 'http://strawberryperl.com/download/5.22.1.3/strawberry-perl-5.22.1.3-32bit.zip',
     '5.22.2.1' => 'http://strawberryperl.com/download/5.22.2.1/strawberry-perl-5.22.2.1-32bit.zip',
+    '5.24.0.1' => 'http://strawberryperl.com/download/5.24.0.1/strawberry-perl-5.24.0.1-32bit.zip',
     'latest' => array(
-      'version' => '5.22.2.1',
-      'url' => 'http://strawberryperl.com/download/5.22.2.1/strawberry-perl-5.22.2.1-32bit.zip',
+      'version' => '5.24.0.1',
+      'url' => 'http://strawberryperl.com/download/5.24.0.1/strawberry-perl-5.24.0.1-32bit.zip',
     ),
   ),
   'perl-x64' => array(
