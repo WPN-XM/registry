@@ -637,10 +637,6 @@
   'msysgit' => array(
     'name' => 'Git for Windows',
     'website' => 'http://msysgit.github.io/',
-    '1.9.4-preview20140815' => 'https://github.com/msysgit/msysgit/releases/download/Git-1.9.4-preview20140815/PortableGit-1.9.4-preview20140815.7z',
-    '1.9.4-preview20140929' => 'https://github.com/msysgit/msysgit/releases/download/Git-1.9.4-preview20140929/PortableGit-1.9.4-preview20140929.7z',
-    '1.9.5-preview20141217' => 'https://github.com/msysgit/msysgit/releases/download/Git-1.9.5-preview20141217/PortableGit-1.9.5-preview20141217.7z',
-    '1.9.5-preview20150319' => 'https://github.com/msysgit/msysgit/releases/download/Git-1.9.5-preview20150319/PortableGit-1.9.5-preview20150319.7z',
     '2.5.0' => 'https://github.com/git-for-windows/git/releases/download/v2.5.0.windows.1/PortableGit-2.5.0-32-bit.7z.exe',
     '2.5.1' => 'https://github.com/git-for-windows/git/releases/download/v2.5.1.windows.1/PortableGit-2.5.1-32-bit.7z.exe',
     '2.5.2' => 'https://github.com/git-for-windows/git/releases/download/v2.5.2.windows.1/PortableGit-2.5.2-32-bit.7z.exe',
