@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Sat, 21 May 2016 12:00:54 +0000.
+    * Last Update Mon, 23 May 2016 00:13:18 +0000.
     * Do not edit manually!
     */
 
@@ -150,6 +150,15 @@
     'latest' => array(
       'version' => '3.0.6',
       'url' => 'http://downloads.datastax.com/community/datastax-community-64bit_3.0.6.msi',
+    ),
+  ),
+  'cayley-x64' => array(
+    'name' => 'Cayley x64',
+    'website' => 'https://github.com/google/cayley',
+    '0.4.1' => 'https://github.com/google/cayley/releases/download/v0.4.1/cayley_0.4.1_windows_amd64.zip',
+    'latest' => array(
+      'version' => '0.4.1',
+      'url' => 'https://github.com/google/cayley/releases/download/v0.4.1/cayley_0.4.1_windows_amd64.zip',
     ),
   ),
   'chromedriver' => array(
