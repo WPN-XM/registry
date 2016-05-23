@@ -64,6 +64,14 @@
     ),
     'logo' => '',
   ),
+  'cayley-x64' => array(
+    'description' => 'Cayley is an open-source graph inspired by the graph database behind Freebase and Google\'s Knowledge Graph.',
+    'category' => 'database',
+    'tags' => array(
+      'database', 'graph'
+    ),
+    'logo' => '',
+  ),
   'chromedriver' => array(
     'description' => 'ChromeDriver is a standalone server implementing the WebDriver wire protocol.',
     'category' => '',
