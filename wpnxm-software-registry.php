@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Wed, 25 May 2016 12:30:29 +0000.
+    * Last Update Sun, 29 May 2016 10:47:43 +0000.
     * Do not edit manually!
     */
 
@@ -1460,7 +1460,8 @@
     '5.5.32' => 'http://windows.php.net/downloads/releases/archives/php-5.5.32-nts-Win32-VC11-x86.zip',
     '5.5.33' => 'http://windows.php.net/downloads/releases/archives/php-5.5.33-nts-Win32-VC11-x86.zip',
     '5.5.34' => 'http://windows.php.net/downloads/releases/archives/php-5.5.34-nts-Win32-VC11-x86.zip',
-    '5.5.35' => 'http://windows.php.net/downloads/releases/php-5.5.35-nts-Win32-VC11-x86.zip',
+    '5.5.35' => 'http://windows.php.net/downloads/releases/archives/php-5.5.35-nts-Win32-VC11-x86.zip',
+    '5.5.36' => 'http://windows.php.net/downloads/releases/php-5.5.36-nts-Win32-VC11-x86.zip',
     '5.6.0' => 'http://windows.php.net/downloads/releases/archives/php-5.6.0-nts-Win32-VC11-x86.zip',
     '5.6.1' => 'http://windows.php.net/downloads/releases/archives/php-5.6.1-nts-Win32-VC11-x86.zip',
     '5.6.2' => 'http://windows.php.net/downloads/releases/archives/php-5.6.2-nts-Win32-VC11-x86.zip',
@@ -1482,17 +1483,19 @@
     '5.6.18' => 'http://windows.php.net/downloads/releases/archives/php-5.6.18-nts-Win32-VC11-x86.zip',
     '5.6.19' => 'http://windows.php.net/downloads/releases/archives/php-5.6.19-nts-Win32-VC11-x86.zip',
     '5.6.20' => 'http://windows.php.net/downloads/releases/archives/php-5.6.20-nts-Win32-VC11-x86.zip',
-    '5.6.21' => 'http://windows.php.net/downloads/releases/php-5.6.21-nts-Win32-VC11-x86.zip',
+    '5.6.21' => 'http://windows.php.net/downloads/releases/archives/php-5.6.21-nts-Win32-VC11-x86.zip',
+    '5.6.22' => 'http://windows.php.net/downloads/releases/php-5.6.22-nts-Win32-VC11-x86.zip',
     '7.0.0' => 'http://windows.php.net/downloads/releases/archives/php-7.0.0-nts-Win32-VC14-x86.zip',
     '7.0.1' => 'http://windows.php.net/downloads/releases/archives/php-7.0.1-nts-Win32-VC14-x86.zip',
     '7.0.2' => 'http://windows.php.net/downloads/releases/archives/php-7.0.2-nts-Win32-VC14-x86.zip',
     '7.0.3' => 'http://windows.php.net/downloads/releases/archives/php-7.0.3-nts-Win32-VC14-x86.zip',
     '7.0.4' => 'http://windows.php.net/downloads/releases/archives/php-7.0.4-nts-Win32-VC14-x86.zip',
     '7.0.5' => 'http://windows.php.net/downloads/releases/archives/php-7.0.5-nts-Win32-VC14-x86.zip',
-    '7.0.6' => 'http://windows.php.net/downloads/releases/php-7.0.6-nts-Win32-VC14-x86.zip',
+    '7.0.6' => 'http://windows.php.net/downloads/releases/archives/php-7.0.6-nts-Win32-VC14-x86.zip',
+    '7.0.7' => 'http://windows.php.net/downloads/releases/php-7.0.7-nts-Win32-VC14-x86.zip',
     'latest' => array(
-      'version' => '7.0.6',
-      'url' => 'http://windows.php.net/downloads/releases/php-7.0.6-nts-Win32-VC14-x86.zip',
+      'version' => '7.0.7',
+      'url' => 'http://windows.php.net/downloads/releases/php-7.0.7-nts-Win32-VC14-x86.zip',
     ),
   ),
   'php-cs-fixer' => array(
@@ -1606,7 +1609,8 @@
     '5.5.32' => 'http://windows.php.net/downloads/releases/archives/php-5.5.32-nts-Win32-VC11-x64.zip',
     '5.5.33' => 'http://windows.php.net/downloads/releases/archives/php-5.5.33-nts-Win32-VC11-x64.zip',
     '5.5.34' => 'http://windows.php.net/downloads/releases/archives/php-5.5.34-nts-Win32-VC11-x64.zip',
-    '5.5.35' => 'http://windows.php.net/downloads/releases/php-5.5.35-nts-Win32-VC11-x64.zip',
+    '5.5.35' => 'http://windows.php.net/downloads/releases/archives/php-5.5.35-nts-Win32-VC11-x64.zip',
+    '5.5.36' => 'http://windows.php.net/downloads/releases/php-5.5.36-nts-Win32-VC11-x64.zip',
     '5.6.0' => 'http://windows.php.net/downloads/releases/archives/php-5.6.0-nts-Win32-VC11-x64.zip',
     '5.6.1' => 'http://windows.php.net/downloads/releases/archives/php-5.6.1-nts-Win32-VC11-x64.zip',
     '5.6.2' => 'http://windows.php.net/downloads/releases/archives/php-5.6.2-nts-Win32-VC11-x64.zip',
@@ -1628,17 +1632,19 @@
     '5.6.18' => 'http://windows.php.net/downloads/releases/archives/php-5.6.18-nts-Win32-VC11-x64.zip',
     '5.6.19' => 'http://windows.php.net/downloads/releases/archives/php-5.6.19-nts-Win32-VC11-x64.zip',
     '5.6.20' => 'http://windows.php.net/downloads/releases/archives/php-5.6.20-nts-Win32-VC11-x64.zip',
-    '5.6.21' => 'http://windows.php.net/downloads/releases/php-5.6.21-nts-Win32-VC11-x64.zip',
+    '5.6.21' => 'http://windows.php.net/downloads/releases/archives/php-5.6.21-nts-Win32-VC11-x64.zip',
+    '5.6.22' => 'http://windows.php.net/downloads/releases/php-5.6.22-nts-Win32-VC11-x64.zip',
     '7.0.0' => 'http://windows.php.net/downloads/releases/archives/php-7.0.0-nts-Win32-VC14-x64.zip',
     '7.0.1' => 'http://windows.php.net/downloads/releases/archives/php-7.0.1-nts-Win32-VC14-x64.zip',
     '7.0.2' => 'http://windows.php.net/downloads/releases/archives/php-7.0.2-nts-Win32-VC14-x64.zip',
     '7.0.3' => 'http://windows.php.net/downloads/releases/archives/php-7.0.3-nts-Win32-VC14-x64.zip',
     '7.0.4' => 'http://windows.php.net/downloads/releases/archives/php-7.0.4-nts-Win32-VC14-x64.zip',
     '7.0.5' => 'http://windows.php.net/downloads/releases/archives/php-7.0.5-nts-Win32-VC14-x64.zip',
-    '7.0.6' => 'http://windows.php.net/downloads/releases/php-7.0.6-nts-Win32-VC14-x64.zip',
+    '7.0.6' => 'http://windows.php.net/downloads/releases/archives/php-7.0.6-nts-Win32-VC14-x64.zip',
+    '7.0.7' => 'http://windows.php.net/downloads/releases/php-7.0.7-nts-Win32-VC14-x64.zip',
     'latest' => array(
-      'version' => '7.0.6',
-      'url' => 'http://windows.php.net/downloads/releases/php-7.0.6-nts-Win32-VC14-x64.zip',
+      'version' => '7.0.7',
+      'url' => 'http://windows.php.net/downloads/releases/php-7.0.7-nts-Win32-VC14-x64.zip',
     ),
   ),
   'phpext_amqp' => array(
