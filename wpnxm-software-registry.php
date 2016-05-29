@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Sun, 29 May 2016 10:47:59 +0000.
+    * Last Update Sun, 29 May 2016 10:48:04 +0000.
     * Do not edit manually!
     */
 
@@ -3916,26 +3916,31 @@
     ),
     '1.0.9' => array(
       'x86' => array(
-        '5.4' => 'http://windows.php.net/downloads/pecl/releases/stomp/1.0.9/php_stomp-1.0.9-5.4-nts-VC9-x86.zip',
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/stomp/1.0.9/php_stomp-1.0.9-5.5-nts-VC11-x86.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/stomp/1.0.9/php_stomp-1.0.9-5.6-nts-VC11-x86.zip',
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/stomp/1.0.9/php_stomp-1.0.9-5.4-nts-vc9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/stomp/1.0.9/php_stomp-1.0.9-5.5-nts-vc11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/stomp/1.0.9/php_stomp-1.0.9-5.6-nts-vc11-x86.zip',
       ),
       'x64' => array(
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/stomp/1.0.9/php_stomp-1.0.9-5.5-nts-VC11-x64.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/stomp/1.0.9/php_stomp-1.0.9-5.6-nts-VC11-x64.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/stomp/1.0.9/php_stomp-1.0.9-5.5-nts-vc11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/stomp/1.0.9/php_stomp-1.0.9-5.6-nts-vc11-x64.zip',
+      ),
+    ),
+    '2.0.0' => array(
+      'x86' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/stomp/2.0.0/php_stomp-2.0.0-7.0-nts-vc14-x86.zip',
+      ),
+      'x64' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/stomp/2.0.0/php_stomp-2.0.0-7.0-nts-vc14-x64.zip',
       ),
     ),
     'latest' => array(
-      'version' => '1.0.9',
+      'version' => '2.0.0',
       'url' => array(
         'x86' => array(
-          '5.4' => 'http://windows.php.net/downloads/pecl/releases/stomp/1.0.9/php_stomp-1.0.9-5.4-nts-VC9-x86.zip',
-          '5.5' => 'http://windows.php.net/downloads/pecl/releases/stomp/1.0.9/php_stomp-1.0.9-5.5-nts-VC11-x86.zip',
-          '5.6' => 'http://windows.php.net/downloads/pecl/releases/stomp/1.0.9/php_stomp-1.0.9-5.6-nts-VC11-x86.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/stomp/2.0.0/php_stomp-2.0.0-7.0-nts-vc14-x86.zip',
         ),
         'x64' => array(
-          '5.5' => 'http://windows.php.net/downloads/pecl/releases/stomp/1.0.9/php_stomp-1.0.9-5.5-nts-VC11-x64.zip',
-          '5.6' => 'http://windows.php.net/downloads/pecl/releases/stomp/1.0.9/php_stomp-1.0.9-5.6-nts-VC11-x64.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/stomp/2.0.0/php_stomp-2.0.0-7.0-nts-vc14-x64.zip',
         ),
       ),
     ),
