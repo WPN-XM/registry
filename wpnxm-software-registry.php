@@ -2366,14 +2366,6 @@
   'phpext_ice' => array(
     'name' => 'PHP Extension Ice',
     'website' => 'http://www.iceframework.org',
-    '1.0.36' => array(
-      'x86' => array(
-        '5.6.0' => 'http://www.iceframework.org/dll/ice-1.0.36-php-5.6.16-nts-vc11-x86.zip',
-      ),
-      'x64' => array(
-        '5.6.0' => 'http://www.iceframework.org/dll/ice-1.0.36-php-5.6.16-nts-vc11-x64.zip',
-      ),
-    ),
     '1.1.2' => array(
       'x86' => array(
         '5.6' => 'http://www.iceframework.org/dll/ice-1.1.2-php-5.6-nts-vc11-x86.zip',
