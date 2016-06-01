@@ -14,6 +14,7 @@
 [ "php-cs-fixer",           "http:\/\/wpn-xm.org\/get.php?s=php-cs-fixer&v=latest",                  "php-cs-fixer.phar",          "latest" ],
 [ "phpext_amqp",            "http:\/\/wpn-xm.org\/get.php?s=phpext_amqp&v=1.4.0&p=5.6",              "phpext_amqp.zip",            "1.4.0" ],
 [ "phpext_apcu",            "http:\/\/wpn-xm.org\/get.php?s=phpext_apcu&v=4.0.10&p=5.6",             "phpext_apcu.zip",            "4.0.10" ],
+[ "phpext_ice",             "http:\/\/wpn-xm.org\/get.php?s=phpext_ice&v=1.1.2&p=5.6",               "phpext_ice.zip",             "1.1.2" ],
 [ "phpext_jsond",           "http:\/\/wpn-xm.org\/get.php?s=phpext_jsond&v=1.3.0&p=5.6",             "phpext_jsond.zip",           "1.3.0" ],
 [ "phpext_mailparse",       "http:\/\/wpn-xm.org\/get.php?s=phpext_mailparse&v=2.1.6&p=5.6",         "phpext_mailparse.zip",       "2.1.6" ],
 [ "phpext_memcache",        "http:\/\/wpn-xm.org\/get.php?s=phpext_memcache&v=3.0.8&p=5.6",          "phpext_memcache.zip",        "3.0.8" ],
