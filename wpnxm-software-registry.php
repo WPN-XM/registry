@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Thu, 02 Jun 2016 10:15:52 +0000.
+    * Last Update Thu, 02 Jun 2016 23:24:01 +0000.
     * Do not edit manually!
     */
 
@@ -5177,6 +5177,32 @@
     'latest' => array(
       'version' => '1.1',
       'url' => 'https://github.com/ceefour/wincachegrind/releases/download/1.1/wincachegrind-1.1.zip',
+    ),
+  ),
+  'wkhtmltopdf-x64' => array(
+    'name' => 'wkhtmltopdf',
+    'website' => 'http://wkhtmltopdf.org/',
+    'latest' => array(
+      'version' => '0',
+      'url' => '0',
+    ),
+  ),
+  'wkhtmltopdf-x86' => array(
+    'name' => 'wkhtmltopdf',
+    'website' => 'http://wkhtmltopdf.org/',
+    '0.12.0' => 'http://download.gna.org/wkhtmltopdf/0.12/0.12.0/wkhtmltox-0.12.0_msvc2013-win32.exe',
+    '0.12.1' => 'http://download.gna.org/wkhtmltopdf/0.12/0.12.1/wkhtmltox-0.12.1_msvc2013-win32.exe',
+    '0.12.2' => 'http://download.gna.org/wkhtmltopdf/0.12/0.12.2/wkhtmltox-0.12.2_msvc2013-win32.exe',
+    '0.12.2.1' => 'http://download.gna.org/wkhtmltopdf/0.12/0.12.2.1/wkhtmltox-0.12.2.1_msvc2013-win32.exe',
+    '0.12.2.2' => 'http://download.gna.org/wkhtmltopdf/0.12/0.12.2.2/wkhtmltox-0.12.2.2_msvc2013-win32.exe',
+    '0.12.2.3' => 'http://download.gna.org/wkhtmltopdf/0.12/0.12.2.3/wkhtmltox-0.12.2.3_msvc2013-win32.exe',
+    '0.12.2.4' => 'http://download.gna.org/wkhtmltopdf/0.12/0.12.2.4/wkhtmltox-0.12.2.4_msvc2013-win32.exe',
+    '0.12.3' => 'http://download.gna.org/wkhtmltopdf/0.12/0.12.3/wkhtmltox-0.12.3_msvc2013-win32.exe',
+    '0.12.3.1' => 'http://download.gna.org/wkhtmltopdf/0.12/0.12.3.1/wkhtmltox-0.12.3.1_msvc2013-win32.exe',
+    '0.12.3.2' => 'http://download.gna.org/wkhtmltopdf/0.12/0.12.3.2/wkhtmltox-0.12.3.2_msvc2013-win32.exe',
+    'latest' => array(
+      'version' => '0.12.3.2',
+      'url' => 'http://download.gna.org/wkhtmltopdf/0.12/0.12.3.2/wkhtmltox-0.12.3.2_msvc2013-win32.exe',
     ),
   ),
   'wpnxm-benchmark' => array(
