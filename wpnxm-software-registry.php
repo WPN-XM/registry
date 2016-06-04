@@ -5180,7 +5180,7 @@
     ),
   ),
   'wkhtmltopdf-x64' => array(
-    'name' => 'wkhtmltopdf',
+    'name' => 'wkhtmltopdf x64',
     'website' => 'http://wkhtmltopdf.org/',
     '0.12.0' => 'http://download.gna.org/wkhtmltopdf/0.12/0.12.0/wkhtmltox-0.12.0_msvc2013-win64.exe',
     '0.12.1' => 'http://download.gna.org/wkhtmltopdf/0.12/0.12.1/wkhtmltox-0.12.1_msvc2013-win64.exe',
@@ -5198,7 +5198,7 @@
     ),
   ),
   'wkhtmltopdf-x86' => array(
-    'name' => 'wkhtmltopdf',
+    'name' => 'wkhtmltopdf x86',
     'website' => 'http://wkhtmltopdf.org/',
     '0.12.0' => 'http://download.gna.org/wkhtmltopdf/0.12/0.12.0/wkhtmltox-0.12.0_msvc2013-win32.exe',
     '0.12.1' => 'http://download.gna.org/wkhtmltopdf/0.12/0.12.1/wkhtmltox-0.12.1_msvc2013-win32.exe',
