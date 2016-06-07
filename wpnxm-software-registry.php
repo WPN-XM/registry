@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Tue, 07 Jun 2016 16:43:22 +0000.
+    * Last Update Tue, 07 Jun 2016 16:47:41 +0000.
     * Do not edit manually!
     */
 
@@ -3527,6 +3527,69 @@
       ),
     ),
   ),
+  'phpext_pdo_sqlsrv' => array(
+    'name' => 'PHP Extension PDO_SQLSRV',
+    'website' => 'https://github.com/Azure/msphpsql/',
+    0 => array(
+      'x86' => array(
+        '7.0.0' => '',
+      ),
+      'x64' => array(
+        '7.0.0' => '',
+      ),
+    ),
+    '4.0.0' => array(
+      'x86' => array(
+        '7.0.0' => 'https://github.com/Azure/msphpsql/releases/download/v4.0.0/php_pdo_sqlrv_4.0.0_x86.zip',
+      ),
+      'x64' => array(
+        '7.0.0' => 'https://github.com/Azure/msphpsql/releases/download/v4.0.0/php_pdo_sqlrv_4.0.0_x64.zip',
+      ),
+    ),
+    '4.0.1' => array(
+      'x86' => array(
+        '7.0.0' => 'https://github.com/Azure/msphpsql/releases/download/v4.0.1/php_pdo_sqlrv_4.0.1_x86.zip',
+      ),
+      'x64' => array(
+        '7.0.0' => 'https://github.com/Azure/msphpsql/releases/download/v4.0.1/php_pdo_sqlrv_4.0.1_x64.zip',
+      ),
+    ),
+    '4.0.2' => array(
+      'x86' => array(
+        '7.0.0' => 'https://github.com/Azure/msphpsql/releases/download/v4.0.2/php_pdo_sqlrv_4.0.2_x86.zip',
+      ),
+      'x64' => array(
+        '7.0.0' => 'https://github.com/Azure/msphpsql/releases/download/v4.0.2/php_pdo_sqlrv_4.0.2_x64.zip',
+      ),
+    ),
+    '4.0.3' => array(
+      'x86' => array(
+        '7.0.0' => 'https://github.com/Azure/msphpsql/releases/download/v4.0.3/php_pdo_sqlrv_4.0.3_x86.zip',
+      ),
+      'x64' => array(
+        '7.0.0' => 'https://github.com/Azure/msphpsql/releases/download/v4.0.3/php_pdo_sqlrv_4.0.3_x64.zip',
+      ),
+    ),
+    '4.0.4' => array(
+      'x86' => array(
+        '7.0.0' => 'https://github.com/Azure/msphpsql/releases/download/v4.0.4/php_pdo_sqlrv_4.0.4_x86.zip',
+      ),
+      'x64' => array(
+        '7.0.0' => 'https://github.com/Azure/msphpsql/releases/download/v4.0.4/php_pdo_sqlrv_4.0.4_x64.zip',
+      ),
+    ),
+    'latest' => array(
+      'version' => '4.0.4',
+      'url' => array(
+        'x86' => array(
+          '7.0.0' => 'https://github.com/Azure/msphpsql/releases/download/v4.0.4/php_pdo_sqlrv_4.0.4_x86.zip',
+        ),
+        'x64' => array(
+          '7.0.0' => 'https://github.com/Azure/msphpsql/releases/download/v4.0.4/php_pdo_sqlrv_4.0.4_x64.zip',
+        ),
+      ),
+    ),
+  ),
   'phpext_phalcon' => array(
     'name' => 'PHP Extension Phalcon',
     'website' => 'http://phalconphp.com/',
@@ -3854,7 +3917,6 @@
   'phpext_sqlsrv' => array(
     'name' => 'PHP Extension SQLSRV',
     'website' => 'https://github.com/Azure/msphpsql/',
-    0 => '',
     '4.0.0' => array(
       'x86' => array(
         '7.0.0' => 'https://github.com/Azure/msphpsql/releases/download/v4.0.0/php_sqlrv_4.0.0_x86.zip',
