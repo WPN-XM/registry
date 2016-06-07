@@ -5224,8 +5224,8 @@
       'url' => 'https://github.com/WPN-XM/benchmark-tools/releases/download/v1.0.0/benchmark-tools-1.0.0.zip',
     ),
   ),
-  'wpnxmscp' => array(
-    'name' => 'WPN-XM SCP x86',
+  'wpnxm-scp' => array(
+    'name' => 'WPN-XM Server Control Panel x86',
     'website' => 'http://wpn-xm.org/',
     '0.3.0' => 'http://wpn-xm.org/files/wpnxm-scp-0.3.0.zip',
     '0.4.0' => 'http://wpn-xm.org/files/wpnxm-scp-0.4.0.zip',
@@ -5243,8 +5243,8 @@
       'url' => 'https://github.com/WPN-XM/server-control-panel/releases/download/0.8.5/wpnxm-scp-0.8.5-x86_boxed.zip',
     ),
   ),
-  'wpnxmscp-x64' => array(
-    'name' => 'WPN-XM SCP x86_64',
+  'wpnxm-scp-x64' => array(
+    'name' => 'WPN-XM Server Control Panel x86_64',
     'website' => 'http://wpn-xm.org/',
     '0.8.1' => 'https://github.com/WPN-XM/server-control-panel/releases/download/0.8.1/wpnxm-scp-x86_64_boxed.zip',
     '0.8.2' => 'https://github.com/WPN-XM/server-control-panel/releases/download/0.8.2/wpnxm-scp-x86_64_boxed.zip',
