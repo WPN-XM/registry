@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Tue, 07 Jun 2016 15:21:00 +0000.
+    * Last Update Tue, 07 Jun 2016 15:21:06 +0000.
     * Do not edit manually!
     */
 
@@ -3902,14 +3902,22 @@
         '7.0' => 'http://windows.php.net/downloads/pecl/releases/stats/2.0.2/php_stats-2.0.2-7.0-nts-vc14-x64.zip',
       ),
     ),
+    '2.0.3' => array(
+      'x86' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/stats/2.0.3/php_stats-2.0.3-7.0-nts-vc14-x86.zip',
+      ),
+      'x64' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/stats/2.0.3/php_stats-2.0.3-7.0-nts-vc14-x64.zip',
+      ),
+    ),
     'latest' => array(
-      'version' => '2.0.2',
+      'version' => '2.0.3',
       'url' => array(
         'x86' => array(
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/stats/2.0.2/php_stats-2.0.2-7.0-nts-vc14-x86.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/stats/2.0.3/php_stats-2.0.3-7.0-nts-vc14-x86.zip',
         ),
         'x64' => array(
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/stats/2.0.2/php_stats-2.0.2-7.0-nts-vc14-x64.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/stats/2.0.3/php_stats-2.0.3-7.0-nts-vc14-x64.zip',
         ),
       ),
     ),
