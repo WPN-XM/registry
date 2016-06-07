@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Tue, 07 Jun 2016 15:20:48 +0000.
+    * Last Update Tue, 07 Jun 2016 15:20:55 +0000.
     * Do not edit manually!
     */
 
@@ -1866,14 +1866,22 @@
         '7.0' => 'http://windows.php.net/downloads/pecl/releases/apcu/5.1.4/php_apcu-5.1.4-7.0-nts-vc14-x64.zip',
       ),
     ),
+    '5.1.5' => array(
+      'x86' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/apcu/5.1.5/php_apcu-5.1.5-7.0-nts-vc14-x86.zip',
+      ),
+      'x64' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/apcu/5.1.5/php_apcu-5.1.5-7.0-nts-vc14-x64.zip',
+      ),
+    ),
     'latest' => array(
-      'version' => '5.1.4',
+      'version' => '5.1.5',
       'url' => array(
         'x86' => array(
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/apcu/5.1.4/php_apcu-5.1.4-7.0-nts-vc14-x86.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/apcu/5.1.5/php_apcu-5.1.5-7.0-nts-vc14-x86.zip',
         ),
         'x64' => array(
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/apcu/5.1.4/php_apcu-5.1.4-7.0-nts-vc14-x64.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/apcu/5.1.5/php_apcu-5.1.5-7.0-nts-vc14-x64.zip',
         ),
       ),
     ),
