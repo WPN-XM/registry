@@ -867,7 +867,7 @@
     ),
     'logo' => '',
   ),
-  'wpnxmscp' => array(
+  'wpnxm-scp' => array(
     'description' => 'The WPN-XM Server Control Panel is a server administration GUI written in C++ using Qt.',
     'category' => 'wpnxm',
     'tags' => array(
@@ -875,7 +875,7 @@
     ),
     'logo' => '',
   ),
-  'wpnxmscp-x64' => array(
+  'wpnxm-scp-x64' => array(
     'description' => 'The WPN-XM Server Control Panel is a server administration GUI written in C++ using Qt.',
     'category' => 'wpnxm',
     'tags' => array(
