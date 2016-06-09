@@ -9,5 +9,5 @@
 [ "phpext_xdebug",    "http:\/\/wpn-xm.org\/get.php?s=phpext_xdebug&v=2.4.0rc4&p=7.0",  "phpext_xdebug.zip",    "2.4.0rc4" ],
 [ "pickle",           "http:\/\/wpn-xm.org\/get.php?s=pickle&v=0.4.0",                  "pickle.phar",          "0.4.0" ],
 [ "wpnxm-benchmark",  "http:\/\/wpn-xm.org\/get.php?s=wpnxm-benchmark&v=1.0.0",         "wpnxm-benchmark.zip",  "1.0.0" ],
-[ "wpnxmscp",         "http:\/\/wpn-xm.org\/get.php?s=wpnxmscp&v=0.8.5",                "wpnxmscp.zip",         "0.8.5" ]
+[ "wpnxm-scp",        "http:\/\/wpn-xm.org\/get.php?s=wpnxm-scp&v=0.8.5",               "wpnxm-scp.zip",        "0.8.5" ]
 ]
