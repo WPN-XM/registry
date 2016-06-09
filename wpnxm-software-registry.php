@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Thu, 09 Jun 2016 16:07:35 +0000.
+    * Last Update Thu, 09 Jun 2016 16:07:40 +0000.
     * Do not edit manually!
     */
 
@@ -2148,19 +2148,32 @@
         '7.0' => 'http://windows.php.net/downloads/pecl/releases/event/2.0.4/php_event-2.0.4-7.0-nts-vc14-x64.zip',
       ),
     ),
+    '2.1.0' => array(
+      'x86' => array(
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/event/2.1.0/php_event-2.1.0-5.4-nts-vc9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/event/2.1.0/php_event-2.1.0-5.5-nts-vc11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/event/2.1.0/php_event-2.1.0-5.6-nts-vc11-x86.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/event/2.1.0/php_event-2.1.0-7.0-nts-vc14-x86.zip',
+      ),
+      'x64' => array(
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/event/2.1.0/php_event-2.1.0-5.5-nts-vc11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/event/2.1.0/php_event-2.1.0-5.6-nts-vc11-x64.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/event/2.1.0/php_event-2.1.0-7.0-nts-vc14-x64.zip',
+      ),
+    ),
     'latest' => array(
-      'version' => '2.0.4',
+      'version' => '2.1.0',
       'url' => array(
         'x86' => array(
-          '5.4' => 'http://windows.php.net/downloads/pecl/releases/event/2.0.4/php_event-2.0.4-5.4-nts-vc9-x86.zip',
-          '5.5' => 'http://windows.php.net/downloads/pecl/releases/event/2.0.4/php_event-2.0.4-5.5-nts-vc11-x86.zip',
-          '5.6' => 'http://windows.php.net/downloads/pecl/releases/event/2.0.4/php_event-2.0.4-5.6-nts-vc11-x86.zip',
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/event/2.0.4/php_event-2.0.4-7.0-nts-vc14-x86.zip',
+          '5.4' => 'http://windows.php.net/downloads/pecl/releases/event/2.1.0/php_event-2.1.0-5.4-nts-vc9-x86.zip',
+          '5.5' => 'http://windows.php.net/downloads/pecl/releases/event/2.1.0/php_event-2.1.0-5.5-nts-vc11-x86.zip',
+          '5.6' => 'http://windows.php.net/downloads/pecl/releases/event/2.1.0/php_event-2.1.0-5.6-nts-vc11-x86.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/event/2.1.0/php_event-2.1.0-7.0-nts-vc14-x86.zip',
         ),
         'x64' => array(
-          '5.5' => 'http://windows.php.net/downloads/pecl/releases/event/2.0.4/php_event-2.0.4-5.5-nts-vc11-x64.zip',
-          '5.6' => 'http://windows.php.net/downloads/pecl/releases/event/2.0.4/php_event-2.0.4-5.6-nts-vc11-x64.zip',
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/event/2.0.4/php_event-2.0.4-7.0-nts-vc14-x64.zip',
+          '5.5' => 'http://windows.php.net/downloads/pecl/releases/event/2.1.0/php_event-2.1.0-5.5-nts-vc11-x64.zip',
+          '5.6' => 'http://windows.php.net/downloads/pecl/releases/event/2.1.0/php_event-2.1.0-5.6-nts-vc11-x64.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/event/2.1.0/php_event-2.1.0-7.0-nts-vc14-x64.zip',
         ),
       ),
     ),
