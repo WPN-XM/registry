@@ -106,8 +106,8 @@ return array(
     // vcredist_x86.exe (do not delete this comment, its for easier comparison with the .iss file)
     'webgrind'              => 'webgrind.zip',
     'wincachegrind'         => 'wincachegrind.zip',
-    'wpnxmscp'              => 'wpnxmscp.zip',
-    'wpnxmscp-x64'          => 'wpnxmscp.zip',
+    'wpnxm-scp'             => 'wpnxm-scp.zip',
+    'wpnxm-scp-x64'         => 'wpnxm-scp.zip',
     'wpnxm-benchmark'       => 'wpnxm-benchmark.zip',
     'xhprof'                => 'xhprof.zip',
     'yuicompressor'         => 'yuicompressor.jar', // ! jar file
