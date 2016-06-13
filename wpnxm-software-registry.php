@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Thu, 09 Jun 2016 16:07:40 +0000.
+    * Last Update Mon, 13 Jun 2016 09:21:08 +0000.
     * Do not edit manually!
     */
 
@@ -5234,9 +5234,10 @@
     '10.6.1' => 'https://github.com/ShareX/ShareX/releases/download/v10.6.1/ShareX-portable.zip',
     '10.8.0' => 'https://github.com/ShareX/ShareX/releases/download/v10.8.0/ShareX-portable.zip',
     '10.9.1' => 'https://github.com/ShareX/ShareX/releases/download/v10.9.1/ShareX-portable.zip',
+    '11.0.1' => 'https://github.com/ShareX/ShareX/releases/download/v11.0.1/ShareX-portable.zip',
     'latest' => array(
-      'version' => '10.9.1',
-      'url' => 'https://github.com/ShareX/ShareX/releases/download/v10.9.1/ShareX-portable.zip',
+      'version' => '11.0.1',
+      'url' => 'https://github.com/ShareX/ShareX/releases/download/v11.0.1/ShareX-portable.zip',
     ),
   ),
   'sphinx' => array(
