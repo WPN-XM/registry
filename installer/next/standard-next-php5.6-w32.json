@@ -10,7 +10,7 @@
 [ "nginx",                  "http:\/\/wpn-xm.org\/get.php?s=nginx&v=1.11.1",                         "nginx.zip",                  "1.11.1" ],
 [ "openssl",                "http:\/\/wpn-xm.org\/get.php?s=openssl&v=1.0.2h",                       "openssl.zip",                "1.0.2h" ],
 [ "pear",                   "http:\/\/wpn-xm.org\/get.php?s=pear&v=1.0",                             "go-pear.phar",               "1.0" ],
-[ "php",                    "http:\/\/wpn-xm.org\/get.php?s=php&v=5.6.22",                           "php.zip",                    "5.6.22" ],
+[ "php",                    "http:\/\/wpn-xm.org\/get.php?s=php&v=5.6.23",                           "php.zip",                    "5.6.23" ],
 [ "php-cs-fixer",           "http:\/\/wpn-xm.org\/get.php?s=php-cs-fixer&v=latest",                  "php-cs-fixer.phar",          "latest" ],
 [ "phpext_amqp",            "http:\/\/wpn-xm.org\/get.php?s=phpext_amqp&v=1.4.0&p=5.6",              "phpext_amqp.zip",            "1.4.0" ],
 [ "phpext_apcu",            "http:\/\/wpn-xm.org\/get.php?s=phpext_apcu&v=4.0.10&p=5.6",             "phpext_apcu.zip",            "4.0.10" ],
@@ -29,7 +29,7 @@
 [ "phpext_xdebug",          "http:\/\/wpn-xm.org\/get.php?s=phpext_xdebug&v=2.4.0rc4&p=5.6",         "phpext_xdebug.zip",          "2.4.0rc4" ],
 [ "phpext_zmq",             "http:\/\/wpn-xm.org\/get.php?s=phpext_zmq&v=1.1.2&p=5.6",               "phpext_zmq.zip",             "1.1.2" ],
 [ "phpmemcachedadmin",      "http:\/\/wpn-xm.org\/get.php?s=phpmemcachedadmin&v=1.2.2",              "phpmemcachedadmin.zip",      "1.2.2" ],
-[ "phpmyadmin",             "http:\/\/wpn-xm.org\/get.php?s=phpmyadmin&v=4.6.2",                     "phpmyadmin.zip",             "4.6.2" ],
+[ "phpmyadmin",             "http:\/\/wpn-xm.org\/get.php?s=phpmyadmin&v=4.6.3",                     "phpmyadmin.zip",             "4.6.3" ],
 [ "pickle",                 "http:\/\/wpn-xm.org\/get.php?s=pickle&v=0.4.0",                         "pickle.phar",                "0.4.0" ],
 [ "redis",                  "http:\/\/wpn-xm.org\/get.php?s=redis&v=3.0.503",                        "redis.zip",                  "3.0.503" ],
 [ "robomongo",              "http:\/\/wpn-xm.org\/get.php?s=robomongo&v=0.9.0-rc4",                  "robomongo.zip",              "0.9.0-rc4" ],
@@ -37,6 +37,6 @@
 [ "varnish",                "http:\/\/wpn-xm.org\/get.php?s=varnish&v=3.0.2",                        "varnish.zip",                "3.0.2" ],
 [ "webgrind",               "http:\/\/wpn-xm.org\/get.php?s=webgrind&v=1.0",                         "webgrind.zip",               "1.0" ],
 [ "wpnxm-benchmark",        "http:\/\/wpn-xm.org\/get.php?s=wpnxm-benchmark&v=1.0.0",                "wpnxm-benchmark.zip",        "1.0.0" ],
-[ "wpnxm-scp",              "http:\/\/wpn-xm.org\/get.php?s=wpnxm-scp&v=0.8.5",                      "wpnxm-scp.zip",              "0.8.5" ],
+[ "wpnxm-scp",              "http:\/\/wpn-xm.org\/get.php?s=wpnxm-scp&v=0.8.6",                      "wpnxm-scp.zip",              "0.8.6" ],
 [ "yuicompressor",          "http:\/\/wpn-xm.org\/get.php?s=yuicompressor&v=2.4.8",                  "yuicompressor.jar",          "2.4.8" ]
 ]
