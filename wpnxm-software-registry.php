@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Thu, 23 Jun 2016 17:45:38 +0000.
+    * Last Update Thu, 23 Jun 2016 17:45:43 +0000.
     * Do not edit manually!
     */
 
@@ -2435,12 +2435,18 @@
         '7.0' => 'http://www.iceframework.org/dll/ice-1.1.3-php-7.0-nts-vc14-x64.zip',
       ),
     ),
+    '1.1.5' => array(
+      'x64' => array(
+        '5.6' => 'http://www.iceframework.org/dll/ice-1.1.5-php-5.6-nts-vc11-x64.zip',
+        '7.0' => 'http://www.iceframework.org/dll/ice-1.1.5-php-7.0-nts-vc14-x64.zip',
+      ),
+    ),
     'latest' => array(
-      'version' => '1.1.3',
+      'version' => '1.1.5',
       'url' => array(
         'x64' => array(
-          '5.6' => 'http://www.iceframework.org/dll/ice-1.1.3-php-5.6-nts-vc11-x64.zip',
-          '7.0' => 'http://www.iceframework.org/dll/ice-1.1.3-php-7.0-nts-vc14-x64.zip',
+          '5.6' => 'http://www.iceframework.org/dll/ice-1.1.5-php-5.6-nts-vc11-x64.zip',
+          '7.0' => 'http://www.iceframework.org/dll/ice-1.1.5-php-7.0-nts-vc14-x64.zip',
         ),
       ),
     ),
