@@ -4,7 +4,7 @@
 [ "composer",           "http:\/\/wpn-xm.org\/get.php?s=composer&v=1.0",                   "composer.phar",          "1.0" ],
 [ "conemu",             "http:\/\/wpn-xm.org\/get.php?s=conemu&v=16.06.19",                "conemu.7z",              "16.06.19" ],
 [ "gogs-x86",           "http:\/\/wpn-xm.org\/get.php?s=gogs-x86&v=0.9.13",                "gogitservice.zip",       "0.9.13" ],
-[ "imagick",            "http:\/\/wpn-xm.org\/get.php?s=imagick&v=7.0.2-1",                "imagick.zip",            "7.0.2-1" ],
+[ "imagick",            "http:\/\/wpn-xm.org\/get.php?s=imagick&v=7.0.2-2",                "imagick.zip",            "7.0.2-2" ],
 [ "mariadb",            "http:\/\/wpn-xm.org\/get.php?s=mariadb&v=10.2.0",                 "mariadb.zip",            "10.2.0" ],
 [ "memadmin",           "http:\/\/wpn-xm.org\/get.php?s=memadmin&v=1.0.12",                "memadmin.zip",           "1.0.12" ],
 [ "memcached",          "http:\/\/wpn-xm.org\/get.php?s=memcached&v=1.4.5",                "memcached.zip",          "1.4.5" ],
