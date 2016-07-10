@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Sun, 10 Jul 2016 12:21:54 +0000.
+    * Last Update Sun, 10 Jul 2016 12:22:03 +0000.
     * Do not edit manually!
     */
 
@@ -151,18 +151,20 @@
     '3.0.5' => 'http://downloads.datastax.com/community/datastax-community-64bit_3.0.5.msi',
     '3.0.6' => 'http://downloads.datastax.com/community/datastax-community-64bit_3.0.6.msi',
     '3.0.7' => 'http://downloads.datastax.com/community/datastax-community-64bit_3.0.7.msi',
+    '3.0.8' => 'http://downloads.datastax.com/community/datastax-community-64bit_3.0.8.msi',
     'latest' => array(
-      'version' => '3.0.7',
-      'url' => 'http://downloads.datastax.com/community/datastax-community-64bit_3.0.7.msi',
+      'version' => '3.0.8',
+      'url' => 'http://downloads.datastax.com/community/datastax-community-64bit_3.0.8.msi',
     ),
   ),
   'cayley-x64' => array(
     'name' => 'Cayley x64',
     'website' => 'https://github.com/google/cayley',
     '0.4.1' => 'https://github.com/google/cayley/releases/download/v0.4.1/cayley_0.4.1_windows_amd64.zip',
+    '0.5.0' => 'https://github.com/google/cayley/releases/download/v0.5.0/cayley_0.5.0_windows_amd64.zip',
     'latest' => array(
-      'version' => '0.4.1',
-      'url' => 'https://github.com/google/cayley/releases/download/v0.4.1/cayley_0.4.1_windows_amd64.zip',
+      'version' => '0.5.0',
+      'url' => 'https://github.com/google/cayley/releases/download/v0.5.0/cayley_0.5.0_windows_amd64.zip',
     ),
   ),
   'chromedriver' => array(
