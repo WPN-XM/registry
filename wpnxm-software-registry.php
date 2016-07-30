@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Sat, 30 Jul 2016 23:52:31 +0000.
+    * Last Update Sat, 30 Jul 2016 23:52:52 +0000.
     * Do not edit manually!
     */
 
@@ -3842,18 +3842,30 @@
         '5.6.0' => 'https://static.phalconphp.com/www/files/phalcon_x64_vc11_php5.6.0_2.1.0.RC1_nts.zip',
       ),
     ),
+    '3.0.0' => array(
+      'x86' => array(
+        '5.4.0' => 'https://static.phalconphp.com/www/files/phalcon_x86_VC9_php5.4.0_3.0.0_nts.zip',
+        '5.5.0' => 'https://static.phalconphp.com/www/files/phalcon_x86_vc11_php5.5.0_3.0.0_nts.zip',
+        '5.6.0' => 'https://static.phalconphp.com/www/files/phalcon_x86_vc11_php5.6.0_3.0.0_nts.zip',
+      ),
+      'x64' => array(
+        '5.4.0' => 'https://static.phalconphp.com/www/files/phalcon_x64_VC9_php5.4.0_3.0.0_nts.zip',
+        '5.5.0' => 'https://static.phalconphp.com/www/files/phalcon_x64_vc11_php5.5.0_3.0.0_nts.zip',
+        '5.6.0' => 'https://static.phalconphp.com/www/files/phalcon_x64_vc11_php5.6.0_3.0.0_nts.zip',
+      ),
+    ),
     'latest' => array(
-      'version' => '2.1.0.RC1',
+      'version' => '3.0.0',
       'url' => array(
         'x86' => array(
-          '5.4.0' => 'https://static.phalconphp.com/www/files/phalcon_x86_VC9_php5.4.0_2.1.0.RC1_nts.zip',
-          '5.5.0' => 'https://static.phalconphp.com/www/files/phalcon_x86_vc11_php5.5.0_2.1.0.RC1_nts.zip',
-          '5.6.0' => 'https://static.phalconphp.com/www/files/phalcon_x86_vc11_php5.6.0_2.1.0.RC1_nts.zip',
+          '5.4.0' => 'https://static.phalconphp.com/www/files/phalcon_x86_VC9_php5.4.0_3.0.0_nts.zip',
+          '5.5.0' => 'https://static.phalconphp.com/www/files/phalcon_x86_vc11_php5.5.0_3.0.0_nts.zip',
+          '5.6.0' => 'https://static.phalconphp.com/www/files/phalcon_x86_vc11_php5.6.0_3.0.0_nts.zip',
         ),
         'x64' => array(
-          '5.4.0' => 'https://static.phalconphp.com/www/files/phalcon_x64_VC9_php5.4.0_2.1.0.RC1_nts.zip',
-          '5.5.0' => 'https://static.phalconphp.com/www/files/phalcon_x64_vc11_php5.5.0_2.1.0.RC1_nts.zip',
-          '5.6.0' => 'https://static.phalconphp.com/www/files/phalcon_x64_vc11_php5.6.0_2.1.0.RC1_nts.zip',
+          '5.4.0' => 'https://static.phalconphp.com/www/files/phalcon_x64_VC9_php5.4.0_3.0.0_nts.zip',
+          '5.5.0' => 'https://static.phalconphp.com/www/files/phalcon_x64_vc11_php5.5.0_3.0.0_nts.zip',
+          '5.6.0' => 'https://static.phalconphp.com/www/files/phalcon_x64_vc11_php5.6.0_3.0.0_nts.zip',
         ),
       ),
     ),
