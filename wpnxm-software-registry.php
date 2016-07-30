@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Sat, 30 Jul 2016 23:52:57 +0000.
+    * Last Update Sat, 30 Jul 2016 23:53:02 +0000.
     * Do not edit manually!
     */
 
@@ -5458,9 +5458,10 @@
     'name' => 'Sphinx Search x64',
     'website' => 'http://sphinxsearch.com/',
     '2.2.10' => 'http://sphinxsearch.com/files/sphinx-2.2.10-release-win64-full.zip',
+    '2.2.11' => 'http://sphinxsearch.com/files/sphinx-2.2.11-release-win64-full.zip',
     'latest' => array(
-      'version' => '2.2.10',
-      'url' => 'http://sphinxsearch.com/files/sphinx-2.2.10-release-win64-full.zip',
+      'version' => '2.2.11',
+      'url' => 'http://sphinxsearch.com/files/sphinx-2.2.11-release-win64-full.zip',
     ),
   ),
   'uprofiler' => array(
