@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Mon, 22 Aug 2016 22:01:33 +0000.
+    * Last Update Mon, 22 Aug 2016 22:01:38 +0000.
     * Do not edit manually!
     */
 
@@ -2043,18 +2043,30 @@
         '7.0' => 'http://windows.php.net/downloads/pecl/releases/cassandra/1.2.1/php_cassandra-1.2.1-7.0-nts-vc14-x64.zip',
       ),
     ),
+    '1.2.2' => array(
+      'x86' => array(
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/cassandra/1.2.2/php_cassandra-1.2.2-5.5-nts-vc11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/cassandra/1.2.2/php_cassandra-1.2.2-5.6-nts-vc11-x86.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/cassandra/1.2.2/php_cassandra-1.2.2-7.0-nts-vc14-x86.zip',
+      ),
+      'x64' => array(
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/cassandra/1.2.2/php_cassandra-1.2.2-5.5-nts-vc11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/cassandra/1.2.2/php_cassandra-1.2.2-5.6-nts-vc11-x64.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/cassandra/1.2.2/php_cassandra-1.2.2-7.0-nts-vc14-x64.zip',
+      ),
+    ),
     'latest' => array(
-      'version' => '1.2.1',
+      'version' => '1.2.2',
       'url' => array(
         'x86' => array(
-          '5.5' => 'http://windows.php.net/downloads/pecl/releases/cassandra/1.2.1/php_cassandra-1.2.1-5.5-nts-vc11-x86.zip',
-          '5.6' => 'http://windows.php.net/downloads/pecl/releases/cassandra/1.2.1/php_cassandra-1.2.1-5.6-nts-vc11-x86.zip',
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/cassandra/1.2.1/php_cassandra-1.2.1-7.0-nts-vc14-x86.zip',
+          '5.5' => 'http://windows.php.net/downloads/pecl/releases/cassandra/1.2.2/php_cassandra-1.2.2-5.5-nts-vc11-x86.zip',
+          '5.6' => 'http://windows.php.net/downloads/pecl/releases/cassandra/1.2.2/php_cassandra-1.2.2-5.6-nts-vc11-x86.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/cassandra/1.2.2/php_cassandra-1.2.2-7.0-nts-vc14-x86.zip',
         ),
         'x64' => array(
-          '5.5' => 'http://windows.php.net/downloads/pecl/releases/cassandra/1.2.1/php_cassandra-1.2.1-5.5-nts-vc11-x64.zip',
-          '5.6' => 'http://windows.php.net/downloads/pecl/releases/cassandra/1.2.1/php_cassandra-1.2.1-5.6-nts-vc11-x64.zip',
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/cassandra/1.2.1/php_cassandra-1.2.1-7.0-nts-vc14-x64.zip',
+          '5.5' => 'http://windows.php.net/downloads/pecl/releases/cassandra/1.2.2/php_cassandra-1.2.2-5.5-nts-vc11-x64.zip',
+          '5.6' => 'http://windows.php.net/downloads/pecl/releases/cassandra/1.2.2/php_cassandra-1.2.2-5.6-nts-vc11-x64.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/cassandra/1.2.2/php_cassandra-1.2.2-7.0-nts-vc14-x64.zip',
         ),
       ),
     ),
