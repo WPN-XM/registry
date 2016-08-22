@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Mon, 22 Aug 2016 22:00:46 +0000.
+    * Last Update Mon, 22 Aug 2016 22:00:51 +0000.
     * Do not edit manually!
     */
 
@@ -1727,7 +1727,8 @@
     '5.6.21' => 'http://windows.php.net/downloads/releases/archives/php-5.6.21-nts-Win32-VC11-x64.zip',
     '5.6.22' => 'http://windows.php.net/downloads/releases/archives/php-5.6.22-nts-Win32-VC11-x64.zip',
     '5.6.23' => 'http://windows.php.net/downloads/releases/archives/php-5.6.23-nts-Win32-VC11-x64.zip',
-    '5.6.24' => 'http://windows.php.net/downloads/releases/php-5.6.24-nts-Win32-VC11-x64.zip',
+    '5.6.24' => 'http://windows.php.net/downloads/releases/archives/php-5.6.24-nts-Win32-VC11-x64.zip',
+    '5.6.25' => 'http://windows.php.net/downloads/releases/php-5.6.25-nts-Win32-VC11-x64.zip',
     '7.0.0' => 'http://windows.php.net/downloads/releases/archives/php-7.0.0-nts-Win32-VC14-x64.zip',
     '7.0.1' => 'http://windows.php.net/downloads/releases/archives/php-7.0.1-nts-Win32-VC14-x64.zip',
     '7.0.2' => 'http://windows.php.net/downloads/releases/archives/php-7.0.2-nts-Win32-VC14-x64.zip',
@@ -1737,10 +1738,11 @@
     '7.0.6' => 'http://windows.php.net/downloads/releases/archives/php-7.0.6-nts-Win32-VC14-x64.zip',
     '7.0.7' => 'http://windows.php.net/downloads/releases/archives/php-7.0.7-nts-Win32-VC14-x64.zip',
     '7.0.8' => 'http://windows.php.net/downloads/releases/archives/php-7.0.8-nts-Win32-VC14-x64.zip',
-    '7.0.9' => 'http://windows.php.net/downloads/releases/php-7.0.9-nts-Win32-VC14-x64.zip',
+    '7.0.9' => 'http://windows.php.net/downloads/releases/archives/php-7.0.9-nts-Win32-VC14-x64.zip',
+    '7.0.10' => 'http://windows.php.net/downloads/releases/php-7.0.10-nts-Win32-VC14-x64.zip',
     'latest' => array(
-      'version' => '7.0.9',
-      'url' => 'http://windows.php.net/downloads/releases/php-7.0.9-nts-Win32-VC14-x64.zip',
+      'version' => '7.0.10',
+      'url' => 'http://windows.php.net/downloads/releases/php-7.0.10-nts-Win32-VC14-x64.zip',
     ),
   ),
   'phpext_amqp' => array(
