@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Sat, 06 Aug 2016 16:12:35 +0000.
+    * Last Update Mon, 22 Aug 2016 21:58:23 +0000.
     * Do not edit manually!
     */
 
@@ -316,6 +316,17 @@
     'latest' => array(
       'version' => '3.0-RC1',
       'url' => 'http://sourceforge.net/projects/firebird/files/firebird-win32/3.0-RC1/Firebird-3.0.0.32136_0_Win32_pdb_RC1.exe/download',
+    ),
+  ),
+  'geckodriver-x64' => array(
+    'name' => 'GeckoDriver x64',
+    'website' => 'https://github.com/mozilla/geckodriver/',
+    0 => '',
+    '0.9.0' => 'https://github.com/mozilla/geckodriver/releases/download/v0.9.0/geckodriver-v0.9.0-win64.zip',
+    '0.10.0' => 'https://github.com/mozilla/geckodriver/releases/download/v0.10.0/geckodriver-v0.10.0-win64.zip',
+    'latest' => array(
+      'version' => '0.10.0',
+      'url' => 'https://github.com/mozilla/geckodriver/releases/download/v0.10.0/geckodriver-v0.10.0-win64.zip',
     ),
   ),
   'gogs-x64' => array(
