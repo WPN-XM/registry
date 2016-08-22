@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Mon, 22 Aug 2016 22:01:56 +0000.
+    * Last Update Mon, 22 Aug 2016 22:02:03 +0000.
     * Do not edit manually!
     */
 
@@ -5049,14 +5049,16 @@
         '7.0' => 'http://windows.php.net/downloads/pecl/releases/yaf/3.0.3/php_yaf-3.0.3-7.0-nts-vc14-x64.zip',
       ),
     ),
+    '3.0.4' => array(
+      'x64' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/yaf/3.0.4/php_yaf-3.0.4-7.0-nts-vc14-x64.zip',
+      ),
+    ),
     'latest' => array(
-      'version' => '3.0.3',
+      'version' => '3.0.4',
       'url' => array(
-        'x86' => array(
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/yaf/3.0.3/php_yaf-3.0.3-7.0-nts-vc14-x86.zip',
-        ),
         'x64' => array(
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/yaf/3.0.3/php_yaf-3.0.3-7.0-nts-vc14-x64.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/yaf/3.0.4/php_yaf-3.0.4-7.0-nts-vc14-x64.zip',
         ),
       ),
     ),
