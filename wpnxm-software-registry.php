@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Sun, 18 Sep 2016 17:18:30 +0000.
+    * Last Update Sun, 18 Sep 2016 17:18:35 +0000.
     * Do not edit manually!
     */
 
@@ -3705,20 +3705,22 @@
     ),
     '2.0.1' => array(
       'x86' => array(
-        '7.0' => 'http://windows.php.net/downloads/pecl/releases/oauth/2.0.1/php_oauth-2.0.1-7.0-nts-VC14-x86.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/oauth/2.0.1/php_oauth-2.0.1-7.0-nts-vc14-x86.zip',
       ),
       'x64' => array(
-        '7.0' => 'http://windows.php.net/downloads/pecl/releases/oauth/2.0.1/php_oauth-2.0.1-7.0-nts-VC14-x64.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/oauth/2.0.1/php_oauth-2.0.1-7.0-nts-vc14-x64.zip',
+      ),
+    ),
+    '2.0.2' => array(
+      'x64' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/oauth/2.0.2/php_oauth-2.0.2-7.0-nts-vc14-x64.zip',
       ),
     ),
     'latest' => array(
-      'version' => '2.0.1',
+      'version' => '2.0.2',
       'url' => array(
-        'x86' => array(
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/oauth/2.0.1/php_oauth-2.0.1-7.0-nts-VC14-x86.zip',
-        ),
         'x64' => array(
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/oauth/2.0.1/php_oauth-2.0.1-7.0-nts-VC14-x64.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/oauth/2.0.2/php_oauth-2.0.2-7.0-nts-vc14-x64.zip',
         ),
       ),
     ),
