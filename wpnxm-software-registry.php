@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Sun, 18 Sep 2016 17:18:20 +0000.
+    * Last Update Sun, 18 Sep 2016 17:18:25 +0000.
     * Do not edit manually!
     */
 
@@ -1054,9 +1054,10 @@
     '6.3.1' => 'http://nodejs.org/dist/v6.3.1/win-x86/node.exe',
     '6.4.0' => 'http://nodejs.org/dist/v6.4.0/win-x86/node.exe',
     '6.5.0' => 'http://nodejs.org/dist/v6.5.0/win-x86/node.exe',
+    '6.6.0' => 'http://nodejs.org/dist/v6.6.0/win-x86/node.exe',
     'latest' => array(
-      'version' => '6.5.0',
-      'url' => 'http://nodejs.org/dist/v6.5.0/win-x86/node.exe',
+      'version' => '6.6.0',
+      'url' => 'http://nodejs.org/dist/v6.6.0/win-x86/node.exe',
     ),
   ),
   'node-x64' => array(
