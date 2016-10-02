@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Sun, 02 Oct 2016 11:48:09 +0000.
+    * Last Update Sun, 02 Oct 2016 11:48:14 +0000.
     * Do not edit manually!
     */
 
@@ -718,9 +718,12 @@
     '3.3.10' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2008plus-3.3.10.zip',
     '3.3.11' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2008plus-3.3.11.zip',
     '3.3.12' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2008plus-3.3.12.zip',
+    '3.3.13' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2008plus-3.3.13.zip',
+    '3.3.14' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2008plus-3.3.14.zip',
+    '3.3.15' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2008plus-3.3.15.zip',
     'latest' => array(
-      'version' => '3.3.12',
-      'url' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2008plus-3.3.12.zip',
+      'version' => '3.3.15',
+      'url' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2008plus-3.3.15.zip',
     ),
   ),
   'msysgit' => array(
