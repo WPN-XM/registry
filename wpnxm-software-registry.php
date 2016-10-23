@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Sun, 23 Oct 2016 16:22:59 +0000.
+    * Last Update Sun, 23 Oct 2016 16:23:06 +0000.
     * Do not edit manually!
     */
 
@@ -390,9 +390,10 @@
     'name' => 'HeidiSQL',
     'website' => 'http://www.heidisql.com/',
     '9.3' => 'http://www.heidisql.com/downloads/releases/HeidiSQL_9.3_Portable.zip',
+    '9.4' => 'http://www.heidisql.com/downloads/releases/HeidiSQL_9.4_Portable.zip',
     'latest' => array(
-      'version' => '9.3',
-      'url' => 'http://www.heidisql.com/downloads/releases/HeidiSQL_9.3_Portable.zip',
+      'version' => '9.4',
+      'url' => 'http://www.heidisql.com/downloads/releases/HeidiSQL_9.4_Portable.zip',
     ),
   ),
   'imagick' => array(
