@@ -286,10 +286,9 @@
     '7.49.1' => 'https://dl.bintray.com/vszakats/generic/curl-7.49.1-win64-mingw-libressl.7z',
     '7.50.0' => 'https://dl.bintray.com/vszakats/generic/curl-7.50.0-win64-mingw-libressl.7z',
     '7.50.1' => 'https://dl.bintray.com/vszakats/generic/curl-7.50.1-win64-mingw-libressl.7z',
-    '7.50.3' => 'https://dl.bintray.com/vszakats/generic/curl-7.50.3-win64-mingw-libressl.7z',
     'latest' => array(
-      'version' => '7.50.3',
-      'url' => 'https://dl.bintray.com/vszakats/generic/curl-7.50.3-win64-mingw-libressl.7z',
+      'version' => '7.50.1',
+      'url' => 'https://dl.bintray.com/vszakats/generic/curl-7.50.1-win64-mingw-libressl.7z',
     ),
   ),
   'curl-x86' => array(
@@ -301,10 +300,9 @@
     '7.49.1' => 'https://dl.bintray.com/vszakats/generic/curl-7.49.1-win32-mingw-libressl.7z',
     '7.50.0' => 'https://dl.bintray.com/vszakats/generic/curl-7.50.0-win32-mingw-libressl.7z',
     '7.50.1' => 'https://dl.bintray.com/vszakats/generic/curl-7.50.1-win32-mingw-libressl.7z',
-    '7.50.3' => 'https://dl.bintray.com/vszakats/generic/curl-7.50.3-win32-mingw-libressl.7z',
     'latest' => array(
-      'version' => '7.50.3',
-      'url' => 'https://dl.bintray.com/vszakats/generic/curl-7.50.3-win32-mingw-libressl.7z',
+      'version' => '7.50.1',
+      'url' => 'https://dl.bintray.com/vszakats/generic/curl-7.50.1-win32-mingw-libressl.7z',
     ),
   ),
   'elasticsearch' => array(
