@@ -1006,15 +1006,6 @@
       'url' => 'http://nginx.org/download/nginx-1.11.5.zip',
     ),
   ),
-  'ngrok' => array(
-    'name' => 'ngrok x32',
-    'website' => 'https://ngrok.com/',
-    '2.0.19' => 'https://dl.ngrok.com/ngrok_2.0.19_windows_386.zip',
-    'latest' => array(
-      'version' => '2.0.19',
-      'url' => 'https://dl.ngrok.com/ngrok_2.0.19_windows_386.zip',
-    ),
-  ),
   'node' => array(
     'name' => 'NodeJS x32',
     'website' => 'http://nodejs.org/',
