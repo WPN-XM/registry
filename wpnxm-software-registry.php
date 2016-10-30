@@ -5912,10 +5912,10 @@
     '0.8.3' => 'https://github.com/WPN-XM/server-control-panel/releases/download/0.8.3/wpnxm-scp-x86_boxed.zip',
     '0.8.4' => 'https://github.com/WPN-XM/server-control-panel/releases/download/0.8.4/wpnxm-scp-x86_boxed.zip',
     '0.8.5' => 'https://github.com/WPN-XM/server-control-panel/releases/download/0.8.5/wpnxm-scp-0.8.5-x86_boxed.zip',
-    '0.8.6' => 'https://github.com/WPN-XM/server-control-panel/releases/download/0.8.6/wpnxm-scp-0.8.6-x86_boxed.zip',
+    '0.8.6' => 'https://github.com/WPN-XM/server-control-panel/releases/download/v0.8.6/wpnxm-scp-0.8.6-x86_boxed.zip',
     'latest' => array(
       'version' => '0.8.6',
-      'url' => 'https://github.com/WPN-XM/server-control-panel/releases/download/0.8.6/wpnxm-scp-0.8.6-x86_boxed.zip',
+      'url' => 'https://github.com/WPN-XM/server-control-panel/releases/download/v0.8.6/wpnxm-scp-0.8.6-x86_boxed.zip',
     ),
   ),
   'wpnxm-scp-x64' => array(
@@ -5926,10 +5926,10 @@
     '0.8.3' => 'https://github.com/WPN-XM/server-control-panel/releases/download/0.8.3/wpnxm-scp-x86_64_boxed.zip',
     '0.8.4' => 'https://github.com/WPN-XM/server-control-panel/releases/download/0.8.4/wpnxm-scp-x86_64_boxed.zip',
     '0.8.5' => 'https://github.com/WPN-XM/server-control-panel/releases/download/0.8.5/wpnxm-scp-0.8.5-x86_64_boxed.zip',
-    '0.8.6' => 'https://github.com/WPN-XM/server-control-panel/releases/download/0.8.6/wpnxm-scp-0.8.6-x86_64_boxed.zip',
+    '0.8.6' => 'https://github.com/WPN-XM/server-control-panel/releases/download/v0.8.6/wpnxm-scp-0.8.6-x86_64_boxed.zip',
     'latest' => array(
       'version' => '0.8.6',
-      'url' => 'https://github.com/WPN-XM/server-control-panel/releases/download/0.8.6/wpnxm-scp-0.8.6-x86_64_boxed.zip',
+      'url' => 'https://github.com/WPN-XM/server-control-panel/releases/download/v0.8.6/wpnxm-scp-0.8.6-x86_64_boxed.zip',
     ),
   ),
   'xhprof' => array(
