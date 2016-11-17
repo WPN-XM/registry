@@ -3,10 +3,10 @@
 [ "composer",         "http:\/\/wpn-xm.org\/get.php?s=composer&v=1.0",                  "composer.phar",        "1.0" ],
 [ "conemu",           "http:\/\/wpn-xm.org\/get.php?s=conemu&v=16.10.22",               "conemu.7z",            "16.10.22" ],
 [ "mariadb",          "http:\/\/wpn-xm.org\/get.php?s=mariadb&v=10.2.2",                "mariadb.zip",          "10.2.2" ],
-[ "nginx",            "http:\/\/wpn-xm.org\/get.php?s=nginx&v=1.11.5",                  "nginx.zip",            "1.11.5" ],
+[ "nginx",            "http:\/\/wpn-xm.org\/get.php?s=nginx&v=1.11.6",                  "nginx.zip",            "1.11.6" ],
 [ "openssl",          "http:\/\/wpn-xm.org\/get.php?s=openssl&v=1.0.2j",                "openssl.zip",          "1.0.2j" ],
-[ "php",              "http:\/\/wpn-xm.org\/get.php?s=php&v=5.6.27",                    "php.zip",              "5.6.27" ],
-[ "phpext_xdebug",    "http:\/\/wpn-xm.org\/get.php?s=phpext_xdebug&v=2.4.0rc4&p=5.6",  "phpext_xdebug.zip",    "2.4.0rc4" ],
+[ "php",              "http:\/\/wpn-xm.org\/get.php?s=php&v=5.6.28",                    "php.zip",              "5.6.28" ],
+[ "phpext_xdebug",    "http:\/\/wpn-xm.org\/get.php?s=phpext_xdebug&v=2.5.0rc1&p=5.6",  "phpext_xdebug.zip",    "2.5.0rc1" ],
 [ "pickle",           "http:\/\/wpn-xm.org\/get.php?s=pickle&v=0.4.0",                  "pickle.phar",          "0.4.0" ],
 [ "wpnxm-benchmark",  "http:\/\/wpn-xm.org\/get.php?s=wpnxm-benchmark&v=1.0.0",         "wpnxm-benchmark.zip",  "1.0.0" ],
 [ "wpnxm-scp",        "http:\/\/wpn-xm.org\/get.php?s=wpnxm-scp&v=0.8.6",               "wpnxm-scp.zip",        "0.8.6" ]
