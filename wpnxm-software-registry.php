@@ -805,7 +805,6 @@
   'neo4j-x64' => array(
     'name' => 'Neo4j x64',
     'website' => 'http://neo4j.com/',
-    0 => '',
     '1.9.9' => 'http://neo4j.com/artifact.php?name=neo4j-community-1.9.9-windows.zip',
     '2.0.4' => 'http://neo4j.com/artifact.php?name=neo4j-community-2.0.4-windows.zip',
     '2.1.8' => 'http://neo4j.com/artifact.php?name=neo4j-community-2.1.8-windows.zip',
