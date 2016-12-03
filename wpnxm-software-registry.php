@@ -5523,11 +5523,10 @@
   'phpmemcachedadmin' => array(
     'name' => 'phpMemcachedAdmin',
     'website' => 'http://code.google.com/p/phpmemcacheadmin/',
-    '1.2.1' => 'http://phpmemcacheadmin.googlecode.com/files/phpMemcachedAdmin-1.2.1-r233.zip',
-    '1.2.2' => 'http://phpmemcacheadmin.googlecode.com/files/phpMemcachedAdmin-1.2.2-r262.zip',
+    '1.2.2' => 'https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/phpmemcacheadmin/phpMemcachedAdmin-1.2.2-r262.zip',
     'latest' => array(
       'version' => '1.2.2',
-      'url' => 'http://phpmemcacheadmin.googlecode.com/files/phpMemcachedAdmin-1.2.2-r262.zip',
+      'url' => 'https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/phpmemcacheadmin/phpMemcachedAdmin-1.2.2-r262.zip',
     ),
   ),
   'phpmyadmin' => array(
