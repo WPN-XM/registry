@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Wed, 07 Dec 2016 17:40:04 +0000.
+    * Last Update Wed, 07 Dec 2016 17:40:12 +0000.
     * Do not edit manually!
     */
 
@@ -1443,6 +1443,13 @@
     'latest' => array(
       'version' => '2.2.2',
       'url' => 'http://orientdb.com/download.php?email=unknown@unknown.com&file=orientdb-community-2.2.2.zip&os=win',
+    ),
+  ),
+  'osquery' => array(
+    '2.1.1' => 'https://osquery-packages.s3.amazonaws.com/choco/osquery-2.1.1.zip',
+    'latest' => array(
+      'url' => 'https://osquery-packages.s3.amazonaws.com/choco/osquery-2.1.1.zip',
+      'version' => '2.1.1',
     ),
   ),
   'pear' => array(
