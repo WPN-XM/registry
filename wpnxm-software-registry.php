@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Wed, 07 Dec 2016 17:39:48 +0000.
+    * Last Update Wed, 07 Dec 2016 17:39:58 +0000.
     * Do not edit manually!
     */
 
@@ -3790,20 +3790,28 @@
     ),
     '2.0.1' => array(
       'x86' => array(
-        '7.0' => 'http://windows.php.net/downloads/pecl/releases/msgpack/2.0.1/php_msgpack-2.0.1-7.0-nts-VC14-x86.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/msgpack/2.0.1/php_msgpack-2.0.1-7.0-nts-vc14-x86.zip',
       ),
       'x64' => array(
-        '7.0' => 'http://windows.php.net/downloads/pecl/releases/msgpack/2.0.1/php_msgpack-2.0.1-7.0-nts-VC14-x64.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/msgpack/2.0.1/php_msgpack-2.0.1-7.0-nts-vc14-x64.zip',
+      ),
+    ),
+    '2.0.2' => array(
+      'x86' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/msgpack/2.0.2/php_msgpack-2.0.2-7.0-nts-vc14-x86.zip',
+      ),
+      'x64' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/msgpack/2.0.2/php_msgpack-2.0.2-7.0-nts-vc14-x64.zip',
       ),
     ),
     'latest' => array(
-      'version' => '2.0.1',
+      'version' => '2.0.2',
       'url' => array(
         'x86' => array(
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/msgpack/2.0.1/php_msgpack-2.0.1-7.0-nts-VC14-x86.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/msgpack/2.0.2/php_msgpack-2.0.2-7.0-nts-vc14-x86.zip',
         ),
         'x64' => array(
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/msgpack/2.0.1/php_msgpack-2.0.1-7.0-nts-VC14-x64.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/msgpack/2.0.2/php_msgpack-2.0.2-7.0-nts-vc14-x64.zip',
         ),
       ),
     ),
