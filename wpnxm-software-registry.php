@@ -1452,6 +1452,8 @@
     ),
   ),
   'osquery' => array(
+    'name' => 'osquery',
+    'website' => 'https://osquery.io/',
     '2.1.1' => 'https://osquery-packages.s3.amazonaws.com/choco/osquery-2.1.1.zip',
     'latest' => array(
       'url' => 'https://osquery-packages.s3.amazonaws.com/choco/osquery-2.1.1.zip',
