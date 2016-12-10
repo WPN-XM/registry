@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Sat, 10 Dec 2016 01:34:11 +0000.
+    * Last Update Sat, 10 Dec 2016 01:35:05 +0000.
     * Do not edit manually!
     */
 
@@ -5145,62 +5145,50 @@
     ),
     '2.3.2' => array(
       'x86' => array(
-        '5.4' => 'http://windows.php.net/downloads/pecl/releases/yaf/2.3.2/php_yaf-2.3.2-5.4-nts-VC9-x86.zip',
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/yaf/2.3.2/php_yaf-2.3.2-5.5-nts-VC11-x86.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/yaf/2.3.2/php_yaf-2.3.2-5.6-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/yaf/2.3.2/php_yaf-2.3.2-5.6-nts-vc11-x86.zip',
       ),
       'x64' => array(
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/yaf/2.3.2/php_yaf-2.3.2-5.5-nts-VC11-x64.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/yaf/2.3.2/php_yaf-2.3.2-5.6-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/yaf/2.3.2/php_yaf-2.3.2-5.6-nts-vc11-x64.zip',
       ),
     ),
     '2.3.3' => array(
       'x86' => array(
-        '5.4' => 'http://windows.php.net/downloads/pecl/releases/yaf/2.3.3/php_yaf-2.3.3-5.4-nts-VC9-x86.zip',
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/yaf/2.3.3/php_yaf-2.3.3-5.5-nts-VC11-x86.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/yaf/2.3.3/php_yaf-2.3.3-5.6-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/yaf/2.3.3/php_yaf-2.3.3-5.6-nts-vc11-x86.zip',
       ),
       'x64' => array(
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/yaf/2.3.3/php_yaf-2.3.3-5.5-nts-VC11-x64.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/yaf/2.3.3/php_yaf-2.3.3-5.6-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/yaf/2.3.3/php_yaf-2.3.3-5.6-nts-vc11-x64.zip',
       ),
     ),
     '2.3.4' => array(
       'x86' => array(
-        '5.4' => 'http://windows.php.net/downloads/pecl/releases/yaf/2.3.4/php_yaf-2.3.4-5.4-nts-VC9-x86.zip',
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/yaf/2.3.4/php_yaf-2.3.4-5.5-nts-VC11-x86.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/yaf/2.3.4/php_yaf-2.3.4-5.6-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/yaf/2.3.4/php_yaf-2.3.4-5.6-nts-vc11-x86.zip',
       ),
       'x64' => array(
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/yaf/2.3.4/php_yaf-2.3.4-5.5-nts-VC11-x64.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/yaf/2.3.4/php_yaf-2.3.4-5.6-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/yaf/2.3.4/php_yaf-2.3.4-5.6-nts-vc11-x64.zip',
       ),
     ),
     '2.3.5' => array(
       'x86' => array(
-        '5.4' => 'http://windows.php.net/downloads/pecl/releases/yaf/2.3.5/php_yaf-2.3.5-5.4-nts-VC9-x86.zip',
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/yaf/2.3.5/php_yaf-2.3.5-5.5-nts-VC11-x86.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/yaf/2.3.5/php_yaf-2.3.5-5.6-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/yaf/2.3.5/php_yaf-2.3.5-5.6-nts-vc11-x86.zip',
       ),
       'x64' => array(
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/yaf/2.3.5/php_yaf-2.3.5-5.5-nts-VC11-x64.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/yaf/2.3.5/php_yaf-2.3.5-5.6-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/yaf/2.3.5/php_yaf-2.3.5-5.6-nts-vc11-x64.zip',
       ),
     ),
     '3.0.0' => array(
       'x86' => array(
-        '7.0' => 'http://windows.php.net/downloads/pecl/releases/yaf/3.0.0/php_yaf-3.0.0-7.0-nts-VC14-x86.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/yaf/3.0.0/php_yaf-3.0.0-7.0-nts-vc14-x86.zip',
       ),
       'x64' => array(
-        '7.0' => 'http://windows.php.net/downloads/pecl/releases/yaf/3.0.0/php_yaf-3.0.0-7.0-nts-VC14-x64.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/yaf/3.0.0/php_yaf-3.0.0-7.0-nts-vc14-x64.zip',
       ),
     ),
     '3.0.1' => array(
       'x86' => array(
-        '7.0' => 'http://windows.php.net/downloads/pecl/releases/yaf/3.0.1/php_yaf-3.0.1-7.0-nts-VC14-x86.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/yaf/3.0.1/php_yaf-3.0.1-7.0-nts-vc14-x86.zip',
       ),
       'x64' => array(
-        '7.0' => 'http://windows.php.net/downloads/pecl/releases/yaf/3.0.1/php_yaf-3.0.1-7.0-nts-VC14-x64.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/yaf/3.0.1/php_yaf-3.0.1-7.0-nts-vc14-x64.zip',
       ),
     ),
     '3.0.2' => array(
@@ -5220,15 +5208,25 @@
       ),
     ),
     '3.0.4' => array(
+      'x86' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/yaf/3.0.4/php_yaf-3.0.4-7.0-nts-vc14-x86.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/yaf/3.0.4/php_yaf-3.0.4-7.1-nts-vc14-x86.zip',
+      ),
       'x64' => array(
         '7.0' => 'http://windows.php.net/downloads/pecl/releases/yaf/3.0.4/php_yaf-3.0.4-7.0-nts-vc14-x64.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/yaf/3.0.4/php_yaf-3.0.4-7.1-nts-vc14-x64.zip',
       ),
     ),
     'latest' => array(
       'version' => '3.0.4',
       'url' => array(
+        'x86' => array(
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/yaf/3.0.4/php_yaf-3.0.4-7.0-nts-vc14-x86.zip',
+          '7.1' => 'http://windows.php.net/downloads/pecl/releases/yaf/3.0.4/php_yaf-3.0.4-7.1-nts-vc14-x86.zip',
+        ),
         'x64' => array(
           '7.0' => 'http://windows.php.net/downloads/pecl/releases/yaf/3.0.4/php_yaf-3.0.4-7.0-nts-vc14-x64.zip',
+          '7.1' => 'http://windows.php.net/downloads/pecl/releases/yaf/3.0.4/php_yaf-3.0.4-7.1-nts-vc14-x64.zip',
         ),
       ),
     ),
