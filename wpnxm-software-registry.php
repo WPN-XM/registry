@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Sat, 10 Dec 2016 01:24:25 +0000.
+    * Last Update Sat, 10 Dec 2016 01:25:08 +0000.
     * Do not edit manually!
     */
 
@@ -3776,32 +3776,42 @@
     ),
     '2.0.8' => array(
       'x86' => array(
-        '5.4' => 'http://windows.php.net/downloads/pecl/releases/oci8/2.0.8/php_oci8-2.0.8-5.4-nts-VC9-x86.zip',
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/oci8/2.0.8/php_oci8-2.0.8-5.5-nts-VC11-x86.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/oci8/2.0.8/php_oci8-2.0.8-5.6-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/oci8/2.0.8/php_oci8-2.0.8-5.6-nts-vc11-x86.zip',
       ),
       'x64' => array(
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/oci8/2.0.8/php_oci8-2.0.8-5.5-nts-VC11-x64.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/oci8/2.0.8/php_oci8-2.0.8-5.6-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/oci8/2.0.8/php_oci8-2.0.8-5.6-nts-vc11-x64.zip',
       ),
     ),
     '2.0.10' => array(
       'x86' => array(
-        '5.4' => 'http://windows.php.net/downloads/pecl/releases/oci8/2.0.10/php_oci8-2.0.10-5.4-nts-VC9-x86.zip',
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/oci8/2.0.10/php_oci8-2.0.10-5.5-nts-VC11-x86.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/oci8/2.0.10/php_oci8-2.0.10-5.6-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/oci8/2.0.10/php_oci8-2.0.10-5.6-nts-vc11-x86.zip',
       ),
       'x64' => array(
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/oci8/2.0.10/php_oci8-2.0.10-5.5-nts-VC11-x64.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/oci8/2.0.10/php_oci8-2.0.10-5.6-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/oci8/2.0.10/php_oci8-2.0.10-5.6-nts-vc11-x64.zip',
+      ),
+    ),
+    '2.0.11' => array(
+      'x86' => array(
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/oci8/2.0.11/php_oci8-2.0.11-5.6-nts-vc11-x86.zip',
+      ),
+      'x64' => array(
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/oci8/2.0.11/php_oci8-2.0.11-5.6-nts-vc11-x64.zip',
+      ),
+    ),
+    '2.0.12' => array(
+      'x86' => array(
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/oci8/2.0.12/php_oci8-2.0.12-5.6-nts-vc11-x86.zip',
+      ),
+      'x64' => array(
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/oci8/2.0.12/php_oci8-2.0.12-5.6-nts-vc11-x64.zip',
       ),
     ),
     '2.1.0' => array(
       'x86' => array(
-        '7.0' => 'http://windows.php.net/downloads/pecl/releases/oci8/2.1.0/php_oci8-2.1.0-7.0-nts-VC14-x86.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/oci8/2.1.0/php_oci8-2.1.0-7.0-nts-vc14-x86.zip',
       ),
       'x64' => array(
-        '7.0' => 'http://windows.php.net/downloads/pecl/releases/oci8/2.1.0/php_oci8-2.1.0-7.0-nts-VC14-x64.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/oci8/2.1.0/php_oci8-2.1.0-7.0-nts-vc14-x64.zip',
       ),
     ),
     '2.1.1' => array(
@@ -3823,9 +3833,11 @@
     '2.1.3' => array(
       'x86' => array(
         '7.0' => 'http://windows.php.net/downloads/pecl/releases/oci8/2.1.3/php_oci8-2.1.3-7.0-nts-vc14-x86.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/oci8/2.1.3/php_oci8-2.1.3-7.1-nts-vc14-x86.zip',
       ),
       'x64' => array(
         '7.0' => 'http://windows.php.net/downloads/pecl/releases/oci8/2.1.3/php_oci8-2.1.3-7.0-nts-vc14-x64.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/oci8/2.1.3/php_oci8-2.1.3-7.1-nts-vc14-x64.zip',
       ),
     ),
     'latest' => array(
@@ -3833,9 +3845,11 @@
       'url' => array(
         'x86' => array(
           '7.0' => 'http://windows.php.net/downloads/pecl/releases/oci8/2.1.3/php_oci8-2.1.3-7.0-nts-vc14-x86.zip',
+          '7.1' => 'http://windows.php.net/downloads/pecl/releases/oci8/2.1.3/php_oci8-2.1.3-7.1-nts-vc14-x86.zip',
         ),
         'x64' => array(
           '7.0' => 'http://windows.php.net/downloads/pecl/releases/oci8/2.1.3/php_oci8-2.1.3-7.0-nts-vc14-x64.zip',
+          '7.1' => 'http://windows.php.net/downloads/pecl/releases/oci8/2.1.3/php_oci8-2.1.3-7.1-nts-vc14-x64.zip',
         ),
       ),
     ),
