@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Sat, 10 Dec 2016 01:35:37 +0000.
+    * Last Update Sat, 10 Dec 2016 01:37:39 +0000.
     * Do not edit manually!
     */
 
@@ -5378,31 +5378,32 @@
     ),
     '1.1.2' => array(
       'x86' => array(
-        '5.4' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.1.2/php_zmq-1.1.2-5.4-nts-VC9-x86.zip',
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.1.2/php_zmq-1.1.2-5.5-nts-VC11-x86.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.1.2/php_zmq-1.1.2-5.6-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.1.2/php_zmq-1.1.2-5.6-nts-vc11-x86.zip',
       ),
       'x64' => array(
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.1.2/php_zmq-1.1.2-5.5-nts-VC11-x64.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.1.2/php_zmq-1.1.2-5.6-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.1.2/php_zmq-1.1.2-5.6-nts-vc11-x64.zip',
       ),
     ),
     '1.1.3' => array(
       'x86' => array(
-        '7.0' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.1.3/php_zmq-1.1.3-7.0-nts-VC14-x86.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.1.3/php_zmq-1.1.3-7.0-nts-vc14-x86.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.1.3/php_zmq-1.1.3-7.1-nts-vc14-x86.zip',
       ),
       'x64' => array(
-        '7.0' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.1.3/php_zmq-1.1.3-7.0-nts-VC14-x64.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.1.3/php_zmq-1.1.3-7.0-nts-vc14-x64.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.1.3/php_zmq-1.1.3-7.1-nts-vc14-x64.zip',
       ),
     ),
     'latest' => array(
       'version' => '1.1.3',
       'url' => array(
         'x86' => array(
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.1.3/php_zmq-1.1.3-7.0-nts-VC14-x86.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.1.3/php_zmq-1.1.3-7.0-nts-vc14-x86.zip',
+          '7.1' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.1.3/php_zmq-1.1.3-7.1-nts-vc14-x86.zip',
         ),
         'x64' => array(
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.1.3/php_zmq-1.1.3-7.0-nts-VC14-x64.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.1.3/php_zmq-1.1.3-7.0-nts-vc14-x64.zip',
+          '7.1' => 'http://windows.php.net/downloads/pecl/releases/zmq/1.1.3/php_zmq-1.1.3-7.1-nts-vc14-x64.zip',
         ),
       ),
     ),
