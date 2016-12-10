@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Sat, 10 Dec 2016 01:17:13 +0000.
+    * Last Update Sat, 10 Dec 2016 01:18:00 +0000.
     * Do not edit manually!
     */
 
@@ -2510,176 +2510,140 @@
     'website' => 'https://pecl.php.net/package/hprose',
     '1.4.1' => array(
       'x86' => array(
-        '5.4' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.4.1/php_hprose-1.4.1-5.4-nts-VC9-x86.zip',
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.4.1/php_hprose-1.4.1-5.5-nts-VC11-x86.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.4.1/php_hprose-1.4.1-5.6-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.4.1/php_hprose-1.4.1-5.6-nts-vc11-x86.zip',
       ),
       'x64' => array(
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.4.1/php_hprose-1.4.1-5.5-nts-VC11-x64.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.4.1/php_hprose-1.4.1-5.6-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.4.1/php_hprose-1.4.1-5.6-nts-vc11-x64.zip',
       ),
     ),
     '1.4.2' => array(
       'x86' => array(
-        '5.4' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.4.2/php_hprose-1.4.2-5.4-nts-VC9-x86.zip',
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.4.2/php_hprose-1.4.2-5.5-nts-VC11-x86.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.4.2/php_hprose-1.4.2-5.6-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.4.2/php_hprose-1.4.2-5.6-nts-vc11-x86.zip',
       ),
       'x64' => array(
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.4.2/php_hprose-1.4.2-5.5-nts-VC11-x64.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.4.2/php_hprose-1.4.2-5.6-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.4.2/php_hprose-1.4.2-5.6-nts-vc11-x64.zip',
       ),
     ),
     '1.5.0' => array(
       'x86' => array(
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.5.0/php_hprose-1.5.0-5.6-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.5.0/php_hprose-1.5.0-5.6-nts-vc11-x86.zip',
       ),
       'x64' => array(
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.5.0/php_hprose-1.5.0-5.5-nts-VC11-x64.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.5.0/php_hprose-1.5.0-5.6-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.5.0/php_hprose-1.5.0-5.6-nts-vc11-x64.zip',
       ),
     ),
     '1.5.1' => array(
       'x86' => array(
-        '5.4' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.5.1/php_hprose-1.5.1-5.4-nts-VC9-x86.zip',
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.5.1/php_hprose-1.5.1-5.5-nts-VC11-x86.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.5.1/php_hprose-1.5.1-5.6-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.5.1/php_hprose-1.5.1-5.6-nts-vc11-x86.zip',
       ),
       'x64' => array(
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.5.1/php_hprose-1.5.1-5.5-nts-VC11-x64.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.5.1/php_hprose-1.5.1-5.6-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.5.1/php_hprose-1.5.1-5.6-nts-vc11-x64.zip',
       ),
     ),
     '1.5.2' => array(
       'x86' => array(
-        '5.4' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.5.2/php_hprose-1.5.2-5.4-nts-VC9-x86.zip',
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.5.2/php_hprose-1.5.2-5.5-nts-VC11-x86.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.5.2/php_hprose-1.5.2-5.6-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.5.2/php_hprose-1.5.2-5.6-nts-vc11-x86.zip',
       ),
       'x64' => array(
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.5.2/php_hprose-1.5.2-5.5-nts-VC11-x64.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.5.2/php_hprose-1.5.2-5.6-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.5.2/php_hprose-1.5.2-5.6-nts-vc11-x64.zip',
       ),
     ),
     '1.5.3' => array(
       'x86' => array(
-        '5.4' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.5.3/php_hprose-1.5.3-5.4-nts-VC9-x86.zip',
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.5.3/php_hprose-1.5.3-5.5-nts-VC11-x86.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.5.3/php_hprose-1.5.3-5.6-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.5.3/php_hprose-1.5.3-5.6-nts-vc11-x86.zip',
       ),
       'x64' => array(
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.5.3/php_hprose-1.5.3-5.5-nts-VC11-x64.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.5.3/php_hprose-1.5.3-5.6-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.5.3/php_hprose-1.5.3-5.6-nts-vc11-x64.zip',
       ),
     ),
     '1.5.4' => array(
       'x86' => array(
-        '5.4' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.5.4/php_hprose-1.5.4-5.4-nts-VC9-x86.zip',
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.5.4/php_hprose-1.5.4-5.5-nts-VC11-x86.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.5.4/php_hprose-1.5.4-5.6-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.5.4/php_hprose-1.5.4-5.6-nts-vc11-x86.zip',
       ),
       'x64' => array(
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.5.4/php_hprose-1.5.4-5.5-nts-VC11-x64.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.5.4/php_hprose-1.5.4-5.6-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.5.4/php_hprose-1.5.4-5.6-nts-vc11-x64.zip',
       ),
     ),
     '1.5.5' => array(
       'x86' => array(
-        '5.4' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.5.5/php_hprose-1.5.5-5.4-nts-VC9-x86.zip',
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.5.5/php_hprose-1.5.5-5.5-nts-VC11-x86.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.5.5/php_hprose-1.5.5-5.6-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.5.5/php_hprose-1.5.5-5.6-nts-vc11-x86.zip',
       ),
       'x64' => array(
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.5.5/php_hprose-1.5.5-5.5-nts-VC11-x64.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.5.5/php_hprose-1.5.5-5.6-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.5.5/php_hprose-1.5.5-5.6-nts-vc11-x64.zip',
       ),
     ),
     '1.6.0' => array(
       'x86' => array(
-        '5.4' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.0/php_hprose-1.6.0-5.4-nts-VC9-x86.zip',
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.0/php_hprose-1.6.0-5.5-nts-VC11-x86.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.0/php_hprose-1.6.0-5.6-nts-VC11-x86.zip',
-        '7.0' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.0/php_hprose-1.6.0-7.0-nts-VC14-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.0/php_hprose-1.6.0-5.6-nts-vc11-x86.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.0/php_hprose-1.6.0-7.0-nts-vc14-x86.zip',
       ),
       'x64' => array(
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.0/php_hprose-1.6.0-5.5-nts-VC11-x64.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.0/php_hprose-1.6.0-5.6-nts-VC11-x64.zip',
-        '7.0' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.0/php_hprose-1.6.0-7.0-nts-VC14-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.0/php_hprose-1.6.0-5.6-nts-vc11-x64.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.0/php_hprose-1.6.0-7.0-nts-vc14-x64.zip',
       ),
     ),
     '1.6.1' => array(
       'x86' => array(
-        '5.4' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.1/php_hprose-1.6.1-5.4-nts-VC9-x86.zip',
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.1/php_hprose-1.6.1-5.5-nts-VC11-x86.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.1/php_hprose-1.6.1-5.6-nts-VC11-x86.zip',
-        '7.0' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.1/php_hprose-1.6.1-7.0-nts-VC14-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.1/php_hprose-1.6.1-5.6-nts-vc11-x86.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.1/php_hprose-1.6.1-7.0-nts-vc14-x86.zip',
       ),
       'x64' => array(
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.1/php_hprose-1.6.1-5.5-nts-VC11-x64.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.1/php_hprose-1.6.1-5.6-nts-VC11-x64.zip',
-        '7.0' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.1/php_hprose-1.6.1-7.0-nts-VC14-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.1/php_hprose-1.6.1-5.6-nts-vc11-x64.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.1/php_hprose-1.6.1-7.0-nts-vc14-x64.zip',
       ),
     ),
     '1.6.2' => array(
       'x86' => array(
-        '7.0' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.2/php_hprose-1.6.2-7.0-nts-VC14-x86.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.2/php_hprose-1.6.2-7.0-nts-vc14-x86.zip',
       ),
       'x64' => array(
-        '7.0' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.2/php_hprose-1.6.2-7.0-nts-VC14-x64.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.2/php_hprose-1.6.2-7.0-nts-vc14-x64.zip',
       ),
     ),
     '1.6.3' => array(
       'x86' => array(
-        '5.4' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.3/php_hprose-1.6.3-5.4-nts-VC9-x86.zip',
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.3/php_hprose-1.6.3-5.5-nts-VC11-x86.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.3/php_hprose-1.6.3-5.6-nts-VC11-x86.zip',
-        '7.0' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.3/php_hprose-1.6.3-7.0-nts-VC14-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.3/php_hprose-1.6.3-5.6-nts-vc11-x86.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.3/php_hprose-1.6.3-7.0-nts-vc14-x86.zip',
       ),
       'x64' => array(
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.3/php_hprose-1.6.3-5.5-nts-VC11-x64.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.3/php_hprose-1.6.3-5.6-nts-VC11-x64.zip',
-        '7.0' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.3/php_hprose-1.6.3-7.0-nts-VC14-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.3/php_hprose-1.6.3-5.6-nts-vc11-x64.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.3/php_hprose-1.6.3-7.0-nts-vc14-x64.zip',
       ),
     ),
     '1.6.4' => array(
       'x86' => array(
-        '5.4' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.4/php_hprose-1.6.4-5.4-nts-vc9-x86.zip',
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.4/php_hprose-1.6.4-5.5-nts-vc11-x86.zip',
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.4/php_hprose-1.6.4-5.6-nts-vc11-x86.zip',
         '7.0' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.4/php_hprose-1.6.4-7.0-nts-vc14-x86.zip',
       ),
       'x64' => array(
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.4/php_hprose-1.6.4-5.5-nts-vc11-x64.zip',
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.4/php_hprose-1.6.4-5.6-nts-vc11-x64.zip',
         '7.0' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.4/php_hprose-1.6.4-7.0-nts-vc14-x64.zip',
       ),
     ),
     '1.6.5' => array(
       'x86' => array(
-        '5.4' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.5/php_hprose-1.6.5-5.4-nts-vc9-x86.zip',
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.5/php_hprose-1.6.5-5.5-nts-vc11-x86.zip',
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.5/php_hprose-1.6.5-5.6-nts-vc11-x86.zip',
         '7.0' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.5/php_hprose-1.6.5-7.0-nts-vc14-x86.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.5/php_hprose-1.6.5-7.1-nts-vc14-x86.zip',
       ),
       'x64' => array(
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.5/php_hprose-1.6.5-5.5-nts-vc11-x64.zip',
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.5/php_hprose-1.6.5-5.6-nts-vc11-x64.zip',
         '7.0' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.5/php_hprose-1.6.5-7.0-nts-vc14-x64.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.5/php_hprose-1.6.5-7.1-nts-vc14-x64.zip',
       ),
     ),
     'latest' => array(
       'version' => '1.6.5',
       'url' => array(
         'x86' => array(
-          '5.4' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.5/php_hprose-1.6.5-5.4-nts-vc9-x86.zip',
-          '5.5' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.5/php_hprose-1.6.5-5.5-nts-vc11-x86.zip',
           '5.6' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.5/php_hprose-1.6.5-5.6-nts-vc11-x86.zip',
           '7.0' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.5/php_hprose-1.6.5-7.0-nts-vc14-x86.zip',
+          '7.1' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.5/php_hprose-1.6.5-7.1-nts-vc14-x86.zip',
         ),
         'x64' => array(
-          '5.5' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.5/php_hprose-1.6.5-5.5-nts-vc11-x64.zip',
           '5.6' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.5/php_hprose-1.6.5-5.6-nts-vc11-x64.zip',
           '7.0' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.5/php_hprose-1.6.5-7.0-nts-vc14-x64.zip',
+          '7.1' => 'http://windows.php.net/downloads/pecl/releases/hprose/1.6.5/php_hprose-1.6.5-7.1-nts-vc14-x64.zip',
         ),
       ),
     ),
