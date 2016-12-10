@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Sat, 10 Dec 2016 01:14:52 +0000.
+    * Last Update Sat, 10 Dec 2016 01:15:43 +0000.
     * Do not edit manually!
     */
 
@@ -2490,7 +2490,7 @@
       ),
     ),
     'latest' => array(
-      'version' => '2.2.1',
+      'version' => '0',
       'url' => array(
         'x86' => array(
           '5.4' => 'http://windows.php.net/downloads/pecl/releases/event/2.2.1/php_event-2.2.1-5.4-nts-vc9-x86.zip',
