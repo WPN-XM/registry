@@ -1,0 +1,531 @@
+{
+    "aerospike": {
+        "website": "[aerospike.com](http:\/\/www.aerospike.com\/docs\/client\/php\/install\/)",
+        "maintainers": "",
+        "tests": "",
+        "docs": "",
+        "worksonphp5": "",
+        "worksonphp7": "",
+        "goodonphp7": "",
+        "details": ""
+    },
+    "apn": {
+        "website": "[github.com](https:\/\/github.com\/adobkin\/php-apn)",
+        "maintainers": "",
+        "tests": "no",
+        "docs": "yes",
+        "worksonphp5": "",
+        "worksonphp7": "no",
+        "goodonphp7": "no",
+        "details": ""
+    },
+    "blackfire": {
+        "website": "[blackfire.io](https:\/\/blackfire.io\/)",
+        "maintainers": "",
+        "tests": "",
+        "docs": "",
+        "worksonphp5": "yes",
+        "worksonphp7": "yes",
+        "goodonphp7": "yes",
+        "details": ""
+    },
+    "blast": {
+        "website": "[php4u.co.uk](https:\/\/php4u.co.uk\/blast-search-lucene-magento-extension\/)",
+        "maintainers": "",
+        "tests": "",
+        "docs": "",
+        "worksonphp5": "",
+        "worksonphp7": "",
+        "goodonphp7": "",
+        "details": ""
+    },
+    "blitz": {
+        "website": "[alexeyrybak.com](http:\/\/alexeyrybak.com\/blitz\/blitz_en.html), [github.com](https:\/\/github.com\/alexeyrybak\/blitz)",
+        "maintainers": "",
+        "tests": "yes",
+        "docs": "",
+        "worksonphp5": "yes",
+        "worksonphp7": "yes",
+        "goodonphp7": "",
+        "details": "In [php7](https:\/\/github.com\/alexeyrybak\/blitz\/tree\/php7) branch"
+    },
+    "clamav": {
+        "website": "[sourceforge.net](http:\/\/sourceforge.net\/projects\/php-clamav\/)",
+        "maintainers": "",
+        "tests": "",
+        "docs": "",
+        "worksonphp5": "",
+        "worksonphp7": "",
+        "goodonphp7": "",
+        "details": ""
+    },
+    "excel": {
+        "website": "[github.com](https:\/\/github.com\/iliaal\/php_excel)",
+        "maintainers": "",
+        "tests": "yes",
+        "docs": "yes",
+        "worksonphp5": "yes",
+        "worksonphp7": "yes",
+        "goodonphp7": "",
+        "details": "branch for PHP7 exists but not compatible with master"
+    },
+    "git2": {
+        "website": "[github.com](https:\/\/github.com\/libgit2\/php-git)",
+        "maintainers": "",
+        "tests": "",
+        "docs": "",
+        "worksonphp5": "",
+        "worksonphp7": "",
+        "goodonphp7": "",
+        "details": ""
+    },
+    "gorilla": {
+        "website": "[github.com](https:\/\/github.com\/oasynnoum\/phpmake_serialport)",
+        "maintainers": "",
+        "tests": "",
+        "docs": "",
+        "worksonphp5": "",
+        "worksonphp7": "",
+        "goodonphp7": "",
+        "details": ""
+    },
+    "gumbo": {
+        "website": "[github.com](https:\/\/github.com\/BipSync\/gumbo)",
+        "maintainers": "",
+        "tests": "",
+        "docs": "",
+        "worksonphp5": "",
+        "worksonphp7": "",
+        "goodonphp7": "",
+        "details": ""
+    },
+    "handlebars": {
+        "website": "[github.com](https:\/\/github.com\/jbboehr\/php-handlebars)",
+        "maintainers": "yes",
+        "tests": "yes",
+        "docs": "no",
+        "worksonphp5": "yes",
+        "worksonphp7": "yes",
+        "goodonphp7": "yes",
+        "details": ""
+    },
+    "httpparser": {
+        "website": "[github.com](https:\/\/github.com\/dhotson\/httpparser-php)",
+        "maintainers": "",
+        "tests": "",
+        "docs": "",
+        "worksonphp5": "",
+        "worksonphp7": "",
+        "goodonphp7": "",
+        "details": ""
+    },
+    "httprequest": {
+        "website": "[github.com](https:\/\/github.com\/dhotson\/httpparser-php)",
+        "maintainers": "",
+        "tests": "",
+        "docs": "",
+        "worksonphp5": "",
+        "worksonphp7": "",
+        "goodonphp7": "",
+        "details": ""
+    },
+    "incpath": {
+        "website": "[github.com](https:\/\/github.com\/etsy\/incpath\/tree\/php7)",
+        "maintainers": "yes",
+        "tests": "",
+        "docs": "",
+        "worksonphp5": "yes",
+        "worksonphp7": "yes",
+        "goodonphp7": "",
+        "details": ""
+    },
+    "libpuzzle": {
+        "website": "[github.com](https:\/\/github.com\/alfa-jpn\/php-libpuzzle5)",
+        "maintainers": "",
+        "tests": "yes",
+        "docs": "no",
+        "worksonphp5": "yes",
+        "worksonphp7": "yes",
+        "goodonphp7": "yes",
+        "details": "[PR](https:\/\/github.com\/alfa-jpn\/php-libpuzzle5\/pull\/1)"
+    },
+    "lpsolve": {
+        "website": "[sourceforge.net](http:\/\/lpsolve.sourceforge.net\/5.5\/PHP.htm)",
+        "maintainers": "no",
+        "tests": "yes",
+        "docs": "yes",
+        "worksonphp5": "yes (with one small change)",
+        "worksonphp7": "yes",
+        "goodonphp7": "yes",
+        "details": "https:\/\/github.com\/myfarms\/php_lp_solve"
+    },
+    "maxminddb": {
+        "website": "[github.com](https://github.com/maxmind/MaxMind-DB-Reader-php)",
+        "maintainers": "yes",
+        "tests": "yes",
+        "docs": "yes",
+        "worksonphp5": "yes",
+        "worksonphp7": "yes",
+        "details": "https://github.com/maxmind/MaxMind-DB-Reader-php/tree/master/ext"
+    },
+    "meminfo": {
+        "website": "[github.com](https:\/\/github.com\/BitOne\/php-meminfo)",
+        "maintainers": "",
+        "tests": "",
+        "docs": "",
+        "worksonphp5": "yes",
+        "worksonphp7": "no",
+        "goodonphp7": "no",
+        "details": ""
+    },
+    "midgard2": {
+        "website": "[midgard-project.org](http:\/\/midgard-project.org\/midgard2\/#midgard2-php5)",
+        "maintainers": "",
+        "tests": "",
+        "docs": "",
+        "worksonphp5": "",
+        "worksonphp7": "",
+        "goodonphp7": "",
+        "details": ""
+    },
+    "mongo | [github.com](https:\/\/github.com\/mongodb\/mongo-php-driver-legacy)": {
+        "website": "yes",
+        "maintainers": "yes",
+        "tests": "yes",
+        "docs": "yes",
+        "worksonphp5": "no",
+        "worksonphp7": "no",
+        "goodonphp7": "Superseeded by [ext\/mongodb](http:\/\/pecl.php.net\/mongodb)",
+        "details": ""
+    },
+    "mongodb": {
+        "website": "[github.com](https:\/\/github.com\/mongodb\/mongo-php-driver)",
+        "maintainers": "yes",
+        "tests": "yes",
+        "docs": "yes",
+        "worksonphp5": "yes",
+        "worksonphp7": "yes",
+        "goodonphp7": "yes",
+        "details": "A new driver for PHP 5\/PHP 7\/HHVM has being written: [blogpost](https:\/\/derickrethans.nl\/new-drivers-part2.html)"
+    },
+    "mustache": {
+        "website": "[github.com](https:\/\/github.com\/jbboehr\/php-mustache)",
+        "maintainers": "yes",
+        "tests": "yes",
+        "docs": "",
+        "worksonphp5": "yes",
+        "worksonphp7": "yes",
+        "goodonphp7": "",
+        "details": ">= v0.6.1"
+    },
+    "newrelic": {
+        "website": "[newrelic.com](https:\/\/newrelic.com\/)",
+        "maintainers": "",
+        "tests": "",
+        "docs": "",
+        "worksonphp5": "",
+        "worksonphp7": "",
+        "goodonphp7": "",
+        "details": "closed source"
+    },
+    "oboe": {
+        "website": "[appneta.com](https:\/\/docs.appneta.com\/configuring-php-instrumentation)",
+        "maintainers": "",
+        "tests": "",
+        "docs": "",
+        "worksonphp5": "",
+        "worksonphp7": "",
+        "goodonphp7": "",
+        "details": ""
+    },
+    "pharext": {
+        "website": "[github.com](https:\/\/github.com\/m6w6\/pharext)",
+        "maintainers": "yes",
+        "tests": "",
+        "docs": "",
+        "worksonphp5": "yes",
+        "worksonphp7": "",
+        "goodonphp7": "",
+        "details": ""
+    },
+    "phalcon": {
+        "website": "[phalconphp.com](https:\/\/phalconphp.com\/)",
+        "maintainers": "",
+        "tests": "",
+        "docs": "",
+        "worksonphp5": "yes",
+        "worksonphp7": "yes",
+        "goodonphp7": "yes",
+        "details": "Github [#10378](https:\/\/github.com\/phalcon\/cphalcon\/issues\/10378)"
+    },
+    "php-rdkafka": {
+        "website": "[pecl.php.net](https:\/\/pecl.php.net\/package\/rdkafka), [github.com](https:\/\/github.com\/arnaud-lb\/php-rdkafka)",
+        "maintainers": "yes",
+        "tests": "yes",
+        "docs": "yes",
+        "worksonphp5": "yes",
+        "worksonphp7": "yes",
+        "goodonphp7": "yes",
+        "details": "use [php7](https:\/\/github.com\/arnaud-lb\/php-rdkafka\/tree\/php7) branch"
+    },
+    "phpiredis": {
+        "website": "[github.com](https:\/\/github.com\/nrk\/phpiredis)",
+        "maintainers": "",
+        "tests": "",
+        "docs": "",
+        "worksonphp5": "",
+        "worksonphp7": "",
+        "goodonphp7": "",
+        "details": "[PR](https:\/\/github.com\/nrk\/phpiredis\/pull\/39)"
+    },
+    "phpkafka": {
+        "website": "[github.com](https:\/\/github.com\/EVODelavega\/phpkafka)",
+        "maintainers": "yes",
+        "tests": "",
+        "docs": "",
+        "worksonphp5": "yes",
+        "worksonphp7": "",
+        "goodonphp7": "",
+        "details": ""
+    },
+    "phptrace": {
+        "website": "[github.com](https:\/\/github.com\/Qihoo360\/phptrace)",
+        "maintainers": "",
+        "tests": "",
+        "docs": "",
+        "worksonphp5": "yes",
+        "worksonphp7": "",
+        "goodonphp7": "",
+        "details": ""
+    },
+    "pimple": {
+        "website": "[github.com](https:\/\/github.com\/silexphp\/Pimple)",
+        "maintainers": "",
+        "tests": "",
+        "docs": "",
+        "worksonphp5": "yes",
+        "worksonphp7": "no",
+        "goodonphp7": "no",
+        "details": "In [ext\/pimple](https:\/\/github.com\/silexphp\/Pimple\/tree\/master\/ext\/pimple) directory, [PR](https:\/\/github.com\/silexphp\/Pimple\/pull\/187)"
+    },
+    "proonga": {
+        "website": "[github.com](https:\/\/github.com\/Yujiro3\/proonga)",
+        "maintainers": "yes",
+        "tests": "",
+        "docs": "",
+        "worksonphp5": "yes",
+        "worksonphp7": "",
+        "goodonphp7": "",
+        "details": ""
+    },
+    "protobuf": {
+        "website": "[github.com](https:\/\/github.com\/allegro\/php-protobuf)",
+        "maintainers": "",
+        "tests": "",
+        "docs": "",
+        "worksonphp5": "",
+        "worksonphp7": "",
+        "goodonphp7": "",
+        "details": ""
+    },
+    "pssh": {
+        "website": "[github.com](https:\/\/github.com\/badoo\/pssh_extension)",
+        "maintainers": "",
+        "tests": "",
+        "docs": "",
+        "worksonphp5": "",
+        "worksonphp7": "",
+        "goodonphp7": "",
+        "details": ""
+    },
+    "sapnwrfc": {
+        "website": "[github.com](https:\/\/github.com\/piersharding\/php-sapnwrfc)",
+        "maintainers": "",
+        "tests": "",
+        "docs": "",
+        "worksonphp5": "yes",
+        "worksonphp7": "",
+        "goodonphp7": "",
+        "details": ""
+    },
+    "scalar_objects": {
+        "website": "[github.com](https:\/\/github.com\/nikic\/scalar_objects)",
+        "maintainers": "",
+        "tests": "",
+        "docs": "",
+        "worksonphp5": "",
+        "worksonphp7": "",
+        "goodonphp7": "",
+        "details": ""
+    },
+    "secp256k1-php": {
+        "website": "[github.com](https:\/\/github.com\/Bit-Wasp\/secp256k1-php)",
+        "maintainers": "Yes",
+        "tests": "",
+        "docs": "",
+        "worksonphp5": "",
+        "worksonphp7": "",
+        "goodonphp7": "",
+        "details": ""
+    },
+    "snappy": {
+        "website": "[github.com](https:\/\/github.com\/kjdev\/php-ext-snappy)",
+        "maintainers": "yes",
+        "tests": "yes",
+        "docs": "yes",
+        "worksonphp5": "yes",
+        "worksonphp7": "yes",
+        "goodonphp7": "yes",
+        "details": "[PR](https:\/\/github.com\/kjdev\/php-ext-snappy\/pull\/2)"
+    },
+    "sqlsrv": {
+        "website": "[github.com](https:\/\/github.com\/azure\/msphpsql)",
+        "maintainers": "yes",
+        "tests": "",
+        "docs": "yes",
+        "worksonphp5": "yes",
+        "worksonphp7": "",
+        "goodonphp7": "",
+        "details": "Windows only"
+    },
+    "stardict": {
+        "website": "[code.google.com](https:\/\/code.google.com\/p\/php-stardict\/)",
+        "maintainers": "no",
+        "tests": "no",
+        "docs": "no",
+        "worksonphp5": "no",
+        "worksonphp7": "",
+        "goodonphp7": "",
+        "details": "https:\/\/github.com\/thestanislav\/php-stardict should compile against php5"
+    },
+    "stemmer": {
+        "website": "[code.google.com](https:\/\/code.google.com\/p\/php-stemmer\/)",
+        "maintainers": "no",
+        "tests": "",
+        "docs": "",
+        "worksonphp5": "no",
+        "worksonphp7": "no",
+        "goodonphp7": "no",
+        "details": "[PHP 7-compatible fork](https:\/\/github.com\/jbboehr\/php-stemmer)"
+    },
+    "suhosin": {
+        "website": "[github.com](https:\/\/github.com\/stefanesser\/suhosin\/)",
+        "maintainers": "",
+        "tests": "",
+        "docs": "",
+        "worksonphp5": "",
+        "worksonphp7": "",
+        "goodonphp7": "",
+        "details": ""
+    },
+    "twig": {
+        "website": "[twig.sensiolabs.org](http:\/\/twig.sensiolabs.org\/)",
+        "maintainers": "yes",
+        "tests": "",
+        "docs": "no",
+        "worksonphp5": "yes",
+        "worksonphp7": "no",
+        "goodonphp7": "",
+        "details": ""
+    },
+    "vld": {
+        "website": "[github.com](https:\/\/github.com\/derickr\/vld)",
+        "maintainers": "yes",
+        "tests": "yes",
+        "docs": "yes",
+        "worksonphp5": "yes",
+        "worksonphp7": "yes",
+        "goodonphp7": "yes",
+        "details": ""
+    },
+    "uprofiler": {
+        "website": "[github](https:\/\/github.com\/FriendsOfPHP\/uprofiler)",
+        "maintainers": "yes",
+        "tests": "",
+        "docs": "",
+        "worksonphp5": "",
+        "worksonphp7": "",
+        "goodonphp7": "",
+        "details": ""
+    },
+    "usb": {
+        "website": "[github.com](https:\/\/github.com\/oasynnoum\/phpmake_usb)",
+        "maintainers": "",
+        "tests": "",
+        "docs": "",
+        "worksonphp5": "",
+        "worksonphp7": "",
+        "goodonphp7": "",
+        "details": ""
+    },
+    "wfio": {
+        "website": "[github.com](https:\/\/github.com\/kenjiuno\/php-wfio)",
+        "maintainers": "yes",
+        "tests": "yes",
+        "docs": "yes",
+        "worksonphp5": "yes",
+        "worksonphp7": "yes",
+        "goodonphp7": "yes",
+        "details": "UTF-8 filename support for PHP >= 5.4 on Windows."
+    },
+    "voltdb": {
+        "website": "[github.com](https:\/\/github.com\/VoltDB\/voltdb-client-php)",
+        "maintainers": "",
+        "tests": "",
+        "docs": "",
+        "worksonphp5": "",
+        "worksonphp7": "",
+        "goodonphp7": "",
+        "details": ""
+    },   
+    "xapian": {
+        "website": "[xapian.org](http:\/\/xapian.org\/docs\/bindings\/php\/)",
+        "maintainers": "no",
+        "tests": "no",
+        "docs": "yes",
+        "worksonphp5": "yes",
+        "worksonphp7": "",
+        "goodonphp7": "",
+        "details": ""
+    },
+    "xdebug": {
+        "website": "[xdebug.org](http:\/\/xdebug.org\/)",
+        "maintainers": "yes (@derickr)",
+        "tests": "yes",
+        "docs": "yes",
+        "worksonphp5": "yes",
+        "worksonphp7": "yes",
+        "goodonphp7": "nearly",
+        "details": "Use Xdebug 2.4.0RC4"
+    },
+    "yrmcds": {
+        "website": "[github.com](https:\/\/github.com\/cybozu\/php-yrmcds)",
+        "maintainers": "yes",
+        "tests": "yes",
+        "docs": "yes",
+        "worksonphp5": "yes",
+        "worksonphp7": "yes",
+        "goodonphp7": "yes",
+        "details": "PHP 7 works as of version 1.1.0"
+    },
+    "zbarcode": {
+        "website": "[github.com](https:\/\/github.com\/mkoppanen\/php-zbarcode)",
+        "maintainers": "yes",
+        "tests": "yes",
+        "docs": "yes",
+        "worksonphp5": "yes",
+        "worksonphp7": "yes",
+        "goodonphp7": "no",
+        "details": "[in development](https:\/\/github.com\/jorissteyn\/php-zbarcode\/tree\/gophp7) [more info](https:\/\/github.com\/mkoppanen\/php-zbarcode\/issues\/22)"
+    },
+    "zopfli": {
+        "website": "[github.com](https:\/\/github.com\/kjdev\/php-ext-zopfli)",
+        "maintainers": "",
+        "tests": "yes",
+        "docs": "yes",
+        "worksonphp5": "yes",
+        "worksonphp7": "yes",
+        "goodonphp7": "yes",
+        "details": "In master branch"
+    }
+}
