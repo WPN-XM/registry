@@ -16,7 +16,7 @@
 [ "openssl-x64",            "http:\/\/wpn-xm.org\/get.php?s=openssl-x64&v=1.0.2j",                               "openssl.zip",                "1.0.2j" ],
 [ "pear",                   "http:\/\/wpn-xm.org\/get.php?s=pear&v=1.0",                                         "go-pear.phar",               "1.0" ],
 [ "php-cs-fixer",           "http:\/\/wpn-xm.org\/get.php?s=php-cs-fixer&v=latest",                              "php-cs-fixer.phar",          "latest" ],
-[ "php-x64",                "http:\/\/wpn-xm.org\/get.php?s=php-x64&v=5.6.28",                                   "php.zip",                    "5.6.28" ],
+[ "php-x64",                "http:\/\/wpn-xm.org\/get.php?s=php-x64&v=5.6.29",                                   "php.zip",                    "5.6.29" ],
 [ "phpext_amqp",            "http:\/\/wpn-xm.org\/get.php?s=phpext_amqp&v=1.4.0&p=5.6&bitsize=x64",              "phpext_amqp.zip",            "1.4.0" ],
 [ "phpext_apcu",            "http:\/\/wpn-xm.org\/get.php?s=phpext_apcu&v=4.0.10&p=5.6&bitsize=x64",             "phpext_apcu.zip",            "4.0.10" ],
 [ "phpext_ice",             "http:\/\/wpn-xm.org\/get.php?s=phpext_ice&v=1.1.5&p=7.0&bitsize=x64",               "phpext_ice.zip",             "1.1.5" ],
