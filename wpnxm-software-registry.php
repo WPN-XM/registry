@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Sat, 10 Dec 2016 01:25:08 +0000.
+    * Last Update Sat, 10 Dec 2016 01:27:11 +0000.
     * Do not edit manually!
     */
 
@@ -3857,14 +3857,6 @@
   'phpext_pdo_sqlsrv' => array(
     'name' => 'PHP Extension PDO_SQLSRV',
     'website' => 'https://github.com/Azure/msphpsql/',
-    0 => array(
-      'x86' => array(
-        '7.0.0' => '',
-      ),
-      'x64' => array(
-        '7.0.0' => '',
-      ),
-    ),
     '4.0.0' => array(
       'x86' => array(
         '7.0.0' => 'https://github.com/Azure/msphpsql/releases/download/v4.0.0/php_pdo_sqlrv_4.0.0_x86.zip',
@@ -4150,85 +4142,68 @@
     ),
     '1.1.1' => array(
       'x86' => array(
-        '5.4' => 'http://windows.php.net/downloads/pecl/releases/solr/1.1.1/php_solr-1.1.1-5.4-nts-VC9-x86.zip',
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/solr/1.1.1/php_solr-1.1.1-5.5-nts-VC11-x86.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/solr/1.1.1/php_solr-1.1.1-5.6-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/solr/1.1.1/php_solr-1.1.1-5.6-nts-vc11-x86.zip',
       ),
       'x64' => array(
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/solr/1.1.1/php_solr-1.1.1-5.5-nts-VC11-x64.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/solr/1.1.1/php_solr-1.1.1-5.6-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/solr/1.1.1/php_solr-1.1.1-5.6-nts-vc11-x64.zip',
       ),
     ),
     '2.0.0' => array(
       'x86' => array(
-        '5.4' => 'http://windows.php.net/downloads/pecl/releases/solr/2.0.0/php_solr-2.0.0-5.4-nts-VC9-x86.zip',
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/solr/2.0.0/php_solr-2.0.0-5.5-nts-VC11-x86.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/solr/2.0.0/php_solr-2.0.0-5.6-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/solr/2.0.0/php_solr-2.0.0-5.6-nts-vc11-x86.zip',
       ),
       'x64' => array(
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/solr/2.0.0/php_solr-2.0.0-5.5-nts-VC11-x64.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/solr/2.0.0/php_solr-2.0.0-5.6-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/solr/2.0.0/php_solr-2.0.0-5.6-nts-vc11-x64.zip',
       ),
     ),
     '2.1.0' => array(
       'x86' => array(
-        '5.4' => 'http://windows.php.net/downloads/pecl/releases/solr/2.1.0/php_solr-2.1.0-5.4-nts-VC9-x86.zip',
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/solr/2.1.0/php_solr-2.1.0-5.5-nts-VC11-x86.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/solr/2.1.0/php_solr-2.1.0-5.6-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/solr/2.1.0/php_solr-2.1.0-5.6-nts-vc11-x86.zip',
       ),
       'x64' => array(
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/solr/2.1.0/php_solr-2.1.0-5.5-nts-VC11-x64.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/solr/2.1.0/php_solr-2.1.0-5.6-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/solr/2.1.0/php_solr-2.1.0-5.6-nts-vc11-x64.zip',
       ),
     ),
     '2.2.1' => array(
       'x86' => array(
-        '5.4' => 'http://windows.php.net/downloads/pecl/releases/solr/2.2.1/php_solr-2.2.1-5.4-nts-VC9-x86.zip',
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/solr/2.2.1/php_solr-2.2.1-5.5-nts-VC11-x86.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/solr/2.2.1/php_solr-2.2.1-5.6-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/solr/2.2.1/php_solr-2.2.1-5.6-nts-vc11-x86.zip',
       ),
       'x64' => array(
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/solr/2.2.1/php_solr-2.2.1-5.5-nts-VC11-x64.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/solr/2.2.1/php_solr-2.2.1-5.6-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/solr/2.2.1/php_solr-2.2.1-5.6-nts-vc11-x64.zip',
       ),
     ),
     '2.3.0' => array(
       'x86' => array(
-        '5.4' => 'http://windows.php.net/downloads/pecl/releases/solr/2.3.0/php_solr-2.3.0-5.4-nts-VC9-x86.zip',
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/solr/2.3.0/php_solr-2.3.0-5.5-nts-VC11-x86.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/solr/2.3.0/php_solr-2.3.0-5.6-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/solr/2.3.0/php_solr-2.3.0-5.6-nts-vc11-x86.zip',
       ),
       'x64' => array(
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/solr/2.3.0/php_solr-2.3.0-5.5-nts-VC11-x64.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/solr/2.3.0/php_solr-2.3.0-5.6-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/solr/2.3.0/php_solr-2.3.0-5.6-nts-vc11-x64.zip',
       ),
     ),
     '2.4.0' => array(
       'x86' => array(
-        '5.4' => 'http://windows.php.net/downloads/pecl/releases/solr/2.4.0/php_solr-2.4.0-5.4-nts-VC9-x86.zip',
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/solr/2.4.0/php_solr-2.4.0-5.5-nts-VC11-x86.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/solr/2.4.0/php_solr-2.4.0-5.6-nts-VC11-x86.zip',
-        '7.0' => 'http://windows.php.net/downloads/pecl/releases/solr/2.4.0/php_solr-2.4.0-7.0-nts-VC14-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/solr/2.4.0/php_solr-2.4.0-5.6-nts-vc11-x86.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/solr/2.4.0/php_solr-2.4.0-7.0-nts-vc14-x86.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/solr/2.4.0/php_solr-2.4.0-7.1-nts-vc14-x86.zip',
       ),
       'x64' => array(
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/solr/2.4.0/php_solr-2.4.0-5.5-nts-VC11-x64.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/solr/2.4.0/php_solr-2.4.0-5.6-nts-VC11-x64.zip',
-        '7.0' => 'http://windows.php.net/downloads/pecl/releases/solr/2.4.0/php_solr-2.4.0-7.0-nts-VC14-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/solr/2.4.0/php_solr-2.4.0-5.6-nts-vc11-x64.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/solr/2.4.0/php_solr-2.4.0-7.0-nts-vc14-x64.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/solr/2.4.0/php_solr-2.4.0-7.1-nts-vc14-x64.zip',
       ),
     ),
     'latest' => array(
       'version' => '2.4.0',
       'url' => array(
         'x86' => array(
-          '5.4' => 'http://windows.php.net/downloads/pecl/releases/solr/2.4.0/php_solr-2.4.0-5.4-nts-VC9-x86.zip',
-          '5.5' => 'http://windows.php.net/downloads/pecl/releases/solr/2.4.0/php_solr-2.4.0-5.5-nts-VC11-x86.zip',
-          '5.6' => 'http://windows.php.net/downloads/pecl/releases/solr/2.4.0/php_solr-2.4.0-5.6-nts-VC11-x86.zip',
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/solr/2.4.0/php_solr-2.4.0-7.0-nts-VC14-x86.zip',
+          '5.6' => 'http://windows.php.net/downloads/pecl/releases/solr/2.4.0/php_solr-2.4.0-5.6-nts-vc11-x86.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/solr/2.4.0/php_solr-2.4.0-7.0-nts-vc14-x86.zip',
+          '7.1' => 'http://windows.php.net/downloads/pecl/releases/solr/2.4.0/php_solr-2.4.0-7.1-nts-vc14-x86.zip',
         ),
         'x64' => array(
-          '5.5' => 'http://windows.php.net/downloads/pecl/releases/solr/2.4.0/php_solr-2.4.0-5.5-nts-VC11-x64.zip',
-          '5.6' => 'http://windows.php.net/downloads/pecl/releases/solr/2.4.0/php_solr-2.4.0-5.6-nts-VC11-x64.zip',
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/solr/2.4.0/php_solr-2.4.0-7.0-nts-VC14-x64.zip',
+          '5.6' => 'http://windows.php.net/downloads/pecl/releases/solr/2.4.0/php_solr-2.4.0-5.6-nts-vc11-x64.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/solr/2.4.0/php_solr-2.4.0-7.0-nts-vc14-x64.zip',
+          '7.1' => 'http://windows.php.net/downloads/pecl/releases/solr/2.4.0/php_solr-2.4.0-7.1-nts-vc14-x64.zip',
         ),
       ),
     ),
