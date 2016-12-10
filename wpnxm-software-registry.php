@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Sat, 10 Dec 2016 01:23:10 +0000.
+    * Last Update Sat, 10 Dec 2016 01:23:43 +0000.
     * Do not edit manually!
     */
 
@@ -3622,43 +3622,34 @@
     ),
     '0.5.5' => array(
       'x86' => array(
-        '5.4' => 'http://windows.php.net/downloads/pecl/releases/msgpack/0.5.5/php_msgpack-0.5.5-5.4-nts-VC9-x86.zip',
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/msgpack/0.5.5/php_msgpack-0.5.5-5.5-nts-VC11-x86.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/msgpack/0.5.5/php_msgpack-0.5.5-5.6-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/msgpack/0.5.5/php_msgpack-0.5.5-5.6-nts-vc11-x86.zip',
       ),
       'x64' => array(
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/msgpack/0.5.5/php_msgpack-0.5.5-5.5-nts-VC11-x64.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/msgpack/0.5.5/php_msgpack-0.5.5-5.6-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/msgpack/0.5.5/php_msgpack-0.5.5-5.6-nts-vc11-x64.zip',
       ),
     ),
     '0.5.6' => array(
       'x86' => array(
-        '5.4' => 'http://windows.php.net/downloads/pecl/releases/msgpack/0.5.6/php_msgpack-0.5.6-5.4-nts-VC9-x86.zip',
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/msgpack/0.5.6/php_msgpack-0.5.6-5.5-nts-VC11-x86.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/msgpack/0.5.6/php_msgpack-0.5.6-5.6-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/msgpack/0.5.6/php_msgpack-0.5.6-5.6-nts-vc11-x86.zip',
       ),
       'x64' => array(
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/msgpack/0.5.6/php_msgpack-0.5.6-5.5-nts-VC11-x64.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/msgpack/0.5.6/php_msgpack-0.5.6-5.6-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/msgpack/0.5.6/php_msgpack-0.5.6-5.6-nts-vc11-x64.zip',
       ),
     ),
     '0.5.7' => array(
       'x86' => array(
-        '5.4' => 'http://windows.php.net/downloads/pecl/releases/msgpack/0.5.7/php_msgpack-0.5.7-5.4-nts-VC9-x86.zip',
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/msgpack/0.5.7/php_msgpack-0.5.7-5.5-nts-VC11-x86.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/msgpack/0.5.7/php_msgpack-0.5.7-5.6-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/msgpack/0.5.7/php_msgpack-0.5.7-5.6-nts-vc11-x86.zip',
       ),
       'x64' => array(
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/msgpack/0.5.7/php_msgpack-0.5.7-5.5-nts-VC11-x64.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/msgpack/0.5.7/php_msgpack-0.5.7-5.6-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/msgpack/0.5.7/php_msgpack-0.5.7-5.6-nts-vc11-x64.zip',
       ),
     ),
     '2.0.0' => array(
       'x86' => array(
-        '7.0' => 'http://windows.php.net/downloads/pecl/releases/msgpack/2.0.0/php_msgpack-2.0.0-7.0-nts-VC14-x86.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/msgpack/2.0.0/php_msgpack-2.0.0-7.0-nts-vc14-x86.zip',
       ),
       'x64' => array(
-        '7.0' => 'http://windows.php.net/downloads/pecl/releases/msgpack/2.0.0/php_msgpack-2.0.0-7.0-nts-VC14-x64.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/msgpack/2.0.0/php_msgpack-2.0.0-7.0-nts-vc14-x64.zip',
       ),
     ),
     '2.0.1' => array(
@@ -3672,9 +3663,11 @@
     '2.0.2' => array(
       'x86' => array(
         '7.0' => 'http://windows.php.net/downloads/pecl/releases/msgpack/2.0.2/php_msgpack-2.0.2-7.0-nts-vc14-x86.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/msgpack/2.0.2/php_msgpack-2.0.2-7.1-nts-vc14-x86.zip',
       ),
       'x64' => array(
         '7.0' => 'http://windows.php.net/downloads/pecl/releases/msgpack/2.0.2/php_msgpack-2.0.2-7.0-nts-vc14-x64.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/msgpack/2.0.2/php_msgpack-2.0.2-7.1-nts-vc14-x64.zip',
       ),
     ),
     'latest' => array(
@@ -3682,9 +3675,11 @@
       'url' => array(
         'x86' => array(
           '7.0' => 'http://windows.php.net/downloads/pecl/releases/msgpack/2.0.2/php_msgpack-2.0.2-7.0-nts-vc14-x86.zip',
+          '7.1' => 'http://windows.php.net/downloads/pecl/releases/msgpack/2.0.2/php_msgpack-2.0.2-7.1-nts-vc14-x86.zip',
         ),
         'x64' => array(
           '7.0' => 'http://windows.php.net/downloads/pecl/releases/msgpack/2.0.2/php_msgpack-2.0.2-7.0-nts-vc14-x64.zip',
+          '7.1' => 'http://windows.php.net/downloads/pecl/releases/msgpack/2.0.2/php_msgpack-2.0.2-7.1-nts-vc14-x64.zip',
         ),
       ),
     ),
