@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Sat, 10 Dec 2016 00:34:12 +0000.
+    * Last Update Sat, 10 Dec 2016 01:09:19 +0000.
     * Do not edit manually!
     */
 
@@ -1880,6 +1880,14 @@
         '5.5' => 'http://windows.php.net/downloads/pecl/releases/amqp/1.2.0/php_amqp-1.2.0-5.5-nts-VC11-x64.zip',
       ),
     ),
+    '1.4.0beta2' => array(
+      'x86' => array(
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/amqp/1.4.0beta2/php_amqp-1.4.0beta2-5.6-nts-vc11-x86.zip',
+      ),
+      'x64' => array(
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/amqp/1.4.0beta2/php_amqp-1.4.0beta2-5.6-nts-vc11-x64.zip',
+      ),
+    ),
     '1.4.0' => array(
       'x86' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/amqp/1.4.0/php_amqp-1.4.0-5.4-nts-vc9-x86.zip',
@@ -1907,14 +1915,26 @@
         '7.0' => 'http://windows.php.net/downloads/pecl/releases/amqp/1.7.1/php_amqp-1.7.1-7.0-nts-vc14-x64.zip',
       ),
     ),
+    '1.8.0beta2' => array(
+      'x86' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/amqp/1.8.0beta2/php_amqp-1.8.0beta2-7.0-nts-vc14-x86.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/amqp/1.8.0beta2/php_amqp-1.8.0beta2-7.1-nts-vc14-x86.zip',
+      ),
+      'x64' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/amqp/1.8.0beta2/php_amqp-1.8.0beta2-7.0-nts-vc14-x64.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/amqp/1.8.0beta2/php_amqp-1.8.0beta2-7.1-nts-vc14-x64.zip',
+      ),
+    ),
     'latest' => array(
-      'version' => '1.7.1',
+      'version' => '1.8.0beta2',
       'url' => array(
         'x86' => array(
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/amqp/1.7.1/php_amqp-1.7.1-7.0-nts-vc14-x86.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/amqp/1.8.0beta2/php_amqp-1.8.0beta2-7.0-nts-vc14-x86.zip',
+          '7.1' => 'http://windows.php.net/downloads/pecl/releases/amqp/1.8.0beta2/php_amqp-1.8.0beta2-7.1-nts-vc14-x86.zip',
         ),
         'x64' => array(
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/amqp/1.7.1/php_amqp-1.7.1-7.0-nts-vc14-x64.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/amqp/1.8.0beta2/php_amqp-1.8.0beta2-7.0-nts-vc14-x64.zip',
+          '7.1' => 'http://windows.php.net/downloads/pecl/releases/amqp/1.8.0beta2/php_amqp-1.8.0beta2-7.1-nts-vc14-x64.zip',
         ),
       ),
     ),
@@ -4993,12 +5013,12 @@
     'latest' => array(
       'version' => '1.2.2',
       'url' => array(
-        'x86' => array(         
+        'x86' => array(
           '5.6' => 'http://windows.php.net/downloads/pecl/releases/varnish/1.2.2/php_varnish-1.2.2-5.6-nts-vc11-x86.zip',
           '7.0' => 'http://windows.php.net/downloads/pecl/releases/varnish/1.2.2/php_varnish-1.2.2-7.0-nts-vc14-x86.zip',
           '7.1' => 'http://windows.php.net/downloads/pecl/releases/varnish/1.2.2/php_varnish-1.2.2-7.1-nts-vc14-x86.zip',
         ),
-        'x64' => array(         
+        'x64' => array(
           '5.6' => 'http://windows.php.net/downloads/pecl/releases/varnish/1.2.2/php_varnish-1.2.2-5.6-nts-vc11-x64.zip',
           '7.0' => 'http://windows.php.net/downloads/pecl/releases/varnish/1.2.2/php_varnish-1.2.2-7.0-nts-vc14-x64.zip',
           '7.1' => 'http://windows.php.net/downloads/pecl/releases/varnish/1.2.2/php_varnish-1.2.2-7.1-nts-vc14-x64.zip',
