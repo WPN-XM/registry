@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Sat, 10 Dec 2016 01:27:11 +0000.
+    * Last Update Sat, 10 Dec 2016 01:28:46 +0000.
     * Do not edit manually!
     */
 
@@ -4663,37 +4663,36 @@
     'website' => 'http://php.net/trader',
     '0.3.0' => array(
       'x86' => array(
-        '5.4' => 'http://windows.php.net/downloads/pecl/releases/trader/0.3.0/php_trader-0.3.0-5.4-nts-VC9-x86.zip',
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/trader/0.3.0/php_trader-0.3.0-5.5-nts-VC11-x86.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/trader/0.3.0/php_trader-0.3.0-5.6-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/trader/0.3.0/php_trader-0.3.0-5.6-nts-vc11-x86.zip',
       ),
       'x64' => array(
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/trader/0.3.0/php_trader-0.3.0-5.5-nts-VC11-x64.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/trader/0.3.0/php_trader-0.3.0-5.6-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/trader/0.3.0/php_trader-0.3.0-5.6-nts-vc11-x64.zip',
       ),
     ),
     '0.4.0' => array(
       'x86' => array(
-        '5.4' => 'http://windows.php.net/downloads/pecl/releases/trader/0.4.0/php_trader-0.4.0-5.4-nts-VC9-x86.zip',
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/trader/0.4.0/php_trader-0.4.0-5.5-nts-VC11-x86.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/trader/0.4.0/php_trader-0.4.0-5.6-nts-VC11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/trader/0.4.0/php_trader-0.4.0-5.6-nts-vc11-x86.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/trader/0.4.0/php_trader-0.4.0-7.0-nts-vc14-x86.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/trader/0.4.0/php_trader-0.4.0-7.1-nts-vc14-x86.zip',
       ),
       'x64' => array(
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/trader/0.4.0/php_trader-0.4.0-5.5-nts-VC11-x64.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/trader/0.4.0/php_trader-0.4.0-5.6-nts-VC11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/trader/0.4.0/php_trader-0.4.0-5.6-nts-vc11-x64.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/trader/0.4.0/php_trader-0.4.0-7.0-nts-vc14-x64.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/trader/0.4.0/php_trader-0.4.0-7.1-nts-vc14-x64.zip',
       ),
     ),
     'latest' => array(
       'version' => '0.4.0',
       'url' => array(
         'x86' => array(
-          '5.4' => 'http://windows.php.net/downloads/pecl/releases/trader/0.4.0/php_trader-0.4.0-5.4-nts-VC9-x86.zip',
-          '5.5' => 'http://windows.php.net/downloads/pecl/releases/trader/0.4.0/php_trader-0.4.0-5.5-nts-VC11-x86.zip',
-          '5.6' => 'http://windows.php.net/downloads/pecl/releases/trader/0.4.0/php_trader-0.4.0-5.6-nts-VC11-x86.zip',
+          '5.6' => 'http://windows.php.net/downloads/pecl/releases/trader/0.4.0/php_trader-0.4.0-5.6-nts-vc11-x86.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/trader/0.4.0/php_trader-0.4.0-7.0-nts-vc14-x86.zip',
+          '7.1' => 'http://windows.php.net/downloads/pecl/releases/trader/0.4.0/php_trader-0.4.0-7.1-nts-vc14-x86.zip',
         ),
         'x64' => array(
-          '5.5' => 'http://windows.php.net/downloads/pecl/releases/trader/0.4.0/php_trader-0.4.0-5.5-nts-VC11-x64.zip',
-          '5.6' => 'http://windows.php.net/downloads/pecl/releases/trader/0.4.0/php_trader-0.4.0-5.6-nts-VC11-x64.zip',
+          '5.6' => 'http://windows.php.net/downloads/pecl/releases/trader/0.4.0/php_trader-0.4.0-5.6-nts-vc11-x64.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/trader/0.4.0/php_trader-0.4.0-7.0-nts-vc14-x64.zip',
+          '7.1' => 'http://windows.php.net/downloads/pecl/releases/trader/0.4.0/php_trader-0.4.0-7.1-nts-vc14-x64.zip',
         ),
       ),
     ),
