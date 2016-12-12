@@ -14,7 +14,6 @@
 [ "node-x64",           "http:\/\/wpn-xm.org\/get.php?s=node-x64&v=7.2.1",                             "node.exe",               "7.2.1" ],
 [ "nodenpm",            "http:\/\/wpn-xm.org\/get.php?s=nodenpm&v=1.4.12",                             "nodenpm.zip",            "1.4.12" ],
 [ "openssl-x64",        "http:\/\/wpn-xm.org\/get.php?s=openssl-x64&v=1.0.2j",                         "openssl.zip",            "1.0.2j" ],
-[ "pear",               "http:\/\/wpn-xm.org\/get.php?s=pear&v=1.0",                                   "go-pear.phar",           "1.0" ],
 [ "php-cs-fixer",       "http:\/\/wpn-xm.org\/get.php?s=php-cs-fixer&v=latest",                        "php-cs-fixer.phar",      "latest" ],
 [ "php-x64",            "http:\/\/wpn-xm.org\/get.php?s=php-x64&v=7.0.14",                             "php.zip",                "7.0.14" ],
 [ "phpext_apcu",        "http:\/\/wpn-xm.org\/get.php?s=phpext_apcu&v=5.1.6&p=7.0&bitsize=x64",        "phpext_apcu.zip",        "5.1.6" ],
