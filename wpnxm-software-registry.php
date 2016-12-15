@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Thu, 15 Dec 2016 11:11:07 +0000.
+    * Last Update Thu, 15 Dec 2016 11:11:13 +0000.
     * Do not edit manually!
     */
 
@@ -4134,14 +4134,22 @@
         '7.0' => 'http://windows.php.net/downloads/pecl/releases/redis/3.0.0/php_redis-3.0.0-7.0-nts-vc14-x64.zip',
       ),
     ),
+    '3.1.0' => array(
+      'x86' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/redis/3.1.0/php_redis-3.1.0-7.0-nts-vc14-x86.zip',
+      ),
+      'x64' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/redis/3.1.0/php_redis-3.1.0-7.0-nts-vc14-x64.zip',
+      ),
+    ),
     'latest' => array(
-      'version' => '3.0.0',
+      'version' => '3.1.0',
       'url' => array(
         'x86' => array(
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/redis/3.0.0/php_redis-3.0.0-7.0-nts-vc14-x86.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/redis/3.1.0/php_redis-3.1.0-7.0-nts-vc14-x86.zip',
         ),
         'x64' => array(
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/redis/3.0.0/php_redis-3.0.0-7.0-nts-vc14-x64.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/redis/3.1.0/php_redis-3.1.0-7.0-nts-vc14-x64.zip',
         ),
       ),
     ),
