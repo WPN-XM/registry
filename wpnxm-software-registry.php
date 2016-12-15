@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Sat, 10 Dec 2016 01:37:39 +0000.
+    * Last Update Thu, 15 Dec 2016 10:44:24 +0000.
     * Do not edit manually!
     */
 
@@ -4124,6 +4124,27 @@
         ),
         'x64' => array(
           '7.0' => 'http://windows.php.net/downloads/pecl/releases/redis/3.0.0/php_redis-3.0.0-7.0-nts-vc14-x64.zip',
+        ),
+      ),
+    ),
+  ),
+  'phpext_runkit' => array(
+    '1.0.4' => array(
+      'x86' => array(
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/runkit/1.0.4/php_runkit-1.0.4-5.6-nts-vc11-x86.zip',
+      ),
+      'x64' => array(
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/runkit/1.0.4/php_runkit-1.0.4-5.6-nts-vc11-x64.zip',
+      ),
+    ),
+    'latest' => array(
+      'version' => '1.0.4',
+      'url' => array(
+        'x86' => array(
+          '5.6' => 'http://windows.php.net/downloads/pecl/releases/runkit/1.0.4/php_runkit-1.0.4-5.6-nts-vc11-x86.zip',
+        ),
+        'x64' => array(
+          '5.6' => 'http://windows.php.net/downloads/pecl/releases/runkit/1.0.4/php_runkit-1.0.4-5.6-nts-vc11-x64.zip',
         ),
       ),
     ),
