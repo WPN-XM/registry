@@ -4155,6 +4155,8 @@
     ),
   ),
   'phpext_runkit' => array(
+    'name' => 'PHP Extension RunKit',
+    'website' => 'https://pecl.php.net/package/runkit',
     '1.0.4' => array(
       'x86' => array(
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/runkit/1.0.4/php_runkit-1.0.4-5.6-nts-vc11-x86.zip',
