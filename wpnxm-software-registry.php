@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Thu, 22 Dec 2016 23:20:25 +0000.
+    * Last Update Thu, 22 Dec 2016 23:30:09 +0000.
     * Do not edit manually!
     */
 
@@ -5960,6 +5960,24 @@
     'latest' => array(
       'version' => '2.4.8',
       'url' => 'https://github.com/yui/yuicompressor/releases/download/v2.4.8/yuicompressor-2.4.8.jar',
+    ),
+  ),
+  'zeromq' => array(
+    'name' => 'ZeroMQ',
+    'website' => 'http://zeromq.org/',
+    'latest' => array(
+      'version' => '0',
+      'url' => '',
+    ),
+  ),
+  'zeromq-x64' => array(
+    'name' => 'ZeroMQ',
+    'website' => 'http://zeromq.org/',
+    '3.2.4' => 'http://miru.hk/archive/ZeroMQ-3.2.4~miru1.0-x64.exe',
+    '4.0.4' => 'http://miru.hk/archive/ZeroMQ-4.0.4~miru1.0-x64.exe',
+    'latest' => array(
+      'version' => '4.0.4',
+      'url' => 'http://miru.hk/archive/ZeroMQ-4.0.4~miru1.0-x64.exe',
     ),
   ),
 );
