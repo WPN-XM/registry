@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Thu, 22 Dec 2016 23:20:20 +0000.
+    * Last Update Thu, 22 Dec 2016 23:20:25 +0000.
     * Do not edit manually!
     */
 
@@ -1468,9 +1468,10 @@
     'name' => 'osquery',
     'website' => 'https://osquery.io/',
     '2.1.1' => 'https://osquery-packages.s3.amazonaws.com/choco/osquery-2.1.1.zip',
+    '2.2.0' => 'https://osquery-packages.s3.amazonaws.com/choco/osquery-2.2.0.zip',
     'latest' => array(
-      'url' => 'https://osquery-packages.s3.amazonaws.com/choco/osquery-2.1.1.zip',
-      'version' => '2.1.1',
+      'url' => 'https://osquery-packages.s3.amazonaws.com/choco/osquery-2.2.0.zip',
+      'version' => '2.2.0',
     ),
   ),
   'pear' => array(
