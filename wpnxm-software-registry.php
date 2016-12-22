@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Thu, 22 Dec 2016 23:30:09 +0000.
+    * Last Update Thu, 22 Dec 2016 23:30:38 +0000.
     * Do not edit manually!
     */
 
@@ -5965,9 +5965,11 @@
   'zeromq' => array(
     'name' => 'ZeroMQ',
     'website' => 'http://zeromq.org/',
+    '3.2.4' => 'http://miru.hk/archive/ZeroMQ-3.2.4~miru1.0-x86.exe',
+    '4.0.4' => 'http://miru.hk/archive/ZeroMQ-4.0.4~miru1.0-x86.exe',
     'latest' => array(
-      'version' => '0',
-      'url' => '',
+      'version' => '4.0.4',
+      'url' => 'http://miru.hk/archive/ZeroMQ-4.0.4~miru1.0-x86.exe',
     ),
   ),
   'zeromq-x64' => array(
