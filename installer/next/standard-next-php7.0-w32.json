@@ -7,7 +7,7 @@
 [ "memadmin",           "http:\/\/wpn-xm.org\/get.php?s=memadmin&v=1.0.12",               "memadmin.zip",           "1.0.12" ],
 [ "memcached",          "http:\/\/wpn-xm.org\/get.php?s=memcached&v=1.4.5",               "memcached.zip",          "1.4.5" ],
 [ "mongodb",            "http:\/\/wpn-xm.org\/get.php?s=mongodb&v=3.3.3",                 "mongodb.zip",            "3.3.3" ],
-[ "nginx",              "http:\/\/wpn-xm.org\/get.php?s=nginx&v=1.11.7",                  "nginx.zip",              "1.11.7" ],
+[ "nginx",              "http:\/\/wpn-xm.org\/get.php?s=nginx&v=1.11.8",                  "nginx.zip",              "1.11.8" ],
 [ "openssl",            "http:\/\/wpn-xm.org\/get.php?s=openssl&v=1.0.2j",                "openssl.zip",            "1.0.2j" ],
 [ "php",                "http:\/\/wpn-xm.org\/get.php?s=php&v=7.0.14",                    "php.zip",                "7.0.14" ],
 [ "php-cs-fixer",       "http:\/\/wpn-xm.org\/get.php?s=php-cs-fixer&v=latest",           "php-cs-fixer.phar",      "latest" ],
