@@ -1,7 +1,7 @@
 <?php
    /**
     * WPИ-XM Server Stack
-    * Copyright © 2010 - 2016 Jens-André Koch <jakoch@web.de>
+    * Copyright © 2010 - 2017 Jens-André Koch <jakoch@web.de>
     * http://wpn-xm.org/
     *
     * This source file is subject to the terms of the MIT license.
@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Sat, 31 Dec 2016 19:46:01 +0000.
+    * Last Update Tue, 03 Jan 2017 17:36:04 +0000.
     * Do not edit manually!
     */
 
@@ -438,9 +438,10 @@
     '7.0.3-10' => 'http://www.imagemagick.org/download/binaries/ImageMagick-7.0.3-10-portable-Q16-x86.zip',
     '7.0.4-0' => 'http://www.imagemagick.org/download/binaries/ImageMagick-7.0.4-0-portable-Q16-x86.zip',
     '7.0.4-1' => 'http://www.imagemagick.org/download/binaries/ImageMagick-7.0.4-1-portable-Q16-x86.zip',
+    '7.0.4-2' => 'http://www.imagemagick.org/download/binaries/ImageMagick-7.0.4-2-portable-Q16-x86.zip',
     'latest' => array(
-      'version' => '7.0.4-1',
-      'url' => 'http://www.imagemagick.org/download/binaries/ImageMagick-7.0.4-1-portable-Q16-x86.zip',
+      'version' => '7.0.4-2',
+      'url' => 'http://www.imagemagick.org/download/binaries/ImageMagick-7.0.4-2-portable-Q16-x86.zip',
     ),
   ),
   'imagick-x64' => array(
