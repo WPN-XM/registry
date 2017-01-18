@@ -6016,7 +6016,7 @@
     ),
   ),
   'zeromq' => array(
-    'name' => 'ZeroMQ',
+    'name' => 'ZeroMQ x86',
     'website' => 'http://zeromq.org/',
     '3.2.4' => 'http://miru.hk/archive/ZeroMQ-3.2.4~miru1.0-x86.exe',
     '4.0.4' => 'http://miru.hk/archive/ZeroMQ-4.0.4~miru1.0-x86.exe',
@@ -6026,7 +6026,7 @@
     ),
   ),
   'zeromq-x64' => array(
-    'name' => 'ZeroMQ',
+    'name' => 'ZeroMQ x64',
     'website' => 'http://zeromq.org/',
     '3.2.4' => 'http://miru.hk/archive/ZeroMQ-3.2.4~miru1.0-x64.exe',
     '4.0.4' => 'http://miru.hk/archive/ZeroMQ-4.0.4~miru1.0-x64.exe',
