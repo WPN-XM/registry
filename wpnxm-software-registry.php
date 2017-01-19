@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Thu, 19 Jan 2017 10:48:26 +0000.
+    * Last Update Thu, 19 Jan 2017 10:48:29 +0000.
     * Do not edit manually!
     */
 
@@ -2154,16 +2154,26 @@
         '7.1' => 'http://windows.php.net/downloads/pecl/releases/apcu/5.1.6/php_apcu-5.1.6-7.1-nts-vc14-x64.zip',
       ),
     ),
+    '5.1.8' => array(
+      'x86' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/apcu/5.1.8/php_apcu-5.1.8-7.0-nts-vc14-x86.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/apcu/5.1.8/php_apcu-5.1.8-7.1-nts-vc14-x86.zip',
+      ),
+      'x64' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/apcu/5.1.8/php_apcu-5.1.8-7.0-nts-vc14-x64.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/apcu/5.1.8/php_apcu-5.1.8-7.1-nts-vc14-x64.zip',
+      ),
+    ),
     'latest' => array(
-      'version' => '5.1.6',
+      'version' => '5.1.8',
       'url' => array(
         'x86' => array(
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/apcu/5.1.6/php_apcu-5.1.6-7.0-nts-vc14-x86.zip',
-          '7.1' => 'http://windows.php.net/downloads/pecl/releases/apcu/5.1.6/php_apcu-5.1.6-7.1-nts-vc14-x86.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/apcu/5.1.8/php_apcu-5.1.8-7.0-nts-vc14-x86.zip',
+          '7.1' => 'http://windows.php.net/downloads/pecl/releases/apcu/5.1.8/php_apcu-5.1.8-7.1-nts-vc14-x86.zip',
         ),
         'x64' => array(
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/apcu/5.1.6/php_apcu-5.1.6-7.0-nts-vc14-x64.zip',
-          '7.1' => 'http://windows.php.net/downloads/pecl/releases/apcu/5.1.6/php_apcu-5.1.6-7.1-nts-vc14-x64.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/apcu/5.1.8/php_apcu-5.1.8-7.0-nts-vc14-x64.zip',
+          '7.1' => 'http://windows.php.net/downloads/pecl/releases/apcu/5.1.8/php_apcu-5.1.8-7.1-nts-vc14-x64.zip',
         ),
       ),
     ),
