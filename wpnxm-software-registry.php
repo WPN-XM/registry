@@ -6018,10 +6018,10 @@
     '0.12.3' => 'http://download.gna.org/wkhtmltopdf/0.12/0.12.3/wkhtmltox-0.12.3_msvc2013-win64.exe',
     '0.12.3.1' => 'http://download.gna.org/wkhtmltopdf/0.12/0.12.3.1/wkhtmltox-0.12.3.1_msvc2013-win64.exe',
     '0.12.3.2' => 'http://download.gna.org/wkhtmltopdf/0.12/0.12.3.2/wkhtmltox-0.12.3.2_msvc2013-win64.exe',
-    '0.12.4' => 'http://download.gna.org/wkhtmltopdf/0.12/0.12.4/wkhtmltox-0.12.4_msvc2013-win64.exe',
+    '0.12.4' => 'http://download.gna.org/wkhtmltopdf/0.12/0.12.4/wkhtmltox-0.12.4_msvc2015-win64.exe',
     'latest' => array(
       'version' => '0.12.4',
-      'url' => 'http://download.gna.org/wkhtmltopdf/0.12/0.12.4/wkhtmltox-0.12.4_msvc2013-win64.exe',
+      'url' => 'http://download.gna.org/wkhtmltopdf/0.12/0.12.4/wkhtmltox-0.12.4_msvc2015-win64.exe',
     ),
   ),
   'wkhtmltopdf-x86' => array(
@@ -6037,10 +6037,10 @@
     '0.12.3' => 'http://download.gna.org/wkhtmltopdf/0.12/0.12.3/wkhtmltox-0.12.3_msvc2013-win32.exe',
     '0.12.3.1' => 'http://download.gna.org/wkhtmltopdf/0.12/0.12.3.1/wkhtmltox-0.12.3.1_msvc2013-win32.exe',
     '0.12.3.2' => 'http://download.gna.org/wkhtmltopdf/0.12/0.12.3.2/wkhtmltox-0.12.3.2_msvc2013-win32.exe',
-    '0.12.4' => 'http://download.gna.org/wkhtmltopdf/0.12/0.12.4/wkhtmltox-0.12.4_msvc2013-win32.exe',
+    '0.12.4' => 'http://download.gna.org/wkhtmltopdf/0.12/0.12.4/wkhtmltox-0.12.4_msvc2015-win32.exe',
     'latest' => array(
       'version' => '0.12.4',
-      'url' => 'http://download.gna.org/wkhtmltopdf/0.12/0.12.4/wkhtmltox-0.12.4_msvc2013-win32.exe',
+      'url' => 'http://download.gna.org/wkhtmltopdf/0.12/0.12.4/wkhtmltox-0.12.4_msvc2015-win32.exe',
     ),
   ),
   'wpnxm-benchmark' => array(
