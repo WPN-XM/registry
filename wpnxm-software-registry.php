@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Mon, 30 Jan 2017 10:21:50 +0000.
+    * Last Update Mon, 30 Jan 2017 10:21:52 +0000.
     * Do not edit manually!
     */
 
@@ -478,9 +478,10 @@
     '7.0.4-2' => 'http://www.imagemagick.org/download/binaries/ImageMagick-7.0.4-2-portable-Q16-x64.zip',
     '7.0.4-4' => 'http://www.imagemagick.org/download/binaries/ImageMagick-7.0.4-4-portable-Q16-x64.zip',
     '7.0.4-5' => 'http://www.imagemagick.org/download/binaries/ImageMagick-7.0.4-5-portable-Q16-x64.zip',
+    '7.0.4-6' => 'http://www.imagemagick.org/download/binaries/ImageMagick-7.0.4-6-portable-Q16-x64.zip',
     'latest' => array(
-      'version' => '7.0.4-5',
-      'url' => 'http://www.imagemagick.org/download/binaries/ImageMagick-7.0.4-5-portable-Q16-x64.zip',
+      'version' => '7.0.4-6',
+      'url' => 'http://www.imagemagick.org/download/binaries/ImageMagick-7.0.4-6-portable-Q16-x64.zip',
     ),
   ),
   'influxdb-x64' => array(
