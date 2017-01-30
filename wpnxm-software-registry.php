@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Mon, 30 Jan 2017 10:46:29 +0000.
+    * Last Update Mon, 30 Jan 2017 11:03:15 +0000.
     * Do not edit manually!
     */
 
@@ -4201,10 +4201,12 @@
       'x86' => array(
         '5.5.0' => 'https://static.phalconphp.com/www/files/phalcon_x86_vc11_php5.5.0_3.0.3_nts.zip',
         '5.6.0' => 'https://static.phalconphp.com/www/files/phalcon_x86_vc11_php5.6.0_3.0.3_nts.zip',
+        '7.0.0' => 'https://static.phalconphp.com/www/files/phalcon_x86_vc14_php7.0.0_3.0.3_nts.zip',
       ),
       'x64' => array(
         '5.5.0' => 'https://static.phalconphp.com/www/files/phalcon_x64_vc11_php5.5.0_3.0.3_nts.zip',
         '5.6.0' => 'https://static.phalconphp.com/www/files/phalcon_x64_vc11_php5.6.0_3.0.3_nts.zip',
+        '7.0.0' => 'https://static.phalconphp.com/www/files/phalcon_x64_vc14_php7.0.0_3.0.3_nts.zip',
       ),
     ),
     'latest' => array(
@@ -4213,10 +4215,12 @@
         'x86' => array(
           '5.5.0' => 'https://static.phalconphp.com/www/files/phalcon_x86_vc11_php5.5.0_3.0.3_nts.zip',
           '5.6.0' => 'https://static.phalconphp.com/www/files/phalcon_x86_vc11_php5.6.0_3.0.3_nts.zip',
+          '7.0.0' => 'https://static.phalconphp.com/www/files/phalcon_x86_vc14_php7.0.0_3.0.3_nts.zip',
         ),
         'x64' => array(
           '5.5.0' => 'https://static.phalconphp.com/www/files/phalcon_x64_vc11_php5.5.0_3.0.3_nts.zip',
           '5.6.0' => 'https://static.phalconphp.com/www/files/phalcon_x64_vc11_php5.6.0_3.0.3_nts.zip',
+          '7.0.0' => 'https://static.phalconphp.com/www/files/phalcon_x64_vc14_php7.0.0_3.0.3_nts.zip',
         ),
       ),
     ),
