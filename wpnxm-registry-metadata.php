@@ -18,9 +18,9 @@
  return array(
   'adminer' => array(
     'description' => 'Adminer is a full-featured database management tool written in PHP. Conversely to phpMyAdmin, it consist of a single file ready to deploy to the target server. Adminer is available for MySQL, PostgreSQL, SQLite, MS SQL, Oracle, Firebird, SimpleDB, Elasticsearch and MongoDB.',
-    'category' => 'tool',
+    'category' => 'database administration',
     'tags' => array(
-      'database', 'tool'
+      'database', 'administration', 'tool'
     ),
     'logo' => '',
   ),
@@ -84,7 +84,7 @@
     'description' => 'The Closure Compiler is a tool for making JavaScript download and run faster. It is a true compiler for JavaScript.',
     'category' => 'tool',
     'tags' => array(
-      'javascript', 'compiler', 'minimizer'
+      'javascript', 'asset', 'compiler', 'minimizer'
     ),
     'logo' => '',
   ),
@@ -138,7 +138,7 @@
   ),
   'elasticsearch' => array(
     'description' => 'Elasticsearch is a search server based on Lucene. It provides a distributed, multitenant-capable full-text search engine with an HTTP web interface and schema-free JSON documents. Its written in Java and open source under the terms of the Apache License.',
-    'category' => 'server',
+    'category' => 'search',
     'tags' => array(
       'search', 'server', 'lucene', 'elasticsearch', 'elastic'
     ),
@@ -154,21 +154,23 @@
   ),
   'gogs-x64' => array(
     'description' => 'Go Git Service is a painless self-hosted Git service.',
-    'category' => '',
+    'category' => 'git',
     'tags' => array(
+      'git', 'gogs', 'service'
     ),
     'logo' => '',
   ),
   'gogs-x86' => array(
     'description' => 'Go Git Service is a painless self-hosted Git service.',
-    'category' => '',
+    'category' => 'git',
     'tags' => array(
+      'git', 'gogs', 'service'
     ),
     'logo' => '',
   ),
   'heidisql' => array(
     'description' => 'HeidiSQL is a powerful and easy client for MySQL, MariaDB, Microsoft SQL Server and PostgreSQL.',
-    'category' => 'tool',
+    'category' => 'database administration',
     'tags' => array(
       'database', 'administration', 'tool'
     ),
@@ -200,22 +202,25 @@
   ),
   'mariadb' => array(
     'description' => 'MariaDB surpasses MySQL as a leader in open source database solutions by delivering enterprise-level high availability, scalability and security.',
-    'category' => '',
+    'category' => 'database',
     'tags' => array(
+      'database'
     ),
     'logo' => '',
   ),
   'mariadb-x64' => array(
     'description' => 'MariaDB surpasses MySQL as a leader in open source database solutions by delivering enterprise-level high availability, scalability and security.',
-    'category' => '',
+    'category' => 'database',
     'tags' => array(
+      'database'
     ),
     'logo' => '',
   ),
   'memadmin' => array(
     'description' => 'Memadmin is a GUI Administration for memcached.',
-    'category' => '',
+    'category' => 'tool',
     'tags' => array(
+      'memcached', 'administration', 'tool'
     ),
     'logo' => '',
   ),
@@ -285,39 +290,43 @@
   ),
   'node' => array(
     'description' => 'Node is an event-driven I/O server-side JavaScript environment based on V8.',
-    'category' => '',
+    'category' => 'node',
     'tags' => array(
+      'node'
     ),
     'logo' => '',
   ),
   'node-x64' => array(
     'description' => 'Node is an event-driven I/O server-side JavaScript environment based on V8.',
-    'category' => '',
+    'category' => 'node',
     'tags' => array(
+      'node'
     ),
     'logo' => '',
   ),
   'nodenpm' => array(
     'description' => 'Package manager. Installs, publishes and manages node programs.',
-    'category' => '',
+    'category' => 'node',
     'tags' => array(
       'node', 'npm', 'package manager', 'dependency manager'
     ),
     'logo' => '',
   ),
-  'openssl' => array(
-    'category' => '',
+  'openssl' => array(   
     'description' => 'A toolkit implementing SSL v2/v3 and TLS protocols with full-strength cryptography world-wide.',
-    'logo' => '',
+    'category' => 'ssl',   
     'tags' => array(
+      'ssl'
     ),
+    'logo' => '',
   ),
-  'openssl-x64' => array(
-    'category' => '',
+  'openssl-x64' => array(   
     'description' => 'A toolkit implementing SSL v2/v3 and TLS protocols with full-strength cryptography world-wide.',
-    'logo' => '',
+    'category' => 'ssl',  
     'tags' => array(
+      'ssl'
     ),
+    'logo' => '',
   ),
   'orientdb' => array(
     'description' => 'OrientDB is a 2nd Generation Distributed Graph Database with the flexibility of Documents in one product with an Open Source commercial friendly license.',
@@ -329,29 +338,33 @@
   ),
   'pear' => array(
     'description' => 'The PHP Extension and Application Repository (PEAR) is a framework and distribution system for reusable PHP components.',
-    'category' => '',
+    'category' => 'php',
     'tags' => array(
+      'php', 'pear'
     ),
     'logo' => '',
   ),
   'perl' => array(
     'description' => 'Perl 5 is a highly capable, feature-rich programming language with over 27 years of development.',
-    'category' => 'language',
+    'category' => 'perl',
     'tags' => array(
+      'perl', 'language'
     ),
     'logo' => '',
   ),
   'perl-x64' => array(
     'description' => 'Perl 5 is a highly capable, feature-rich programming language with over 27 years of development.',
-    'category' => 'language',
+    'category' => 'perl',
     'tags' => array(
+      'perl', 'language'
     ),
     'logo' => '',
   ),
   'phantomjs' => array(
     'description' => 'PhantomJS is a scripted, headless browser used for automating web page interaction. PhantomJS provides a JavaScript API enabling automated navigation, screenshots, user behavior and assertions making it a common tool used to run browser-based unit tests in a headless system like a continuous integration environment.',
-    'category' => '',
+    'category' => 'headless browser',
     'tags' => array(
+      'headless browser', 'automation'
     ),
     'logo' => '',
   ),
@@ -680,7 +693,7 @@
   ),
   'phpmyadmin' => array(
     'description' => 'A tool written in PHP intended to handle the administration of MySQL over the WWW.',
-    'category' => 'php',
+    'category' => 'database administration',
     'tags' => array(
       'web-based', 'database', 'administration', 'tool'
     ),
@@ -712,14 +725,14 @@
   ),
   'qcachegrind-x64' => array(
     'description' => 'QCacheGrind (KCacheGrind) Windows build The QCacheGrind branch of KCacheGrind compiled with the QT5 toolkit for use in Windows. This tool allows visualisation of profiling data in the callgrind-format.',
-    'category' => 'profiler',
+    'category' => 'profiling',
     'tags' => array(
       'profiling', 'debugging', 'tracing', 'xdebug'
     )
   ),
   'qcachegrind-x86' => array(
     'description' => 'QCacheGrind (KCacheGrind) Windows build The QCacheGrind branch of KCacheGrind compiled with the QT5 toolkit for use in Windows. This tool allows visualisation of profiling data in the callgrind-format.',
-    'category' => 'profiler',
+    'category' => 'profiling',
     'tags' => array(
       'profiling', 'debugging', 'tracing', 'xdebug'
     )
@@ -805,7 +818,7 @@
   ),
   'uprofiler' => array(
     'description' => 'uprofiler is a lightweight profiler for PHP (based on facebook/xhprof).',
-    'category' => 'php',
+    'category' => 'profiling',
     'tags' => array(
       'php', 'profiler', 'debugging'
     ),
@@ -820,7 +833,7 @@
   ),
   'vcredist' => array(
     'description' => 'Visual C++ Redistributable Packages',
-    'category' => 'microsoft',
+    'category' => 'vcredist',
     'tags' => array(
       'microsoft', 'redist', 'vcredist', 'redistributable', 'c++'
     ),
@@ -828,7 +841,7 @@
   ),
   'vcredist-x64' => array(
     'description' => 'Visual C++ Redistributable Packages',
-    'category' => 'microsoft',
+    'category' => 'vcredist',
     'tags' => array(
       'microsoft', 'redist', 'vcredist', 'redistributable', 'c++'
     ),
@@ -844,7 +857,7 @@
   ),
   'webgrind' => array(
     'description' => 'Xdebug Profiling Web Frontend in PHP',
-    'category' => 'profiler',
+    'category' => 'profiling',
     'tags' => array(
       'php', 'xdebug', 'profiling', 'gui', 'debugging'
     ),
@@ -852,12 +865,11 @@
   ),
   'wincachegrind' => array(
     'description' => 'WinCacheGrind is a viewer for cachegrind.out files generated by Xdebug.',
-    'category' => 'profiler',
+    'category' => 'profiling',
     'tags' => array(
       'php', 'xdebug', 'profiling', 'gui', 'debugging'
     ),
     'logo' => '',
-
   ),
   'wpnxm-benchmark' => array(
     'description' => 'A pre-packaged set of benchmark tools for the WPN-XM Server Stack.',
@@ -885,7 +897,7 @@
   ),
   'xhprof' => array(
     'description' => 'XHProf is a function-level hierarchical profiler for PHP and has a simple HTML based user interface.',
-    'category' => 'php',
+    'category' => 'profiling',
     'tags' => array(
       'php', 'profiler', 'debugging'
     ),
