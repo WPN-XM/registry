@@ -90,9 +90,9 @@
   ),
   'composer' => array(
     'description' => 'Composer is a tool for dependency management in PHP. It allows you to declare the libraries your project depends on and it will manage (install/update) them for you.',
-    'category' => 'Tool',
+    'category' => 'PHP Package Management',
     'tags' => array(
-      'php', 'dependency-manager'
+      'php', 'per-project', 'dependency-manager', 'packages', 'dependencies'
     ),
     'logo' => '',
   ),
@@ -338,9 +338,9 @@
   ),
   'pear' => array(
     'description' => 'The PHP Extension and Application Repository (PEAR) is a framework and distribution system for reusable PHP components.',
-    'category' => 'php',
+    'category' => 'PHP Package Management',
     'tags' => array(
-      'php', 'pear'
+      'php', 'pear', 'packages', 'dependencies'
     ),
     'logo' => '',
   ),
