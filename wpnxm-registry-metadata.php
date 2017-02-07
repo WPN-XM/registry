@@ -18,7 +18,7 @@
  return array(
   'adminer' => array(
     'description' => 'Adminer is a full-featured database management tool written in PHP. Conversely to phpMyAdmin, it consist of a single file ready to deploy to the target server. Adminer is available for MySQL, PostgreSQL, SQLite, MS SQL, Oracle, Firebird, SimpleDB, Elasticsearch and MongoDB.',
-    'category' => 'database administration',
+    'category' => 'Database Administration',
     'tags' => array(
       'database', 'administration', 'tool'
     ),
@@ -26,7 +26,7 @@
   ),
   'apache-benchmark' => array(
     'description' => 'ab is a tool for benchmarking your Apache Hypertext Transfer Protocol (HTTP) server. It is designed to give you an impression of how your current Apache installation performs. This especially shows you how many requests per second your Apache installation is capable of serving.',
-    'category' => 'tool',
+    'category' => 'Tool',
     'tags' => array(
       'benchmark', 'tool'
     ),
@@ -34,7 +34,7 @@
   ),
   'arangodb-x64' => array(
     'description' => 'ArangoDb is a distributed free and open-source database with a flexible data model for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.',
-    'category' => 'database',
+    'category' => 'Database',
     'tags' => array(
       'database', 'nosql'
     ),
@@ -42,7 +42,7 @@
   ),
   'aria2-x64' => array(
     'description' => 'aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.',
-    'category' => 'tool',
+    'category' => 'Tool',
     'tags' => array(
       'download', 'tool'
     ),
@@ -50,7 +50,7 @@
   ),
   'aria2-x86' => array(
     'description' => 'aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.',
-    'category' => 'tool',
+    'category' => 'Tool',
     'tags' => array(
       'download', 'tool'
     ),
@@ -58,7 +58,7 @@
   ),
   'cassandra-x64' => array(
     'description' => 'Cassandra is a distributed database for managing large amounts of structured data across many commodity servers, while providing highly available service and no single point of failure.',
-    'category' => 'database',
+    'category' => 'Database',
     'tags' => array(
       'database', 'nosql'
     ),
@@ -66,7 +66,7 @@
   ),
   'cayley-x64' => array(
     'description' => 'Cayley is an open-source graph inspired by the graph database behind Freebase and Google\'s Knowledge Graph.',
-    'category' => 'database',
+    'category' => 'Database',
     'tags' => array(
       'database', 'graph'
     ),
@@ -82,7 +82,7 @@
   ),
   'closure-compiler' => array(
     'description' => 'The Closure Compiler is a tool for making JavaScript download and run faster. It is a true compiler for JavaScript.',
-    'category' => 'tool',
+    'category' => 'Tool',
     'tags' => array(
       'javascript', 'asset', 'compiler', 'minimizer'
     ),
@@ -90,7 +90,7 @@
   ),
   'composer' => array(
     'description' => 'Composer is a tool for dependency management in PHP. It allows you to declare the libraries your project depends on and it will manage (install/update) them for you.',
-    'category' => 'tool',
+    'category' => 'Tool',
     'tags' => array(
       'php', 'dependency-manager'
     ),
@@ -98,7 +98,7 @@
   ),
   'conemu' => array(
     'description' => 'ConEmu is a customizable Windows terminal with tabs, splits, quake-style and more.',
-    'category' => 'tool',
+    'category' => 'Tool',
     'tags' => array(
       'console', 'emulator', 'cli'
     ),
@@ -106,7 +106,7 @@
   ),
   'couchbase' => array(
     'description' => 'Couchbase Server, originally known as Membase, is an open-source, distributed (shared-nothing architecture) multi-model NoSQL document-oriented database that is optimized for interactive applications.',
-    'category' => 'database',
+    'category' => 'Database',
     'tags' => array(
       'database', 'nosql'
     ),
@@ -114,7 +114,7 @@
   ),
   'couchbase-x64' => array(
     'description' => 'Couchbase Server, originally known as Membase, is an open-source, distributed (shared-nothing architecture) multi-model NoSQL document-oriented database that is optimized for interactive applications.',
-    'category' => 'database',
+    'category' => 'Database',
     'tags' => array(
       'database', 'nosql'
     ),
@@ -122,7 +122,7 @@
   ),
   'curl-x64' => array(
     'description' => 'cURL is an open source command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, Gopher, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, POP3, POP3S, RTMP, RTSP, SCP, SFTP, SMB, SMTP, SMTPS, Telnet and TFTP. curl supports SSL certificates, HTTP POST, HTTP PUT, FTP uploading, HTTP form based upload, proxies, HTTP/2, cookies, user+password authentication (Basic, Plain, Digest, CRAM-MD5, NTLM, Negotiate and Kerberos), file transfer resume, proxy tunneling and more.',
-    'category' => 'tool',
+    'category' => 'Tool',
     'tags' => array(
       'download', 'tool'
     ),
@@ -130,7 +130,7 @@
   ),
   'curl-x86' => array(
     'description' => 'cURL is an open source command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, Gopher, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, POP3, POP3S, RTMP, RTSP, SCP, SFTP, SMB, SMTP, SMTPS, Telnet and TFTP. curl supports SSL certificates, HTTP POST, HTTP PUT, FTP uploading, HTTP form based upload, proxies, HTTP/2, cookies, user+password authentication (Basic, Plain, Digest, CRAM-MD5, NTLM, Negotiate and Kerberos), file transfer resume, proxy tunneling and more.',
-    'category' => 'tool',
+    'category' => 'Tool',
     'tags' => array(
       'download', 'tool'
     ),
@@ -146,7 +146,7 @@
   ),
   'firebird' => array(
     'description' => 'Firebird is a relational database offering many ANSI SQL standard features that runs on Linux, Windows, and a variety of Unix platforms. Firebird offers excellent concurrency, high performance, and powerful language support for stored procedures and triggers.',
-    'category' => 'database',
+    'category' => 'Database',
     'tags' => array(
       'database', 'sql'
     ),
@@ -170,7 +170,7 @@
   ),
   'heidisql' => array(
     'description' => 'HeidiSQL is a powerful and easy client for MySQL, MariaDB, Microsoft SQL Server and PostgreSQL.',
-    'category' => 'database administration',
+    'category' => 'Database Administration',
     'tags' => array(
       'database', 'administration', 'tool'
     ),
@@ -178,7 +178,7 @@
   ),
   'imagick' => array(
     'description' => 'ImageMagick® is a software suite to create, edit, compose, or convert bitmap images. ',
-    'category' => 'tool',
+    'category' => 'Tool',
     'tags' => array(
       'image', 'tool', 'convert'
     ),
@@ -186,7 +186,7 @@
   ),
   'imagick-x64' => array(
     'description' => 'ImageMagick® is a software suite to create, edit, compose, or convert bitmap images. ',
-    'category' => 'tool',
+    'category' => 'Tool',
     'tags' => array(
       'image', 'tool', 'convert'
     ),
@@ -194,7 +194,7 @@
   ),
   'influxdb-x64' => array(
     'description' => 'InfluxDB is an open source distributed time series database with no external dependencies. It\'s useful for recording metrics, events, and performing analytics.',
-    'category' => 'database',
+    'category' => 'Database',
     'tags' => array(
       'database', 'time-series'
     ),
@@ -202,7 +202,7 @@
   ),
   'mariadb' => array(
     'description' => 'MariaDB surpasses MySQL as a leader in open source database solutions by delivering enterprise-level high availability, scalability and security.',
-    'category' => 'database',
+    'category' => 'Database',
     'tags' => array(
       'database'
     ),
@@ -210,7 +210,7 @@
   ),
   'mariadb-x64' => array(
     'description' => 'MariaDB surpasses MySQL as a leader in open source database solutions by delivering enterprise-level high availability, scalability and security.',
-    'category' => 'database',
+    'category' => 'Database',
     'tags' => array(
       'database'
     ),
@@ -218,7 +218,7 @@
   ),
   'memadmin' => array(
     'description' => 'Memadmin is a GUI Administration for memcached.',
-    'category' => 'tool',
+    'category' => 'Tool',
     'tags' => array(
       'memcached', 'administration', 'tool'
     ),
@@ -226,7 +226,7 @@
   ),
   'memcached' => array(
     'description' => 'Memcached is an in-memory key-value store for small chunks of arbitrary data (strings, objects) from results of database calls, API calls, or page rendering.',
-    'category' => 'database',
+    'category' => 'Database',
     'tags' => array(
       'in-memory', 'key-value-store', 'database', 'cache'
     ),
@@ -234,7 +234,7 @@
   ),
   'mongodb' => array(
     'description' => 'MongoDB (from humongous) is a cross-platform document-oriented database. Classified as a NoSQL database, MongoDB eschews the traditional table-based relational database structure in favor of JSON-like documents with dynamic schemas (BSON format), making the integration of data in certain types of applications easier and faster.',
-    'category' => 'database',
+    'category' => 'Database',
     'tags' => array(
       'database', 'nosql', 'bson'
     ),
@@ -242,7 +242,7 @@
   ),
   'mongodb-x64' => array(
     'description' => 'MongoDB (from humongous) is a cross-platform document-oriented database. Classified as a NoSQL database, MongoDB eschews the traditional table-based relational database structure in favor of JSON-like documents with dynamic schemas (BSON format), making the integration of data in certain types of applications easier and faster.',
-    'category' => 'database',
+    'category' => 'Database',
     'tags' => array(
       'database', 'nosql', 'bson'
     ),
@@ -266,7 +266,7 @@
   ),
   'neo4j-x64' => array(
     'description' => 'Neo4j is an open-source graph database implemented in Java and accessible from software written in other languages using the Cypher Query Language through a transactional HTTP endpoint. The developers describe Neo4j as an ACID-compliant transactional database with native graph storage and processing. Neo4j is the most popular graph database.',
-    'category' => 'database',
+    'category' => 'Database',
     'tags' => array(
       'database', 'graph', 'cql'
     ),
@@ -290,7 +290,7 @@
   ),
   'node' => array(
     'description' => 'Node is an event-driven I/O server-side JavaScript environment based on V8.',
-    'category' => 'node',
+    'category' => 'Node.js',
     'tags' => array(
       'node'
     ),
@@ -298,7 +298,7 @@
   ),
   'node-x64' => array(
     'description' => 'Node is an event-driven I/O server-side JavaScript environment based on V8.',
-    'category' => 'node',
+    'category' => 'Node.js',
     'tags' => array(
       'node'
     ),
@@ -306,7 +306,7 @@
   ),
   'nodenpm' => array(
     'description' => 'Package manager. Installs, publishes and manages node programs.',
-    'category' => 'node',
+    'category' => 'Node.js',
     'tags' => array(
       'node', 'npm', 'package manager', 'dependency manager'
     ),
@@ -330,7 +330,7 @@
   ),
   'orientdb' => array(
     'description' => 'OrientDB is a 2nd Generation Distributed Graph Database with the flexibility of Documents in one product with an Open Source commercial friendly license.',
-    'category' => 'database',
+    'category' => 'Database',
     'tags' => array(
       'database', 'nosql'
     ),
@@ -378,7 +378,7 @@
   ),
   'php-cs-fixer' => array(
     'description' => '',
-    'category' => 'tool',
+    'category' => 'Tool',
     'tags' => array(
       'PHP', 'tool', 'codestyling', 'QA'
     ),
@@ -698,7 +698,7 @@
   ),
   'phpmyadmin' => array(
     'description' => 'A tool written in PHP intended to handle the administration of MySQL over the WWW.',
-    'category' => 'database administration',
+    'category' => 'Database Administration',
     'tags' => array(
       'web-based', 'database', 'administration', 'tool'
     ),
@@ -714,7 +714,7 @@
   ),
   'postgresql' => array(
     'description' => 'PostgreSQL, often simply Postgres, is an object-relational database management system (ORDBMS) with an emphasis on extensibility and standards-compliance.',
-    'category' => 'database',
+    'category' => 'Database',
     'tags' => array(
       'database', 'sql', 'dbms', 'ordbms'
     ),
@@ -722,7 +722,7 @@
   ),
   'postgresql-x64' => array(
     'description' => 'PostgreSQL, often simply Postgres, is an object-relational database management system (ORDBMS) with an emphasis on extensibility and standards-compliance.',
-    'category' => 'database',
+    'category' => 'Database',
     'tags' => array(
       'database', 'sql', 'dbms', 'ordbms'
     ),
@@ -730,14 +730,14 @@
   ),
   'qcachegrind-x64' => array(
     'description' => 'QCacheGrind (KCacheGrind) Windows build The QCacheGrind branch of KCacheGrind compiled with the QT5 toolkit for use in Windows. This tool allows visualisation of profiling data in the callgrind-format.',
-    'category' => 'profiling',
+    'category' => 'Debugging & Profiling',
     'tags' => array(
       'profiling', 'debugging', 'tracing', 'xdebug'
     )
   ),
   'qcachegrind-x86' => array(
     'description' => 'QCacheGrind (KCacheGrind) Windows build The QCacheGrind branch of KCacheGrind compiled with the QT5 toolkit for use in Windows. This tool allows visualisation of profiling data in the callgrind-format.',
-    'category' => 'profiling',
+    'category' => 'Debugging & Profiling',
     'tags' => array(
       'profiling', 'debugging', 'tracing', 'xdebug'
     )
@@ -752,7 +752,7 @@
   ),
   'redis' => array(
     'description' => 'Redis is an open source, in-memory data structure store, used as database, cache and message broker.',
-    'category' => 'database',
+    'category' => 'Database',
     'tags' => array(
       'database', 'cache', 'message broker', 'in-memory'
     ),
@@ -760,7 +760,7 @@
   ),
   'rethinkdb-x64' => array(
     'description' => 'RethinkDB is an open-source, scalable JSON database built from the ground up for the realtime web. ',
-    'category' => 'database',
+    'category' => 'Database',
     'tags' => array(
       'database', 'nosql', 'distributed', 'realtime', 'push', 'json'
     ),
@@ -768,7 +768,7 @@
   ),
   'robomongo' => array(
     'description' => 'MongoDB management tool.',
-    'category' => 'database administration',
+    'category' => 'Database Administration',
     'tags' => array(
       'mongodb', 'administration', 'tool', 'database'
     ),
@@ -776,7 +776,7 @@
   ),
   'rockmongo' => array(
     'description' => 'RockMongo is a MongoDB administration tool, written in PHP 5.',
-    'category' => 'tool',
+    'category' => 'Tool',
     'tags' => array(
       'mongodb', 'administration', 'tool', 'database'
     ),
@@ -799,7 +799,7 @@
   ),
   'sharex' => array(
     'description' => 'ShareX is an open source program that lets you take screenshots or screencasts of any selected area with a single key, save them in your clipboard, hard disk or instantly upload them to over 30 different file hosting services.',
-    'category' => 'tool',
+    'category' => 'Tool',
     'tags' => array(
       'tool', 'screenshots', 'screencasts'
     ),
@@ -823,7 +823,7 @@
   ),
   'uprofiler' => array(
     'description' => 'uprofiler is a lightweight profiler for PHP (based on facebook/xhprof).',
-    'category' => 'profiling',
+    'category' => 'Debugging & Profiling',
     'tags' => array(
       'php', 'profiler', 'debugging'
     ),
@@ -854,7 +854,7 @@
   ),
   'virtuoso-x64' => array(
     'description' => 'Virtuoso is a scalable cross-platform server that combines Relational, Graph, and Document Data Management with Web Application Server and Web Services Platform functionality.',
-    'category' => 'database',
+    'category' => 'Database',
     'tags' => array(
       'database', 'relational', 'graph'
     ),
@@ -862,7 +862,7 @@
   ),
   'webgrind' => array(
     'description' => 'Xdebug Profiling Web Frontend in PHP',
-    'category' => 'profiling',
+    'category' => 'Debugging & Profiling',
     'tags' => array(
       'php', 'xdebug', 'profiling', 'gui', 'debugging'
     ),
@@ -870,7 +870,7 @@
   ),
   'wincachegrind' => array(
     'description' => 'WinCacheGrind is a viewer for cachegrind.out files generated by Xdebug.',
-    'category' => 'profiling',
+    'category' => 'Debugging & Profiling',
     'tags' => array(
       'php', 'xdebug', 'profiling', 'gui', 'debugging'
     ),
@@ -878,7 +878,7 @@
   ),
   'wpnxm-benchmark' => array(
     'description' => 'A pre-packaged set of benchmark tools for the WPN-XM Server Stack.',
-    'category' => 'wpnxm',
+    'category' => 'WPN-XM',
     'tags' => array(
       'wpnxm', 'benchmark'
     ),
@@ -886,7 +886,7 @@
   ),
   'wpnxm-scp' => array(
     'description' => 'The WPN-XM Server Control Panel is a server administration GUI written in C++ using Qt.',
-    'category' => 'wpnxm',
+    'category' => 'WPN-XM',
     'tags' => array(
       'wpnxm'
     ),
@@ -894,7 +894,7 @@
   ),
   'wpnxm-scp-x64' => array(
     'description' => 'The WPN-XM Server Control Panel is a server administration GUI written in C++ using Qt.',
-    'category' => 'wpnxm',
+    'category' => 'WPN-XM',
     'tags' => array(
       'wpnxm'
     ),
@@ -902,7 +902,7 @@
   ),
   'xhprof' => array(
     'description' => 'XHProf is a function-level hierarchical profiler for PHP and has a simple HTML based user interface.',
-    'category' => 'profiling',
+    'category' => 'Debugging & Profiling',
     'tags' => array(
       'php', 'profiler', 'debugging'
     ),
@@ -910,8 +910,9 @@
   ),
   'yuicompressor' => array(
     'description' => 'YUI Compressor is JavaScript minifier designed to be 100% safe and yield a higher compression ratio than most other tools.',
-    'category' => 'tool',
+    'category' => 'Tool',
     'tags' => array(
+      'javascript', 'asset', 'compression', 'tool'
     ),
     'logo' => '',
   ),
