@@ -138,7 +138,7 @@
   ),
   'elasticsearch' => array(
     'description' => 'Elasticsearch is a search server based on Lucene. It provides a distributed, multitenant-capable full-text search engine with an HTTP web interface and schema-free JSON documents. Its written in Java and open source under the terms of the Apache License.',
-    'category' => 'search',
+    'category' => 'Search',
     'tags' => array(
       'search', 'server', 'lucene', 'elasticsearch', 'elastic'
     ),
@@ -282,7 +282,7 @@
   ),
   'ngrok' => array(
     'description' => 'ngrok secure introspectable tunnels to localhost webhook development tool and debugging tool.',
-    'category' => 'network',
+    'category' => 'Network',
     'tags' => array(
       'network', 'tunnel'
     ),
@@ -314,17 +314,17 @@
   ),
   'openssl' => array(   
     'description' => 'A toolkit implementing SSL v2/v3 and TLS protocols with full-strength cryptography world-wide.',
-    'category' => 'ssl',   
+    'category' => 'Network',   
     'tags' => array(
-      'ssl'
+      'ssl', 'network'
     ),
     'logo' => '',
   ),
   'openssl-x64' => array(   
     'description' => 'A toolkit implementing SSL v2/v3 and TLS protocols with full-strength cryptography world-wide.',
-    'category' => 'ssl',  
+    'category' => 'Network',  
     'tags' => array(
-      'ssl'
+      'ssl', 'network'
     ),
     'logo' => '',
   ),
@@ -362,7 +362,7 @@
   ),
   'phantomjs' => array(
     'description' => 'PhantomJS is a scripted, headless browser used for automating web page interaction. PhantomJS provides a JavaScript API enabling automated navigation, screenshots, user behavior and assertions making it a common tool used to run browser-based unit tests in a headless system like a continuous integration environment.',
-    'category' => 'testing',
+    'category' => 'Testing & Automation',
     'tags' => array(
       'headless browser', 'automation'
     ),
@@ -690,7 +690,7 @@
   ),
   'phpmemcachedadmin' => array(
     'description' => 'phpMemcachedAdmin provides a web based interface to monitor and manage the memcached service.',
-    'category' => 'php',
+    'category' => 'Database Administration',
     'tags' => array(
       'web-based', 'administration', 'tool'
     ),
@@ -706,7 +706,7 @@
   ),
   'pickle' => array(
     'description' => 'PHP Extension Installer.',
-    'category' => 'php',
+    'category' => 'PHP',
     'tags' => array(
       'php', 'extension', 'installer'
     ),
@@ -744,7 +744,7 @@
   ),
   'rabbitmq' => array(
     'description' => 'RabbitMQ is an open source message broker software (sometimes called message-oriented middleware) that implements the Advanced Message Queuing Protocol (AMQP).',
-    'category' => 'queue',
+    'category' => 'Queue',
     'tags' => array(
       'message broker', 'amqp'
     ),
@@ -784,7 +784,7 @@
   ),
   'selenium' => array(
     'description' => 'Selenium is a portable software testing framework for web applications. Selenium provides a record/playback tool for authoring tests without learning a test scripting language (Selenium IDE). It also provides a test domain-specific language (Selenese) to write tests in a number of popular programming languages.',
-    'category' => 'testing',
+    'category' => 'Testing & Automation',
     'tags' => array(
       'testing', 'automation', 'headless', 'acceptance tests'
     ),
@@ -807,7 +807,7 @@
   ),
   'sphinx' => array(
     'description' => 'Sphinx is an open source full text search server, designed with performance, relevance (search quality), and integration simplicity in mind.',
-    'category' => 'server',
+    'category' => 'Search',
     'tags' => array(
       'search', 'full-text'
     ),
@@ -815,7 +815,7 @@
   ),
   'sphinx-x64' => array(
     'description' => 'Sphinx is an open source full text search server, designed with performance, relevance (search quality), and integration simplicity in mind.',
-    'category' => 'server',
+    'category' => 'Search',
     'tags' => array(
       'search', 'full-text'
     ),
@@ -831,14 +831,15 @@
   ),
   'varnish' => array(
     'description' => 'Varnish is an HTTP accelerator designed for content-heavy dynamic web sites as well as heavily consumed APIs.',
-    'category' => '',
+    'category' => 'Cache',
     'tags' => array(
+      'cache'
     ),
     'logo' => '',
   ),
   'vcredist' => array(
     'description' => 'Visual C++ Redistributable Packages',
-    'category' => 'vcredist',
+    'category' => 'VCRedist',
     'tags' => array(
       'microsoft', 'redist', 'vcredist', 'redistributable', 'c++'
     ),
@@ -846,7 +847,7 @@
   ),
   'vcredist-x64' => array(
     'description' => 'Visual C++ Redistributable Packages',
-    'category' => 'vcredist',
+    'category' => 'VCRedist',
     'tags' => array(
       'microsoft', 'redist', 'vcredist', 'redistributable', 'c++'
     ),
