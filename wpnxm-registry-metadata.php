@@ -362,7 +362,7 @@
   ),
   'phantomjs' => array(
     'description' => 'PhantomJS is a scripted, headless browser used for automating web page interaction. PhantomJS provides a JavaScript API enabling automated navigation, screenshots, user behavior and assertions making it a common tool used to run browser-based unit tests in a headless system like a continuous integration environment.',
-    'category' => 'headless browser',
+    'category' => 'testing',
     'tags' => array(
       'headless browser', 'automation'
     ),
@@ -370,36 +370,41 @@
   ),
   'php' => array(
     'description' => 'PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open source general-purpose scripting language that is especially suited for web development and can be embedded into HTML.',
-    'category' => 'language',
+    'category' => 'PHP',
     'tags' => array(
+      'PHP', 'language'
     ),
     'logo' => '',
   ),
   'php-cs-fixer' => array(
     'description' => '',
-    'category' => '',
+    'category' => 'tool',
     'tags' => array(
+      'PHP', 'tool', 'codestyling', 'QA'
     ),
     'logo' => '',
   ),
   'php-qa' => array(
     'description' => 'Unstable/QA version of PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open source general-purpose scripting language that is especially suited for web development and can be embedded into HTML.',
-    'category' => '',
+    'category' => 'PHP',
     'tags' => array(
+      'PHP', 'language'
     ),
     'logo' => '',
   ),
   'php-qa-x64' => array(
     'description' => 'Unstable/QA version of PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open source general-purpose scripting language that is especially suited for web development and can be embedded into HTML.',
-    'category' => '',
+    'category' => 'PHP',
     'tags' => array(
+      'PHP', 'language'
     ),
     'logo' => '',
   ),
   'php-x64' => array(
     'description' => 'PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open source general-purpose scripting language that is especially suited for web development and can be embedded into HTML.',
-    'category' => '',
+    'category' => 'PHP',
     'tags' => array(
+      'PHP', 'language'
     ),
     'logo' => '',
   ),
@@ -763,7 +768,7 @@
   ),
   'robomongo' => array(
     'description' => 'MongoDB management tool.',
-    'category' => 'tool',
+    'category' => 'database administration',
     'tags' => array(
       'mongodb', 'administration', 'tool', 'database'
     ),
