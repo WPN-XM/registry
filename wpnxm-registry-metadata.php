@@ -274,9 +274,9 @@
   ),
   'nginx' => array(
     'description' => 'NGINX is a free, open-source, high-performance HTTP server, reverse proxy, and IMAP/POP3 proxy server.',
-    'category' => 'webserver',
+    'category' => 'Webserver',
     'tags' => array(
-      'webserver', 'reverse-proxy', 'proxy'
+      'webserver', 'reverse-proxy', 'proxy', 'nginx'
     ),
     'logo' => '',
   ),
@@ -346,7 +346,7 @@
   ),
   'perl' => array(
     'description' => 'Perl 5 is a highly capable, feature-rich programming language with over 27 years of development.',
-    'category' => 'perl',
+    'category' => 'Perl',
     'tags' => array(
       'perl', 'language'
     ),
@@ -354,7 +354,7 @@
   ),
   'perl-x64' => array(
     'description' => 'Perl 5 is a highly capable, feature-rich programming language with over 27 years of development.',
-    'category' => 'perl',
+    'category' => 'Perl',
     'tags' => array(
       'perl', 'language'
     ),
