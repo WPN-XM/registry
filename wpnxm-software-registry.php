@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Mon, 13 Feb 2017 18:56:05 +0000.
+    * Last Update Mon, 13 Feb 2017 18:56:07 +0000.
     * Do not edit manually!
     */
 
@@ -4308,14 +4308,26 @@
         '7.0' => 'http://windows.php.net/downloads/pecl/releases/redis/3.1.0/php_redis-3.1.0-7.0-nts-vc14-x64.zip',
       ),
     ),
+    '3.1.1' => array(
+      'x86' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/redis/3.1.1/php_redis-3.1.1-7.0-nts-vc14-x86.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/redis/3.1.1/php_redis-3.1.1-7.1-nts-vc14-x86.zip',
+      ),
+      'x64' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/redis/3.1.1/php_redis-3.1.1-7.0-nts-vc14-x64.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/redis/3.1.1/php_redis-3.1.1-7.1-nts-vc14-x64.zip',
+      ),
+    ),
     'latest' => array(
-      'version' => '3.1.0',
+      'version' => '3.1.1',
       'url' => array(
         'x86' => array(
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/redis/3.1.0/php_redis-3.1.0-7.0-nts-vc14-x86.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/redis/3.1.1/php_redis-3.1.1-7.0-nts-vc14-x86.zip',
+          '7.1' => 'http://windows.php.net/downloads/pecl/releases/redis/3.1.1/php_redis-3.1.1-7.1-nts-vc14-x86.zip',
         ),
         'x64' => array(
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/redis/3.1.0/php_redis-3.1.0-7.0-nts-vc14-x64.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/redis/3.1.1/php_redis-3.1.1-7.0-nts-vc14-x64.zip',
+          '7.1' => 'http://windows.php.net/downloads/pecl/releases/redis/3.1.1/php_redis-3.1.1-7.1-nts-vc14-x64.zip',
         ),
       ),
     ),
