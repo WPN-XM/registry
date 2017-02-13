@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Mon, 13 Feb 2017 19:00:15 +0000.
+    * Last Update Mon, 13 Feb 2017 19:00:18 +0000.
     * Do not edit manually!
     */
 
@@ -838,9 +838,10 @@
     '2.10.1' => 'https://github.com/git-for-windows/git/releases/download/v2.10.1.windows.1/PortableGit-2.10.1-64-bit.7z.exe',
     '2.10.2' => 'https://github.com/git-for-windows/git/releases/download/v2.10.2.windows.1/PortableGit-2.10.2-64-bit.7z.exe',
     '2.11.0' => 'https://github.com/git-for-windows/git/releases/download/v2.11.0.windows.1/PortableGit-2.11.0-64-bit.7z.exe',
+    '2.11.1' => 'https://github.com/git-for-windows/git/releases/download/v2.11.1.windows.1/PortableGit-2.11.1-64-bit.7z.exe',
     'latest' => array(
-      'version' => '2.11.0',
-      'url' => 'https://github.com/git-for-windows/git/releases/download/v2.11.0.windows.1/PortableGit-2.11.0-64-bit.7z.exe',
+      'version' => '2.11.1',
+      'url' => 'https://github.com/git-for-windows/git/releases/download/v2.11.1.windows.1/PortableGit-2.11.1-64-bit.7z.exe',
     ),
   ),
   'neo4j-x64' => array(
