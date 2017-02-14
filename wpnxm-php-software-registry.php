@@ -859,6 +859,22 @@
       'url' => '',
     ),
   ),
+  'sqlbuddy' => array(
+    'name' => 'SQL Buddy',
+    'website' => 'http://sqlbuddy.com/',
+    'description' => 'SQL Buddy is a phpMyAdmin alternative with a focus on usability.',
+    'category' => 'database tool',
+    'source-url' => 'https://github.com/calvinlough/sqlbuddy',
+    'license' => 'MIT',
+    'license-url' => 'https://github.com/deliciousbrains/sqlbuddy/blob/master/LICENSE', 
+    'versions' => array(
+        '1.3.3' => 'https://github.com/calvinlough/sqlbuddy/raw/gh-pages/sqlbuddy.zip',
+    ),   
+    'latest' => array(
+      'version' => '1.3.3',
+      'url' => 'https://github.com/calvinlough/sqlbuddy/raw/gh-pages/sqlbuddy.zip',
+    ),
+  ),
   'typo3' => array(
     'name' => 'TYPO3',
     'website' => 'https://typo3.org/',
