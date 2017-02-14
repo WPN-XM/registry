@@ -347,7 +347,6 @@
   'geckodriver-x64' => array(
     'name' => 'GeckoDriver x64',
     'website' => 'https://github.com/mozilla/geckodriver/',
-    0 => '',
     '0.9.0' => 'https://github.com/mozilla/geckodriver/releases/download/v0.9.0/geckodriver-v0.9.0-win64.zip',
     '0.10.0' => 'https://github.com/mozilla/geckodriver/releases/download/v0.10.0/geckodriver-v0.10.0-win64.zip',
     '0.11.0' => 'https://github.com/mozilla/geckodriver/releases/download/v0.11.0/geckodriver-v0.11.0-win64.zip',
