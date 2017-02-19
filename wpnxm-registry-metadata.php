@@ -412,6 +412,7 @@
     'description' => '',
     'category' => 'PHP Extension',
     'tags' => array(
+      'messaging', 'message broker', 'amqp', 'rabbitmq'
     ),
     'logo' => '',
   ),
@@ -746,7 +747,7 @@
     'description' => 'RabbitMQ is an open source message broker software (sometimes called message-oriented middleware) that implements the Advanced Message Queuing Protocol (AMQP).',
     'category' => 'Queue',
     'tags' => array(
-      'message broker', 'amqp'
+      'messaging', 'message broker', 'amqp'
     ),
     'logo' => '',
   ),
