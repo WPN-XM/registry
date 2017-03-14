@@ -17,6 +17,8 @@
 
  return array(
   'activemq' => array(
+    'name' => 'ActiveMQ',
+    'website' => 'http://activemq.apache.org/',
     '5.9.1' => 'http://archive.apache.org/dist/activemq/5.9.1/apache-activemq-5.9.1-bin.zip',
     '5.10.0' => 'http://archive.apache.org/dist/activemq/5.10.0/apache-activemq-5.10.0-bin.zip',
     '5.10.1' => 'http://archive.apache.org/dist/activemq/5.10.1/apache-activemq-5.10.1-bin.zip',
