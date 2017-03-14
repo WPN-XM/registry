@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Tue, 14 Mar 2017 16:16:03 +0000.
+    * Last Update Tue, 14 Mar 2017 16:16:05 +0000.
     * Do not edit manually!
     */
 
@@ -4640,14 +4640,34 @@
         '7.0.0' => 'https://github.com/Azure/msphpsql/releases/download/v4.0.4/php_sqlrv_4.0.4_x64.zip',
       ),
     ),
+    '4.1.6' => array(
+      'x86' => array(
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/sqlsrv/4.1.6/php_sqlsrv-4.1.6-7.1-nts-vc14-x86.zip',
+      ),
+      'x64' => array(
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/sqlsrv/4.1.6/php_sqlsrv-4.1.6-7.1-nts-vc14-x64.zip',
+      ),
+    ),
+    '4.1.6.1' => array(
+      'x86' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/sqlsrv/4.1.6.1/php_sqlsrv-4.1.6.1-7.0-nts-vc14-x86.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/sqlsrv/4.1.6.1/php_sqlsrv-4.1.6.1-7.1-nts-vc14-x86.zip',
+      ),
+      'x64' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/sqlsrv/4.1.6.1/php_sqlsrv-4.1.6.1-7.0-nts-vc14-x64.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/sqlsrv/4.1.6.1/php_sqlsrv-4.1.6.1-7.1-nts-vc14-x64.zip',
+      ),
+    ),
     'latest' => array(
-      'version' => '4.0.4',
+      'version' => '4.1.6.1',
       'url' => array(
         'x86' => array(
-          '7.0.0' => 'https://github.com/Azure/msphpsql/releases/download/v4.0.4/php_sqlrv_4.0.4_x86.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/sqlsrv/4.1.6.1/php_sqlsrv-4.1.6.1-7.0-nts-vc14-x86.zip',
+          '7.1' => 'http://windows.php.net/downloads/pecl/releases/sqlsrv/4.1.6.1/php_sqlsrv-4.1.6.1-7.1-nts-vc14-x86.zip',
         ),
         'x64' => array(
-          '7.0.0' => 'https://github.com/Azure/msphpsql/releases/download/v4.0.4/php_sqlrv_4.0.4_x64.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/sqlsrv/4.1.6.1/php_sqlsrv-4.1.6.1-7.0-nts-vc14-x64.zip',
+          '7.1' => 'http://windows.php.net/downloads/pecl/releases/sqlsrv/4.1.6.1/php_sqlsrv-4.1.6.1-7.1-nts-vc14-x64.zip',
         ),
       ),
     ),
