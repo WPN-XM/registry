@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Tue, 14 Mar 2017 16:16:09 +0000.
+    * Last Update Tue, 14 Mar 2017 16:21:43 +0000.
     * Do not edit manually!
     */
 
@@ -6293,6 +6293,14 @@
     'latest' => array(
       'version' => '2.4.8',
       'url' => 'https://github.com/yui/yuicompressor/releases/download/v2.4.8/yuicompressor-2.4.8.jar',
+    ),
+  ),
+  'zealdocs' => array(
+    '0.3.0' => 'https://dl.bintray.com/zealdocs/windows/:zeal-portable-0.3.0-windows-x86.7z',
+    '0.3.1' => 'https://dl.bintray.com/zealdocs/windows/:zeal-portable-0.3.1-windows-x86.7z',
+    'latest' => array(
+      'version' => '0.3.1',
+      'url' => 'https://dl.bintray.com/zealdocs/windows/:zeal-portable-0.3.1-windows-x86.7z',
     ),
   ),
   'zeromq' => array(
