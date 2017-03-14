@@ -11,11 +11,41 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Tue, 14 Mar 2017 16:24:46 +0000.
+    * Last Update Tue, 14 Mar 2017 16:39:40 +0000.
     * Do not edit manually!
     */
 
  return array(
+  'activemq' => array(
+    '5.9.1' => 'http://archive.apache.org/dist/activemq/5.9.1/apache-activemq-5.9.1-bin.zip',
+    '5.10.0' => 'http://archive.apache.org/dist/activemq/5.10.0/apache-activemq-5.10.0-bin.zip',
+    '5.10.1' => 'http://archive.apache.org/dist/activemq/5.10.1/apache-activemq-5.10.1-bin.zip',
+    '5.10.2' => 'http://archive.apache.org/dist/activemq/5.10.2/apache-activemq-5.10.2-bin.zip',
+    '5.11.0' => 'http://archive.apache.org/dist/activemq/5.11.0/apache-activemq-5.11.0-bin.zip',
+    '5.11.1' => 'http://archive.apache.org/dist/activemq/5.11.1/apache-activemq-5.11.1-bin.zip',
+    '5.11.2' => 'http://archive.apache.org/dist/activemq/5.11.2/apache-activemq-5.11.2-bin.zip',
+    '5.11.3' => 'http://archive.apache.org/dist/activemq/5.11.3/apache-activemq-5.11.3-bin.zip',
+    '5.11.4' => 'http://archive.apache.org/dist/activemq/5.11.4/apache-activemq-5.11.4-bin.zip',
+    '5.12.0' => 'http://archive.apache.org/dist/activemq/5.12.0/apache-activemq-5.12.0-bin.zip',
+    '5.12.1' => 'http://archive.apache.org/dist/activemq/5.12.1/apache-activemq-5.12.1-bin.zip',
+    '5.12.2' => 'http://archive.apache.org/dist/activemq/5.12.2/apache-activemq-5.12.2-bin.zip',
+    '5.12.3' => 'http://archive.apache.org/dist/activemq/5.12.3/apache-activemq-5.12.3-bin.zip',
+    '5.13.0' => 'http://archive.apache.org/dist/activemq/5.13.0/apache-activemq-5.13.0-bin.zip',
+    '5.13.1' => 'http://archive.apache.org/dist/activemq/5.13.1/apache-activemq-5.13.1-bin.zip',
+    '5.13.2' => 'http://archive.apache.org/dist/activemq/5.13.2/apache-activemq-5.13.2-bin.zip',
+    '5.13.3' => 'http://archive.apache.org/dist/activemq/5.13.3/apache-activemq-5.13.3-bin.zip',
+    '5.13.4' => 'http://archive.apache.org/dist/activemq/5.13.4/apache-activemq-5.13.4-bin.zip',
+    '5.13.5' => 'http://archive.apache.org/dist/activemq/5.13.5/apache-activemq-5.13.5-bin.zip',
+    '5.14.0' => 'http://archive.apache.org/dist/activemq/5.14.0/apache-activemq-5.14.0-bin.zip',
+    '5.14.1' => 'http://archive.apache.org/dist/activemq/5.14.1/apache-activemq-5.14.1-bin.zip',
+    '5.14.2' => 'http://archive.apache.org/dist/activemq/5.14.2/apache-activemq-5.14.2-bin.zip',
+    '5.14.3' => 'http://archive.apache.org/dist/activemq/5.14.3/apache-activemq-5.14.3-bin.zip',
+    '5.14.4' => 'http://archive.apache.org/dist/activemq/5.14.4/apache-activemq-5.14.4-bin.zip',
+    'latest' => array(
+      'version' => '5.14.4',
+      'url' => 'http://archive.apache.org/dist/activemq/5.14.4/apache-activemq-5.14.4-bin.zip',
+    ),
+  ),
   'adminer' => array(
     'name' => 'Adminer',
     'website' => 'http://adminer.org/',
