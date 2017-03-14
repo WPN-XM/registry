@@ -112,4 +112,5 @@ return array(
     'wpnxm-benchmark'       => 'wpnxm-benchmark.zip',
     'xhprof'                => 'xhprof.zip',
     'yuicompressor'         => 'yuicompressor.jar', // ! jar file
+    'zealdocs'              => 'zealdocs.7z'
 );
