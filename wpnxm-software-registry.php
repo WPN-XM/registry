@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Tue, 14 Mar 2017 16:16:05 +0000.
+    * Last Update Tue, 14 Mar 2017 16:16:09 +0000.
     * Do not edit manually!
     */
 
@@ -4992,28 +4992,46 @@
     ),
     '2016.10' => array(
       'x86' => array(
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2016.10/php_timezonedb-2016.10-5.5-nts-vc11-x86.zip',
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2016.10/php_timezonedb-2016.10-5.6-nts-vc11-x86.zip',
         '7.0' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2016.10/php_timezonedb-2016.10-7.0-nts-vc14-x86.zip',
         '7.1' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2016.10/php_timezonedb-2016.10-7.1-nts-vc14-x86.zip',
       ),
       'x64' => array(
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2016.10/php_timezonedb-2016.10-5.5-nts-vc11-x64.zip',
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2016.10/php_timezonedb-2016.10-5.6-nts-vc11-x64.zip',
         '7.0' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2016.10/php_timezonedb-2016.10-7.0-nts-vc14-x64.zip',
         '7.1' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2016.10/php_timezonedb-2016.10-7.1-nts-vc14-x64.zip',
       ),
     ),
+    '2017.1' => array(
+      'x86' => array(
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2017.1/php_timezonedb-2017.1-5.5-nts-vc11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2017.1/php_timezonedb-2017.1-5.6-nts-vc11-x86.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2017.1/php_timezonedb-2017.1-7.0-nts-vc14-x86.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2017.1/php_timezonedb-2017.1-7.1-nts-vc14-x86.zip',
+      ),
+      'x64' => array(
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2017.1/php_timezonedb-2017.1-5.5-nts-vc11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2017.1/php_timezonedb-2017.1-5.6-nts-vc11-x64.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2017.1/php_timezonedb-2017.1-7.0-nts-vc14-x64.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2017.1/php_timezonedb-2017.1-7.1-nts-vc14-x64.zip',
+      ),
+    ),
     'latest' => array(
-      'version' => '2016.10',
+      'version' => '2017.1',
       'url' => array(
         'x86' => array(
-          '5.6' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2016.10/php_timezonedb-2016.10-5.6-nts-vc11-x86.zip',
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2016.10/php_timezonedb-2016.10-7.0-nts-vc14-x86.zip',
-          '7.1' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2016.10/php_timezonedb-2016.10-7.1-nts-vc14-x86.zip',
+          '5.5' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2017.1/php_timezonedb-2017.1-5.5-nts-vc11-x86.zip',
+          '5.6' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2017.1/php_timezonedb-2017.1-5.6-nts-vc11-x86.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2017.1/php_timezonedb-2017.1-7.0-nts-vc14-x86.zip',
+          '7.1' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2017.1/php_timezonedb-2017.1-7.1-nts-vc14-x86.zip',
         ),
         'x64' => array(
-          '5.6' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2016.10/php_timezonedb-2016.10-5.6-nts-vc11-x64.zip',
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2016.10/php_timezonedb-2016.10-7.0-nts-vc14-x64.zip',
-          '7.1' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2016.10/php_timezonedb-2016.10-7.1-nts-vc14-x64.zip',
+          '5.5' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2017.1/php_timezonedb-2017.1-5.5-nts-vc11-x64.zip',
+          '5.6' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2017.1/php_timezonedb-2017.1-5.6-nts-vc11-x64.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2017.1/php_timezonedb-2017.1-7.0-nts-vc14-x64.zip',
+          '7.1' => 'http://windows.php.net/downloads/pecl/releases/timezonedb/2017.1/php_timezonedb-2017.1-7.1-nts-vc14-x64.zip',
         ),
       ),
     ),
