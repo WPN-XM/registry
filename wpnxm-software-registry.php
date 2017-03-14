@@ -6328,6 +6328,8 @@
     ),
   ),
   'zealdocs' => array(
+    'name' => 'ZealDocs',
+    'website' => 'http://zeromq.org/',
     '0.3.0' => 'https://dl.bintray.com/zealdocs/windows/:zeal-portable-0.3.0-windows-x86.7z',
     '0.3.1' => 'https://dl.bintray.com/zealdocs/windows/:zeal-portable-0.3.1-windows-x86.7z',
     'latest' => array(
@@ -6337,7 +6339,7 @@
   ),
   'zeromq' => array(
     'name' => 'ZeroMQ x86',
-    'website' => 'http://zeromq.org/',
+    'website' => 'https://zealdocs.org/',
     '3.2.4' => 'http://miru.hk/archive/ZeroMQ-3.2.4~miru1.0-x86.exe',
     '4.0.4' => 'http://miru.hk/archive/ZeroMQ-4.0.4~miru1.0-x86.exe',
     'latest' => array(
