@@ -34,6 +34,7 @@ return array(
     'mariadb-x64'           => 'mariadb.zip',
     'memadmin'              => 'memadmin.zip',
     'memcached'             => 'memcached.zip',
+    'memcached-x64'         => 'memcached.zip',
     'mongodb'               => 'mongodb.zip',
     'mongodb-x64'           => 'mongodb.zip',
     'msysgit'               => 'msysgit.exe', // ! 7zip sfx - exe file
