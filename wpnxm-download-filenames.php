@@ -96,6 +96,8 @@ return array(
     'qcachegrind-x64'       => 'qcachegrind.zip',
     'qcachegrind-x86'       => 'qcachegrind.zip',
     'rabbitmq'              => 'rabbitmq.zip',
+    'rclone-x86'            => 'rclone.zip',
+    'rclone-x64'            => 'rclone.zip',
     'redis'                 => 'redis.zip',
     'rockmongo'             => 'rockmongo.zip',
     'robomongo'             => 'robomongo.zip',
