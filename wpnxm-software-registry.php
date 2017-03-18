@@ -677,12 +677,21 @@
     ),
   ),
   'memcached' => array(
-    'name' => 'Memcached',
+    'name' => 'Memcached x86',
     'website' => 'http://memcached.org/',
     '1.4.5' => 'http://downloads.northscale.com/memcached-1.4.5-x86.zip',
     'latest' => array(
       'version' => '1.4.5',
       'url' => 'http://downloads.northscale.com/memcached-1.4.5-x86.zip',
+    ),
+  ),
+  'memcached-x64' => array(
+    'name' => 'Memcached',
+    'website' => 'http://memcached.org/',
+    '1.4.5' => 'http://downloads.northscale.com/memcached-1.4.5-amd64.zip',
+    'latest' => array(
+      'version' => '1.4.5',
+      'url' => 'http://downloads.northscale.com/memcached-1.4.5-amd64.zip',
     ),
   ),
   'mongodb' => array(
