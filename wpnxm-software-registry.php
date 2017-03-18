@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Sat, 18 Mar 2017 17:33:20 +0000.
+    * Last Update Sat, 18 Mar 2017 17:33:23 +0000.
     * Do not edit manually!
     */
 
@@ -1789,13 +1789,15 @@
     '7.0.13' => 'http://windows.php.net/downloads/releases/archives/php-7.0.13-nts-Win32-VC14-x86.zip',
     '7.0.14' => 'http://windows.php.net/downloads/releases/archives/php-7.0.14-nts-Win32-VC14-x86.zip',
     '7.0.15' => 'http://windows.php.net/downloads/releases/archives/php-7.0.15-nts-Win32-VC14-x86.zip',
-    '7.0.16' => 'http://windows.php.net/downloads/releases/php-7.0.16-nts-Win32-VC14-x86.zip',
+    '7.0.16' => 'http://windows.php.net/downloads/releases/archives/php-7.0.16-nts-Win32-VC14-x86.zip',
+    '7.0.17' => 'http://windows.php.net/downloads/releases/php-7.0.17-nts-Win32-VC14-x86.zip',
     '7.1.0' => 'http://windows.php.net/downloads/releases/archives/php-7.1.0-nts-Win32-VC14-x86.zip',
     '7.1.1' => 'http://windows.php.net/downloads/releases/archives/php-7.1.1-nts-Win32-VC14-x86.zip',
-    '7.1.2' => 'http://windows.php.net/downloads/releases/php-7.1.2-nts-Win32-VC14-x86.zip',
+    '7.1.2' => 'http://windows.php.net/downloads/releases/archives/php-7.1.2-nts-Win32-VC14-x86.zip',
+    '7.1.3' => 'http://windows.php.net/downloads/releases/php-7.1.3-nts-Win32-VC14-x86.zip',
     'latest' => array(
-      'version' => '7.1.2',
-      'url' => 'http://windows.php.net/downloads/releases/php-7.1.2-nts-Win32-VC14-x86.zip',
+      'version' => '7.1.3',
+      'url' => 'http://windows.php.net/downloads/releases/php-7.1.3-nts-Win32-VC14-x86.zip',
     ),
   ),
   'php-cs-fixer' => array(
