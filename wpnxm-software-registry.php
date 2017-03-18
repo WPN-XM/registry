@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Sat, 18 Mar 2017 17:33:49 +0000.
+    * Last Update Sat, 18 Mar 2017 21:37:05 +0000.
     * Do not edit manually!
     */
 
@@ -6057,6 +6057,25 @@
     'latest' => array(
       'version' => '3.6.8',
       'url' => 'https://www.rabbitmq.com/releases/rabbitmq-server/current/rabbitmq-server-windows-3.6.8.zip',
+    ),
+  ),
+  'rclone-x64' => array(
+    'name' => 'RClone x64',
+    'website' => 'http://rclone.org/',
+    '0.0.0' => '',
+    'latest' => array(
+      'version' => '0.0.0',
+      'url' => '',
+    ),
+  ),
+  'rclone-x86' => array(
+    'name' => 'RClone x86',
+    'website' => 'http://rclone.org/',
+    '0.0.0' => '',
+    '1.36' => 'https://github.com/ncw/rclone/releases/download/v1.36/rclone-v1.36-windows-386.zip',
+    'latest' => array(
+      'version' => '1.36',
+      'url' => 'https://github.com/ncw/rclone/releases/download/v1.36/rclone-v1.36-windows-386.zip',
     ),
   ),
   'redis' => array(
