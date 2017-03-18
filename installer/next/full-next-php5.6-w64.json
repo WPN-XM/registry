@@ -7,7 +7,7 @@
 [ "imagick-x64",            "http:\/\/wpn-xm.org\/get.php?s=imagick-x64&v=7.0.5-3",                              "imagick.zip",                "7.0.5-3" ],
 [ "mariadb-x64",            "http:\/\/wpn-xm.org\/get.php?s=mariadb-x64&v=10.2.4",                               "mariadb.zip",                "10.2.4" ],
 [ "memadmin",               "http:\/\/wpn-xm.org\/get.php?s=memadmin&v=1.0.12",                                  "memadmin.zip",               "1.0.12" ],
-[ "memcached",              "http:\/\/wpn-xm.org\/get.php?s=memcached&v=1.4.5",                                  "memcached.zip",              "1.4.5" ],
+[ "memcached-x64",          "http:\/\/wpn-xm.org\/get.php?s=memcached-x64&v=1.4.5",                              "memcached.zip",              "1.4.5" ],
 [ "mongodb-x64",            "http:\/\/wpn-xm.org\/get.php?s=mongodb-x64&v=3.5.4",                                "mongodb.zip",                "3.5.4" ],
 [ "msysgit-x64",            "http:\/\/wpn-xm.org\/get.php?s=msysgit-x64&v=2.12.0",                               "msysgit.exe",                "2.12.0" ],
 [ "nginx",                  "http:\/\/wpn-xm.org\/get.php?s=nginx&v=1.11.10",                                    "nginx.zip",                  "1.11.10" ],
