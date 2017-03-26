@@ -6175,7 +6175,6 @@
   'rclone-x86' => array(
     'name' => 'RClone x86',
     'website' => 'http://rclone.org/',
-    '0.0.0' => '',
     '1.36' => 'https://github.com/ncw/rclone/releases/download/v1.36/rclone-v1.36-windows-386.zip',
     'latest' => array(
       'version' => '1.36',
