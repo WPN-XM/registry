@@ -456,6 +456,8 @@
     ),
   ),
   'h2database' => array(
+    'name' => 'H2 Database',
+    'website' => 'http://www.h2database.com/',
     '2016-10-31' => 'http://www.h2database.com/h2-2016-10-31.zip',
     '2017-03-10' => 'http://www.h2database.com/h2-2017-03-10.zip',
     'latest' => array(
