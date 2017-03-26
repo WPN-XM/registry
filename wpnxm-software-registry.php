@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Sun, 26 Mar 2017 15:13:21 +0000.
+    * Last Update Sun, 26 Mar 2017 15:13:24 +0000.
     * Do not edit manually!
     */
 
@@ -4577,16 +4577,26 @@
         '7.1' => 'http://windows.php.net/downloads/pecl/releases/redis/3.1.1/php_redis-3.1.1-7.1-nts-vc14-x64.zip',
       ),
     ),
+    '3.1.2' => array(
+      'x86' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/redis/3.1.2/php_redis-3.1.2-7.0-nts-vc14-x86.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/redis/3.1.2/php_redis-3.1.2-7.1-nts-vc14-x86.zip',
+      ),
+      'x64' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/redis/3.1.2/php_redis-3.1.2-7.0-nts-vc14-x64.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/redis/3.1.2/php_redis-3.1.2-7.1-nts-vc14-x64.zip',
+      ),
+    ),
     'latest' => array(
-      'version' => '3.1.1',
+      'version' => '3.1.2',
       'url' => array(
         'x86' => array(
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/redis/3.1.1/php_redis-3.1.1-7.0-nts-vc14-x86.zip',
-          '7.1' => 'http://windows.php.net/downloads/pecl/releases/redis/3.1.1/php_redis-3.1.1-7.1-nts-vc14-x86.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/redis/3.1.2/php_redis-3.1.2-7.0-nts-vc14-x86.zip',
+          '7.1' => 'http://windows.php.net/downloads/pecl/releases/redis/3.1.2/php_redis-3.1.2-7.1-nts-vc14-x86.zip',
         ),
         'x64' => array(
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/redis/3.1.1/php_redis-3.1.1-7.0-nts-vc14-x64.zip',
-          '7.1' => 'http://windows.php.net/downloads/pecl/releases/redis/3.1.1/php_redis-3.1.1-7.1-nts-vc14-x64.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/redis/3.1.2/php_redis-3.1.2-7.0-nts-vc14-x64.zip',
+          '7.1' => 'http://windows.php.net/downloads/pecl/releases/redis/3.1.2/php_redis-3.1.2-7.1-nts-vc14-x64.zip',
         ),
       ),
     ),
