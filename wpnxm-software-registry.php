@@ -2,7 +2,7 @@
    /**
     * WPИ-XM Server Stack
     * Copyright © 2010 - 2017 Jens-André Koch <jakoch@web.de>
-    * http://wpn-xm.org/
+    * https://wpn-xm.org/
     *
     * This source file is subject to the terms of the MIT license.
     * For full copyright and license information, view the bundled LICENSE file.
@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Sat, 18 Mar 2017 21:37:19 +0000.
+    * Last Update Sun, 26 Mar 2017 15:11:52 +0000.
     * Do not edit manually!
     */
 
@@ -453,6 +453,14 @@
     'latest' => array(
       'version' => '0.10.18',
       'url' => 'https://github.com/gogits/gogs/releases/download/v0.10.18/windows_386_mws.zip',
+    ),
+  ),
+  'h2database' => array(
+    'name' => 'H2 Database',
+    'website' => 'http://h2database.org/',
+    'latest' => array(
+      'version' => '0.0.0',
+      'url' => '.',
     ),
   ),
   'heidisql' => array(
@@ -1128,9 +1136,10 @@
     '1.11.8' => 'http://nginx.org/download/nginx-1.11.8.zip',
     '1.11.9' => 'http://nginx.org/download/nginx-1.11.9.zip',
     '1.11.10' => 'http://nginx.org/download/nginx-1.11.10.zip',
+    '1.11.12' => 'http://nginx.org/download/nginx-1.11.12.zip',
     'latest' => array(
-      'version' => '1.11.10',
-      'url' => 'http://nginx.org/download/nginx-1.11.10.zip',
+      'version' => '1.11.12',
+      'url' => 'http://nginx.org/download/nginx-1.11.12.zip',
     ),
   ),
   'node' => array(
