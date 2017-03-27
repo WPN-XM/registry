@@ -8,7 +8,7 @@
 [ "php-qa-x64",       "http:\/\/wpn-xm.org\/get.php?s=php-qa-x64&v=7.1.3RC1",                        "php.zip",              "7.1.3RC1" ],
 [ "phpext_xdebug",    "http:\/\/wpn-xm.org\/get.php?s=phpext_xdebug&v=2.5.0rc1&p=7.1&bitzsize=x64",  "phpext_xdebug.zip",    "2.5.0rc1" ],
 [ "pickle",           "http:\/\/wpn-xm.org\/get.php?s=pickle&v=0.4.0",                               "pickle.phar",          "0.4.0" ],
-[ "rclone",           "http:\/\/wpn-xm.org\/get.php?s=rclone-x64&v=1.36",                            "rclone.zip",           "1.36" ],
+[ "rclone-x64",       "http:\/\/wpn-xm.org\/get.php?s=rclone-x64&v=1.36",                            "rclone.zip",           "1.36" ],
 [ "wpnxm-benchmark",  "http:\/\/wpn-xm.org\/get.php?s=wpnxm-benchmark&v=1.0.0",                      "wpnxm-benchmark.zip",  "1.0.0" ],
 [ "wpnxm-scp-x64",    "http:\/\/wpn-xm.org\/get.php?s=wpnxm-scp-x64&v=0.8.6",                        "wpnxm-scp.zip",        "0.8.6" ]
 ]
