@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Tue, 28 Mar 2017 12:08:29 +0000.
+    * Last Update Tue, 28 Mar 2017 12:11:52 +0000.
     * Do not edit manually!
     */
 
@@ -957,7 +957,7 @@
   'netbeans-x86' => array(
     'name' => 'Netbeans IDE x86',
     'website' => 'https://netbeans.org/',
-    '0' => '',
+    0 => '',
     'latest' => array(
       'version' => '',
       'url' => '',
