@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Tue, 28 Mar 2017 12:11:52 +0000.
+    * Last Update Tue, 28 Mar 2017 19:54:27 +0000.
     * Do not edit manually!
     */
 
@@ -399,6 +399,22 @@
     'latest' => array(
       'version' => '0.15.0',
       'url' => 'https://github.com/mozilla/geckodriver/releases/download/v0.15.0/geckodriver-v0.15.0-win64.zip',
+    ),
+  ),
+  'gimp' => array(
+    'name' => 'Gimp',
+    'website' => 'https://www.gimp.org/',
+    '2.8.0' => 'https://download.gimp.org/pub/gimp/stable/windows/gimp-2.8.0-setup.exe',
+    '2.8.4' => 'https://download.gimp.org/pub/gimp/stable/windows/gimp-2.8.4-setup.exe',
+    '2.8.8' => 'https://download.gimp.org/pub/gimp/stable/windows/gimp-2.8.8-setup.exe',
+    '2.8.10' => 'https://download.gimp.org/pub/gimp/stable/windows/gimp-2.8.10-setup.exe',
+    '2.8.14' => 'https://download.gimp.org/pub/gimp/stable/windows/gimp-2.8.14-setup.exe',
+    '2.8.16' => 'https://download.gimp.org/pub/gimp/stable/windows/gimp-2.8.16-setup.exe',
+    '2.8.18' => 'https://download.gimp.org/pub/gimp/stable/windows/gimp-2.8.18-setup.exe',
+    '2.8.20' => 'https://download.gimp.org/pub/gimp/stable/windows/gimp-2.8.20-setup.exe',
+    'latest' => array(
+      'version' => '2.8.20',
+      'url' => 'https://download.gimp.org/pub/gimp/stable/windows/gimp-2.8.20-setup.exe',
     ),
   ),
   'gogs-x64' => array(
