@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Sun, 26 Mar 2017 15:13:28 +0000.
+    * Last Update Tue, 28 Mar 2017 12:08:29 +0000.
     * Do not edit manually!
     */
 
@@ -943,6 +943,24 @@
     'latest' => array(
       'version' => '3.1.2',
       'url' => 'http://neo4j.com/artifact.php?name=neo4j-community-3.1.2-windows.zip',
+    ),
+  ),
+  'netbeans-x64' => array(
+    'name' => 'Netbeans IDE x64',
+    'website' => 'https://netbeans.org/',
+    '8.2' => 'http://download.netbeans.org/netbeans/8.2/final/bundles/netbeans-8.2-php-windows-x64.exe',
+    'latest' => array(
+      'version' => '8.2',
+      'url' => 'http://download.netbeans.org/netbeans/8.2/final/bundles/netbeans-8.2-php-windows-x64.exe',
+    ),
+  ),
+  'netbeans-x86' => array(
+    'name' => 'Netbeans IDE x86',
+    'website' => 'https://netbeans.org/',
+    '0' => '',
+    'latest' => array(
+      'version' => '',
+      'url' => '',
     ),
   ),
   'nginx' => array(
