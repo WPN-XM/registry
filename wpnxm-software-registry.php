@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Tue, 28 Mar 2017 19:54:27 +0000.
+    * Last Update Thu, 30 Mar 2017 10:54:54 +0000.
     * Do not edit manually!
     */
 
@@ -371,9 +371,10 @@
     '5.1.2' => 'https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-5.1.2.zip',
     '5.2.0' => 'https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-5.2.0.zip',
     '5.2.2' => 'https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-5.2.2.zip',
+    '5.3.0' => 'https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-5.3.0.zip',
     'latest' => array(
-      'version' => '5.2.2',
-      'url' => 'https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-5.2.2.zip',
+      'version' => '5.3.0',
+      'url' => 'https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-5.3.0.zip',
     ),
   ),
   'firebird' => array(
