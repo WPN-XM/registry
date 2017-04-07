@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Fri, 07 Apr 2017 15:04:33 +0000.
+    * Last Update Fri, 07 Apr 2017 15:06:08 +0000.
     * Do not edit manually!
     */
 
@@ -376,6 +376,15 @@
     'latest' => array(
       'version' => '5.3.0',
       'url' => 'https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-5.3.0.zip',
+    ),
+  ),
+  'filezilla-x64' => array(
+    'name' => 'FileZilla FTP Client x64',
+    'website' => 'http://www.firebirdsql.org/',
+    '7.3.3' => 'https://notepad-plus-plus.org/repository/7.x/7.3.3/npp.7.3.3.bin.zip',
+    'latest' => array(
+      'version' => '7.3.3',
+      'url' => 'https://notepad-plus-plus.org/repository/7.x/7.3.3/npp.7.3.3.bin.zip',
     ),
   ),
   'filezilla-x86' => array(
