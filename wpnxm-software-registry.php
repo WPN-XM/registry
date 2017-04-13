@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Fri, 07 Apr 2017 15:06:08 +0000.
+    * Last Update Thu, 13 Apr 2017 05:52:24 +0000.
     * Do not edit manually!
     */
 
@@ -378,22 +378,32 @@
       'url' => 'https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-5.3.0.zip',
     ),
   ),
+  'filezilla-server-x86' => array(
+    'name' => 'FileZilla Server x86',
+    'website' => 'https://filezilla-project.org/download.php?type=server',
+    0 => 'a',
+    '0.9.60.2' => 'http://sourceforge.net/projects/filezilla/files/FileZilla%20Server/0.9.60.2/FileZilla_Server-0_9_60_2.exe/download',
+    'latest' => array(
+      'version' => '0.9.60.2',
+      'url' => 'http://sourceforge.net/projects/filezilla/files/FileZilla%20Server/0.9.60.2/FileZilla_Server-0_9_60_2.exe/download',
+    ),
+  ),
   'filezilla-x64' => array(
     'name' => 'FileZilla FTP Client x64',
-    'website' => 'http://www.firebirdsql.org/',
-    '7.3.3' => 'https://notepad-plus-plus.org/repository/7.x/7.3.3/npp.7.3.3.bin.zip',
+    'website' => 'https://filezilla-project.org/',
+    0 => 'a',
     'latest' => array(
-      'version' => '7.3.3',
-      'url' => 'https://notepad-plus-plus.org/repository/7.x/7.3.3/npp.7.3.3.bin.zip',
+      'version' => '0',
+      'url' => 'a',
     ),
   ),
   'filezilla-x86' => array(
     'name' => 'FileZilla FTP Client x86',
-    'website' => 'http://www.firebirdsql.org/',
-    '7.3.3' => 'https://notepad-plus-plus.org/repository/7.x/7.3.3/npp.7.3.3.bin.zip',
+    'website' => 'https://filezilla-project.org/',
+    0 => 'a',
     'latest' => array(
-      'version' => '7.3.3',
-      'url' => 'https://notepad-plus-plus.org/repository/7.x/7.3.3/npp.7.3.3.bin.zip',
+      'version' => '0',
+      'url' => 'a',
     ),
   ),
   'firebird' => array(
