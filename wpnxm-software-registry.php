@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Thu, 13 Apr 2017 05:52:24 +0000.
+    * Last Update Thu, 13 Apr 2017 05:57:15 +0000.
     * Do not edit manually!
     */
 
@@ -392,9 +392,10 @@
     'name' => 'FileZilla FTP Client x64',
     'website' => 'https://filezilla-project.org/',
     0 => 'a',
+    '3.25.1' => 'https://download.filezilla-project.org/client/FileZilla_3.25.1_win64-setup_bundled2.exe',
     'latest' => array(
-      'version' => '0',
-      'url' => 'a',
+      'version' => '3.25.1',
+      'url' => 'https://download.filezilla-project.org/client/FileZilla_3.25.1_win64-setup_bundled2.exe',
     ),
   ),
   'filezilla-x86' => array(
