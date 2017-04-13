@@ -381,7 +381,6 @@
   'filezilla-server-x86' => array(
     'name' => 'FileZilla Server x86',
     'website' => 'https://filezilla-project.org/download.php?type=server',
-    0 => 'a',
     '0.9.60.2' => 'http://sourceforge.net/projects/filezilla/files/FileZilla%20Server/0.9.60.2/FileZilla_Server-0_9_60_2.exe/download',
     'latest' => array(
       'version' => '0.9.60.2',
@@ -391,7 +390,6 @@
   'filezilla-x64' => array(
     'name' => 'FileZilla FTP Client x64',
     'website' => 'https://filezilla-project.org/',
-    0 => 'a',
     '3.25.1' => 'https://download.filezilla-project.org/client/FileZilla_3.25.1_win64-setup_bundled2.exe',
     'latest' => array(
       'version' => '3.25.1',
@@ -401,7 +399,6 @@
   'filezilla-x86' => array(
     'name' => 'FileZilla FTP Client x86',
     'website' => 'https://filezilla-project.org/',
-    0 => 'a',
     '3.25.1' => 'https://download.filezilla-project.org/client/FileZilla_3.25.1_win32-setup_bundled2.exe',
     'latest' => array(
       'version' => '3.25.1',
