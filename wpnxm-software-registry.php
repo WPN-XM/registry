@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Fri, 21 Apr 2017 01:34:19 +0000.
+    * Last Update Fri, 21 Apr 2017 01:34:23 +0000.
     * Do not edit manually!
     */
 
@@ -4362,16 +4362,26 @@
         '7.1' => 'http://windows.php.net/downloads/pecl/releases/oci8/2.1.3/php_oci8-2.1.3-7.1-nts-vc14-x64.zip',
       ),
     ),
+    '2.1.4' => array(
+      'x86' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/oci8/2.1.4/php_oci8-2.1.4-7.0-nts-vc14-x86.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/oci8/2.1.4/php_oci8-2.1.4-7.1-nts-vc14-x86.zip',
+      ),
+      'x64' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/oci8/2.1.4/php_oci8-2.1.4-7.0-nts-vc14-x64.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/oci8/2.1.4/php_oci8-2.1.4-7.1-nts-vc14-x64.zip',
+      ),
+    ),
     'latest' => array(
-      'version' => '2.1.3',
+      'version' => '2.1.4',
       'url' => array(
         'x86' => array(
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/oci8/2.1.3/php_oci8-2.1.3-7.0-nts-vc14-x86.zip',
-          '7.1' => 'http://windows.php.net/downloads/pecl/releases/oci8/2.1.3/php_oci8-2.1.3-7.1-nts-vc14-x86.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/oci8/2.1.4/php_oci8-2.1.4-7.0-nts-vc14-x86.zip',
+          '7.1' => 'http://windows.php.net/downloads/pecl/releases/oci8/2.1.4/php_oci8-2.1.4-7.1-nts-vc14-x86.zip',
         ),
         'x64' => array(
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/oci8/2.1.3/php_oci8-2.1.3-7.0-nts-vc14-x64.zip',
-          '7.1' => 'http://windows.php.net/downloads/pecl/releases/oci8/2.1.3/php_oci8-2.1.3-7.1-nts-vc14-x64.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/oci8/2.1.4/php_oci8-2.1.4-7.0-nts-vc14-x64.zip',
+          '7.1' => 'http://windows.php.net/downloads/pecl/releases/oci8/2.1.4/php_oci8-2.1.4-7.1-nts-vc14-x64.zip',
         ),
       ),
     ),
