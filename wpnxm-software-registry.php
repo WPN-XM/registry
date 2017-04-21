@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Thu, 13 Apr 2017 05:57:28 +0000.
+    * Last Update Fri, 21 Apr 2017 01:33:19 +0000.
     * Do not edit manually!
     */
 
@@ -43,9 +43,10 @@
     '5.14.2' => 'http://archive.apache.org/dist/activemq/5.14.2/apache-activemq-5.14.2-bin.zip',
     '5.14.3' => 'http://archive.apache.org/dist/activemq/5.14.3/apache-activemq-5.14.3-bin.zip',
     '5.14.4' => 'http://archive.apache.org/dist/activemq/5.14.4/apache-activemq-5.14.4-bin.zip',
+    '5.14.5' => 'http://archive.apache.org/dist/activemq/5.14.5/apache-activemq-5.14.5-bin.zip',
     'latest' => array(
-      'version' => '5.14.4',
-      'url' => 'http://archive.apache.org/dist/activemq/5.14.4/apache-activemq-5.14.4-bin.zip',
+      'version' => '5.14.5',
+      'url' => 'http://archive.apache.org/dist/activemq/5.14.5/apache-activemq-5.14.5-bin.zip',
     ),
   ),
   'adminer' => array(
