@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Fri, 21 Apr 2017 01:33:25 +0000.
+    * Last Update Fri, 21 Apr 2017 01:33:29 +0000.
     * Do not edit manually!
     */
 
@@ -202,9 +202,10 @@
     '0.4.1' => 'https://github.com/google/cayley/releases/download/v0.4.1/cayley_0.4.1_windows_amd64.zip',
     '0.5.0' => 'https://github.com/google/cayley/releases/download/v0.5.0/cayley_v0.5.0_windows_amd64.zip',
     '0.6.0' => 'https://github.com/google/cayley/releases/download/v0.6.0/cayley_v0.6.0_windows_amd64.zip',
+    '0.6.1' => 'https://github.com/google/cayley/releases/download/v0.6.1/cayley_v0.6.1_windows_amd64.zip',
     'latest' => array(
-      'version' => '0.6.0',
-      'url' => 'https://github.com/google/cayley/releases/download/v0.6.0/cayley_v0.6.0_windows_amd64.zip',
+      'version' => '0.6.1',
+      'url' => 'https://github.com/google/cayley/releases/download/v0.6.1/cayley_v0.6.1_windows_amd64.zip',
     ),
   ),
   'chromedriver' => array(
