@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Tue, 25 Apr 2017 19:26:05 +0000.
+    * Last Update Tue, 25 Apr 2017 20:05:59 +0000.
     * Do not edit manually!
     */
 
@@ -75,6 +75,16 @@
     'latest' => array(
       'version' => '4.3.1',
       'url' => 'https://www.adminer.org/static/download/4.3.1/adminer-4.3.1.php',
+    ),
+  ),
+  'ant' => array(
+    'name' => 'Apache Ant',
+    'website' => 'http://ant.apache.org/',
+    '1.9.9' => 'http://ftp.halifax.rwth-aachen.de/apache/ant/binaries/apache-ant-1.9.9-bin.zip',
+    '1.10.1' => 'http://ftp.halifax.rwth-aachen.de/apache/ant/binaries/apache-ant-1.10.1-bin.zip',
+    'latest' => array(
+      'version' => '1.10.1',
+      'url' => 'http://ftp.halifax.rwth-aachen.de/apache/ant/binaries/apache-ant-1.10.1-bin.zip',
     ),
   ),
   'apache-benchmark' => array(
