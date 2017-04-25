@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Fri, 21 Apr 2017 01:47:20 +0000.
+    * Last Update Tue, 25 Apr 2017 19:26:05 +0000.
     * Do not edit manually!
     */
 
@@ -509,6 +509,43 @@
     'latest' => array(
       'version' => '0.11.4',
       'url' => 'https://github.com/gogits/gogs/releases/download/v0.11.4/windows_386_mws.zip',
+    ),
+  ),
+  'graphviz' => array(
+    'name' => 'GraphViz',
+    'website' => 'http://www.graphviz.org/',
+    '1.14' => 'http://www.graphviz.org/pub/graphviz/stable/windows/graphviz-1.14.zip',
+    '1.16' => 'http://www.graphviz.org/pub/graphviz/stable/windows/graphviz-1.16.zip',
+    '2.0' => 'http://www.graphviz.org/pub/graphviz/stable/windows/graphviz-2.0.zip',
+    '2.2.1' => 'http://www.graphviz.org/pub/graphviz/stable/windows/graphviz-2.2.1.zip',
+    '2.4' => 'http://www.graphviz.org/pub/graphviz/stable/windows/graphviz-2.4.zip',
+    '2.6' => 'http://www.graphviz.org/pub/graphviz/stable/windows/graphviz-2.6.zip',
+    '2.8' => 'http://www.graphviz.org/pub/graphviz/stable/windows/graphviz-2.8.zip',
+    '2.12' => 'http://www.graphviz.org/pub/graphviz/stable/windows/graphviz-2.12.zip',
+    '2.14' => 'http://www.graphviz.org/pub/graphviz/stable/windows/graphviz-2.14.zip',
+    '2.14.1' => 'http://www.graphviz.org/pub/graphviz/stable/windows/graphviz-2.14.1.zip',
+    '2.16' => 'http://www.graphviz.org/pub/graphviz/stable/windows/graphviz-2.16.zip',
+    '2.16.1' => 'http://www.graphviz.org/pub/graphviz/stable/windows/graphviz-2.16.1.zip',
+    '2.17.20080109' => 'http://www.graphviz.org/pub/graphviz/stable/windows/graphviz-2.17.20080109.zip',
+    '2.18' => 'http://www.graphviz.org/pub/graphviz/stable/windows/graphviz-2.18.zip',
+    '2.20.1' => 'http://www.graphviz.org/pub/graphviz/stable/windows/graphviz-2.20.1.zip',
+    '2.20.2' => 'http://www.graphviz.org/pub/graphviz/stable/windows/graphviz-2.20.2.zip',
+    '2.20.3' => 'http://www.graphviz.org/pub/graphviz/stable/windows/graphviz-2.20.3.zip',
+    '2.22.1' => 'http://www.graphviz.org/pub/graphviz/stable/windows/graphviz-2.22.1.zip',
+    '2.22.2' => 'http://www.graphviz.org/pub/graphviz/stable/windows/graphviz-2.22.2.zip',
+    '2.24' => 'http://www.graphviz.org/pub/graphviz/stable/windows/graphviz-2.24.zip',
+    '2.26' => 'http://www.graphviz.org/pub/graphviz/stable/windows/graphviz-2.26.zip',
+    '2.26.2' => 'http://www.graphviz.org/pub/graphviz/stable/windows/graphviz-2.26.2.zip',
+    '2.26.3' => 'http://www.graphviz.org/pub/graphviz/stable/windows/graphviz-2.26.3.zip',
+    '2.28.0' => 'http://www.graphviz.org/pub/graphviz/stable/windows/graphviz-2.28.0.zip',
+    '2.30.1' => 'http://www.graphviz.org/pub/graphviz/stable/windows/graphviz-2.30.1.zip',
+    '2.32' => 'http://www.graphviz.org/pub/graphviz/stable/windows/graphviz-2.32.zip',
+    '2.34' => 'http://www.graphviz.org/pub/graphviz/stable/windows/graphviz-2.34.zip',
+    '2.36' => 'http://www.graphviz.org/pub/graphviz/stable/windows/graphviz-2.36.zip',
+    '2.38' => 'http://www.graphviz.org/pub/graphviz/stable/windows/graphviz-2.38.zip',
+    'latest' => array(
+      'version' => '2.38',
+      'url' => 'http://www.graphviz.org/pub/graphviz/stable/windows/graphviz-2.38.zip',
     ),
   ),
   'h2database' => array(
