@@ -1615,7 +1615,6 @@
     ),
   ),
   'notepadplusplus-x86' => array(
-    0 => '',
     '7.3.3' => 'https://notepad-plus-plus.org/repository/7.x/7.3.3/npp.7.3.3.bin.zip',
     'latest' => array(
       'version' => '7.3.3',
