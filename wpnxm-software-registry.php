@@ -1076,7 +1076,6 @@
   'netbeans-x86' => array(
     'name' => 'Netbeans IDE x86',
     'website' => 'https://netbeans.org/',
-    0 => '',
     '8.2' => 'http://download.netbeans.org/netbeans/8.2/final/bundles/netbeans-8.2-php-windows-x86.exe',
     'latest' => array(
       'version' => '8.2',
