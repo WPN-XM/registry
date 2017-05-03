@@ -1608,6 +1608,8 @@
     ),
   ),
   'notepadplusplus-x64' => array(
+    'name' => 'Notepad++',
+    'website' => 'https://notepad-plus-plus.org/',
     '7.3.3' => 'https://notepad-plus-plus.org/repository/7.x/7.3.3/npp.7.3.3.bin.x64.zip',
     'latest' => array(
       'version' => '7.3.3',
@@ -1615,6 +1617,8 @@
     ),
   ),
   'notepadplusplus-x86' => array(
+    'name' => 'Notepad++',
+    'website' => 'https://notepad-plus-plus.org/',
     '7.3.3' => 'https://notepad-plus-plus.org/repository/7.x/7.3.3/npp.7.3.3.bin.zip',
     'latest' => array(
       'version' => '7.3.3',

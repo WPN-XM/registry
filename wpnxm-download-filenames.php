@@ -43,6 +43,8 @@ return array(
     'node'                  => 'node.exe', // ! exe file
     'node-x64'              => 'node.exe', // ! exe file
     'nodenpm'               => 'nodenpm.zip',
+    'notepadplusplus-x64'   => 'notepadplusplus.zip',
+    'notepadplusplus-x86'   => 'notepadplusplus.zip',
     'openssl'               => 'openssl.zip',
     'openssl-x64'           => 'openssl.zip',
     'pear'                  => 'go-pear.phar', // ! phar file

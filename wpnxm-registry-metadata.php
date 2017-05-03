@@ -312,6 +312,22 @@
     ),
     'logo' => '',
   ),
+  'notepadplusplus-x64' => array(
+    'description' => 'Notepad Plus Plus is an editor.',
+    'category' => 'editor',
+    'tags' => array(
+      'editor', 'ide'
+    ),
+    'logo' => '',
+  ),
+  'notepadplusplus-x86' => array(
+    'description' => 'Notepad Plus Plus is an editor.',
+    'category' => 'editor',
+    'tags' => array(
+      'editor'
+    ),
+    'logo' => '',
+  ),
   'openssl' => array(   
     'description' => 'A toolkit implementing SSL v2/v3 and TLS protocols with full-strength cryptography world-wide.',
     'category' => 'Network',   
