@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Tue, 23 May 2017 13:09:18 +0000.
+    * Last Update Tue, 23 May 2017 13:09:27 +0000.
     * Do not edit manually!
     */
 
@@ -2722,20 +2722,34 @@
         '7.1' => 'http://windows.php.net/downloads/pecl/releases/couchbase/2.3.1/php_couchbase-2.3.1-7.1-nts-vc14-x64.zip',
       ),
     ),
+    '2.3.2' => array(
+      'x86' => array(
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/couchbase/2.3.2/php_couchbase-2.3.2-5.5-nts-vc11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/couchbase/2.3.2/php_couchbase-2.3.2-5.6-nts-vc11-x86.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/couchbase/2.3.2/php_couchbase-2.3.2-7.0-nts-vc14-x86.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/couchbase/2.3.2/php_couchbase-2.3.2-7.1-nts-vc14-x86.zip',
+      ),
+      'x64' => array(
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/couchbase/2.3.2/php_couchbase-2.3.2-5.5-nts-vc11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/couchbase/2.3.2/php_couchbase-2.3.2-5.6-nts-vc11-x64.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/couchbase/2.3.2/php_couchbase-2.3.2-7.0-nts-vc14-x64.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/couchbase/2.3.2/php_couchbase-2.3.2-7.1-nts-vc14-x64.zip',
+      ),
+    ),
     'latest' => array(
-      'version' => '2.3.1',
+      'version' => '2.3.2',
       'url' => array(
         'x86' => array(
-          '5.5' => 'http://windows.php.net/downloads/pecl/releases/couchbase/2.3.1/php_couchbase-2.3.1-5.5-nts-vc11-x86.zip',
-          '5.6' => 'http://windows.php.net/downloads/pecl/releases/couchbase/2.3.1/php_couchbase-2.3.1-5.6-nts-vc11-x86.zip',
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/couchbase/2.3.1/php_couchbase-2.3.1-7.0-nts-vc14-x86.zip',
-          '7.1' => 'http://windows.php.net/downloads/pecl/releases/couchbase/2.3.1/php_couchbase-2.3.1-7.1-nts-vc14-x86.zip',
+          '5.5' => 'http://windows.php.net/downloads/pecl/releases/couchbase/2.3.2/php_couchbase-2.3.2-5.5-nts-vc11-x86.zip',
+          '5.6' => 'http://windows.php.net/downloads/pecl/releases/couchbase/2.3.2/php_couchbase-2.3.2-5.6-nts-vc11-x86.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/couchbase/2.3.2/php_couchbase-2.3.2-7.0-nts-vc14-x86.zip',
+          '7.1' => 'http://windows.php.net/downloads/pecl/releases/couchbase/2.3.2/php_couchbase-2.3.2-7.1-nts-vc14-x86.zip',
         ),
         'x64' => array(
-          '5.5' => 'http://windows.php.net/downloads/pecl/releases/couchbase/2.3.1/php_couchbase-2.3.1-5.5-nts-vc11-x64.zip',
-          '5.6' => 'http://windows.php.net/downloads/pecl/releases/couchbase/2.3.1/php_couchbase-2.3.1-5.6-nts-vc11-x64.zip',
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/couchbase/2.3.1/php_couchbase-2.3.1-7.0-nts-vc14-x64.zip',
-          '7.1' => 'http://windows.php.net/downloads/pecl/releases/couchbase/2.3.1/php_couchbase-2.3.1-7.1-nts-vc14-x64.zip',
+          '5.5' => 'http://windows.php.net/downloads/pecl/releases/couchbase/2.3.2/php_couchbase-2.3.2-5.5-nts-vc11-x64.zip',
+          '5.6' => 'http://windows.php.net/downloads/pecl/releases/couchbase/2.3.2/php_couchbase-2.3.2-5.6-nts-vc11-x64.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/couchbase/2.3.2/php_couchbase-2.3.2-7.0-nts-vc14-x64.zip',
+          '7.1' => 'http://windows.php.net/downloads/pecl/releases/couchbase/2.3.2/php_couchbase-2.3.2-7.1-nts-vc14-x64.zip',
         ),
       ),
     ),
