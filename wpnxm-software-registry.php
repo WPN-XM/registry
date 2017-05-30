@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Tue, 30 May 2017 14:13:50 +0000.
+    * Last Update Tue, 30 May 2017 14:13:52 +0000.
     * Do not edit manually!
     */
 
@@ -6434,10 +6434,11 @@
     '3.6.5' => 'https://www.rabbitmq.com/releases/rabbitmq-server/v3.6.5/rabbitmq-server-windows-3.6.5.zip',
     '3.6.6' => 'https://www.rabbitmq.com/releases/rabbitmq-server/v3.6.6/rabbitmq-server-windows-3.6.6.zip',
     '3.6.8' => 'https://www.rabbitmq.com/releases/rabbitmq-server/v3.6.8/rabbitmq-server-windows-3.6.8.zip',
-    '3.6.9' => 'https://www.rabbitmq.com/releases/rabbitmq-server/current/rabbitmq-server-windows-3.6.9.zip',
+    '3.6.9' => 'https://www.rabbitmq.com/releases/rabbitmq-server/v3.6.9/rabbitmq-server-windows-3.6.9.zip',
+    '3.6.10' => 'https://www.rabbitmq.com/releases/rabbitmq-server/current/rabbitmq-server-windows-3.6.10.zip',
     'latest' => array(
-      'version' => '3.6.9',
-      'url' => 'https://www.rabbitmq.com/releases/rabbitmq-server/current/rabbitmq-server-windows-3.6.9.zip',
+      'version' => '3.6.10',
+      'url' => 'https://www.rabbitmq.com/releases/rabbitmq-server/current/rabbitmq-server-windows-3.6.10.zip',
     ),
   ),
   'rclone-x64' => array(
