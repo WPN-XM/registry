@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Tue, 30 May 2017 14:14:07 +0000.
+    * Last Update Tue, 30 May 2017 14:14:10 +0000.
     * Do not edit manually!
     */
 
@@ -6340,9 +6340,10 @@
     '4.6.5.2' => 'https://files.phpmyadmin.net/phpMyAdmin/4.6.5.2/phpMyAdmin-4.6.5.2-english.zip',
     '4.6.6' => 'https://files.phpmyadmin.net/phpMyAdmin/4.6.6/phpMyAdmin-4.6.6-english.zip',
     '4.7.0' => 'https://files.phpmyadmin.net/phpMyAdmin/4.7.0/phpMyAdmin-4.7.0-english.zip',
+    '4.7.1' => 'https://files.phpmyadmin.net/phpMyAdmin/4.7.1/phpMyAdmin-4.7.1-english.zip',
     'latest' => array(
-      'version' => '4.7.0',
-      'url' => 'https://files.phpmyadmin.net/phpMyAdmin/4.7.0/phpMyAdmin-4.7.0-english.zip',
+      'version' => '4.7.1',
+      'url' => 'https://files.phpmyadmin.net/phpMyAdmin/4.7.1/phpMyAdmin-4.7.1-english.zip',
     ),
   ),
   'pickle' => array(
