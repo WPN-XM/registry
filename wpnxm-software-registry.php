@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Thu, 22 Jun 2017 08:58:47 +0000.
+    * Last Update Thu, 22 Jun 2017 08:58:51 +0000.
     * Do not edit manually!
     */
 
@@ -584,9 +584,10 @@
     '2016-10-31' => 'http://www.h2database.com/h2-2016-10-31.zip',
     '2017-03-10' => 'http://www.h2database.com/h2-2017-03-10.zip',
     '2017-04-23' => 'http://www.h2database.com/h2-2017-04-23.zip',
+    '2017-06-10' => 'http://www.h2database.com/h2-2017-06-10.zip',
     'latest' => array(
-      'version' => '2017-04-23',
-      'url' => 'http://www.h2database.com/h2-2017-04-23.zip',
+      'version' => '2017-06-10',
+      'url' => 'http://www.h2database.com/h2-2017-06-10.zip',
     ),
   ),
   'heidisql' => array(
