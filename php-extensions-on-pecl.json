@@ -39,6 +39,7 @@
     "geoip",
     "geospatial",
     "gmagick",
+    "grpc",
     "haru",
     "hidef",
     "hprose",
