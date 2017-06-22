@@ -139,6 +139,16 @@
         "goodonphp7": "",
         "details": ""
     },
+    "intl_dtpg": {
+        "website": "https:\/\/github.com\/ksimka\/intl_dtpg",
+        "maintainers": "yes",
+        "tests": "",
+        "docs": "",
+        "worksonphp5": "yes",
+        "worksonphp7": "yes",
+        "goodonphp7": "",
+        "details": "DateTimePatternGenerator from ICU for PHP, the missing intl part"
+    },
     "libpuzzle": {
         "website": "https:\/\/github.com\/alfa-jpn\/php-libpuzzle5",
         "maintainers": "",
