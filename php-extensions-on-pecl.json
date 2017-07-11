@@ -129,6 +129,7 @@
     "sync",
     "taint",
     "termbox",
+    "timecop",
     "timezonedb",
     "trader",
     "translit",
