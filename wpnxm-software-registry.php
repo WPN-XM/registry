@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Tue, 11 Jul 2017 13:54:25 +0000.
+    * Last Update Tue, 11 Jul 2017 13:54:28 +0000.
     * Do not edit manually!
     */
 
@@ -1035,9 +1035,10 @@
     '2.12.1' => 'https://github.com/git-for-windows/git/releases/download/v2.12.1.windows.1/PortableGit-2.12.1-32-bit.7z.exe',
     '2.12.2' => 'https://github.com/git-for-windows/git/releases/download/v2.12.2.windows.1/PortableGit-2.12.2-32-bit.7z.exe',
     '2.13.0' => 'https://github.com/git-for-windows/git/releases/download/v2.13.0.windows.1/PortableGit-2.13.0-32-bit.7z.exe',
+    '2.13.2' => 'https://github.com/git-for-windows/git/releases/download/v2.13.2.windows.1/PortableGit-2.13.2-32-bit.7z.exe',
     'latest' => array(
-      'version' => '2.13.0',
-      'url' => 'https://github.com/git-for-windows/git/releases/download/v2.13.0.windows.1/PortableGit-2.13.0-32-bit.7z.exe',
+      'version' => '2.13.2',
+      'url' => 'https://github.com/git-for-windows/git/releases/download/v2.13.2.windows.1/PortableGit-2.13.2-32-bit.7z.exe',
     ),
   ),
   'msysgit-x64' => array(
