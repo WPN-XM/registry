@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Mon, 14 Aug 2017 06:38:24 +0000.
+    * Last Update Mon, 14 Aug 2017 06:38:25 +0000.
     * Do not edit manually!
     */
 
@@ -6548,9 +6548,10 @@
     '9.6.1' => 'http://get.enterprisedb.com/postgresql/postgresql-9.6.1-1-windows-binaries.zip',
     '9.6.2' => 'http://get.enterprisedb.com/postgresql/postgresql-9.6.2-1-windows-binaries.zip',
     '9.6.3' => 'http://get.enterprisedb.com/postgresql/postgresql-9.6.3-1-windows-binaries.zip',
+    '9.6.4' => 'http://get.enterprisedb.com/postgresql/postgresql-9.6.4-1-windows-binaries.zip',
     'latest' => array(
-      'version' => '9.6.3',
-      'url' => 'http://get.enterprisedb.com/postgresql/postgresql-9.6.3-1-windows-binaries.zip',
+      'version' => '9.6.4',
+      'url' => 'http://get.enterprisedb.com/postgresql/postgresql-9.6.4-1-windows-binaries.zip',
     ),
   ),
   'postgresql-x64' => array(
