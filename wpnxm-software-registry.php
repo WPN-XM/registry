@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Mon, 14 Aug 2017 06:38:00 +0000.
+    * Last Update Mon, 14 Aug 2017 06:38:02 +0000.
     * Do not edit manually!
     */
 
@@ -6613,9 +6613,10 @@
     '2.3.3' => 'https://download.rethinkdb.com/windows/rethinkdb-2.3.3.zip',
     '2.3.4' => 'https://download.rethinkdb.com/windows/rethinkdb-2.3.4.zip',
     '2.3.5' => 'https://download.rethinkdb.com/windows/rethinkdb-2.3.5.zip',
+    '2.3.6' => 'https://download.rethinkdb.com/windows/rethinkdb-2.3.6.zip',
     'latest' => array(
-      'version' => '2.3.5',
-      'url' => 'https://download.rethinkdb.com/windows/rethinkdb-2.3.5.zip',
+      'version' => '2.3.6',
+      'url' => 'https://download.rethinkdb.com/windows/rethinkdb-2.3.6.zip',
     ),
   ),
   'robomongo' => array(
