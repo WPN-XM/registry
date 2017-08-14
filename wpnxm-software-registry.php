@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Mon, 14 Aug 2017 06:37:55 +0000.
+    * Last Update Mon, 14 Aug 2017 06:37:58 +0000.
     * Do not edit manually!
     */
 
@@ -2056,7 +2056,8 @@
     '7.0.18' => 'http://windows.php.net/downloads/releases/archives/php-7.0.18-nts-Win32-VC14-x86.zip',
     '7.0.19' => 'http://windows.php.net/downloads/releases/archives/php-7.0.19-nts-Win32-VC14-x86.zip',
     '7.0.20' => 'http://windows.php.net/downloads/releases/archives/php-7.0.20-nts-Win32-VC14-x86.zip',
-    '7.0.21' => 'http://windows.php.net/downloads/releases/php-7.0.21-nts-Win32-VC14-x86.zip',
+    '7.0.21' => 'http://windows.php.net/downloads/releases/archives/php-7.0.21-nts-Win32-VC14-x86.zip',
+    '7.0.22' => 'http://windows.php.net/downloads/releases/php-7.0.22-nts-Win32-VC14-x86.zip',
     '7.1.0' => 'http://windows.php.net/downloads/releases/archives/php-7.1.0-nts-Win32-VC14-x86.zip',
     '7.1.1' => 'http://windows.php.net/downloads/releases/archives/php-7.1.1-nts-Win32-VC14-x86.zip',
     '7.1.2' => 'http://windows.php.net/downloads/releases/archives/php-7.1.2-nts-Win32-VC14-x86.zip',
@@ -2064,10 +2065,11 @@
     '7.1.4' => 'http://windows.php.net/downloads/releases/archives/php-7.1.4-nts-Win32-VC14-x86.zip',
     '7.1.5' => 'http://windows.php.net/downloads/releases/archives/php-7.1.5-nts-Win32-VC14-x86.zip',
     '7.1.6' => 'http://windows.php.net/downloads/releases/archives/php-7.1.6-nts-Win32-VC14-x86.zip',
-    '7.1.7' => 'http://windows.php.net/downloads/releases/php-7.1.7-nts-Win32-VC14-x86.zip',
+    '7.1.7' => 'http://windows.php.net/downloads/releases/archives/php-7.1.7-nts-Win32-VC14-x86.zip',
+    '7.1.8' => 'http://windows.php.net/downloads/releases/php-7.1.8-nts-Win32-VC14-x86.zip',
     'latest' => array(
-      'version' => '7.1.7',
-      'url' => 'http://windows.php.net/downloads/releases/php-7.1.7-nts-Win32-VC14-x86.zip',
+      'version' => '7.1.8',
+      'url' => 'http://windows.php.net/downloads/releases/php-7.1.8-nts-Win32-VC14-x86.zip',
     ),
   ),
   'php-cs-fixer' => array(
