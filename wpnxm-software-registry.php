@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Fri, 01 Sep 2017 10:52:42 +0000.
+    * Last Update Fri, 01 Sep 2017 15:13:15 +0000.
     * Do not edit manually!
     */
 
@@ -6734,9 +6734,18 @@
     '0.8.5' => 'http://app.robomongo.org/files/windows/Robomongo-0.8.5-i386.zip',
     '0.9.0-rc3' => 'http://download.robomongo.org/0.9.0-rc3/windows/robomongo-0.9.0-rc3-windows-x86_64-0476204.exe',
     '0.9.0-rc4' => 'http://download.robomongo.org/0.9.0-rc4/windows/robomongo-0.9.0-rc4-windows-x86_64-8c830b6.exe',
+    '0.9.0-rc5' => 'http://download.robomongo.org/0.9.0-rc5/windows/robomongo-0.9.0-rc5-windows-x86_64-82b96f4.exe',
+    '0.9.0-rc6' => 'http://download.robomongo.org/0.9.0-rc6/windows/robomongo-0.9.0-rc6-windows-x86_64-98af4fc.exe',
+    '0.9.0-rc7' => 'http://download.robomongo.org/0.9.0-rc7/windows/robomongo-0.9.0-rc7-windows-x86_64-2b7a8ca.exe',
+    '0.9.0-rc8' => 'http://download.robomongo.org/0.9.0-rc8/windows/robomongo-0.9.0-rc8-windows-x86_64-c113244.exe',
+    '0.9.0-rc9' => 'http://download.robomongo.org/0.9.0-rc9/windows/robomongo-0.9.0-rc9-windows-x86_64-0bb5668.exe',
+    '0.9.0' => 'http://download.robomongo.org/0.9.0/windows/robomongo-0.9.0-windows-x86_64-0786489.exe',
+    '1.0.0-rc1' => 'http://download.robomongo.org/1.0.0-rc1/windows/robomongo-1.0.0-rc1-windows-x86_64-496f5c2.exe',
+    '1.0.0' => 'http://download.robomongo.org/1.0.0/windows/robomongo-1.0.0-windows-x86_64-89f24ea.exe',
+    '1.1.1' => 'http://download.robomongo.org/1.1.1/windows/robo3t-1.1.1-windows-x86_64-c93c6b0.exe',
     'latest' => array(
-      'version' => '0.9.0-rc4',
-      'url' => 'http://download.robomongo.org/0.9.0-rc4/windows/robomongo-0.9.0-rc4-windows-x86_64-8c830b6.exe',
+      'version' => '1.1.1',
+      'url' => 'http://download.robomongo.org/1.1.1/windows/robo3t-1.1.1-windows-x86_64-c93c6b0.exe',
     ),
   ),
   'rockmongo' => array(
