@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Fri, 01 Sep 2017 10:51:32 +0000.
+    * Last Update Fri, 01 Sep 2017 10:51:34 +0000.
     * Do not edit manually!
     */
 
@@ -805,9 +805,10 @@
     '10.2.4' => 'http://mirror.jmu.edu/pub/mariadb/mariadb-10.2.4/win32-packages/mariadb-10.2.4-win32.zip',
     '10.2.5' => 'http://mirror.jmu.edu/pub/mariadb/mariadb-10.2.5/win32-packages/mariadb-10.2.5-win32.zip',
     '10.3.0' => 'http://mirror.jmu.edu/pub/mariadb/mariadb-10.3.0/win32-packages/mariadb-10.3.0-win32.zip',
+    '10.3.1' => 'http://mirror.jmu.edu/pub/mariadb/mariadb-10.3.1/win32-packages/mariadb-10.3.1-win32.zip',
     'latest' => array(
-      'version' => '10.3.0',
-      'url' => 'http://mirror.jmu.edu/pub/mariadb/mariadb-10.3.0/win32-packages/mariadb-10.3.0-win32.zip',
+      'version' => '10.3.1',
+      'url' => 'http://mirror.jmu.edu/pub/mariadb/mariadb-10.3.1/win32-packages/mariadb-10.3.1-win32.zip',
     ),
   ),
   'mariadb-x64' => array(
