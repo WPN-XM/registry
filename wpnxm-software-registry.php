@@ -6725,7 +6725,7 @@
   ),
   'robomongo' => array(
     'name' => 'RoboMongo',
-    'website' => 'http://robomongo.com/',
+    'website' => 'https://robomongo.org/',
     '0.8.0' => 'http://app.robomongo.org/files/windows/Robomongo-0.8.0-i386.zip',
     '0.8.1' => 'http://app.robomongo.org/files/windows/Robomongo-0.8.1-i386.zip',
     '0.8.2' => 'http://app.robomongo.org/files/windows/Robomongo-0.8.2-i386.zip',
