@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Mon, 04 Sep 2017 11:46:33 +0000.
+    * Last Update Mon, 04 Sep 2017 12:18:43 +0000.
     * Do not edit manually!
     */
 
@@ -437,7 +437,6 @@
     '3.25.2' => 'https://download.filezilla-project.org/client/FileZilla_3.25.2_win64-setup_bundled2.exe',
     '3.26.1' => 'https://download.filezilla-project.org/client/FileZilla_3.26.1_win64-setup_bundled2.exe',
     '3.26.2' => 'https://download.filezilla-project.org/client/FileZilla_3.26.2_win64-setup_bundled2.exe',
-    '3.27.1' => 'https://download.filezilla-project.org/client/FileZilla_3.27.1_win64-setup_bundled2.exe',
     'latest' => array(
       'version' => '3.27.1',
       'url' => 'https://download.filezilla-project.org/client/FileZilla_3.27.1_win64-setup_bundled2.exe',
@@ -1902,9 +1901,10 @@
     '5.24.0.1' => 'http://strawberryperl.com/download/5.24.0.1/strawberry-perl-5.24.0.1-32bit.zip',
     '5.24.1.1' => 'http://strawberryperl.com/download/5.24.1.1/strawberry-perl-5.24.1.1-32bit.zip',
     '5.26.0.1' => 'http://strawberryperl.com/download/5.26.0.1/strawberry-perl-5.26.0.1-32bit.zip',
+    '5.26.0.2' => 'http://strawberryperl.com/download/5.26.0.2/strawberry-perl-5.26.0.2-32bit.zip',
     'latest' => array(
-      'version' => '5.26.0.1',
-      'url' => 'http://strawberryperl.com/download/5.26.0.1/strawberry-perl-5.26.0.1-32bit.zip',
+      'version' => '5.26.0.2',
+      'url' => 'http://strawberryperl.com/download/5.26.0.2/strawberry-perl-5.26.0.2-32bit.zip',
     ),
   ),
   'perl-x64' => array(
