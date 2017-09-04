@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Fri, 01 Sep 2017 15:13:15 +0000.
+    * Last Update Mon, 04 Sep 2017 11:46:33 +0000.
     * Do not edit manually!
     */
 
@@ -1698,7 +1698,6 @@
     'name' => 'Notepad++',
     'website' => 'https://notepad-plus-plus.org/',
     '7.3.3' => 'https://notepad-plus-plus.org/repository/7.x/7.3.3/npp.7.3.3.bin.x64.zip',
-    '7.4.1' => 'https://notepad-plus-plus.org/repository/7.x/7.4.1/npp.7.4.1.bin.x64.zip',
     '7.4.2' => 'https://notepad-plus-plus.org/repository/7.x/7.4.2/npp.7.4.2.bin.x64.zip',
     '7.5.1' => 'https://notepad-plus-plus.org/repository/7.x/7.5.1/npp.7.5.1.bin.x64.zip',
     'latest' => array(
@@ -1710,7 +1709,6 @@
     'name' => 'Notepad++',
     'website' => 'https://notepad-plus-plus.org/',
     '7.3.3' => 'https://notepad-plus-plus.org/repository/7.x/7.3.3/npp.7.3.3.bin.zip',
-    '7.4.1' => 'https://notepad-plus-plus.org/repository/7.x/7.4.1/npp.7.4.1.bin.zip',
     '7.4.2' => 'https://notepad-plus-plus.org/repository/7.x/7.4.2/npp.7.4.2.bin.zip',
     '7.5.1' => 'https://notepad-plus-plus.org/repository/7.x/7.5.1/npp.7.5.1.bin.zip',
     'latest' => array(
@@ -6723,8 +6721,8 @@
       'url' => 'https://download.rethinkdb.com/windows/rethinkdb-2.3.6.zip',
     ),
   ),
-  'robomongo' => array(
-    'name' => 'RoboMongo',
+  'robo3t' => array(
+    'name' => 'Robo 3T (formerly RoboMongo)',
     'website' => 'https://robomongo.org/',
     '0.8.0' => 'http://app.robomongo.org/files/windows/Robomongo-0.8.0-i386.zip',
     '0.8.1' => 'http://app.robomongo.org/files/windows/Robomongo-0.8.1-i386.zip',
@@ -6748,8 +6746,8 @@
       'url' => 'http://download.robomongo.org/1.1.1/windows/robo3t-1.1.1-windows-x86_64-c93c6b0.exe',
     ),
   ),
-  'robo3t' => array(
-    'name' => 'Robo 3T (formerly RoboMongo)',
+  'robomongo' => array(
+    'name' => 'RoboMongo',
     'website' => 'https://robomongo.org/',
     '0.8.0' => 'http://app.robomongo.org/files/windows/Robomongo-0.8.0-i386.zip',
     '0.8.1' => 'http://app.robomongo.org/files/windows/Robomongo-0.8.1-i386.zip',
@@ -7043,17 +7041,17 @@
   ),
   'zealdocs' => array(
     'name' => 'ZealDocs',
-    'website' => 'http://zeromq.org/',
-    '0.3.0' => 'https://dl.bintray.com/zealdocs/windows/:zeal-portable-0.3.0-windows-x86.7z',
-    '0.3.1' => 'https://dl.bintray.com/zealdocs/windows/:zeal-portable-0.3.1-windows-x86.7z',
+    'website' => 'https://zealdocs.org/',
+    '0.3.0' => 'https://dl.bintray.com/zealdocs/windows/zeal-portable-0.3.0-windows-x86.7z',
+    '0.3.1' => 'https://dl.bintray.com/zealdocs/windows/zeal-portable-0.3.1-windows-x86.7z',
     'latest' => array(
       'version' => '0.3.1',
-      'url' => 'https://dl.bintray.com/zealdocs/windows/:zeal-portable-0.3.1-windows-x86.7z',
+      'url' => 'https://dl.bintray.com/zealdocs/windows/zeal-portable-0.3.1-windows-x86.7z',
     ),
   ),
   'zeromq' => array(
     'name' => 'ZeroMQ x86',
-    'website' => 'https://zealdocs.org/',
+    'website' => 'http://zeromq.org/',
     '3.2.4' => 'http://miru.hk/archive/ZeroMQ-3.2.4~miru1.0-x86.exe',
     '4.0.4' => 'http://miru.hk/archive/ZeroMQ-4.0.4~miru1.0-x86.exe',
     'latest' => array(
