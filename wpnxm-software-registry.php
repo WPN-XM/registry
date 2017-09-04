@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Mon, 04 Sep 2017 15:16:21 +0000.
+    * Last Update Mon, 04 Sep 2017 23:12:27 +0000.
     * Do not edit manually!
     */
 
@@ -1996,7 +1996,6 @@
     '5.4.42' => 'http://windows.php.net/downloads/releases/archives/php-5.4.42-nts-Win32-VC9-x86.zip',
     '5.4.43' => 'http://windows.php.net/downloads/releases/archives/php-5.4.43-nts-Win32-VC9-x86.zip',
     '5.4.44' => 'http://windows.php.net/downloads/releases/archives/php-5.4.44-nts-Win32-VC9-x86.zip',
-    '5.4.45' => 'http://windows.php.net/downloads/releases/php-5.4.45-nts-Win32-VC9-x86.zip',
     '5.5.0' => 'http://windows.php.net/downloads/releases/archives/php-5.5.0-nts-Win32-VC11-x86.zip',
     '5.5.1' => 'http://windows.php.net/downloads/releases/archives/php-5.5.1-nts-Win32-VC11-x86.zip',
     '5.5.2' => 'http://windows.php.net/downloads/releases/archives/php-5.5.2-nts-Win32-VC11-x86.zip',
@@ -2156,10 +2155,11 @@
     '7.1.4RC1' => 'http://windows.php.net/downloads/qa/archives/php-7.1.4RC1-nts-Win32-VC14-x86.zip',
     '7.1.5RC1' => 'http://windows.php.net/downloads/qa/archives/php-7.1.5RC1-nts-Win32-VC14-x86.zip',
     '7.1.6RC1' => 'http://windows.php.net/downloads/qa/archives/php-7.1.6RC1-nts-Win32-VC14-x86.zip',
-    '7.2.0alpha1' => 'http://windows.php.net/downloads/qa/php-7.2.0alpha1-nts-Win32-VC14-x86.zip',
+    '7.2.0alpha1' => 'http://windows.php.net/downloads/qa/archives/php-7.2.0alpha1-nts-Win32-VC14-x86.zip',
+    '7.2.0RC1' => 'http://windows.php.net/downloads/qa/php-7.2.0RC1-nts-Win32-VC15-x86.zip',
     'latest' => array(
-      'version' => '7.2.0alpha1',
-      'url' => 'http://windows.php.net/downloads/qa/php-7.2.0alpha1-nts-Win32-VC14-x86.zip',
+      'version' => '7.2.0RC1',
+      'url' => 'http://windows.php.net/downloads/qa/php-7.2.0RC1-nts-Win32-VC15-x86.zip',
     ),
   ),
   'php-qa-x64' => array(
