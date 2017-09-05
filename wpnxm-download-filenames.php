@@ -103,7 +103,7 @@ return array(
     'rclone-x64'            => 'rclone.zip',
     'redis'                 => 'redis.zip',
     'rockmongo'             => 'rockmongo.zip',
-    'robomongo'             => 'robomongo.zip',
+    'robo3t'                => 'robo3t.zip',
     'sendmail'              => 'sendmail.zip',
     'sphinx'                => 'sphinx.zip',
     'sphinx-x64'            => 'sphinx.zip',
