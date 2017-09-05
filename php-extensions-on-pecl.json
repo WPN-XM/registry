@@ -79,6 +79,7 @@
     "oauth",
     "oci8",
     "opcache",
+    "opencensus",
     "operator",
     "pango",
     "parse_tree",
