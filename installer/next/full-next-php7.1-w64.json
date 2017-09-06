@@ -27,7 +27,7 @@
 [ "rabbitmq",           "http:\/\/wpn-xm.org\/get.php?s=rabbitmq&v=3.6.11",                            "rabbitmq.zip",           "3.6.11" ],
 [ "redis",              "http:\/\/wpn-xm.org\/get.php?s=redis&v=3.2.100",                              "redis.zip",              "3.2.100" ],
 [ "rclone-x64",         "http:\/\/wpn-xm.org\/get.php?s=rclone-x64&v=1.37",                            "rclone.zip",             "1.37" ],
-[ "robomongo",          "http:\/\/wpn-xm.org\/get.php?s=robomongo&v=1.1.1",                            "robomongo.zip",          "1.1.1" ],
+[ "robo3t",             "http:\/\/wpn-xm.org\/get.php?s=robo3t&v=1.1.1",                               "robo3t.zip",             "1.1.1" ],
 [ "sendmail",           "http:\/\/wpn-xm.org\/get.php?s=sendmail&v=1.0",                               "sendmail.zip",           "1.0" ],
 [ "varnish",            "http:\/\/wpn-xm.org\/get.php?s=varnish&v=3.0.2",                              "varnish.zip",            "3.0.2" ],
 [ "webgrind",           "http:\/\/wpn-xm.org\/get.php?s=webgrind&v=1.5.0",                             "webgrind.zip",           "1.5.0" ],
