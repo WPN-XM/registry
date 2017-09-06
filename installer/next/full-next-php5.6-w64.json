@@ -10,7 +10,7 @@
 [ "memcached-x64",          "http:\/\/wpn-xm.org\/get.php?s=memcached-x64&v=1.4.5",                              "memcached.zip",              "1.4.5" ],
 [ "mongodb-x64",            "http:\/\/wpn-xm.org\/get.php?s=mongodb-x64&v=3.5.5",                                "mongodb.zip",                "3.5.5" ],
 [ "msysgit-x64",            "http:\/\/wpn-xm.org\/get.php?s=msysgit-x64&v=2.14.1",                               "msysgit.exe",                "2.14.1" ],
-[ "nginx",                  "http:\/\/wpn-xm.org\/get.php?s=nginx&v=1.13.4",                                     "nginx.zip",                  "1.13.4" ],
+[ "nginx",                  "http:\/\/wpn-xm.org\/get.php?s=nginx&v=1.13.5",                                     "nginx.zip",                  "1.13.5" ],
 [ "node-x64",               "http:\/\/wpn-xm.org\/get.php?s=node-x64&v=8.4.0",                                   "node.exe",                   "8.4.0" ],
 [ "nodenpm",                "http:\/\/wpn-xm.org\/get.php?s=nodenpm&v=1.4.12",                                   "nodenpm.zip",                "1.4.12" ],
 [ "openssl-x64",            "http:\/\/wpn-xm.org\/get.php?s=openssl-x64&v=1.0.2l",                               "openssl.zip",                "1.0.2l" ],

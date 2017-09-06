@@ -3,7 +3,7 @@
 [ "composer",         "http:\/\/wpn-xm.org\/get.php?s=composer&v=1.0",                  "composer.phar",        "1.0" ],
 [ "conemu",           "http:\/\/wpn-xm.org\/get.php?s=conemu&v=17.08.19",               "conemu.7z",            "17.08.19" ],
 [ "mariadb",          "http:\/\/wpn-xm.org\/get.php?s=mariadb&v=10.3.1",                "mariadb.zip",          "10.3.1" ],
-[ "nginx",            "http:\/\/wpn-xm.org\/get.php?s=nginx&v=1.13.4",                  "nginx.zip",            "1.13.4" ],
+[ "nginx",            "http:\/\/wpn-xm.org\/get.php?s=nginx&v=1.13.5",                  "nginx.zip",            "1.13.5" ],
 [ "openssl",          "http:\/\/wpn-xm.org\/get.php?s=openssl&v=1.0.2l",                "openssl.zip",          "1.0.2l" ],
 [ "php-qa",           "http:\/\/wpn-xm.org\/get.php?s=php-qa&v=7.1.6RC1",               "php.zip",              "7.1.6RC1" ],
 [ "phpext_xdebug",    "http:\/\/wpn-xm.org\/get.php?s=phpext_xdebug&v=2.5.0rc1&p=7.1",  "phpext_xdebug.zip",    "2.5.0rc1" ],
