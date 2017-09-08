@@ -6735,7 +6735,6 @@
   'redisdesktopmanager' => array(
     'name' => 'Redis Desktop Manager',
     'website' => 'https://redisdesktop.com',
-    0 => '0',
     '0.8.8.384' => 'https://github.com/uglide/RedisDesktopManager/releases/download/0.8.8/redis-desktop-manager-0.8.8.384.exe',
     'latest' => array(
       'version' => '0.8.8.384',
