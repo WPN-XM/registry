@@ -2,7 +2,7 @@
 [ "adminer",            "http:\/\/wpn-xm.org\/get.php?s=adminer&v=4.3.1",                 "adminer.php",            "4.3.1" ],
 [ "closure-compiler",   "http:\/\/wpn-xm.org\/get.php?s=closure-compiler&v=latest",       "closure-compiler.zip",   "latest" ],
 [ "composer",           "http:\/\/wpn-xm.org\/get.php?s=composer&v=1.0",                  "composer.phar",          "1.0" ],
-[ "conemu",             "http:\/\/wpn-xm.org\/get.php?s=conemu&v=17.08.19",               "conemu.7z",              "17.08.19" ],
+[ "conemu",             "http:\/\/wpn-xm.org\/get.php?s=conemu&v=17.09.10",               "conemu.7z",              "17.09.10" ],
 [ "mariadb",            "http:\/\/wpn-xm.org\/get.php?s=mariadb&v=10.3.1",                "mariadb.zip",            "10.3.1" ],
 [ "memadmin",           "http:\/\/wpn-xm.org\/get.php?s=memadmin&v=1.0.12",               "memadmin.zip",           "1.0.12" ],
 [ "memcached",          "http:\/\/wpn-xm.org\/get.php?s=memcached&v=1.4.5",               "memcached.zip",          "1.4.5" ],
