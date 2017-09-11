@@ -4738,6 +4738,8 @@
     ),
   ),
   'phpext_parle' => array(
+    'name' => 'PHP Extension Parle',
+    'website' => 'https://php.net/parle',
     '0.5.1' => array(
       'x86' => array(
         '7.0' => 'http://windows.php.net/downloads/pecl/releases/parle/0.5.1/php_parle-0.5.1-7.0-nts-vc14-x86.zip',
