@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Fri, 08 Sep 2017 01:08:23 +0000.
+    * Last Update Mon, 11 Sep 2017 21:25:47 +0000.
     * Do not edit manually!
     */
 
@@ -4733,6 +4733,51 @@
         'x64' => array(
           '7.0' => 'http://windows.php.net/downloads/pecl/releases/oci8/2.1.7/php_oci8-2.1.7-7.0-nts-vc14-x64.zip',
           '7.1' => 'http://windows.php.net/downloads/pecl/releases/oci8/2.1.7/php_oci8-2.1.7-7.1-nts-vc14-x64.zip',
+        ),
+      ),
+    ),
+  ),
+  'phpext_parle' => array(
+    '0.5.1' => array(
+      'x86' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/parle/0.5.1/php_parle-0.5.1-7.0-nts-vc14-x86.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/parle/0.5.1/php_parle-0.5.1-7.1-nts-vc14-x86.zip',
+      ),
+      'x64' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/parle/0.5.1/php_parle-0.5.1-7.0-nts-vc14-x64.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/parle/0.5.1/php_parle-0.5.1-7.1-nts-vc14-x64.zip',
+      ),
+    ),
+    '0.5.2' => array(
+      'x86' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/parle/0.5.2/php_parle-0.5.2-7.0-nts-vc14-x86.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/parle/0.5.2/php_parle-0.5.2-7.1-nts-vc14-x86.zip',
+      ),
+      'x64' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/parle/0.5.2/php_parle-0.5.2-7.0-nts-vc14-x64.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/parle/0.5.2/php_parle-0.5.2-7.1-nts-vc14-x64.zip',
+      ),
+    ),
+    '0.5.3' => array(
+      'x86' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/parle/0.5.3/php_parle-0.5.3-7.0-nts-vc14-x86.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/parle/0.5.3/php_parle-0.5.3-7.1-nts-vc14-x86.zip',
+      ),
+      'x64' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/parle/0.5.3/php_parle-0.5.3-7.0-nts-vc14-x64.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/parle/0.5.3/php_parle-0.5.3-7.1-nts-vc14-x64.zip',
+      ),
+    ),
+    'latest' => array(
+      'version' => '0.5.3',
+      'url' => array(
+        'x86' => array(
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/parle/0.5.3/php_parle-0.5.3-7.0-nts-vc14-x86.zip',
+          '7.1' => 'http://windows.php.net/downloads/pecl/releases/parle/0.5.3/php_parle-0.5.3-7.1-nts-vc14-x86.zip',
+        ),
+        'x64' => array(
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/parle/0.5.3/php_parle-0.5.3-7.0-nts-vc14-x64.zip',
+          '7.1' => 'http://windows.php.net/downloads/pecl/releases/parle/0.5.3/php_parle-0.5.3-7.1-nts-vc14-x64.zip',
         ),
       ),
     ),
