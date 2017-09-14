@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Thu, 14 Sep 2017 22:22:00 +0000.
+    * Last Update Thu, 14 Sep 2017 22:22:02 +0000.
     * Do not edit manually!
     */
 
@@ -661,9 +661,10 @@
     '7.0.6-10' => 'http://www.imagemagick.org/download/binaries/ImageMagick-7.0.6-10-portable-Q16-x86.zip',
     '7.0.7-0' => 'http://www.imagemagick.org/download/binaries/ImageMagick-7.0.7-0-portable-Q16-x86.zip',
     '7.0.7-1' => 'http://www.imagemagick.org/download/binaries/ImageMagick-7.0.7-1-portable-Q16-x86.zip',
+    '7.0.7-2' => 'http://www.imagemagick.org/download/binaries/ImageMagick-7.0.7-2-portable-Q16-x86.zip',
     'latest' => array(
-      'version' => '7.0.7-1',
-      'url' => 'http://www.imagemagick.org/download/binaries/ImageMagick-7.0.7-1-portable-Q16-x86.zip',
+      'version' => '7.0.7-2',
+      'url' => 'http://www.imagemagick.org/download/binaries/ImageMagick-7.0.7-2-portable-Q16-x86.zip',
     ),
   ),
   'imagick-x64' => array(
