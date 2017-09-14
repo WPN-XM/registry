@@ -7010,7 +7010,6 @@
   'wkhtmltopdf-x64' => array(
     'name' => 'wkhtmltopdf x64',
     'website' => 'http://wkhtmltopdf.org/',
-    0 => '',
     '0.12.4' => 'https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.4/wkhtmltox-0.12.4_msvc2015-win64.exe',
     'latest' => array(
       'version' => '0.12.4',
@@ -7020,7 +7019,6 @@
   'wkhtmltopdf-x86' => array(
     'name' => 'wkhtmltopdf x86',
     'website' => 'http://wkhtmltopdf.org/',
-    0 => '',
     '0.12.4' => 'https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.4/wkhtmltox-0.12.4_msvc2015-win32.exe',
     'latest' => array(
       'version' => '0.12.4',
