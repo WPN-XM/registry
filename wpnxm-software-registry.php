@@ -7119,6 +7119,7 @@
   'zeromq' => array(
     'name' => 'ZeroMQ x86',
     'website' => 'http://zeromq.org/',
+    '2.2.0' => 'http://miru.hk/archive/ZeroMQ-2.2.0~miru1.0-win32.exe',
     '3.2.4' => 'http://miru.hk/archive/ZeroMQ-3.2.4~miru1.0-x86.exe',
     '4.0.4' => 'http://miru.hk/archive/ZeroMQ-4.0.4~miru1.0-x86.exe',
     'latest' => array(
@@ -7129,6 +7130,7 @@
   'zeromq-x64' => array(
     'name' => 'ZeroMQ x64',
     'website' => 'http://zeromq.org/',
+    '2.2.0' => 'http://miru.hk/archive/ZeroMQ-2.2.0~miru1.0-win64.exe',
     '3.2.4' => 'http://miru.hk/archive/ZeroMQ-3.2.4~miru1.0-x64.exe',
     '4.0.4' => 'http://miru.hk/archive/ZeroMQ-4.0.4~miru1.0-x64.exe',
     'latest' => array(
