@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Thu, 14 Sep 2017 23:28:38 +0000.
+    * Last Update Thu, 14 Sep 2017 23:45:44 +0000.
     * Do not edit manually!
     */
 
@@ -7010,39 +7010,20 @@
   'wkhtmltopdf-x64' => array(
     'name' => 'wkhtmltopdf x64',
     'website' => 'http://wkhtmltopdf.org/',
-    '0.12.0' => 'http://download.gna.org/wkhtmltopdf/0.12/0.12.0/wkhtmltox-0.12.0_msvc2013-win64.exe',
-    '0.12.1' => 'http://download.gna.org/wkhtmltopdf/0.12/0.12.1/wkhtmltox-0.12.1_msvc2013-win64.exe',
-    '0.12.2' => 'http://download.gna.org/wkhtmltopdf/0.12/0.12.2/wkhtmltox-0.12.2_msvc2013-win64.exe',
-    '0.12.2.1' => 'http://download.gna.org/wkhtmltopdf/0.12/0.12.2.1/wkhtmltox-0.12.2.1_msvc2013-win64.exe',
-    '0.12.2.2' => 'http://download.gna.org/wkhtmltopdf/0.12/0.12.2.2/wkhtmltox-0.12.2.2_msvc2013-win64.exe',
-    '0.12.2.3' => 'http://download.gna.org/wkhtmltopdf/0.12/0.12.2.3/wkhtmltox-0.12.2.3_msvc2013-win64.exe',
-    '0.12.2.4' => 'http://download.gna.org/wkhtmltopdf/0.12/0.12.2.4/wkhtmltox-0.12.2.4_msvc2013-win64.exe',
-    '0.12.3' => 'http://download.gna.org/wkhtmltopdf/0.12/0.12.3/wkhtmltox-0.12.3_msvc2013-win64.exe',
-    '0.12.3.1' => 'http://download.gna.org/wkhtmltopdf/0.12/0.12.3.1/wkhtmltox-0.12.3.1_msvc2013-win64.exe',
-    '0.12.3.2' => 'http://download.gna.org/wkhtmltopdf/0.12/0.12.3.2/wkhtmltox-0.12.3.2_msvc2013-win64.exe',
-    '0.12.4' => 'http://download.gna.org/wkhtmltopdf/0.12/0.12.4/wkhtmltox-0.12.4_msvc2015-win64.exe',
+    0 => '',
+    '0.12.4' => 'https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.4/wkhtmltox-0.12.4_msvc2015-win64.exe',
     'latest' => array(
       'version' => '0.12.4',
-      'url' => 'http://download.gna.org/wkhtmltopdf/0.12/0.12.4/wkhtmltox-0.12.4_msvc2015-win64.exe',
+      'url' => 'https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.4/wkhtmltox-0.12.4_msvc2015-win64.exe',
     ),
   ),
   'wkhtmltopdf-x86' => array(
     'name' => 'wkhtmltopdf x86',
     'website' => 'http://wkhtmltopdf.org/',
-    '0.12.0' => 'http://download.gna.org/wkhtmltopdf/0.12/0.12.0/wkhtmltox-0.12.0_msvc2013-win32.exe',
-    '0.12.1' => 'http://download.gna.org/wkhtmltopdf/0.12/0.12.1/wkhtmltox-0.12.1_msvc2013-win32.exe',
-    '0.12.2' => 'http://download.gna.org/wkhtmltopdf/0.12/0.12.2/wkhtmltox-0.12.2_msvc2013-win32.exe',
-    '0.12.2.1' => 'http://download.gna.org/wkhtmltopdf/0.12/0.12.2.1/wkhtmltox-0.12.2.1_msvc2013-win32.exe',
-    '0.12.2.2' => 'http://download.gna.org/wkhtmltopdf/0.12/0.12.2.2/wkhtmltox-0.12.2.2_msvc2013-win32.exe',
-    '0.12.2.3' => 'http://download.gna.org/wkhtmltopdf/0.12/0.12.2.3/wkhtmltox-0.12.2.3_msvc2013-win32.exe',
-    '0.12.2.4' => 'http://download.gna.org/wkhtmltopdf/0.12/0.12.2.4/wkhtmltox-0.12.2.4_msvc2013-win32.exe',
-    '0.12.3' => 'http://download.gna.org/wkhtmltopdf/0.12/0.12.3/wkhtmltox-0.12.3_msvc2013-win32.exe',
-    '0.12.3.1' => 'http://download.gna.org/wkhtmltopdf/0.12/0.12.3.1/wkhtmltox-0.12.3.1_msvc2013-win32.exe',
-    '0.12.3.2' => 'http://download.gna.org/wkhtmltopdf/0.12/0.12.3.2/wkhtmltox-0.12.3.2_msvc2013-win32.exe',
-    '0.12.4' => 'http://download.gna.org/wkhtmltopdf/0.12/0.12.4/wkhtmltox-0.12.4_msvc2015-win32.exe',
+    0 => '',
     'latest' => array(
-      'version' => '0.12.4',
-      'url' => 'http://download.gna.org/wkhtmltopdf/0.12/0.12.4/wkhtmltox-0.12.4_msvc2015-win32.exe',
+      'version' => '0',
+      'url' => '',
     ),
   ),
   'wpnxm-benchmark' => array(
