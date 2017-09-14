@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Thu, 14 Sep 2017 23:45:44 +0000.
+    * Last Update Thu, 14 Sep 2017 23:46:51 +0000.
     * Do not edit manually!
     */
 
@@ -7021,9 +7021,10 @@
     'name' => 'wkhtmltopdf x86',
     'website' => 'http://wkhtmltopdf.org/',
     0 => '',
+    '0.12.4' => 'https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.4/wkhtmltox-0.12.4_msvc2015-win32.exe',
     'latest' => array(
-      'version' => '0',
-      'url' => '',
+      'version' => '0.12.4',
+      'url' => 'https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.4/wkhtmltox-0.12.4_msvc2015-win32.exe',
     ),
   ),
   'wpnxm-benchmark' => array(
