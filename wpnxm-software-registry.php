@@ -2589,23 +2589,27 @@
   'phpext_ast' => array(
     'name' => 'PHP Extension AST',
     'website' => 'https://github.com/nikic/php-ast',
-    20160204 => array(
+    '0.1.5' => array(
       'x86' => array(
-        '7.0' => 'http://windows.php.net/downloads/pecl/snaps/ast/20160204/php_ast-20160204-7.0-nts-vc14-x86.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/ast/0.1.5/php_ast-0.1.5-7.0-nts-vc14-x86.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/ast/0.1.5/php_ast-0.1.5-7.1-nts-vc14-x86.zip',
       ),
       'x64' => array(
-        '7.0' => 'http://windows.php.net/downloads/pecl/snaps/ast/20160204/php_ast-20160204-7.0-nts-vc14-x64.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/ast/0.1.5/php_ast-0.1.5-7.0-nts-vc14-x64.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/ast/0.1.5/php_ast-0.1.5-7.1-nts-vc14-x64.zip',
       ),
     ),
     'latest' => array(
-      'version' => '20160204',
+      'version' => '0.1.5',
       'url' => array(
         'x86' => array(
-          '7.0' => 'http://windows.php.net/downloads/pecl/snaps/ast/20160204/php_ast-20160204-7.0-nts-vc14-x86.zip',
-        ),
-        'x64' => array(
-          '7.0' => 'http://windows.php.net/downloads/pecl/snaps/ast/20160204/php_ast-20160204-7.0-nts-vc14-x64.zip',
-        ),
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/ast/0.1.5/php_ast-0.1.5-7.0-nts-vc14-x86.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/ast/0.1.5/php_ast-0.1.5-7.1-nts-vc14-x86.zip',
+      ),
+      'x64' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/ast/0.1.5/php_ast-0.1.5-7.0-nts-vc14-x64.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/ast/0.1.5/php_ast-0.1.5-7.1-nts-vc14-x64.zip',
+      ),
       ),
     ),
   ),
