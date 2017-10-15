@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Thu, 14 Sep 2017 23:46:51 +0000.
+    * Last Update Sun, 15 Oct 2017 09:42:03 +0000.
     * Do not edit manually!
     */
 
@@ -45,9 +45,10 @@
     '5.14.4' => 'http://archive.apache.org/dist/activemq/5.14.4/apache-activemq-5.14.4-bin.zip',
     '5.14.5' => 'http://archive.apache.org/dist/activemq/5.14.5/apache-activemq-5.14.5-bin.zip',
     '5.15.0' => 'http://archive.apache.org/dist/activemq/5.15.0/apache-activemq-5.15.0-bin.zip',
+    '5.15.1' => 'http://archive.apache.org/dist/activemq/5.15.1/apache-activemq-5.15.1-bin.zip',
     'latest' => array(
-      'version' => '5.15.0',
-      'url' => 'http://archive.apache.org/dist/activemq/5.15.0/apache-activemq-5.15.0-bin.zip',
+      'version' => '5.15.1',
+      'url' => 'http://archive.apache.org/dist/activemq/5.15.1/apache-activemq-5.15.1-bin.zip',
     ),
   ),
   'adminer' => array(
@@ -2603,13 +2604,13 @@
       'version' => '0.1.5',
       'url' => array(
         'x86' => array(
-        '7.0' => 'http://windows.php.net/downloads/pecl/releases/ast/0.1.5/php_ast-0.1.5-7.0-nts-vc14-x86.zip',
-        '7.1' => 'http://windows.php.net/downloads/pecl/releases/ast/0.1.5/php_ast-0.1.5-7.1-nts-vc14-x86.zip',
-      ),
-      'x64' => array(
-        '7.0' => 'http://windows.php.net/downloads/pecl/releases/ast/0.1.5/php_ast-0.1.5-7.0-nts-vc14-x64.zip',
-        '7.1' => 'http://windows.php.net/downloads/pecl/releases/ast/0.1.5/php_ast-0.1.5-7.1-nts-vc14-x64.zip',
-      ),
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/ast/0.1.5/php_ast-0.1.5-7.0-nts-vc14-x86.zip',
+          '7.1' => 'http://windows.php.net/downloads/pecl/releases/ast/0.1.5/php_ast-0.1.5-7.1-nts-vc14-x86.zip',
+        ),
+        'x64' => array(
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/ast/0.1.5/php_ast-0.1.5-7.0-nts-vc14-x64.zip',
+          '7.1' => 'http://windows.php.net/downloads/pecl/releases/ast/0.1.5/php_ast-0.1.5-7.1-nts-vc14-x64.zip',
+        ),
       ),
     ),
   ),
