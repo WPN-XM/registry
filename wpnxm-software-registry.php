@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Sun, 15 Oct 2017 09:43:14 +0000.
+    * Last Update Sun, 15 Oct 2017 09:43:15 +0000.
     * Do not edit manually!
     */
 
@@ -2628,16 +2628,26 @@
         '7.1' => 'http://windows.php.net/downloads/pecl/releases/ast/0.1.5/php_ast-0.1.5-7.1-nts-vc14-x64.zip',
       ),
     ),
+    '0.1.6' => array(
+      'x86' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/ast/0.1.6/php_ast-0.1.6-7.0-nts-vc14-x86.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/ast/0.1.6/php_ast-0.1.6-7.1-nts-vc14-x86.zip',
+      ),
+      'x64' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/ast/0.1.6/php_ast-0.1.6-7.0-nts-vc14-x64.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/ast/0.1.6/php_ast-0.1.6-7.1-nts-vc14-x64.zip',
+      ),
+    ),
     'latest' => array(
-      'version' => '0.1.5',
+      'version' => '0.1.6',
       'url' => array(
         'x86' => array(
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/ast/0.1.5/php_ast-0.1.5-7.0-nts-vc14-x86.zip',
-          '7.1' => 'http://windows.php.net/downloads/pecl/releases/ast/0.1.5/php_ast-0.1.5-7.1-nts-vc14-x86.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/ast/0.1.6/php_ast-0.1.6-7.0-nts-vc14-x86.zip',
+          '7.1' => 'http://windows.php.net/downloads/pecl/releases/ast/0.1.6/php_ast-0.1.6-7.1-nts-vc14-x86.zip',
         ),
         'x64' => array(
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/ast/0.1.5/php_ast-0.1.5-7.0-nts-vc14-x64.zip',
-          '7.1' => 'http://windows.php.net/downloads/pecl/releases/ast/0.1.5/php_ast-0.1.5-7.1-nts-vc14-x64.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/ast/0.1.6/php_ast-0.1.6-7.0-nts-vc14-x64.zip',
+          '7.1' => 'http://windows.php.net/downloads/pecl/releases/ast/0.1.6/php_ast-0.1.6-7.1-nts-vc14-x64.zip',
         ),
       ),
     ),
