@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Sun, 15 Oct 2017 09:42:03 +0000.
+    * Last Update Sun, 15 Oct 2017 09:42:08 +0000.
     * Do not edit manually!
     */
 
@@ -117,9 +117,10 @@
     '3.0.8' => 'https://download.arangodb.com/Windows7/x86_64/ArangoDB-3.0.8-win64.zip',
     '3.0.10' => 'https://download.arangodb.com/Windows7/x86_64/ArangoDB-3.0.10-win64.zip',
     '3.0.11' => 'https://download.arangodb.com/Windows7/x86_64/ArangoDB-3.0.11-win64.zip',
+    '3.0.12' => 'https://download.arangodb.com/Windows7/x86_64/ArangoDB-3.0.12-win64.zip',
     'latest' => array(
-      'version' => '3.0.11',
-      'url' => 'https://download.arangodb.com/Windows7/x86_64/ArangoDB-3.0.11-win64.zip',
+      'version' => '3.0.12',
+      'url' => 'https://download.arangodb.com/Windows7/x86_64/ArangoDB-3.0.12-win64.zip',
     ),
   ),
   'aria2-x64' => array(
