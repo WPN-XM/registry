@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Sun, 15 Oct 2017 09:42:18 +0000.
+    * Last Update Sun, 15 Oct 2017 09:42:21 +0000.
     * Do not edit manually!
     */
 
@@ -778,9 +778,10 @@
     '10.2.5' => 'http://ftp.hosteurope.de/mirror/archive.mariadb.org/mariadb-10.2.5/win32-packages/mariadb-10.2.5-win32.zip',
     '10.3.0' => 'http://ftp.hosteurope.de/mirror/archive.mariadb.org/mariadb-10.3.0/win32-packages/mariadb-10.3.0-win32.zip',
     '10.3.1' => 'http://ftp.hosteurope.de/mirror/archive.mariadb.org/mariadb-10.3.1/win32-packages/mariadb-10.3.1-win32.zip',
+    '10.3.2' => 'http://ftp.hosteurope.de/mirror/archive.mariadb.org/mariadb-10.3.2/win32-packages/mariadb-10.3.2-win32.zip',
     'latest' => array(
-      'version' => '10.3.1',
-      'url' => 'http://ftp.hosteurope.de/mirror/archive.mariadb.org/mariadb-10.3.1/win32-packages/mariadb-10.3.1-win32.zip',
+      'version' => '10.3.2',
+      'url' => 'http://ftp.hosteurope.de/mirror/archive.mariadb.org/mariadb-10.3.2/win32-packages/mariadb-10.3.2-win32.zip',
     ),
   ),
   'mariadb-x64' => array(
