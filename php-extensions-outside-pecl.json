@@ -449,6 +449,16 @@
         "goodonphp7": "",
         "details": ""
     },
+    "thrift": {
+        "website": "https:\/\/github.com\/apache\/thrift\/tree\/master\/lib\/php\/src\/ext\/thrift_protocol",
+        "maintainers": "yes",
+        "tests": "",
+        "docs": "",
+        "worksonphp5": "",
+        "worksonphp7": "",
+        "goodonphp7": "",
+        "details": ""
+    },
     "twig": {
         "website": "http:\/\/twig.sensiolabs.org\/",
         "maintainers": "yes",
