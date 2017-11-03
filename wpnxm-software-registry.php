@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Fri, 03 Nov 2017 10:58:23 +0000.
+    * Last Update Fri, 03 Nov 2017 10:58:24 +0000.
     * Do not edit manually!
     */
 
@@ -5176,20 +5176,34 @@
         '7.1' => 'https://github.com/phalcon/cphalcon/releases/download/v3.2.3/phalcon_x64_vc14_php7.1.0_3.2.3_nts.zip',
       ),
     ),
+    '3.2.4' => array(
+      'x86' => array(
+        '5.5' => 'https://github.com/phalcon/cphalcon/releases/download/v3.2.4/phalcon_x86_vc11_php5.5.0_3.2.4_nts.zip',
+        '5.6' => 'https://github.com/phalcon/cphalcon/releases/download/v3.2.4/phalcon_x86_vc11_php5.6.0_3.2.4_nts.zip',
+        '7.0' => 'https://github.com/phalcon/cphalcon/releases/download/v3.2.4/phalcon_x86_vc14_php7.0.0_3.2.4_nts.zip',
+        '7.1' => 'https://github.com/phalcon/cphalcon/releases/download/v3.2.4/phalcon_x86_vc14_php7.1.0_3.2.4_nts.zip',
+      ),
+      'x64' => array(
+        '5.5' => 'https://github.com/phalcon/cphalcon/releases/download/v3.2.4/phalcon_x64_vc11_php5.5.0_3.2.4_nts.zip',
+        '5.6' => 'https://github.com/phalcon/cphalcon/releases/download/v3.2.4/phalcon_x64_vc11_php5.6.0_3.2.4_nts.zip',
+        '7.0' => 'https://github.com/phalcon/cphalcon/releases/download/v3.2.4/phalcon_x64_vc14_php7.0.0_3.2.4_nts.zip',
+        '7.1' => 'https://github.com/phalcon/cphalcon/releases/download/v3.2.4/phalcon_x64_vc14_php7.1.0_3.2.4_nts.zip',
+      ),
+    ),
     'latest' => array(
-      'version' => '3.2.3',
+      'version' => '3.2.4',
       'url' => array(
         'x86' => array(
-          '5.5' => 'https://github.com/phalcon/cphalcon/releases/download/v3.2.3/phalcon_x86_vc11_php5.5.0_3.2.3_nts.zip',
-          '5.6' => 'https://github.com/phalcon/cphalcon/releases/download/v3.2.3/phalcon_x86_vc11_php5.6.0_3.2.3_nts.zip',
-          '7.0' => 'https://github.com/phalcon/cphalcon/releases/download/v3.2.3/phalcon_x86_vc14_php7.0.0_3.2.3_nts.zip',
-          '7.1' => 'https://github.com/phalcon/cphalcon/releases/download/v3.2.3/phalcon_x86_vc14_php7.1.0_3.2.3_nts.zip',
+          '5.5' => 'https://github.com/phalcon/cphalcon/releases/download/v3.2.4/phalcon_x86_vc11_php5.5.0_3.2.4_nts.zip',
+          '5.6' => 'https://github.com/phalcon/cphalcon/releases/download/v3.2.4/phalcon_x86_vc11_php5.6.0_3.2.4_nts.zip',
+          '7.0' => 'https://github.com/phalcon/cphalcon/releases/download/v3.2.4/phalcon_x86_vc14_php7.0.0_3.2.4_nts.zip',
+          '7.1' => 'https://github.com/phalcon/cphalcon/releases/download/v3.2.4/phalcon_x86_vc14_php7.1.0_3.2.4_nts.zip',
         ),
         'x64' => array(
-          '5.5' => 'https://github.com/phalcon/cphalcon/releases/download/v3.2.3/phalcon_x64_vc11_php5.5.0_3.2.3_nts.zip',
-          '5.6' => 'https://github.com/phalcon/cphalcon/releases/download/v3.2.3/phalcon_x64_vc11_php5.6.0_3.2.3_nts.zip',
-          '7.0' => 'https://github.com/phalcon/cphalcon/releases/download/v3.2.3/phalcon_x64_vc14_php7.0.0_3.2.3_nts.zip',
-          '7.1' => 'https://github.com/phalcon/cphalcon/releases/download/v3.2.3/phalcon_x64_vc14_php7.1.0_3.2.3_nts.zip',
+          '5.5' => 'https://github.com/phalcon/cphalcon/releases/download/v3.2.4/phalcon_x64_vc11_php5.5.0_3.2.4_nts.zip',
+          '5.6' => 'https://github.com/phalcon/cphalcon/releases/download/v3.2.4/phalcon_x64_vc11_php5.6.0_3.2.4_nts.zip',
+          '7.0' => 'https://github.com/phalcon/cphalcon/releases/download/v3.2.4/phalcon_x64_vc14_php7.0.0_3.2.4_nts.zip',
+          '7.1' => 'https://github.com/phalcon/cphalcon/releases/download/v3.2.4/phalcon_x64_vc14_php7.1.0_3.2.4_nts.zip',
         ),
       ),
     ),
