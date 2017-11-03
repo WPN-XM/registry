@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Fri, 03 Nov 2017 10:58:21 +0000.
+    * Last Update Fri, 03 Nov 2017 10:58:22 +0000.
     * Do not edit manually!
     */
 
@@ -4946,16 +4946,26 @@
         '7.1' => 'http://windows.php.net/downloads/pecl/releases/parle/0.7.0/php_parle-0.7.0-7.1-nts-vc14-x64.zip',
       ),
     ),
+    '0.7.1' => array(
+      'x86' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/parle/0.7.1/php_parle-0.7.1-7.0-nts-vc14-x86.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/parle/0.7.1/php_parle-0.7.1-7.1-nts-vc14-x86.zip',
+      ),
+      'x64' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/parle/0.7.1/php_parle-0.7.1-7.0-nts-vc14-x64.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/parle/0.7.1/php_parle-0.7.1-7.1-nts-vc14-x64.zip',
+      ),
+    ),
     'latest' => array(
-      'version' => '0.7.0',
+      'version' => '0.7.1',
       'url' => array(
         'x86' => array(
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/parle/0.7.0/php_parle-0.7.0-7.0-nts-vc14-x86.zip',
-          '7.1' => 'http://windows.php.net/downloads/pecl/releases/parle/0.7.0/php_parle-0.7.0-7.1-nts-vc14-x86.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/parle/0.7.1/php_parle-0.7.1-7.0-nts-vc14-x86.zip',
+          '7.1' => 'http://windows.php.net/downloads/pecl/releases/parle/0.7.1/php_parle-0.7.1-7.1-nts-vc14-x86.zip',
         ),
         'x64' => array(
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/parle/0.7.0/php_parle-0.7.0-7.0-nts-vc14-x64.zip',
-          '7.1' => 'http://windows.php.net/downloads/pecl/releases/parle/0.7.0/php_parle-0.7.0-7.1-nts-vc14-x64.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/parle/0.7.1/php_parle-0.7.1-7.0-nts-vc14-x64.zip',
+          '7.1' => 'http://windows.php.net/downloads/pecl/releases/parle/0.7.1/php_parle-0.7.1-7.1-nts-vc14-x64.zip',
         ),
       ),
     ),
