@@ -2113,9 +2113,10 @@
     '7.1.9' => 'http://windows.php.net/downloads/releases/archives/php-7.1.9-nts-Win32-VC14-x86.zip',
     '7.1.10' => 'http://windows.php.net/downloads/releases/archives/php-7.1.10-nts-Win32-VC14-x86.zip',
     '7.1.11' => 'http://windows.php.net/downloads/releases/php-7.1.11-nts-Win32-VC14-x86.zip',
+    '7.2.0' => 'http://windows.php.net/downloads/releases/php-7.2.0-nts-Win32-VC15-x86.zip',
     'latest' => array(
-      'version' => '7.1.11',
-      'url' => 'http://windows.php.net/downloads/releases/php-7.1.11-nts-Win32-VC14-x86.zip',
+      'version' => '7.2.0',
+      'url' => 'http://windows.php.net/downloads/releases/php-7.2.0-nts-Win32-VC15-x86.zip',
     ),
   ),
   'php-cs-fixer' => array(
@@ -2172,9 +2173,10 @@
     '7.2.0RC2' => 'http://windows.php.net/downloads/qa/archives/php-7.2.0RC2-nts-Win32-VC15-x86.zip',
     '7.2.0RC4' => 'http://windows.php.net/downloads/qa/archives/php-7.2.0RC4-nts-Win32-VC15-x86.zip',
     '7.2.0RC5' => 'http://windows.php.net/downloads/qa/php-7.2.0RC5-nts-Win32-VC15-x86.zip',
+    '7.2.0RC6' => 'http://windows.php.net/downloads/qa/php-7.2.0RC6-nts-Win32-VC15-x86.zip',
     'latest' => array(
-      'version' => '7.2.0RC5',
-      'url' => 'http://windows.php.net/downloads/qa/php-7.2.0RC5-nts-Win32-VC15-x86.zip',
+      'version' => '7.2.0RC6',
+      'url' => 'http://windows.php.net/downloads/qa/php-7.2.0RC6-nts-Win32-VC15-x86.zip',
     ),
   ),
   'php-qa-x64' => array(
@@ -2234,9 +2236,10 @@
     '7.2.0RC2' => 'http://windows.php.net/downloads/qa/archives/php-7.2.0RC2-nts-Win32-VC15-x64.zip',
     '7.2.0RC4' => 'http://windows.php.net/downloads/qa/archives/php-7.2.0RC4-nts-Win32-VC15-x64.zip',
     '7.2.0RC5' => 'http://windows.php.net/downloads/qa/php-7.2.0RC5-nts-Win32-VC15-x64.zip',
+    '7.2.0RC6' => 'http://windows.php.net/downloads/qa/php-7.2.0RC6-nts-Win32-VC15-x64.zip',
     'latest' => array(
-      'version' => '7.2.0RC5',
-      'url' => 'http://windows.php.net/downloads/qa/php-7.2.0RC5-nts-Win32-VC15-x64.zip',
+      'version' => '7.2.0RC6',
+      'url' => 'http://windows.php.net/downloads/qa/php-7.2.0RC6-nts-Win32-VC15-x64.zip',
     ),
   ),
   'php-x64' => array(
@@ -2352,9 +2355,10 @@
     '7.1.9' => 'http://windows.php.net/downloads/releases/archives/php-7.1.9-nts-Win32-VC14-x64.zip',
     '7.1.10' => 'http://windows.php.net/downloads/releases/archives/php-7.1.10-nts-Win32-VC14-x64.zip',
     '7.1.11' => 'http://windows.php.net/downloads/releases/php-7.1.11-nts-Win32-VC14-x64.zip',
+    '7.2.0' => 'http://windows.php.net/downloads/releases/php-7.2.0-nts-Win32-VC15-x64.zip',
     'latest' => array(
-      'version' => '7.1.11',
-      'url' => 'http://windows.php.net/downloads/releases/php-7.1.11-nts-Win32-VC14-x64.zip',
+      'version' => '7.2.0',
+      'url' => 'http://windows.php.net/downloads/releases/php-7.2.0-nts-Win32-VC15-x64.zip',
     ),
   ),
   'phpext_amqp' => array(
