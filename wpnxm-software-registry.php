@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Thu, 07 Dec 2017 00:22:13 +0000.
+    * Last Update Thu, 07 Dec 2017 00:22:17 +0000.
     * Do not edit manually!
     */
 
@@ -3465,28 +3465,46 @@
     ),
     '2.0.1' => array(
       'x86' => array(
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/igbinary/2.0.1/php_igbinary-2.0.1-5.5-nts-vc11-x86.zip',
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/igbinary/2.0.1/php_igbinary-2.0.1-5.6-nts-vc11-x86.zip',
         '7.0' => 'http://windows.php.net/downloads/pecl/releases/igbinary/2.0.1/php_igbinary-2.0.1-7.0-nts-vc14-x86.zip',
         '7.1' => 'http://windows.php.net/downloads/pecl/releases/igbinary/2.0.1/php_igbinary-2.0.1-7.1-nts-vc14-x86.zip',
       ),
       'x64' => array(
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/igbinary/2.0.1/php_igbinary-2.0.1-5.5-nts-vc11-x64.zip',
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/igbinary/2.0.1/php_igbinary-2.0.1-5.6-nts-vc11-x64.zip',
         '7.0' => 'http://windows.php.net/downloads/pecl/releases/igbinary/2.0.1/php_igbinary-2.0.1-7.0-nts-vc14-x64.zip',
         '7.1' => 'http://windows.php.net/downloads/pecl/releases/igbinary/2.0.1/php_igbinary-2.0.1-7.1-nts-vc14-x64.zip',
       ),
     ),
+    '2.0.5' => array(
+      'x86' => array(
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/igbinary/2.0.5/php_igbinary-2.0.5-5.6-nts-vc11-x86.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/igbinary/2.0.5/php_igbinary-2.0.5-7.0-nts-vc14-x86.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/igbinary/2.0.5/php_igbinary-2.0.5-7.1-nts-vc14-x86.zip',
+        '7.2' => 'http://windows.php.net/downloads/pecl/releases/igbinary/2.0.5/php_igbinary-2.0.5-7.2-nts-vc15-x86.zip',
+      ),
+      'x64' => array(
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/igbinary/2.0.5/php_igbinary-2.0.5-5.6-nts-vc11-x64.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/igbinary/2.0.5/php_igbinary-2.0.5-7.0-nts-vc14-x64.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/igbinary/2.0.5/php_igbinary-2.0.5-7.1-nts-vc14-x64.zip',
+        '7.2' => 'http://windows.php.net/downloads/pecl/releases/igbinary/2.0.5/php_igbinary-2.0.5-7.2-nts-vc15-x64.zip',
+      ),
+    ),
     'latest' => array(
-      'version' => '2.0.1',
+      'version' => '2.0.5',
       'url' => array(
         'x86' => array(
-          '5.6' => 'http://windows.php.net/downloads/pecl/releases/igbinary/2.0.1/php_igbinary-2.0.1-5.6-nts-vc11-x86.zip',
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/igbinary/2.0.1/php_igbinary-2.0.1-7.0-nts-vc14-x86.zip',
-          '7.1' => 'http://windows.php.net/downloads/pecl/releases/igbinary/2.0.1/php_igbinary-2.0.1-7.1-nts-vc14-x86.zip',
+          '5.6' => 'http://windows.php.net/downloads/pecl/releases/igbinary/2.0.5/php_igbinary-2.0.5-5.6-nts-vc11-x86.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/igbinary/2.0.5/php_igbinary-2.0.5-7.0-nts-vc14-x86.zip',
+          '7.1' => 'http://windows.php.net/downloads/pecl/releases/igbinary/2.0.5/php_igbinary-2.0.5-7.1-nts-vc14-x86.zip',
+          '7.2' => 'http://windows.php.net/downloads/pecl/releases/igbinary/2.0.5/php_igbinary-2.0.5-7.2-nts-vc15-x86.zip',
         ),
         'x64' => array(
-          '5.6' => 'http://windows.php.net/downloads/pecl/releases/igbinary/2.0.1/php_igbinary-2.0.1-5.6-nts-vc11-x64.zip',
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/igbinary/2.0.1/php_igbinary-2.0.1-7.0-nts-vc14-x64.zip',
-          '7.1' => 'http://windows.php.net/downloads/pecl/releases/igbinary/2.0.1/php_igbinary-2.0.1-7.1-nts-vc14-x64.zip',
+          '5.6' => 'http://windows.php.net/downloads/pecl/releases/igbinary/2.0.5/php_igbinary-2.0.5-5.6-nts-vc11-x64.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/igbinary/2.0.5/php_igbinary-2.0.5-7.0-nts-vc14-x64.zip',
+          '7.1' => 'http://windows.php.net/downloads/pecl/releases/igbinary/2.0.5/php_igbinary-2.0.5-7.1-nts-vc14-x64.zip',
+          '7.2' => 'http://windows.php.net/downloads/pecl/releases/igbinary/2.0.5/php_igbinary-2.0.5-7.2-nts-vc15-x64.zip',
         ),
       ),
     ),
