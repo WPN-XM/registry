@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Thu, 07 Dec 2017 00:20:42 +0000.
+    * Last Update Thu, 07 Dec 2017 00:20:50 +0000.
     * Do not edit manually!
     */
 
@@ -450,9 +450,10 @@
     '3.26.2' => 'https://download.filezilla-project.org/client/FileZilla_3.26.2_win64.zip',
     '3.27.1' => 'https://download.filezilla-project.org/client/FileZilla_3.27.1_win64.zip',
     '3.28.0' => 'https://download.filezilla-project.org/client/FileZilla_3.28.0_win64.zip',
+    '3.29.0' => 'https://download.filezilla-project.org/client/FileZilla_3.29.0_win64.zip',
     'latest' => array(
-      'version' => '3.28.0',
-      'url' => 'https://download.filezilla-project.org/client/FileZilla_3.28.0_win64.zip',
+      'version' => '3.29.0',
+      'url' => 'https://download.filezilla-project.org/client/FileZilla_3.29.0_win64.zip',
     ),
   ),
   'filezilla-x86' => array(
