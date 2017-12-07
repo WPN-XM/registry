@@ -1,4 +1,5 @@
 [
+    "amf",
     "amqp",
     "aop",
     "apc",
@@ -73,8 +74,10 @@
     "mosquitto",
     "msgpack",
     "mysql_xdevapi",
+    "mysqlnd_memcache",
     "mysqlnd_ms",
     "mysqlnd_qc",
+    "mysqlnd_uh",
     "ncurses",
     "oauth",
     "oci8",
