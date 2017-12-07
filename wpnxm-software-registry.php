@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Thu, 07 Dec 2017 00:21:36 +0000.
+    * Last Update Thu, 07 Dec 2017 00:21:47 +0000.
     * Do not edit manually!
     */
 
@@ -7116,9 +7116,10 @@
     '3.5.3' => 'http://selenium-release.storage.googleapis.com/3.5/selenium-server-standalone-3.5.3.jar',
     '3.6.0' => 'http://selenium-release.storage.googleapis.com/3.6/selenium-server-standalone-3.6.0.jar',
     '3.7.0' => 'http://selenium-release.storage.googleapis.com/3.7/selenium-server-standalone-3.7.0.jar',
+    '3.8.1' => 'http://selenium-release.storage.googleapis.com/3.8/selenium-server-standalone-3.8.1.jar',
     'latest' => array(
-      'version' => '3.7.0',
-      'url' => 'http://selenium-release.storage.googleapis.com/3.7/selenium-server-standalone-3.7.0.jar',
+      'version' => '3.8.1',
+      'url' => 'http://selenium-release.storage.googleapis.com/3.8/selenium-server-standalone-3.8.1.jar',
     ),
   ),
   'sendmail' => array(
