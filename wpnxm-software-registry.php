@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Tue, 02 Jan 2018 12:16:15 +0000.
+    * Last Update Tue, 02 Jan 2018 12:16:19 +0000.
     * Do not edit manually!
     */
 
@@ -6565,18 +6565,30 @@
         '7.2' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.6.0alpha1/php_xdebug-2.6.0alpha1-7.2-nts-vc15-x64.zip',
       ),
     ),
+    '2.6.0beta1' => array(
+      'x86' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.6.0beta1/php_xdebug-2.6.0beta1-7.0-nts-vc14-x86.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.6.0beta1/php_xdebug-2.6.0beta1-7.1-nts-vc14-x86.zip',
+        '7.2' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.6.0beta1/php_xdebug-2.6.0beta1-7.2-nts-vc15-x86.zip',
+      ),
+      'x64' => array(
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.6.0beta1/php_xdebug-2.6.0beta1-7.0-nts-vc14-x64.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.6.0beta1/php_xdebug-2.6.0beta1-7.1-nts-vc14-x64.zip',
+        '7.2' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.6.0beta1/php_xdebug-2.6.0beta1-7.2-nts-vc15-x64.zip',
+      ),
+    ),
     'latest' => array(
-      'version' => '2.6.0alpha1',
+      'version' => '2.6.0beta1',
       'url' => array(
         'x86' => array(
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.6.0alpha1/php_xdebug-2.6.0alpha1-7.0-nts-vc14-x86.zip',
-          '7.1' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.6.0alpha1/php_xdebug-2.6.0alpha1-7.1-nts-vc14-x86.zip',
-          '7.2' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.6.0alpha1/php_xdebug-2.6.0alpha1-7.2-nts-vc15-x86.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.6.0beta1/php_xdebug-2.6.0beta1-7.0-nts-vc14-x86.zip',
+          '7.1' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.6.0beta1/php_xdebug-2.6.0beta1-7.1-nts-vc14-x86.zip',
+          '7.2' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.6.0beta1/php_xdebug-2.6.0beta1-7.2-nts-vc15-x86.zip',
         ),
         'x64' => array(
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.6.0alpha1/php_xdebug-2.6.0alpha1-7.0-nts-vc14-x64.zip',
-          '7.1' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.6.0alpha1/php_xdebug-2.6.0alpha1-7.1-nts-vc14-x64.zip',
-          '7.2' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.6.0alpha1/php_xdebug-2.6.0alpha1-7.2-nts-vc15-x64.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.6.0beta1/php_xdebug-2.6.0beta1-7.0-nts-vc14-x64.zip',
+          '7.1' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.6.0beta1/php_xdebug-2.6.0beta1-7.1-nts-vc14-x64.zip',
+          '7.2' => 'http://windows.php.net/downloads/pecl/releases/xdebug/2.6.0beta1/php_xdebug-2.6.0beta1-7.2-nts-vc15-x64.zip',
         ),
       ),
     ),
