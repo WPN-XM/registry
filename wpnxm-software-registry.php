@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Tue, 02 Jan 2018 12:15:06 +0000.
+    * Last Update Tue, 02 Jan 2018 12:15:10 +0000.
     * Do not edit manually!
     */
 
@@ -273,6 +273,7 @@
     '1.5.1' => 'https://getcomposer.org/download/1.5.1/composer.phar',
     '1.5.2' => 'https://getcomposer.org/download/1.5.2/composer.phar',
     '1.5.5' => 'https://getcomposer.org/download/1.5.5/composer.phar',
+    '1.5.6' => 'https://getcomposer.org/download/1.5.6/composer.phar',
     'latest' => array(
       'version' => 'latest',
       'url' => 'https://getcomposer.org/composer.phar',
