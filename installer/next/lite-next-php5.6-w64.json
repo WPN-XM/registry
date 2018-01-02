@@ -1,14 +1,14 @@
 [
 [ "adminer",          "http:\/\/wpn-xm.org\/get.php?s=adminer&v=4.3.1",                             "adminer.php",          "4.3.1" ],
 [ "composer",         "http:\/\/wpn-xm.org\/get.php?s=composer&v=1.0",                              "composer.phar",        "1.0" ],
-[ "conemu",           "http:\/\/wpn-xm.org\/get.php?s=conemu&v=17.12.05",                           "conemu.7z",            "17.12.05" ],
-[ "mariadb-x64",      "http:\/\/wpn-xm.org\/get.php?s=mariadb-x64&v=10.3.2",                        "mariadb.zip",          "10.3.2" ],
-[ "nginx",            "http:\/\/wpn-xm.org\/get.php?s=nginx&v=1.13.7",                              "nginx.zip",            "1.13.7" ],
-[ "openssl-x64",      "http:\/\/wpn-xm.org\/get.php?s=openssl-x64&v=1.0.2m",                        "openssl.zip",          "1.0.2m" ],
+[ "conemu",           "http:\/\/wpn-xm.org\/get.php?s=conemu&v=17.12.26",                           "conemu.7z",            "17.12.26" ],
+[ "mariadb-x64",      "http:\/\/wpn-xm.org\/get.php?s=mariadb-x64&v=10.3.3",                        "mariadb.zip",          "10.3.3" ],
+[ "nginx",            "http:\/\/wpn-xm.org\/get.php?s=nginx&v=1.13.8",                              "nginx.zip",            "1.13.8" ],
+[ "openssl-x64",      "http:\/\/wpn-xm.org\/get.php?s=openssl-x64&v=1.0.2n",                        "openssl.zip",          "1.0.2n" ],
 [ "php-x64",          "http:\/\/wpn-xm.org\/get.php?s=php-x64&v=5.6.32",                            "php.zip",              "5.6.32" ],
 [ "phpext_xdebug",    "http:\/\/wpn-xm.org\/get.php?s=phpext_xdebug&v=2.5.0rc1&p=5.6&bitsize=x64",  "phpext_xdebug.zip",    "2.5.0rc1" ],
 [ "pickle",           "http:\/\/wpn-xm.org\/get.php?s=pickle&v=0.4.0",                              "pickle.phar",          "0.4.0" ],
-[ "rclone-x64",       "http:\/\/wpn-xm.org\/get.php?s=rclone-x64&v=1.38",                           "rclone.zip",           "1.38" ],
+[ "rclone-x64",       "http:\/\/wpn-xm.org\/get.php?s=rclone-x64&v=1.39",                           "rclone.zip",           "1.39" ],
 [ "wpnxm-benchmark",  "http:\/\/wpn-xm.org\/get.php?s=wpnxm-benchmark&v=1.0.0",                     "wpnxm-benchmark.zip",  "1.0.0" ],
 [ "wpnxm-scp-x64",    "http:\/\/wpn-xm.org\/get.php?s=wpnxm-scp-x64&v=0.8.6",                       "wpnxm-scp.zip",        "0.8.6" ]
 ]
