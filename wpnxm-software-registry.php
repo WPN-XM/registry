@@ -1,7 +1,7 @@
 <?php
    /**
     * WPИ-XM Server Stack
-    * Copyright © 2010 - 2017 Jens-André Koch <jakoch@web.de>
+    * Copyright © 2010 - 2018 Jens-André Koch <jakoch@web.de>
     * https://wpn-xm.org/
     *
     * This source file is subject to the terms of the MIT license.
@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Thu, 07 Dec 2017 00:24:27 +0000.
+    * Last Update Tue, 02 Jan 2018 12:15:06 +0000.
     * Do not edit manually!
     */
 
@@ -241,9 +241,10 @@
     '2.31' => 'http://chromedriver.storage.googleapis.com/2.31/chromedriver_win32.zip',
     '2.32' => 'http://chromedriver.storage.googleapis.com/2.32/chromedriver_win32.zip',
     '2.33' => 'http://chromedriver.storage.googleapis.com/2.33/chromedriver_win32.zip',
+    '2.34' => 'http://chromedriver.storage.googleapis.com/2.34/chromedriver_win32.zip',
     'latest' => array(
-      'version' => '2.33',
-      'url' => 'http://chromedriver.storage.googleapis.com/2.33/chromedriver_win32.zip',
+      'version' => '2.34',
+      'url' => 'http://chromedriver.storage.googleapis.com/2.34/chromedriver_win32.zip',
     ),
   ),
   'closure-compiler' => array(
