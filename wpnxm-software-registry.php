@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Tue, 02 Jan 2018 12:16:05 +0000.
+    * Last Update Tue, 02 Jan 2018 12:16:08 +0000.
     * Do not edit manually!
     */
 
@@ -1866,9 +1866,10 @@
     '1.0.2k' => 'http://indy.fulgan.com/SSL/openssl-1.0.2k-x64_86-win64.zip',
     '1.0.2l' => 'http://indy.fulgan.com/SSL/openssl-1.0.2l-x64_86-win64.zip',
     '1.0.2m' => 'http://indy.fulgan.com/SSL/openssl-1.0.2m-x64_86-win64.zip',
+    '1.0.2n' => 'http://indy.fulgan.com/SSL/openssl-1.0.2n-x64_86-win64.zip',
     'latest' => array(
-      'version' => '1.0.2m',
-      'url' => 'http://indy.fulgan.com/SSL/openssl-1.0.2m-x64_86-win64.zip',
+      'version' => '1.0.2n',
+      'url' => 'http://indy.fulgan.com/SSL/openssl-1.0.2n-x64_86-win64.zip',
     ),
   ),
   'orientdb' => array(
