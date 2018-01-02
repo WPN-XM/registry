@@ -126,6 +126,7 @@
     "sqlsrv",
     "ssdeep",
     "ssh2",
+    "stackdriver_debugger",
     "stats",
     "stem",
     "stomp",
