@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Tue, 02 Jan 2018 12:16:30 +0000.
+    * Last Update Tue, 02 Jan 2018 12:16:35 +0000.
     * Do not edit manually!
     */
 
@@ -7533,9 +7533,10 @@
     'website' => 'https://zealdocs.org/',
     '0.3.0' => 'https://dl.bintray.com/zealdocs/windows/zeal-portable-0.3.0-windows-x86.7z',
     '0.3.1' => 'https://dl.bintray.com/zealdocs/windows/zeal-portable-0.3.1-windows-x86.7z',
+    '0.5.0' => 'https://dl.bintray.com/zealdocs/windows/zeal-portable-0.5.0-windows-x86.7z',
     'latest' => array(
-      'version' => '0.3.1',
-      'url' => 'https://dl.bintray.com/zealdocs/windows/zeal-portable-0.3.1-windows-x86.7z',
+      'version' => '0.5.0',
+      'url' => 'https://dl.bintray.com/zealdocs/windows/zeal-portable-0.5.0-windows-x86.7z',
     ),
   ),
   'zeromq' => array(
