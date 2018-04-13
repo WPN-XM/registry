@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Fri, 13 Apr 2018 12:40:35 +0000.
+    * Last Update Fri, 13 Apr 2018 12:40:37 +0000.
     * Do not edit manually!
     */
 
@@ -6829,28 +6829,58 @@
     ),
     '3.0.6' => array(
       'x86' => array(
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/yaf/3.0.6/php_yaf-3.0.6-5.4-nts-vc9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/yaf/3.0.6/php_yaf-3.0.6-5.5-nts-vc11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/yaf/3.0.6/php_yaf-3.0.6-5.6-nts-vc11-x86.zip',
         '7.0' => 'http://windows.php.net/downloads/pecl/releases/yaf/3.0.6/php_yaf-3.0.6-7.0-nts-vc14-x86.zip',
         '7.1' => 'http://windows.php.net/downloads/pecl/releases/yaf/3.0.6/php_yaf-3.0.6-7.1-nts-vc14-x86.zip',
         '7.2' => 'http://windows.php.net/downloads/pecl/releases/yaf/3.0.6/php_yaf-3.0.6-7.2-nts-vc15-x86.zip',
       ),
       'x64' => array(
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/yaf/3.0.6/php_yaf-3.0.6-5.4-nts-vc9-x64.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/yaf/3.0.6/php_yaf-3.0.6-5.5-nts-vc11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/yaf/3.0.6/php_yaf-3.0.6-5.6-nts-vc11-x64.zip',
         '7.0' => 'http://windows.php.net/downloads/pecl/releases/yaf/3.0.6/php_yaf-3.0.6-7.0-nts-vc14-x64.zip',
         '7.1' => 'http://windows.php.net/downloads/pecl/releases/yaf/3.0.6/php_yaf-3.0.6-7.1-nts-vc14-x64.zip',
         '7.2' => 'http://windows.php.net/downloads/pecl/releases/yaf/3.0.6/php_yaf-3.0.6-7.2-nts-vc15-x64.zip',
       ),
     ),
+    '3.0.7' => array(
+      'x86' => array(
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/yaf/3.0.7/php_yaf-3.0.7-5.4-nts-vc9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/yaf/3.0.7/php_yaf-3.0.7-5.5-nts-vc11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/yaf/3.0.7/php_yaf-3.0.7-5.6-nts-vc11-x86.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/yaf/3.0.7/php_yaf-3.0.7-7.0-nts-vc14-x86.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/yaf/3.0.7/php_yaf-3.0.7-7.1-nts-vc14-x86.zip',
+        '7.2' => 'http://windows.php.net/downloads/pecl/releases/yaf/3.0.7/php_yaf-3.0.7-7.2-nts-vc15-x86.zip',
+      ),
+      'x64' => array(
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/yaf/3.0.7/php_yaf-3.0.7-5.4-nts-vc9-x64.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/yaf/3.0.7/php_yaf-3.0.7-5.5-nts-vc11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/yaf/3.0.7/php_yaf-3.0.7-5.6-nts-vc11-x64.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/yaf/3.0.7/php_yaf-3.0.7-7.0-nts-vc14-x64.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/yaf/3.0.7/php_yaf-3.0.7-7.1-nts-vc14-x64.zip',
+        '7.2' => 'http://windows.php.net/downloads/pecl/releases/yaf/3.0.7/php_yaf-3.0.7-7.2-nts-vc15-x64.zip',
+      ),
+    ),
     'latest' => array(
-      'version' => '3.0.6',
+      'version' => '3.0.7',
       'url' => array(
         'x86' => array(
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/yaf/3.0.6/php_yaf-3.0.6-7.0-nts-vc14-x86.zip',
-          '7.1' => 'http://windows.php.net/downloads/pecl/releases/yaf/3.0.6/php_yaf-3.0.6-7.1-nts-vc14-x86.zip',
-          '7.2' => 'http://windows.php.net/downloads/pecl/releases/yaf/3.0.6/php_yaf-3.0.6-7.2-nts-vc15-x86.zip',
+          '5.4' => 'http://windows.php.net/downloads/pecl/releases/yaf/3.0.7/php_yaf-3.0.7-5.4-nts-vc9-x86.zip',
+          '5.5' => 'http://windows.php.net/downloads/pecl/releases/yaf/3.0.7/php_yaf-3.0.7-5.5-nts-vc11-x86.zip',
+          '5.6' => 'http://windows.php.net/downloads/pecl/releases/yaf/3.0.7/php_yaf-3.0.7-5.6-nts-vc11-x86.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/yaf/3.0.7/php_yaf-3.0.7-7.0-nts-vc14-x86.zip',
+          '7.1' => 'http://windows.php.net/downloads/pecl/releases/yaf/3.0.7/php_yaf-3.0.7-7.1-nts-vc14-x86.zip',
+          '7.2' => 'http://windows.php.net/downloads/pecl/releases/yaf/3.0.7/php_yaf-3.0.7-7.2-nts-vc15-x86.zip',
         ),
         'x64' => array(
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/yaf/3.0.6/php_yaf-3.0.6-7.0-nts-vc14-x64.zip',
-          '7.1' => 'http://windows.php.net/downloads/pecl/releases/yaf/3.0.6/php_yaf-3.0.6-7.1-nts-vc14-x64.zip',
-          '7.2' => 'http://windows.php.net/downloads/pecl/releases/yaf/3.0.6/php_yaf-3.0.6-7.2-nts-vc15-x64.zip',
+          '5.4' => 'http://windows.php.net/downloads/pecl/releases/yaf/3.0.7/php_yaf-3.0.7-5.4-nts-vc9-x64.zip',
+          '5.5' => 'http://windows.php.net/downloads/pecl/releases/yaf/3.0.7/php_yaf-3.0.7-5.5-nts-vc11-x64.zip',
+          '5.6' => 'http://windows.php.net/downloads/pecl/releases/yaf/3.0.7/php_yaf-3.0.7-5.6-nts-vc11-x64.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/yaf/3.0.7/php_yaf-3.0.7-7.0-nts-vc14-x64.zip',
+          '7.1' => 'http://windows.php.net/downloads/pecl/releases/yaf/3.0.7/php_yaf-3.0.7-7.1-nts-vc14-x64.zip',
+          '7.2' => 'http://windows.php.net/downloads/pecl/releases/yaf/3.0.7/php_yaf-3.0.7-7.2-nts-vc15-x64.zip',
         ),
       ),
     ),
