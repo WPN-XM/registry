@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Fri, 13 Apr 2018 12:41:30 +0000.
+    * Last Update Fri, 13 Apr 2018 12:41:32 +0000.
     * Do not edit manually!
     */
 
@@ -8049,9 +8049,10 @@
     'name' => 'Redis Desktop Manager',
     'website' => 'https://redisdesktop.com',
     '0.8.8.384' => 'https://github.com/uglide/RedisDesktopManager/releases/download/0.8.8/redis-desktop-manager-0.8.8.384.exe',
+    '0.9.2.806' => 'https://github.com/uglide/RedisDesktopManager/releases/download/0.9.2/redis-desktop-manager-0.9.2.806.exe',
     'latest' => array(
-      'version' => '0.8.8.384',
-      'url' => 'https://github.com/uglide/RedisDesktopManager/releases/download/0.8.8/redis-desktop-manager-0.8.8.384.exe',
+      'version' => '0.9.2.806',
+      'url' => 'https://github.com/uglide/RedisDesktopManager/releases/download/0.9.2/redis-desktop-manager-0.9.2.806.exe',
     ),
   ),
   'rethinkdb-x64' => array(
