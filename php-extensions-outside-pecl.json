@@ -392,11 +392,11 @@
     "secp256k1-php": {
         "website": "https:\/\/github.com\/Bit-Wasp\/secp256k1-php",
         "maintainers": "Yes",
-        "tests": "",
-        "docs": "",
-        "worksonphp5": "",
-        "worksonphp7": "",
-        "goodonphp7": "",
+        "tests": "Yes",
+        "docs": "Yes",
+        "worksonphp5": "Yes",
+        "worksonphp7": "Yes",
+        "goodonphp7": "Yes",
         "details": ""
     },
     "snappy": {
@@ -408,6 +408,16 @@
         "worksonphp7": "yes",
         "goodonphp7": "yes",
         "details": "[PR](https:\/\/github.com\/kjdev\/php-ext-snappy\/pull\/2)"
+    },
+    "snuffleupagus": {
+        "website": "https:\/\/github.com\/nbs-system\/snuffleupagus",
+        "maintainers": "",
+        "tests": "",
+        "docs": "",
+        "worksonphp5": "",
+        "worksonphp7": "",
+        "goodonphp7": "",
+        "details": ""
     },
     "sqlsrv": {
         "website": "https:\/\/github.com\/azure\/msphpsql",
