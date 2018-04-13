@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Tue, 02 Jan 2018 12:16:35 +0000.
+    * Last Update Fri, 13 Apr 2018 12:02:02 +0000.
     * Do not edit manually!
     */
 
@@ -84,10 +84,12 @@
     'name' => 'Apache Ant',
     'website' => 'http://ant.apache.org/',
     '1.9.9' => 'http://ftp.halifax.rwth-aachen.de/apache/ant/binaries/apache-ant-1.9.9-bin.zip',
-    '1.10.1' => 'http://ftp.halifax.rwth-aachen.de/apache/ant/binaries/apache-ant-1.10.1-bin.zip',
+    '1.10.1' => 'http://archive.apache.org/dist/ant/binaries/apache-ant-1.10.1-bin.zip',
+    '1.10.2' => 'http://archive.apache.org/dist/ant/binaries/apache-ant-1.10.2-bin.zip',
+    '1.10.3' => 'http://archive.apache.org/dist/ant/binaries/apache-ant-1.10.3-bin.zip',
     'latest' => array(
-      'version' => '1.10.1',
-      'url' => 'http://ftp.halifax.rwth-aachen.de/apache/ant/binaries/apache-ant-1.10.1-bin.zip',
+      'version' => '1.10.3',
+      'url' => 'http://archive.apache.org/dist/ant/binaries/apache-ant-1.10.3-bin.zip',
     ),
   ),
   'apache-benchmark' => array(
