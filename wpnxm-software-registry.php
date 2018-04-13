@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Fri, 13 Apr 2018 12:40:32 +0000.
+    * Last Update Fri, 13 Apr 2018 12:40:35 +0000.
     * Do not edit manually!
     */
 
@@ -6944,28 +6944,94 @@
     ),
     '1.13.5' => array(
       'x86' => array(
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/zip/1.13.5/php_zip-1.13.5-5.4-nts-vc9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/zip/1.13.5/php_zip-1.13.5-5.5-nts-vc11-x86.zip',
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/zip/1.13.5/php_zip-1.13.5-5.6-nts-vc11-x86.zip',
         '7.0' => 'http://windows.php.net/downloads/pecl/releases/zip/1.13.5/php_zip-1.13.5-7.0-nts-vc14-x86.zip',
         '7.1' => 'http://windows.php.net/downloads/pecl/releases/zip/1.13.5/php_zip-1.13.5-7.1-nts-vc14-x86.zip',
+        '7.2' => 'http://windows.php.net/downloads/pecl/releases/zip/1.13.5/php_zip-1.13.5-7.2-nts-vc15-x86.zip',
       ),
       'x64' => array(
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/zip/1.13.5/php_zip-1.13.5-5.4-nts-vc9-x64.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/zip/1.13.5/php_zip-1.13.5-5.5-nts-vc11-x64.zip',
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/zip/1.13.5/php_zip-1.13.5-5.6-nts-vc11-x64.zip',
         '7.0' => 'http://windows.php.net/downloads/pecl/releases/zip/1.13.5/php_zip-1.13.5-7.0-nts-vc14-x64.zip',
         '7.1' => 'http://windows.php.net/downloads/pecl/releases/zip/1.13.5/php_zip-1.13.5-7.1-nts-vc14-x64.zip',
+        '7.2' => 'http://windows.php.net/downloads/pecl/releases/zip/1.13.5/php_zip-1.13.5-7.2-nts-vc15-x64.zip',
+      ),
+    ),
+    '1.14.0' => array(
+      'x86' => array(
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/zip/1.14.0/php_zip-1.14.0-5.4-nts-vc9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/zip/1.14.0/php_zip-1.14.0-5.5-nts-vc11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/zip/1.14.0/php_zip-1.14.0-5.6-nts-vc11-x86.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/zip/1.14.0/php_zip-1.14.0-7.0-nts-vc14-x86.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/zip/1.14.0/php_zip-1.14.0-7.1-nts-vc14-x86.zip',
+        '7.2' => 'http://windows.php.net/downloads/pecl/releases/zip/1.14.0/php_zip-1.14.0-7.2-nts-vc15-x86.zip',
+      ),
+      'x64' => array(
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/zip/1.14.0/php_zip-1.14.0-5.4-nts-vc9-x64.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/zip/1.14.0/php_zip-1.14.0-5.5-nts-vc11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/zip/1.14.0/php_zip-1.14.0-5.6-nts-vc11-x64.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/zip/1.14.0/php_zip-1.14.0-7.0-nts-vc14-x64.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/zip/1.14.0/php_zip-1.14.0-7.1-nts-vc14-x64.zip',
+        '7.2' => 'http://windows.php.net/downloads/pecl/releases/zip/1.14.0/php_zip-1.14.0-7.2-nts-vc15-x64.zip',
+      ),
+    ),
+    '1.15.0' => array(
+      'x86' => array(
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/zip/1.15.0/php_zip-1.15.0-5.4-nts-vc9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/zip/1.15.0/php_zip-1.15.0-5.5-nts-vc11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/zip/1.15.0/php_zip-1.15.0-5.6-nts-vc11-x86.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/zip/1.15.0/php_zip-1.15.0-7.0-nts-vc14-x86.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/zip/1.15.0/php_zip-1.15.0-7.1-nts-vc14-x86.zip',
+        '7.2' => 'http://windows.php.net/downloads/pecl/releases/zip/1.15.0/php_zip-1.15.0-7.2-nts-vc15-x86.zip',
+      ),
+      'x64' => array(
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/zip/1.15.0/php_zip-1.15.0-5.4-nts-vc9-x64.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/zip/1.15.0/php_zip-1.15.0-5.5-nts-vc11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/zip/1.15.0/php_zip-1.15.0-5.6-nts-vc11-x64.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/zip/1.15.0/php_zip-1.15.0-7.0-nts-vc14-x64.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/zip/1.15.0/php_zip-1.15.0-7.1-nts-vc14-x64.zip',
+        '7.2' => 'http://windows.php.net/downloads/pecl/releases/zip/1.15.0/php_zip-1.15.0-7.2-nts-vc15-x64.zip',
+      ),
+    ),
+    '1.15.1' => array(
+      'x86' => array(
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/zip/1.15.1/php_zip-1.15.1-5.4-nts-vc9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/zip/1.15.1/php_zip-1.15.1-5.5-nts-vc11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/zip/1.15.1/php_zip-1.15.1-5.6-nts-vc11-x86.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/zip/1.15.1/php_zip-1.15.1-7.0-nts-vc14-x86.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/zip/1.15.1/php_zip-1.15.1-7.1-nts-vc14-x86.zip',
+        '7.2' => 'http://windows.php.net/downloads/pecl/releases/zip/1.15.1/php_zip-1.15.1-7.2-nts-vc15-x86.zip',
+      ),
+      'x64' => array(
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/zip/1.15.1/php_zip-1.15.1-5.4-nts-vc9-x64.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/zip/1.15.1/php_zip-1.15.1-5.5-nts-vc11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/zip/1.15.1/php_zip-1.15.1-5.6-nts-vc11-x64.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/zip/1.15.1/php_zip-1.15.1-7.0-nts-vc14-x64.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/zip/1.15.1/php_zip-1.15.1-7.1-nts-vc14-x64.zip',
+        '7.2' => 'http://windows.php.net/downloads/pecl/releases/zip/1.15.1/php_zip-1.15.1-7.2-nts-vc15-x64.zip',
       ),
     ),
     'latest' => array(
-      'version' => '1.13.5',
+      'version' => '1.15.1',
       'url' => array(
         'x86' => array(
-          '5.6' => 'http://windows.php.net/downloads/pecl/releases/zip/1.13.5/php_zip-1.13.5-5.6-nts-vc11-x86.zip',
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/zip/1.13.5/php_zip-1.13.5-7.0-nts-vc14-x86.zip',
-          '7.1' => 'http://windows.php.net/downloads/pecl/releases/zip/1.13.5/php_zip-1.13.5-7.1-nts-vc14-x86.zip',
+          '5.4' => 'http://windows.php.net/downloads/pecl/releases/zip/1.15.1/php_zip-1.15.1-5.4-nts-vc9-x86.zip',
+          '5.5' => 'http://windows.php.net/downloads/pecl/releases/zip/1.15.1/php_zip-1.15.1-5.5-nts-vc11-x86.zip',
+          '5.6' => 'http://windows.php.net/downloads/pecl/releases/zip/1.15.1/php_zip-1.15.1-5.6-nts-vc11-x86.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/zip/1.15.1/php_zip-1.15.1-7.0-nts-vc14-x86.zip',
+          '7.1' => 'http://windows.php.net/downloads/pecl/releases/zip/1.15.1/php_zip-1.15.1-7.1-nts-vc14-x86.zip',
+          '7.2' => 'http://windows.php.net/downloads/pecl/releases/zip/1.15.1/php_zip-1.15.1-7.2-nts-vc15-x86.zip',
         ),
         'x64' => array(
-          '5.6' => 'http://windows.php.net/downloads/pecl/releases/zip/1.13.5/php_zip-1.13.5-5.6-nts-vc11-x64.zip',
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/zip/1.13.5/php_zip-1.13.5-7.0-nts-vc14-x64.zip',
-          '7.1' => 'http://windows.php.net/downloads/pecl/releases/zip/1.13.5/php_zip-1.13.5-7.1-nts-vc14-x64.zip',
+          '5.4' => 'http://windows.php.net/downloads/pecl/releases/zip/1.15.1/php_zip-1.15.1-5.4-nts-vc9-x64.zip',
+          '5.5' => 'http://windows.php.net/downloads/pecl/releases/zip/1.15.1/php_zip-1.15.1-5.5-nts-vc11-x64.zip',
+          '5.6' => 'http://windows.php.net/downloads/pecl/releases/zip/1.15.1/php_zip-1.15.1-5.6-nts-vc11-x64.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/zip/1.15.1/php_zip-1.15.1-7.0-nts-vc14-x64.zip',
+          '7.1' => 'http://windows.php.net/downloads/pecl/releases/zip/1.15.1/php_zip-1.15.1-7.1-nts-vc14-x64.zip',
+          '7.2' => 'http://windows.php.net/downloads/pecl/releases/zip/1.15.1/php_zip-1.15.1-7.2-nts-vc15-x64.zip',
         ),
       ),
     ),
