@@ -59,6 +59,26 @@
         "goodonphp7": "",
         "details": ""
     },
+    "cmark": {
+        "website": "https:\/\/github.com\/krakjoe\/cmark",
+        "maintainers": "",
+        "tests": "",
+        "docs": "",
+        "worksonphp5": "",
+        "worksonphp7": "",
+        "goodonphp7": "",
+        "details": ""
+    },
+    "css3": {
+        "website": "https:\/\/github.com\/sevenval\/php-ext-css",
+        "maintainers": "",
+        "tests": "",
+        "docs": "",
+        "worksonphp5": "",
+        "worksonphp7": "",
+        "goodonphp7": "",
+        "details": ""
+    },
     "excel": {
         "website": "https:\/\/github.com\/iliaal\/php_excel",
         "maintainers": "",
@@ -419,6 +439,16 @@
         "goodonphp7": "",
         "details": ""
     },
+    "spx": {
+        "website": "https:\/\/github.com\/NoiseByNorthwest\/php-spx",
+        "maintainers": "",
+        "tests": "",
+        "docs": "",
+        "worksonphp5": "",
+        "worksonphp7": "",
+        "goodonphp7": "",
+        "details": ""
+    },
     "sqlsrv": {
         "website": "https:\/\/github.com\/azure\/msphpsql",
         "maintainers": "yes",
@@ -579,5 +609,15 @@
         "worksonphp7": "yes",
         "goodonphp7": "yes",
         "details": "In master branch"
+    },
+    "zstd": {
+        "website": "https:\/\/github.com\/kjdev\/php-ext-zstd",
+        "maintainers": "",
+        "tests": "",
+        "docs": "",
+        "worksonphp5": "",
+        "worksonphp7": "",
+        "goodonphp7": "",
+        "details": ""
     }
 }
