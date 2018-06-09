@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Sat, 09 Jun 2018 15:32:05 +0000.
+    * Last Update Sat, 09 Jun 2018 15:32:08 +0000.
     * Do not edit manually!
     */
 
@@ -359,9 +359,10 @@
     '17.12.26' => 'https://github.com/Maximus5/ConEmu/releases/download/v17.12.26/ConEmuPack.171226.7z',
     '18.04.11' => 'https://github.com/Maximus5/ConEmu/releases/download/v18.04.11/ConEmuPack.180411.7z',
     '18.04.29' => 'https://github.com/Maximus5/ConEmu/releases/download/v18.04.29/ConEmuPack.180429.7z',
+    '18.05.28' => 'https://github.com/Maximus5/ConEmu/releases/download/v18.05.28/ConEmuPack.180528.7z',
     'latest' => array(
-      'version' => '18.04.29',
-      'url' => 'https://github.com/Maximus5/ConEmu/releases/download/v18.04.29/ConEmuPack.180429.7z',
+      'version' => '18.05.28',
+      'url' => 'https://github.com/Maximus5/ConEmu/releases/download/v18.05.28/ConEmuPack.180528.7z',
     ),
   ),
   'couchbase' => array(
