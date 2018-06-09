@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Sat, 09 Jun 2018 15:33:03 +0000.
+    * Last Update Sat, 09 Jun 2018 15:48:07 +0000.
     * Do not edit manually!
     */
 
@@ -8434,6 +8434,15 @@
     'latest' => array(
       'version' => '12.1.1',
       'url' => 'https://github.com/ShareX/ShareX/releases/download/v12.1.1/ShareX-portable.zip',
+    ),
+  ),
+  'speedcrunch' => array(
+    '0.10.1' => 'https://bitbucket.org/heldercorreia/speedcrunch/downloads/SpeedCrunch-0.10.1-win32.zip',
+    '0.11' => 'https://bitbucket.org/heldercorreia/speedcrunch/downloads/SpeedCrunch-0.11-win32.zip',
+    '0.12' => 'https://bitbucket.org/heldercorreia/speedcrunch/downloads/SpeedCrunch-0.12-win32.zip',
+    'latest' => array(
+      'version' => '0.12',
+      'url' => 'https://bitbucket.org/heldercorreia/speedcrunch/downloads/SpeedCrunch-0.12-win32.zip',
     ),
   ),
   'sphinx' => array(
