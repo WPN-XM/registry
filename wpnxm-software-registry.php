@@ -8437,6 +8437,8 @@
     ),
   ),
   'speedcrunch' => array(
+    'name' => 'SpeedCrunch',
+    'website' => 'http://speedcrunch.org/',
     '0.10.1' => 'https://bitbucket.org/heldercorreia/speedcrunch/downloads/SpeedCrunch-0.10.1-win32.zip',
     '0.11' => 'https://bitbucket.org/heldercorreia/speedcrunch/downloads/SpeedCrunch-0.11-win32.zip',
     '0.12' => 'https://bitbucket.org/heldercorreia/speedcrunch/downloads/SpeedCrunch-0.12-win32.zip',

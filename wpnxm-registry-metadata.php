@@ -822,6 +822,14 @@
     ),
     'logo' => '',
   ),
+  'speedcrunch' => array(
+    'description' => 'SpeedCrunch is a high-precision scientific calculator featuring a fast, keyboard-driven user interface. It is free and open-source software, licensed under the GPL.',
+    'category' => 'Tool',
+    'tags' => array(
+      'tool', 'calculator', 'math'
+    ),
+    'logo' => '',
+  ),
   'sphinx' => array(
     'description' => 'Sphinx is an open source full text search server, designed with performance, relevance (search quality), and integration simplicity in mind.',
     'category' => 'Search',
