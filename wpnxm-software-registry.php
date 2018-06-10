@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Sat, 09 Jun 2018 15:48:07 +0000.
+    * Last Update Sun, 10 Jun 2018 13:50:11 +0000.
     * Do not edit manually!
     */
 
@@ -8463,6 +8463,13 @@
     'latest' => array(
       'version' => '2.2.11',
       'url' => 'http://sphinxsearch.com/files/sphinx-2.2.11-release-win64-full.zip',
+    ),
+  ),
+  'sqlitebrowser-x64' => array(
+    '3.10.1' => 'https://github.com/sqlitebrowser/sqlitebrowser/releases/download/v3.10.1/DB.Browser.for.SQLite-3.10.1-win64.exe',
+    'latest' => array(
+      'version' => '3.10.1',
+      'url' => 'https://github.com/sqlitebrowser/sqlitebrowser/releases/download/v3.10.1/DB.Browser.for.SQLite-3.10.1-win64.exe',
     ),
   ),
   'uprofiler' => array(
