@@ -8466,6 +8466,8 @@
     ),
   ),
   'sqlitebrowser-x64' => array(
+    'name' => 'DB Browser for SQLite x64',
+    'website' => 'https://sqlitebrowser.org/',
     '3.10.1' => 'https://github.com/sqlitebrowser/sqlitebrowser/releases/download/v3.10.1/DB.Browser.for.SQLite-3.10.1-win64.exe',
     'latest' => array(
       'version' => '3.10.1',
@@ -8473,6 +8475,8 @@
     ),
   ),
   'sqlitebrowser-x86' => array(
+    'name' => 'DB Browser for SQLite x86',
+    'website' => 'https://sqlitebrowser.org/',
     '3.10.1' => 'https://github.com/sqlitebrowser/sqlitebrowser/releases/download/v3.10.1/DB.Browser.for.SQLite-3.10.1-win32.exe',
     'latest' => array(
       'version' => '3.10.1',

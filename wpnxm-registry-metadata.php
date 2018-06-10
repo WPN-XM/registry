@@ -838,6 +838,22 @@
     ),
     'logo' => '',
   ),
+  'sqlitebrowser-x86' => array(
+    'description' => 'DB Browser for SQLite is a high quality, visual, open source tool to create, design, and edit database files compatible with SQLite.',
+    'category' => 'Database',
+    'tags' => array(
+      'database', 'browser', 'editor'
+    ),
+    'logo' => '',
+  ),
+  'sqlitebrowser-x64' => array(
+    'description' => 'DB Browser for SQLite is a high quality, visual, open source tool to create, design, and edit database files compatible with SQLite.',
+    'category' => 'Database',
+    'tags' => array(
+      'database', 'browser', 'editor'
+    ),
+    'logo' => '',
+  ),
   'uprofiler' => array(
     'description' => 'uprofiler is a lightweight profiler for PHP (based on facebook/xhprof).',
     'category' => 'Debugging & Profiling',
