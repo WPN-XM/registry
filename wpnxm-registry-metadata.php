@@ -16,11 +16,27 @@
     */
 
  return array(
+  'activemq' => array(
+    'description' => 'Apache ActiveMQ is an open source message broker written in Java together with a full Java Message Service (JMS) client.',
+    'category' => 'MessageService',
+    'tags' => array(
+      'message', 'broker'
+    ),
+    'logo' => '',
+  ),
   'adminer' => array(
     'description' => 'Adminer is a full-featured database management tool written in PHP. Conversely to phpMyAdmin, it consist of a single file ready to deploy to the target server. Adminer is available for MySQL, PostgreSQL, SQLite, MS SQL, Oracle, Firebird, SimpleDB, Elasticsearch and MongoDB.',
     'category' => 'Database Administration',
     'tags' => array(
       'database', 'administration', 'tool'
+    ),
+    'logo' => '',
+  ),
+  'ant' => array(
+    'description' => 'Apache Ant is a software tool for automating software build processes. XML is used to describe the code build process and its dependencies.',
+    'category' => 'Build',
+    'tags' => array(
+      'build', 'tool', 'automation'
     ),
     'logo' => '',
   ),
