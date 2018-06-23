@@ -259,6 +259,16 @@
         "goodonphp7": "",
         "details": "closed source"
     },
+    "nsq": {
+        "website": "https:\/\/github.com\/yunnian\/php-nsq",
+        "maintainers": "",
+        "tests": "",
+        "docs": "",
+        "worksonphp5": "",
+        "worksonphp7": "",
+        "goodonphp7": "",
+        "details": ""
+    },
     "oath": {
         "website": "https:\/\/github.com\/rbakels\/oath-php",
         "maintainers": "",
