@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Tue, 03 Jul 2018 10:00:06 +0000.
+    * Last Update Tue, 03 Jul 2018 10:00:09 +0000.
     * Do not edit manually!
     */
 
@@ -7170,24 +7170,42 @@
         '7.2' => 'http://windows.php.net/downloads/pecl/releases/trader/0.4.1/php_trader-0.4.1-7.2-nts-vc15-x64.zip',
       ),
     ),
+    '0.5.0' => array(
+      'x86' => array(
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/trader/0.5.0/php_trader-0.5.0-5.4-nts-vc9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/trader/0.5.0/php_trader-0.5.0-5.5-nts-vc11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/trader/0.5.0/php_trader-0.5.0-5.6-nts-vc11-x86.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/trader/0.5.0/php_trader-0.5.0-7.0-nts-vc14-x86.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/trader/0.5.0/php_trader-0.5.0-7.1-nts-vc14-x86.zip',
+        '7.2' => 'http://windows.php.net/downloads/pecl/releases/trader/0.5.0/php_trader-0.5.0-7.2-nts-vc15-x86.zip',
+      ),
+      'x64' => array(
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/trader/0.5.0/php_trader-0.5.0-5.4-nts-vc9-x64.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/trader/0.5.0/php_trader-0.5.0-5.5-nts-vc11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/trader/0.5.0/php_trader-0.5.0-5.6-nts-vc11-x64.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/trader/0.5.0/php_trader-0.5.0-7.0-nts-vc14-x64.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/trader/0.5.0/php_trader-0.5.0-7.1-nts-vc14-x64.zip',
+        '7.2' => 'http://windows.php.net/downloads/pecl/releases/trader/0.5.0/php_trader-0.5.0-7.2-nts-vc15-x64.zip',
+      ),
+    ),
     'latest' => array(
-      'version' => '0.4.1',
+      'version' => '0.5.0',
       'url' => array(
         'x86' => array(
-          '5.4' => 'http://windows.php.net/downloads/pecl/releases/trader/0.4.1/php_trader-0.4.1-5.4-nts-vc9-x86.zip',
-          '5.5' => 'http://windows.php.net/downloads/pecl/releases/trader/0.4.1/php_trader-0.4.1-5.5-nts-vc11-x86.zip',
-          '5.6' => 'http://windows.php.net/downloads/pecl/releases/trader/0.4.1/php_trader-0.4.1-5.6-nts-vc11-x86.zip',
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/trader/0.4.1/php_trader-0.4.1-7.0-nts-vc14-x86.zip',
-          '7.1' => 'http://windows.php.net/downloads/pecl/releases/trader/0.4.1/php_trader-0.4.1-7.1-nts-vc14-x86.zip',
-          '7.2' => 'http://windows.php.net/downloads/pecl/releases/trader/0.4.1/php_trader-0.4.1-7.2-nts-vc15-x86.zip',
+          '5.4' => 'http://windows.php.net/downloads/pecl/releases/trader/0.5.0/php_trader-0.5.0-5.4-nts-vc9-x86.zip',
+          '5.5' => 'http://windows.php.net/downloads/pecl/releases/trader/0.5.0/php_trader-0.5.0-5.5-nts-vc11-x86.zip',
+          '5.6' => 'http://windows.php.net/downloads/pecl/releases/trader/0.5.0/php_trader-0.5.0-5.6-nts-vc11-x86.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/trader/0.5.0/php_trader-0.5.0-7.0-nts-vc14-x86.zip',
+          '7.1' => 'http://windows.php.net/downloads/pecl/releases/trader/0.5.0/php_trader-0.5.0-7.1-nts-vc14-x86.zip',
+          '7.2' => 'http://windows.php.net/downloads/pecl/releases/trader/0.5.0/php_trader-0.5.0-7.2-nts-vc15-x86.zip',
         ),
         'x64' => array(
-          '5.4' => 'http://windows.php.net/downloads/pecl/releases/trader/0.4.1/php_trader-0.4.1-5.4-nts-vc9-x64.zip',
-          '5.5' => 'http://windows.php.net/downloads/pecl/releases/trader/0.4.1/php_trader-0.4.1-5.5-nts-vc11-x64.zip',
-          '5.6' => 'http://windows.php.net/downloads/pecl/releases/trader/0.4.1/php_trader-0.4.1-5.6-nts-vc11-x64.zip',
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/trader/0.4.1/php_trader-0.4.1-7.0-nts-vc14-x64.zip',
-          '7.1' => 'http://windows.php.net/downloads/pecl/releases/trader/0.4.1/php_trader-0.4.1-7.1-nts-vc14-x64.zip',
-          '7.2' => 'http://windows.php.net/downloads/pecl/releases/trader/0.4.1/php_trader-0.4.1-7.2-nts-vc15-x64.zip',
+          '5.4' => 'http://windows.php.net/downloads/pecl/releases/trader/0.5.0/php_trader-0.5.0-5.4-nts-vc9-x64.zip',
+          '5.5' => 'http://windows.php.net/downloads/pecl/releases/trader/0.5.0/php_trader-0.5.0-5.5-nts-vc11-x64.zip',
+          '5.6' => 'http://windows.php.net/downloads/pecl/releases/trader/0.5.0/php_trader-0.5.0-5.6-nts-vc11-x64.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/trader/0.5.0/php_trader-0.5.0-7.0-nts-vc14-x64.zip',
+          '7.1' => 'http://windows.php.net/downloads/pecl/releases/trader/0.5.0/php_trader-0.5.0-7.1-nts-vc14-x64.zip',
+          '7.2' => 'http://windows.php.net/downloads/pecl/releases/trader/0.5.0/php_trader-0.5.0-7.2-nts-vc15-x64.zip',
         ),
       ),
     ),
