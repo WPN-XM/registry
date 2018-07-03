@@ -664,6 +664,8 @@
     ),
   ),
   'htmltidy-x64' => array(
+    'name' => 'HTML Tidy',
+    'website' => 'http://www.html-tidy.org',
     '5.6.0' => 'https://github.com/htacg/tidy-html5/releases/download/5.6.0/tidy-5.6.0-vc14-mt-64b.zip',
     'latest' => array(
       'version' => '5.6.0',

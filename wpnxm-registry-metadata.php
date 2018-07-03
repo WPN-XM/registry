@@ -192,6 +192,14 @@
     ),
     'logo' => '',
   ),
+  'html-tidy' => array(
+    'description' => 'The granddaddy of HTML tools, with support for modern standards.',
+    'category' => 'Tool',
+    'tags' => array(
+      'html', 'validator', 'linter', 'converter'
+    ),
+    'logo' => '',
+  ),
   'imagick' => array(
     'description' => 'ImageMagick® is a software suite to create, edit, compose, or convert bitmap images. ',
     'category' => 'Tool',
