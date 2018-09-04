@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Tue, 04 Sep 2018 17:54:14 +0000.
+    * Last Update Tue, 04 Sep 2018 17:54:22 +0000.
     * Do not edit manually!
     */
 
@@ -8666,9 +8666,10 @@
     '1.40' => 'https://github.com/ncw/rclone/releases/download/v1.40/rclone-v1.40-windows-386.zip',
     '1.41' => 'https://github.com/ncw/rclone/releases/download/v1.41/rclone-v1.41-windows-386.zip',
     '1.42' => 'https://github.com/ncw/rclone/releases/download/v1.42/rclone-v1.42-windows-386.zip',
+    '1.43' => 'https://github.com/ncw/rclone/releases/download/v1.43/rclone-v1.43-windows-386.zip',
     'latest' => array(
-      'version' => '1.42',
-      'url' => 'https://github.com/ncw/rclone/releases/download/v1.42/rclone-v1.42-windows-386.zip',
+      'version' => '1.43',
+      'url' => 'https://github.com/ncw/rclone/releases/download/v1.43/rclone-v1.43-windows-386.zip',
     ),
   ),
   'redis' => array(
