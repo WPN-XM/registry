@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Sat, 22 Sep 2018 12:31:30 +0000.
+    * Last Update Sat, 22 Sep 2018 12:31:33 +0000.
     * Do not edit manually!
     */
 
@@ -563,9 +563,10 @@
     '0.20.0' => 'https://github.com/mozilla/geckodriver/releases/download/v0.20.0/geckodriver-v0.20.0-win64.zip',
     '0.20.1' => 'https://github.com/mozilla/geckodriver/releases/download/v0.20.1/geckodriver-v0.20.1-win64.zip',
     '0.21.0' => 'https://github.com/mozilla/geckodriver/releases/download/v0.21.0/geckodriver-v0.21.0-win64.zip',
+    '0.22.0' => 'https://github.com/mozilla/geckodriver/releases/download/v0.22.0/geckodriver-v0.22.0-win64.zip',
     'latest' => array(
-      'version' => '0.21.0',
-      'url' => 'https://github.com/mozilla/geckodriver/releases/download/v0.21.0/geckodriver-v0.21.0-win64.zip',
+      'version' => '0.22.0',
+      'url' => 'https://github.com/mozilla/geckodriver/releases/download/v0.22.0/geckodriver-v0.22.0-win64.zip',
     ),
   ),
   'gimp' => array(
