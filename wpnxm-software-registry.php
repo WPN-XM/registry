@@ -4,14 +4,14 @@
     * Copyright © 2010 - 2018 Jens-André Koch <jakoch@web.de>
     * https://wpn-xm.org/
     *
-    * This source file is subject to the terms of the MIT license.
-    * For full copyright and license information, view the bundled LICENSE file.
+    * Licensed under the MIT License.
+    * See the bundled LICENSE file for copyright and license information.
     */
 
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Wed, 03 Oct 2018 21:23:39 +0000.
+    * Last Update Wed, 03 Oct 2018 21:45:37 +0000.
     * Do not edit manually!
     */
 
@@ -411,9 +411,10 @@
     '7.56.0' => 'https://dl.bintray.com/vszakats/generic/curl-7.56.0-win64-mingw.7z',
     '7.56.1' => 'https://dl.bintray.com/vszakats/generic/curl-7.56.1-win64-mingw.7z',
     '7.57.0' => 'https://dl.bintray.com/vszakats/generic/curl-7.57.0-win64-mingw.7z',
+    '7.61.1' => 'https://curl.haxx.se/windows/dl-7.61.1_5/curl-7.61.1_5-win64-mingw.zip',
     'latest' => array(
-      'version' => '7.57.0',
-      'url' => 'https://dl.bintray.com/vszakats/generic/curl-7.57.0-win64-mingw.7z',
+      'version' => '7.61.1',
+      'url' => 'https://curl.haxx.se/windows/dl-7.61.1_5/curl-7.61.1_5-win64-mingw.zip',
     ),
   ),
   'curl-x86' => array(
