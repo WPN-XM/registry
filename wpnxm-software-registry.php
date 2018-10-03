@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Wed, 03 Oct 2018 21:45:37 +0000.
+    * Last Update Wed, 03 Oct 2018 21:46:46 +0000.
     * Do not edit manually!
     */
 
@@ -435,9 +435,10 @@
     '7.56.0' => 'https://dl.bintray.com/vszakats/generic/curl-7.56.0-win32-mingw.7z',
     '7.56.1' => 'https://dl.bintray.com/vszakats/generic/curl-7.56.1-win32-mingw.7z',
     '7.57.0' => 'https://dl.bintray.com/vszakats/generic/curl-7.57.0-win32-mingw.7z',
+    '7.61.1' => 'https://curl.haxx.se/windows/dl-7.61.1_5/curl-7.61.1_5-win32-mingw.zip',
     'latest' => array(
-      'version' => '7.57.0',
-      'url' => 'https://dl.bintray.com/vszakats/generic/curl-7.57.0-win32-mingw.7z',
+      'version' => '7.61.1',
+      'url' => 'https://curl.haxx.se/windows/dl-7.61.1_5/curl-7.61.1_5-win32-mingw.zip',
     ),
   ),
   'elasticsearch' => array(
