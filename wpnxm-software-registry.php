@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Thu, 18 Oct 2018 11:51:59 +0000.
+    * Last Update Thu, 18 Oct 2018 11:52:03 +0000.
     * Do not edit manually!
     */
 
@@ -1897,9 +1897,10 @@
     '7.5.6' => 'https://notepad-plus-plus.org/repository/7.x/7.5.6/npp.7.5.6.bin.x64.zip',
     '7.5.7' => 'https://notepad-plus-plus.org/repository/7.x/7.5.7/npp.7.5.7.bin.x64.zip',
     '7.5.8' => 'https://notepad-plus-plus.org/repository/7.x/7.5.8/npp.7.5.8.bin.x64.zip',
+    '7.5.9' => 'https://notepad-plus-plus.org/repository/7.x/7.5.9/npp.7.5.9.bin.x64.zip',
     'latest' => array(
-      'version' => '7.5.8',
-      'url' => 'https://notepad-plus-plus.org/repository/7.x/7.5.8/npp.7.5.8.bin.x64.zip',
+      'version' => '7.5.9',
+      'url' => 'https://notepad-plus-plus.org/repository/7.x/7.5.9/npp.7.5.9.bin.x64.zip',
     ),
   ),
   'notepadplusplus-x86' => array(
