@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Thu, 18 Oct 2018 11:52:33 +0000.
+    * Last Update Thu, 18 Oct 2018 11:52:37 +0000.
     * Do not edit manually!
     */
 
@@ -6640,6 +6640,7 @@
         '7.0' => 'http://windows.php.net/downloads/pecl/releases/redis/4.1.1/php_redis-4.1.1-7.0-nts-vc14-x86.zip',
         '7.1' => 'http://windows.php.net/downloads/pecl/releases/redis/4.1.1/php_redis-4.1.1-7.1-nts-vc14-x86.zip',
         '7.2' => 'http://windows.php.net/downloads/pecl/releases/redis/4.1.1/php_redis-4.1.1-7.2-nts-vc15-x86.zip',
+        '7.3' => 'http://windows.php.net/downloads/pecl/releases/redis/4.1.1/php_redis-4.1.1-7.3-nts-vc15-x86.zip',
       ),
       'x64' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/redis/4.1.1/php_redis-4.1.1-5.4-nts-vc9-x64.zip',
@@ -6648,26 +6649,49 @@
         '7.0' => 'http://windows.php.net/downloads/pecl/releases/redis/4.1.1/php_redis-4.1.1-7.0-nts-vc14-x64.zip',
         '7.1' => 'http://windows.php.net/downloads/pecl/releases/redis/4.1.1/php_redis-4.1.1-7.1-nts-vc14-x64.zip',
         '7.2' => 'http://windows.php.net/downloads/pecl/releases/redis/4.1.1/php_redis-4.1.1-7.2-nts-vc15-x64.zip',
+        '7.3' => 'http://windows.php.net/downloads/pecl/releases/redis/4.1.1/php_redis-4.1.1-7.3-nts-vc15-x64.zip',
+      ),
+    ),
+    '4.2.0' => array(
+      'x86' => array(
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/redis/4.2.0/php_redis-4.2.0-5.4-nts-vc9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/redis/4.2.0/php_redis-4.2.0-5.5-nts-vc11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/redis/4.2.0/php_redis-4.2.0-5.6-nts-vc11-x86.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/redis/4.2.0/php_redis-4.2.0-7.0-nts-vc14-x86.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/redis/4.2.0/php_redis-4.2.0-7.1-nts-vc14-x86.zip',
+        '7.2' => 'http://windows.php.net/downloads/pecl/releases/redis/4.2.0/php_redis-4.2.0-7.2-nts-vc15-x86.zip',
+        '7.3' => 'http://windows.php.net/downloads/pecl/releases/redis/4.2.0/php_redis-4.2.0-7.3-nts-vc15-x86.zip',
+      ),
+      'x64' => array(
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/redis/4.2.0/php_redis-4.2.0-5.4-nts-vc9-x64.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/redis/4.2.0/php_redis-4.2.0-5.5-nts-vc11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/redis/4.2.0/php_redis-4.2.0-5.6-nts-vc11-x64.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/redis/4.2.0/php_redis-4.2.0-7.0-nts-vc14-x64.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/redis/4.2.0/php_redis-4.2.0-7.1-nts-vc14-x64.zip',
+        '7.2' => 'http://windows.php.net/downloads/pecl/releases/redis/4.2.0/php_redis-4.2.0-7.2-nts-vc15-x64.zip',
+        '7.3' => 'http://windows.php.net/downloads/pecl/releases/redis/4.2.0/php_redis-4.2.0-7.3-nts-vc15-x64.zip',
       ),
     ),
     'latest' => array(
-      'version' => '4.1.1',
+      'version' => '4.2.0',
       'url' => array(
         'x86' => array(
-          '5.4' => 'http://windows.php.net/downloads/pecl/releases/redis/4.1.1/php_redis-4.1.1-5.4-nts-vc9-x86.zip',
-          '5.5' => 'http://windows.php.net/downloads/pecl/releases/redis/4.1.1/php_redis-4.1.1-5.5-nts-vc11-x86.zip',
-          '5.6' => 'http://windows.php.net/downloads/pecl/releases/redis/4.1.1/php_redis-4.1.1-5.6-nts-vc11-x86.zip',
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/redis/4.1.1/php_redis-4.1.1-7.0-nts-vc14-x86.zip',
-          '7.1' => 'http://windows.php.net/downloads/pecl/releases/redis/4.1.1/php_redis-4.1.1-7.1-nts-vc14-x86.zip',
-          '7.2' => 'http://windows.php.net/downloads/pecl/releases/redis/4.1.1/php_redis-4.1.1-7.2-nts-vc15-x86.zip',
+          '5.4' => 'http://windows.php.net/downloads/pecl/releases/redis/4.2.0/php_redis-4.2.0-5.4-nts-vc9-x86.zip',
+          '5.5' => 'http://windows.php.net/downloads/pecl/releases/redis/4.2.0/php_redis-4.2.0-5.5-nts-vc11-x86.zip',
+          '5.6' => 'http://windows.php.net/downloads/pecl/releases/redis/4.2.0/php_redis-4.2.0-5.6-nts-vc11-x86.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/redis/4.2.0/php_redis-4.2.0-7.0-nts-vc14-x86.zip',
+          '7.1' => 'http://windows.php.net/downloads/pecl/releases/redis/4.2.0/php_redis-4.2.0-7.1-nts-vc14-x86.zip',
+          '7.2' => 'http://windows.php.net/downloads/pecl/releases/redis/4.2.0/php_redis-4.2.0-7.2-nts-vc15-x86.zip',
+          '7.3' => 'http://windows.php.net/downloads/pecl/releases/redis/4.2.0/php_redis-4.2.0-7.3-nts-vc15-x86.zip',
         ),
         'x64' => array(
-          '5.4' => 'http://windows.php.net/downloads/pecl/releases/redis/4.1.1/php_redis-4.1.1-5.4-nts-vc9-x64.zip',
-          '5.5' => 'http://windows.php.net/downloads/pecl/releases/redis/4.1.1/php_redis-4.1.1-5.5-nts-vc11-x64.zip',
-          '5.6' => 'http://windows.php.net/downloads/pecl/releases/redis/4.1.1/php_redis-4.1.1-5.6-nts-vc11-x64.zip',
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/redis/4.1.1/php_redis-4.1.1-7.0-nts-vc14-x64.zip',
-          '7.1' => 'http://windows.php.net/downloads/pecl/releases/redis/4.1.1/php_redis-4.1.1-7.1-nts-vc14-x64.zip',
-          '7.2' => 'http://windows.php.net/downloads/pecl/releases/redis/4.1.1/php_redis-4.1.1-7.2-nts-vc15-x64.zip',
+          '5.4' => 'http://windows.php.net/downloads/pecl/releases/redis/4.2.0/php_redis-4.2.0-5.4-nts-vc9-x64.zip',
+          '5.5' => 'http://windows.php.net/downloads/pecl/releases/redis/4.2.0/php_redis-4.2.0-5.5-nts-vc11-x64.zip',
+          '5.6' => 'http://windows.php.net/downloads/pecl/releases/redis/4.2.0/php_redis-4.2.0-5.6-nts-vc11-x64.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/redis/4.2.0/php_redis-4.2.0-7.0-nts-vc14-x64.zip',
+          '7.1' => 'http://windows.php.net/downloads/pecl/releases/redis/4.2.0/php_redis-4.2.0-7.1-nts-vc14-x64.zip',
+          '7.2' => 'http://windows.php.net/downloads/pecl/releases/redis/4.2.0/php_redis-4.2.0-7.2-nts-vc15-x64.zip',
+          '7.3' => 'http://windows.php.net/downloads/pecl/releases/redis/4.2.0/php_redis-4.2.0-7.3-nts-vc15-x64.zip',
         ),
       ),
     ),
