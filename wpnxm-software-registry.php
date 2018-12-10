@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Mon, 10 Dec 2018 13:04:31 +0000.
+    * Last Update Mon, 10 Dec 2018 13:04:37 +0000.
     * Do not edit manually!
     */
 
@@ -607,9 +607,10 @@
     '2.10.2' => 'https://download.gimp.org/pub/gimp/stable/windows/gimp-2.10.2-setup.exe',
     '2.10.4' => 'https://download.gimp.org/pub/gimp/stable/windows/gimp-2.10.4-setup.exe',
     '2.10.6' => 'https://download.gimp.org/pub/gimp/stable/windows/gimp-2.10.6-setup.exe',
+    '2.10.8' => 'https://download.gimp.org/pub/gimp/stable/windows/gimp-2.10.8-setup.exe',
     'latest' => array(
-      'version' => '2.10.6',
-      'url' => 'https://download.gimp.org/pub/gimp/stable/windows/gimp-2.10.6-setup.exe',
+      'version' => '2.10.8',
+      'url' => 'https://download.gimp.org/pub/gimp/stable/windows/gimp-2.10.8-setup.exe',
     ),
   ),
   'gogs-x64' => array(
