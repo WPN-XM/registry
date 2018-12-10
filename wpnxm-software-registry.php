@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Mon, 10 Dec 2018 13:06:34 +0000.
+    * Last Update Mon, 10 Dec 2018 13:06:36 +0000.
     * Do not edit manually!
     */
 
@@ -4164,20 +4164,28 @@
     ),
     '1.3.0' => array(
       'x86' => array(
-        '7.2' => 'https://www.iceframework.org/dll/ice-1.3.0-php-7.2-nts-vc15-x86.zip',
+        '7.2' => 'http://www.iceframework.org/dll/ice-1.3.0-php-7.2-nts-vc15-x86.zip',
       ),
       'x64' => array(
-        '7.2' => 'https://www.iceframework.org/dll/ice-1.3.0-php-7.2-nts-vc15-x64.zip',
+        '7.2' => 'http://www.iceframework.org/dll/ice-1.3.0-php-7.2-nts-vc15-x64.zip',
+      ),
+    ),
+    '1.4.0' => array(
+      'x86' => array(
+        '7.2' => 'http://www.iceframework.org/dll/ice-1.4.0-php-7.2-nts-vc15-x86.zip',
+      ),
+      'x64' => array(
+        '7.2' => 'http://www.iceframework.org/dll/ice-1.4.0-php-7.2-nts-vc15-x64.zip',
       ),
     ),
     'latest' => array(
-      'version' => '1.3.0',
+      'version' => '1.4.0',
       'url' => array(
         'x86' => array(
-          '7.2' => 'https://www.iceframework.org/dll/ice-1.3.0-php-7.2-nts-vc15-x86.zip',
+          '7.2' => 'http://www.iceframework.org/dll/ice-1.4.0-php-7.2-nts-vc15-x86.zip',
         ),
         'x64' => array(
-          '7.2' => 'https://www.iceframework.org/dll/ice-1.3.0-php-7.2-nts-vc15-x64.zip',
+          '7.2' => 'http://www.iceframework.org/dll/ice-1.4.0-php-7.2-nts-vc15-x64.zip',
         ),
       ),
     ),
