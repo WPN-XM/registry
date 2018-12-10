@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Mon, 10 Dec 2018 13:05:58 +0000.
+    * Last Update Mon, 10 Dec 2018 13:06:01 +0000.
     * Do not edit manually!
     */
 
@@ -1772,9 +1772,17 @@
     '10.10.0' => 'http://nodejs.org/dist/v10.10.0/win-x64/node.exe',
     '10.11.0' => 'http://nodejs.org/dist/v10.11.0/win-x64/node.exe',
     '10.12.0' => 'http://nodejs.org/dist/v10.12.0/win-x64/node.exe',
+    '10.13.0' => 'http://nodejs.org/dist/v10.13.0/win-x64/node.exe',
+    '10.14.0' => 'http://nodejs.org/dist/v10.14.0/win-x64/node.exe',
+    '10.14.1' => 'http://nodejs.org/dist/v10.14.1/win-x64/node.exe',
+    '11.0.0' => 'http://nodejs.org/dist/v11.0.0/win-x64/node.exe',
+    '11.1.0' => 'http://nodejs.org/dist/v11.1.0/win-x64/node.exe',
+    '11.2.0' => 'http://nodejs.org/dist/v11.2.0/win-x64/node.exe',
+    '11.3.0' => 'http://nodejs.org/dist/v11.3.0/win-x64/node.exe',
+    '11.4.0' => 'http://nodejs.org/dist/v11.4.0/win-x64/node.exe',
     'latest' => array(
-      'version' => '10.12.0',
-      'url' => 'http://nodejs.org/dist/v10.12.0/win-x64/node.exe',
+      'version' => '11.4.0',
+      'url' => 'http://nodejs.org/dist/v11.4.0/win-x64/node.exe',
     ),
   ),
   'nodenpm' => array(
