@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Mon, 10 Dec 2018 13:04:59 +0000.
+    * Last Update Mon, 10 Dec 2018 13:05:02 +0000.
     * Do not edit manually!
     */
 
@@ -2451,10 +2451,11 @@
     '7.3.0beta3' => 'http://windows.php.net/downloads/qa/archives/php-7.3.0beta3-nts-Win32-VC15-x86.zip',
     '7.3.0RC1' => 'http://windows.php.net/downloads/qa/archives/php-7.3.0RC1-nts-Win32-VC15-x86.zip',
     '7.3.0RC2' => 'http://windows.php.net/downloads/qa/archives/php-7.3.0RC2-nts-Win32-VC15-x86.zip',
-    '7.3.0RC3' => 'http://windows.php.net/downloads/qa/php-7.3.0RC3-nts-Win32-VC15-x86.zip',
+    '7.3.0RC3' => 'http://windows.php.net/downloads/qa/archives/php-7.3.0RC3-nts-Win32-VC15-x86.zip',
+    '7.3.0RC6' => 'http://windows.php.net/downloads/qa/php-7.3.0RC6-nts-Win32-VC15-x86.zip',
     'latest' => array(
-      'version' => '7.3.0RC3',
-      'url' => 'http://windows.php.net/downloads/qa/php-7.3.0RC3-nts-Win32-VC15-x86.zip',
+      'version' => '7.3.0RC6',
+      'url' => 'http://windows.php.net/downloads/qa/php-7.3.0RC6-nts-Win32-VC15-x86.zip',
     ),
   ),
   'php-qa-x64' => array(
