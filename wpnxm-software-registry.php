@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Mon, 10 Dec 2018 13:06:47 +0000.
+    * Last Update Mon, 10 Dec 2018 13:06:50 +0000.
     * Do not edit manually!
     */
 
@@ -7362,6 +7362,7 @@
         '7.0' => 'http://windows.php.net/downloads/pecl/releases/sqlsrv/5.4.0/php_sqlsrv-5.4.0-7.0-nts-vc14-x86.zip',
         '7.1' => 'http://windows.php.net/downloads/pecl/releases/sqlsrv/5.4.0/php_sqlsrv-5.4.0-7.1-nts-vc14-x86.zip',
         '7.2' => 'http://windows.php.net/downloads/pecl/releases/sqlsrv/5.4.0/php_sqlsrv-5.4.0-7.2-nts-vc15-x86.zip',
+        '7.3' => 'http://windows.php.net/downloads/pecl/releases/sqlsrv/5.4.0/php_sqlsrv-5.4.0-7.3-nts-vc15-x86.zip',
       ),
       'x64' => array(
         '5.4' => 'http://windows.php.net/downloads/pecl/releases/sqlsrv/5.4.0/php_sqlsrv-5.4.0-5.4-nts-vc9-x64.zip',
@@ -7370,26 +7371,49 @@
         '7.0' => 'http://windows.php.net/downloads/pecl/releases/sqlsrv/5.4.0/php_sqlsrv-5.4.0-7.0-nts-vc14-x64.zip',
         '7.1' => 'http://windows.php.net/downloads/pecl/releases/sqlsrv/5.4.0/php_sqlsrv-5.4.0-7.1-nts-vc14-x64.zip',
         '7.2' => 'http://windows.php.net/downloads/pecl/releases/sqlsrv/5.4.0/php_sqlsrv-5.4.0-7.2-nts-vc15-x64.zip',
+        '7.3' => 'http://windows.php.net/downloads/pecl/releases/sqlsrv/5.4.0/php_sqlsrv-5.4.0-7.3-nts-vc15-x64.zip',
+      ),
+    ),
+    '5.5.0' => array(
+      'x86' => array(
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/sqlsrv/5.5.0/php_sqlsrv-5.5.0-5.4-nts-vc9-x86.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/sqlsrv/5.5.0/php_sqlsrv-5.5.0-5.5-nts-vc11-x86.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/sqlsrv/5.5.0/php_sqlsrv-5.5.0-5.6-nts-vc11-x86.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/sqlsrv/5.5.0/php_sqlsrv-5.5.0-7.0-nts-vc14-x86.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/sqlsrv/5.5.0/php_sqlsrv-5.5.0-7.1-nts-vc14-x86.zip',
+        '7.2' => 'http://windows.php.net/downloads/pecl/releases/sqlsrv/5.5.0/php_sqlsrv-5.5.0-7.2-nts-vc15-x86.zip',
+        '7.3' => 'http://windows.php.net/downloads/pecl/releases/sqlsrv/5.5.0/php_sqlsrv-5.5.0-7.3-nts-vc15-x86.zip',
+      ),
+      'x64' => array(
+        '5.4' => 'http://windows.php.net/downloads/pecl/releases/sqlsrv/5.5.0/php_sqlsrv-5.5.0-5.4-nts-vc9-x64.zip',
+        '5.5' => 'http://windows.php.net/downloads/pecl/releases/sqlsrv/5.5.0/php_sqlsrv-5.5.0-5.5-nts-vc11-x64.zip',
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/sqlsrv/5.5.0/php_sqlsrv-5.5.0-5.6-nts-vc11-x64.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/sqlsrv/5.5.0/php_sqlsrv-5.5.0-7.0-nts-vc14-x64.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/sqlsrv/5.5.0/php_sqlsrv-5.5.0-7.1-nts-vc14-x64.zip',
+        '7.2' => 'http://windows.php.net/downloads/pecl/releases/sqlsrv/5.5.0/php_sqlsrv-5.5.0-7.2-nts-vc15-x64.zip',
+        '7.3' => 'http://windows.php.net/downloads/pecl/releases/sqlsrv/5.5.0/php_sqlsrv-5.5.0-7.3-nts-vc15-x64.zip',
       ),
     ),
     'latest' => array(
-      'version' => '5.4.0',
+      'version' => '5.5.0',
       'url' => array(
         'x86' => array(
-          '5.4' => 'http://windows.php.net/downloads/pecl/releases/sqlsrv/5.4.0/php_sqlsrv-5.4.0-5.4-nts-vc9-x86.zip',
-          '5.5' => 'http://windows.php.net/downloads/pecl/releases/sqlsrv/5.4.0/php_sqlsrv-5.4.0-5.5-nts-vc11-x86.zip',
-          '5.6' => 'http://windows.php.net/downloads/pecl/releases/sqlsrv/5.4.0/php_sqlsrv-5.4.0-5.6-nts-vc11-x86.zip',
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/sqlsrv/5.4.0/php_sqlsrv-5.4.0-7.0-nts-vc14-x86.zip',
-          '7.1' => 'http://windows.php.net/downloads/pecl/releases/sqlsrv/5.4.0/php_sqlsrv-5.4.0-7.1-nts-vc14-x86.zip',
-          '7.2' => 'http://windows.php.net/downloads/pecl/releases/sqlsrv/5.4.0/php_sqlsrv-5.4.0-7.2-nts-vc15-x86.zip',
+          '5.4' => 'http://windows.php.net/downloads/pecl/releases/sqlsrv/5.5.0/php_sqlsrv-5.5.0-5.4-nts-vc9-x86.zip',
+          '5.5' => 'http://windows.php.net/downloads/pecl/releases/sqlsrv/5.5.0/php_sqlsrv-5.5.0-5.5-nts-vc11-x86.zip',
+          '5.6' => 'http://windows.php.net/downloads/pecl/releases/sqlsrv/5.5.0/php_sqlsrv-5.5.0-5.6-nts-vc11-x86.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/sqlsrv/5.5.0/php_sqlsrv-5.5.0-7.0-nts-vc14-x86.zip',
+          '7.1' => 'http://windows.php.net/downloads/pecl/releases/sqlsrv/5.5.0/php_sqlsrv-5.5.0-7.1-nts-vc14-x86.zip',
+          '7.2' => 'http://windows.php.net/downloads/pecl/releases/sqlsrv/5.5.0/php_sqlsrv-5.5.0-7.2-nts-vc15-x86.zip',
+          '7.3' => 'http://windows.php.net/downloads/pecl/releases/sqlsrv/5.5.0/php_sqlsrv-5.5.0-7.3-nts-vc15-x86.zip',
         ),
         'x64' => array(
-          '5.4' => 'http://windows.php.net/downloads/pecl/releases/sqlsrv/5.4.0/php_sqlsrv-5.4.0-5.4-nts-vc9-x64.zip',
-          '5.5' => 'http://windows.php.net/downloads/pecl/releases/sqlsrv/5.4.0/php_sqlsrv-5.4.0-5.5-nts-vc11-x64.zip',
-          '5.6' => 'http://windows.php.net/downloads/pecl/releases/sqlsrv/5.4.0/php_sqlsrv-5.4.0-5.6-nts-vc11-x64.zip',
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/sqlsrv/5.4.0/php_sqlsrv-5.4.0-7.0-nts-vc14-x64.zip',
-          '7.1' => 'http://windows.php.net/downloads/pecl/releases/sqlsrv/5.4.0/php_sqlsrv-5.4.0-7.1-nts-vc14-x64.zip',
-          '7.2' => 'http://windows.php.net/downloads/pecl/releases/sqlsrv/5.4.0/php_sqlsrv-5.4.0-7.2-nts-vc15-x64.zip',
+          '5.4' => 'http://windows.php.net/downloads/pecl/releases/sqlsrv/5.5.0/php_sqlsrv-5.5.0-5.4-nts-vc9-x64.zip',
+          '5.5' => 'http://windows.php.net/downloads/pecl/releases/sqlsrv/5.5.0/php_sqlsrv-5.5.0-5.5-nts-vc11-x64.zip',
+          '5.6' => 'http://windows.php.net/downloads/pecl/releases/sqlsrv/5.5.0/php_sqlsrv-5.5.0-5.6-nts-vc11-x64.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/sqlsrv/5.5.0/php_sqlsrv-5.5.0-7.0-nts-vc14-x64.zip',
+          '7.1' => 'http://windows.php.net/downloads/pecl/releases/sqlsrv/5.5.0/php_sqlsrv-5.5.0-7.1-nts-vc14-x64.zip',
+          '7.2' => 'http://windows.php.net/downloads/pecl/releases/sqlsrv/5.5.0/php_sqlsrv-5.5.0-7.2-nts-vc15-x64.zip',
+          '7.3' => 'http://windows.php.net/downloads/pecl/releases/sqlsrv/5.5.0/php_sqlsrv-5.5.0-7.3-nts-vc15-x64.zip',
         ),
       ),
     ),
