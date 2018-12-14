@@ -9614,6 +9614,8 @@
     ),
   ),
   'virtualbox-x64' => array(
+    'name' => 'VirtualBox x64',
+    'website' => 'https://virtualbox.org/',
     '5.2.22' => 'https://download.virtualbox.org/virtualbox/5.2.22/VirtualBox-5.2.22-126460-Win.exe',
     'latest' => array(
       'version' => '5.2.22',
