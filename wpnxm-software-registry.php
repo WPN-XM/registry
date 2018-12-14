@@ -9623,6 +9623,8 @@
     ),
   ),
   'vscode-x64' => array(
+    'name' => 'Visual Studio Code x64',
+    'website' => 'https://github.com/Microsoft/vscode',
     '1.30.0' => 'https://az764295.vo.msecnd.net/stable/c6e592b2b5770e40a98cb9c2715a8ef89aec3d74/VSCodeSetup-x64-1.30.0.exe',
     'latest' => array(
       'url' => 'https://az764295.vo.msecnd.net/stable/c6e592b2b5770e40a98cb9c2715a8ef89aec3d74/VSCodeSetup-x64-1.30.0.exe',
