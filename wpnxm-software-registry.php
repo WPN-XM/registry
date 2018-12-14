@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Fri, 14 Dec 2018 21:16:08 +0000.
+    * Last Update Fri, 14 Dec 2018 21:17:48 +0000.
     * Do not edit manually!
     */
 
@@ -9611,6 +9611,13 @@
     'latest' => array(
       'version' => '12.1.0',
       'url' => 'https://github.com/tsenart/vegeta/releases/download/cli/v12.1.0/vegeta-12.1.0-windows-amd64.zip',
+    ),
+  ),
+  'virtualbox-x64' => array(
+    '5.2.22' => 'https://download.virtualbox.org/virtualbox/5.2.22/VirtualBox-5.2.22-126460-Win.exe',
+    'latest' => array(
+      'version' => '5.2.22',
+      'url' => 'https://download.virtualbox.org/virtualbox/5.2.22/VirtualBox-5.2.22-126460-Win.exe',
     ),
   ),
   'virtuoso-x64' => array(
