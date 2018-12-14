@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Fri, 14 Dec 2018 21:12:33 +0000.
+    * Last Update Fri, 14 Dec 2018 21:14:19 +0000.
     * Do not edit manually!
     */
 
@@ -686,6 +686,13 @@
     'latest' => array(
       'version' => '2.38',
       'url' => 'https://graphviz.gitlab.io/_pages/Download/windows/graphviz-2.38.zip',
+    ),
+  ),
+  'greenshot' => array(
+    '1.2.10.6' => 'https://github.com/greenshot/greenshot/releases/download/Greenshot-RELEASE-1.2.10.6/Greenshot-NO-INSTALLER-1.2.10.6-RELEASE.zip',
+    'latest' => array(
+      'version' => '1.2.10.6',
+      'url' => 'https://github.com/greenshot/greenshot/releases/download/Greenshot-RELEASE-1.2.10.6/Greenshot-NO-INSTALLER-1.2.10.6-RELEASE.zip',
     ),
   ),
   'h2database' => array(
