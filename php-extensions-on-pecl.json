@@ -25,6 +25,7 @@
     "crypto",
     "dbase",
     "dbx",
+    "decimal",
     "dio",
     "dom_varimport",
     "doublemetaphone",
