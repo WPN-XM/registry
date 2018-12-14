@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Fri, 14 Dec 2018 21:36:46 +0000.
+    * Last Update Fri, 14 Dec 2018 21:42:12 +0000.
     * Do not edit manually!
     */
 
@@ -267,9 +267,10 @@
     '2.42' => 'http://chromedriver.storage.googleapis.com/2.42/chromedriver_win32.zip',
     '2.43' => 'http://chromedriver.storage.googleapis.com/2.43/chromedriver_win32.zip',
     '2.44' => 'http://chromedriver.storage.googleapis.com/2.44/chromedriver_win32.zip',
+    '2.45' => 'http://chromedriver.storage.googleapis.com/2.45/chromedriver_win32.zip',
     'latest' => array(
-      'version' => '2.44',
-      'url' => 'http://chromedriver.storage.googleapis.com/2.44/chromedriver_win32.zip',
+      'version' => '2.45',
+      'url' => 'http://chromedriver.storage.googleapis.com/2.45/chromedriver_win32.zip',
     ),
   ),
   'closure-compiler' => array(
