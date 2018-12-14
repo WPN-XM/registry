@@ -9596,6 +9596,8 @@
     ),
   ),
   'vegeta-x64' => array(
+    'name' => 'Vegeta',
+    'website' => 'https://github.com/tsenart/vegeta',
     '12.1.0' => 'https://github.com/tsenart/vegeta/releases/download/cli/v12.1.0/vegeta-12.1.0-windows-amd64.zip',
     'latest' => array(
       'version' => '12.1.0',
