@@ -138,7 +138,7 @@
     ),
   ),
   'aria2-x64' => array(
-    'name' => 'aria2 x64',
+    'name' => 'Aria2 x64',
     'website' => 'https://github.com/tatsuhiro-t/aria2',
     '1.19.3' => 'https://github.com/tatsuhiro-t/aria2/releases/download/release-1.19.3/aria2-1.19.3-win-64bit-build1.zip',
     '1.20.0' => 'https://github.com/tatsuhiro-t/aria2/releases/download/release-1.20.0/aria2-1.20.0-win-64bit-build1.zip',
@@ -149,7 +149,7 @@
     ),
   ),
   'aria2-x86' => array(
-    'name' => 'aria2 x86',
+    'name' => 'Aria2 x86',
     'website' => 'https://github.com/tatsuhiro-t/aria2',
     '1.19.3' => 'https://github.com/tatsuhiro-t/aria2/releases/download/release-1.19.3/aria2-1.19.3-win-32bit-build1.zip',
     '1.20.0' => 'https://github.com/tatsuhiro-t/aria2/releases/download/release-1.20.0/aria2-1.20.0-win-32bit-build1.zip',
@@ -9176,7 +9176,7 @@
     ),
   ),
   'pickle' => array(
-    'name' => 'pickle',
+    'name' => 'Pickle',
     'website' => 'https://github.com/FriendsOfPHP/pickle',
     '0.1.1' => 'http://www.pierrejoye.com/pickle/pickle.phar',
     '0.4.0' => 'https://github.com/FriendsOfPHP/pickle/releases/download/v0.4.0/pickle.phar',
