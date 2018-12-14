@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Fri, 14 Dec 2018 21:14:19 +0000.
+    * Last Update Fri, 14 Dec 2018 21:16:08 +0000.
     * Do not edit manually!
     */
 
@@ -9620,6 +9620,13 @@
     'latest' => array(
       'version' => '7.2.1',
       'url' => 'https://github.com/openlink/virtuoso-opensource/releases/download/v7.2.1/virtuoso-opensource-win-x64-20150625.zip',
+    ),
+  ),
+  'vscode-x64' => array(
+    '1.30.0' => 'https://az764295.vo.msecnd.net/stable/c6e592b2b5770e40a98cb9c2715a8ef89aec3d74/VSCodeSetup-x64-1.30.0.exe',
+    'latest' => array(
+      'url' => 'https://az764295.vo.msecnd.net/stable/c6e592b2b5770e40a98cb9c2715a8ef89aec3d74/VSCodeSetup-x64-1.30.0.exe',
+      'version' => '1.30.0',
     ),
   ),
   'webgrind' => array(
