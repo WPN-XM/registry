@@ -689,6 +689,8 @@
     ),
   ),
   'greenshot' => array(
+    'name' => 'Greenshot',
+    'website' => 'http://getgreenshot.org/',
     '1.2.10.6' => 'https://github.com/greenshot/greenshot/releases/download/Greenshot-RELEASE-1.2.10.6/Greenshot-NO-INSTALLER-1.2.10.6-RELEASE.zip',
     'latest' => array(
       'version' => '1.2.10.6',
