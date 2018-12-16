@@ -84,7 +84,6 @@
   'ant' => array(
     'name' => 'Apache Ant',
     'website' => 'http://ant.apache.org/',
-    '1.9.9' => 'http://ftp.halifax.rwth-aachen.de/apache/ant/binaries/apache-ant-1.9.9-bin.zip',
     '1.10.1' => 'http://archive.apache.org/dist/ant/binaries/apache-ant-1.10.1-bin.zip',
     '1.10.2' => 'http://archive.apache.org/dist/ant/binaries/apache-ant-1.10.2-bin.zip',
     '1.10.3' => 'http://archive.apache.org/dist/ant/binaries/apache-ant-1.10.3-bin.zip',
