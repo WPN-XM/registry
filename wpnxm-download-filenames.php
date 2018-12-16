@@ -46,6 +46,7 @@ return array(
     'notepadplusplus-x86'   => 'notepadplusplus.zip',
     'openssl'               => 'openssl.zip',
     'openssl-x64'           => 'openssl.zip',
+    'osquery'               => 'osquery.msi',
     'pear'                  => 'go-pear.phar', // ! phar file
     'phantomjs'             => 'phantomjs.zip',
     'php'                   => 'php.zip',
