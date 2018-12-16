@@ -2142,8 +2142,7 @@
     'name' => 'osquery',
     'website' => 'https://osquery.io/',
     '2.11.2' => 'https://pkg.osquery.io/windows/osquery-2.11.2.msi',
-    '3.2.4' => 'https://pkg.osquery.io/windows/osquery-3.2.4.msi',
-    '3.2.9' => 'https://pkg.osquery.io/windows/osquery-3.2.9.msi',
+    '3.2.4' => 'https://pkg.osquery.io/windows/osquery-3.2.4.msi',   
     '3.3.0' => 'https://pkg.osquery.io/windows/osquery-3.3.0.msi',
     '3.3.1' => 'https://pkg.osquery.io/windows/osquery-3.3.1.msi',
     'latest' => array(
