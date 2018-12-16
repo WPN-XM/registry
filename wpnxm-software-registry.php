@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Sun, 16 Dec 2018 11:33:06 +0000.
+    * Last Update Sun, 16 Dec 2018 11:48:44 +0000.
     * Do not edit manually!
     */
 
@@ -552,7 +552,7 @@
   ),
   'firebird-x64' => array(
     'name' => 'Firebird SQL',
-    'website' => 'http://www.firebirdsql.org/',    
+    'website' => 'http://www.firebirdsql.org/',
     '3.0.4.33054' => 'https://github.com/FirebirdSQL/firebird/releases/download/R3_0_4/Firebird-3.0.4.33054_0_x64.exe',
     'latest' => array(
       'version' => '3.0.4.33054',
@@ -1121,10 +1121,42 @@
     '3.5.2' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2008plus-3.5.2.zip',
     '3.5.3' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2008plus-3.5.3.zip',
     '3.5.4' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2008plus-3.5.4.zip',
-    '3.5.5' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2008plus-3.5.5.zip',
+    '3.5.5' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2008plus-ssl-3.5.5.zip',
+    '3.5.6' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2008plus-ssl-3.5.6.zip',
+    '3.5.7' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2008plus-ssl-3.5.7.zip',
+    '3.5.8' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2008plus-ssl-3.5.8.zip',
+    '3.5.9' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2008plus-ssl-3.5.9.zip',
+    '3.5.10' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2008plus-ssl-3.5.10.zip',
+    '3.5.11' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2008plus-ssl-3.5.11.zip',
+    '3.5.12' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2008plus-ssl-3.5.12.zip',
+    '3.5.13' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2008plus-ssl-3.5.13.zip',
+    '3.6.0' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2008plus-ssl-3.6.0.zip',
+    '3.6.1' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2008plus-ssl-3.6.1.zip',
+    '3.6.2' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2008plus-ssl-3.6.2.zip',
+    '3.6.3' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2008plus-ssl-3.6.3.zip',
+    '3.6.4' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2008plus-ssl-3.6.4.zip',
+    '3.6.5' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2008plus-ssl-3.6.5.zip',
+    '3.6.6' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2008plus-ssl-3.6.6.zip',
+    '3.6.7' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2008plus-ssl-3.6.7.zip',
+    '3.6.8' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2008plus-ssl-3.6.8.zip',
+    '3.6.9' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2008plus-ssl-3.6.9.zip',
+    '3.7.1' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2008plus-ssl-3.7.1.zip',
+    '3.7.2' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2008plus-ssl-3.7.2.zip',
+    '3.7.3' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2008plus-ssl-3.7.3.zip',
+    '3.7.4' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2008plus-ssl-3.7.4.zip',
+    '3.7.5' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2008plus-ssl-3.7.5.zip',
+    '3.7.6' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2008plus-ssl-3.7.6.zip',
+    '3.7.7' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2008plus-ssl-3.7.7.zip',
+    '3.7.8' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2008plus-ssl-3.7.8.zip',
+    '3.7.9' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2008plus-ssl-3.7.9.zip',
+    '4.0.0' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2008plus-ssl-4.0.0.zip',
+    '4.0.1' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2008plus-ssl-4.0.1.zip',
+    '4.0.2' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2008plus-ssl-4.0.2.zip',
+    '4.0.3' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2008plus-ssl-4.0.3.zip',
+    '4.0.4' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2008plus-ssl-4.0.4.zip',
     'latest' => array(
-      'version' => '3.5.5',
-      'url' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2008plus-3.5.5.zip',
+      'version' => '4.0.4',
+      'url' => 'http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2008plus-ssl-4.0.4.zip',
     ),
   ),
   'msysgit' => array(
