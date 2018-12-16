@@ -552,8 +552,7 @@
   ),
   'firebird-x64' => array(
     'name' => 'Firebird SQL',
-    'website' => 'http://www.firebirdsql.org/',
-    '3.0-RC1' => 'http://sourceforge.net/projects/firebird/files/firebird-win32/3.0-RC1/Firebird-3.0.0.32136_0_Win32_RC1.exe/download',
+    'website' => 'http://www.firebirdsql.org/',    
     '3.0.4.33054' => 'https://github.com/FirebirdSQL/firebird/releases/download/R3_0_4/Firebird-3.0.4.33054_0_x64.exe',
     'latest' => array(
       'version' => '3.0.4.33054',
