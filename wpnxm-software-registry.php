@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Sun, 16 Dec 2018 11:48:44 +0000.
+    * Last Update Sun, 16 Dec 2018 12:30:27 +0000.
     * Do not edit manually!
     */
 
@@ -2142,7 +2142,7 @@
     'name' => 'osquery',
     'website' => 'https://osquery.io/',
     '2.11.2' => 'https://pkg.osquery.io/windows/osquery-2.11.2.msi',
-    '3.2.4' => 'https://pkg.osquery.io/windows/osquery-3.2.4.msi',   
+    '3.2.4' => 'https://pkg.osquery.io/windows/osquery-3.2.4.msi',
     '3.3.0' => 'https://pkg.osquery.io/windows/osquery-3.3.0.msi',
     '3.3.1' => 'https://pkg.osquery.io/windows/osquery-3.3.1.msi',
     'latest' => array(
@@ -9368,9 +9368,10 @@
     '2.8.2400' => 'https://github.com/MSOpenTech/redis/releases/download/win-2.8.2400/redis-x64-2.8.2400.zip',
     '3.0.503' => 'https://github.com/MSOpenTech/redis/releases/download/win-3.0.503/redis-x64-3.0.503.zip',
     '3.2.100' => 'https://github.com/MSOpenTech/redis/releases/download/win-3.2.100/redis-x64-3.2.100.zip',
+    '4.0.2.3' => 'https://github.com/tporadowski/redis/releases/download/v4.0.2.3-alpha/Redis-x64-4.0.2.3.zip',
     'latest' => array(
-      'version' => '3.2.100',
-      'url' => 'https://github.com/MSOpenTech/redis/releases/download/win-3.2.100/redis-x64-3.2.100.zip',
+      'version' => '4.0.2.3',
+      'url' => 'https://github.com/tporadowski/redis/releases/download/v4.0.2.3-alpha/Redis-x64-4.0.2.3.zip',
     ),
   ),
   'redisdesktopmanager' => array(
