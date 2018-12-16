@@ -2340,7 +2340,7 @@
     '5.5.35' => 'http://windows.php.net/downloads/releases/archives/php-5.5.35-nts-Win32-VC11-x86.zip',
     '5.5.36' => 'http://windows.php.net/downloads/releases/archives/php-5.5.36-nts-Win32-VC11-x86.zip',
     '5.5.37' => 'http://windows.php.net/downloads/releases/archives/php-5.5.37-nts-Win32-VC11-x86.zip',
-    '5.5.38' => 'http://windows.php.net/downloads/releases/php-5.5.38-nts-Win32-VC11-x86.zip',
+    '5.5.38' => 'http://windows.php.net/downloads/releases/archives/php-5.5.38-nts-Win32-VC11-x86.zip',
     '5.6.0' => 'http://windows.php.net/downloads/releases/archives/php-5.6.0-nts-Win32-VC11-x86.zip',
     '5.6.1' => 'http://windows.php.net/downloads/releases/archives/php-5.6.1-nts-Win32-VC11-x86.zip',
     '5.6.2' => 'http://windows.php.net/downloads/releases/archives/php-5.6.2-nts-Win32-VC11-x86.zip',
