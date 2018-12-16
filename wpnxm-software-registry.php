@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Fri, 14 Dec 2018 21:42:42 +0000.
+    * Last Update Sun, 16 Dec 2018 11:33:06 +0000.
     * Do not edit manually!
     */
 
@@ -554,9 +554,10 @@
     'name' => 'Firebird SQL',
     'website' => 'http://www.firebirdsql.org/',
     '3.0-RC1' => 'http://sourceforge.net/projects/firebird/files/firebird-win32/3.0-RC1/Firebird-3.0.0.32136_0_Win32_RC1.exe/download',
+    '3.0.4.33054' => 'https://github.com/FirebirdSQL/firebird/releases/download/R3_0_4/Firebird-3.0.4.33054_0_x64.exe',
     'latest' => array(
-      'version' => '3.0-RC1',
-      'url' => 'http://sourceforge.net/projects/firebird/files/firebird-win32/3.0-RC1/Firebird-3.0.0.32136_0_Win32_pdb_RC1.exe/download',
+      'version' => '3.0.4.33054',
+      'url' => 'https://github.com/FirebirdSQL/firebird/releases/download/R3_0_4/Firebird-3.0.4.33054_0_x64.exe',
     ),
   ),
   'geckodriver-x64' => array(
