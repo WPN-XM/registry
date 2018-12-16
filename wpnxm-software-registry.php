@@ -1268,7 +1268,6 @@
     '3.2.1' => 'http://neo4j.com/artifact.php?name=neo4j-community-3.2.1-windows.zip',
     '3.2.2' => 'http://neo4j.com/artifact.php?name=neo4j-community-3.2.2-windows.zip',
     '3.2.3' => 'http://neo4j.com/artifact.php?name=neo4j-community-3.2.3-windows.zip',
-    '3.2.4' => 'http://neo4j.com/artifact.php?name=neo4j-community-3.2.4-windows.zip',
     '3.2.6' => 'http://neo4j.com/artifact.php?name=neo4j-community-3.2.6-windows.zip',
     '3.2.7' => 'http://neo4j.com/artifact.php?name=neo4j-community-3.2.7-windows.zip',
     '3.3.0' => 'http://neo4j.com/artifact.php?name=neo4j-community-3.3.0-windows.zip',
