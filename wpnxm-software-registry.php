@@ -9361,7 +9361,7 @@
       'url' => 'https://github.com/ncw/rclone/releases/download/v1.45/rclone-v1.45-windows-386.zip',
     ),
   ),
-  'redis' => array(
+  'redis-x64' => array(
     'name' => 'Redis x64',
     'website' => 'http://redis.io/',
     '2.8.21' => 'https://github.com/MSOpenTech/redis/releases/download/win-2.8.21/redis-x64-2.8.21.zip',

@@ -100,7 +100,7 @@ return array(
     'rabbitmq'              => 'rabbitmq.zip',
     'rclone-x86'            => 'rclone.zip',
     'rclone-x64'            => 'rclone.zip',
-    'redis'                 => 'redis.zip',
+    'redis-x64'             => 'redis.zip',
     'redisdesktopmanager'   => 'redisdesktopmanager.exe',
     'rockmongo'             => 'rockmongo.zip',
     'robo3t'                => 'robo3t.zip',

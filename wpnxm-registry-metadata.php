@@ -791,7 +791,7 @@
     ),
     'logo' => '',
   ),
-  'redis' => array(
+  'redis-x64' => array(
     'description' => 'Redis is an open source, in-memory data structure store, used as database, cache and message broker.',
     'category' => 'Database',
     'tags' => array(
