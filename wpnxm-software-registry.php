@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Sun, 16 Dec 2018 12:30:27 +0000.
+    * Last Update Thu, 20 Dec 2018 11:37:55 +0000.
     * Do not edit manually!
     */
 
@@ -9566,6 +9566,13 @@
     'latest' => array(
       'version' => '1.0',
       'url' => 'https://nodeload.github.com/FriendsOfPHP/uprofiler/zip/master',
+    ),
+  ),
+  'usql-x64' => array(
+    '0.7.0' => 'https://github.com/xo/usql/releases/download/v0.7.0/usql-0.7.0-windows-amd64.zip',
+    'latest' => array(
+      'version' => '0.7.0',
+      'url' => 'https://github.com/xo/usql/releases/download/v0.7.0/usql-0.7.0-windows-amd64.zip',
     ),
   ),
   'varnish' => array(
