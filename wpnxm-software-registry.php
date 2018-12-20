@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Thu, 20 Dec 2018 11:37:55 +0000.
+    * Last Update Thu, 20 Dec 2018 11:46:32 +0000.
     * Do not edit manually!
     */
 
@@ -9652,9 +9652,10 @@
     'name' => 'Visual Studio Code x64',
     'website' => 'https://github.com/Microsoft/vscode',
     '1.30.0' => 'https://az764295.vo.msecnd.net/stable/c6e592b2b5770e40a98cb9c2715a8ef89aec3d74/VSCodeSetup-x64-1.30.0.exe',
+    '1.30.1' => 'https://az764295.vo.msecnd.net/stable/dea8705087adb1b5e5ae1d9123278e178656186a/VSCodeSetup-x64-1.30.1.exe',
     'latest' => array(
-      'url' => 'https://az764295.vo.msecnd.net/stable/c6e592b2b5770e40a98cb9c2715a8ef89aec3d74/VSCodeSetup-x64-1.30.0.exe',
-      'version' => '1.30.0',
+      'url' => 'https://az764295.vo.msecnd.net/stable/dea8705087adb1b5e5ae1d9123278e178656186a/VSCodeSetup-x64-1.30.1.exe',
+      'version' => '1.30.1',
     ),
   ),
   'webgrind' => array(
