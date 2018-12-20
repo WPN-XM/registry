@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Thu, 20 Dec 2018 11:47:13 +0000.
+    * Last Update Thu, 20 Dec 2018 11:47:16 +0000.
     * Do not edit manually!
     */
 
@@ -134,9 +134,10 @@
     '1.19.3' => 'https://github.com/tatsuhiro-t/aria2/releases/download/release-1.19.3/aria2-1.19.3-win-64bit-build1.zip',
     '1.20.0' => 'https://github.com/tatsuhiro-t/aria2/releases/download/release-1.20.0/aria2-1.20.0-win-64bit-build1.zip',
     '1.21.0' => 'https://github.com/tatsuhiro-t/aria2/releases/download/release-1.21.0/aria2-1.21.0-win-64bit-build1.zip',
+    '1.34.0' => 'https://github.com/tatsuhiro-t/aria2/releases/download/release-1.34.0/aria2-1.34.0-win-64bit-build1.zip',
     'latest' => array(
-      'version' => '1.21.0',
-      'url' => 'https://github.com/tatsuhiro-t/aria2/releases/download/release-1.21.0/aria2-1.21.0-win-64bit-build1.zip',
+      'version' => '1.34.0',
+      'url' => 'https://github.com/tatsuhiro-t/aria2/releases/download/release-1.34.0/aria2-1.34.0-win-64bit-build1.zip',
     ),
   ),
   'aria2-x86' => array(
