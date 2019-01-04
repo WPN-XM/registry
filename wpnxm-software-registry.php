@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Fri, 04 Jan 2019 11:04:19 +0000.
+    * Last Update Fri, 04 Jan 2019 11:04:32 +0000.
     * Do not edit manually!
     */
 
@@ -4698,32 +4698,52 @@
     ),
     '1.6.6' => array(
       'x86' => array(
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/lzf/1.6.6/php_lzf-1.6.6-5.5-nts-vc11-x86.zip',
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/lzf/1.6.6/php_lzf-1.6.6-5.6-nts-vc11-x86.zip',
         '7.0' => 'http://windows.php.net/downloads/pecl/releases/lzf/1.6.6/php_lzf-1.6.6-7.0-nts-vc14-x86.zip',
         '7.1' => 'http://windows.php.net/downloads/pecl/releases/lzf/1.6.6/php_lzf-1.6.6-7.1-nts-vc14-x86.zip',
+        '7.2' => 'http://windows.php.net/downloads/pecl/releases/lzf/1.6.6/php_lzf-1.6.6-7.2-nts-vc15-x86.zip',
+        '7.3' => 'http://windows.php.net/downloads/pecl/releases/lzf/1.6.6/php_lzf-1.6.6-7.3-nts-vc15-x86.zip',
       ),
       'x64' => array(
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/lzf/1.6.6/php_lzf-1.6.6-5.5-nts-vc11-x64.zip',
         '5.6' => 'http://windows.php.net/downloads/pecl/releases/lzf/1.6.6/php_lzf-1.6.6-5.6-nts-vc11-x64.zip',
         '7.0' => 'http://windows.php.net/downloads/pecl/releases/lzf/1.6.6/php_lzf-1.6.6-7.0-nts-vc14-x64.zip',
         '7.1' => 'http://windows.php.net/downloads/pecl/releases/lzf/1.6.6/php_lzf-1.6.6-7.1-nts-vc14-x64.zip',
+        '7.2' => 'http://windows.php.net/downloads/pecl/releases/lzf/1.6.6/php_lzf-1.6.6-7.2-nts-vc15-x64.zip',
+        '7.3' => 'http://windows.php.net/downloads/pecl/releases/lzf/1.6.6/php_lzf-1.6.6-7.3-nts-vc15-x64.zip',
+      ),
+    ),
+    '1.6.7' => array(
+      'x86' => array(
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/lzf/1.6.7/php_lzf-1.6.7-5.6-nts-vc11-x86.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/lzf/1.6.7/php_lzf-1.6.7-7.0-nts-vc14-x86.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/lzf/1.6.7/php_lzf-1.6.7-7.1-nts-vc14-x86.zip',
+        '7.2' => 'http://windows.php.net/downloads/pecl/releases/lzf/1.6.7/php_lzf-1.6.7-7.2-nts-vc15-x86.zip',
+        '7.3' => 'http://windows.php.net/downloads/pecl/releases/lzf/1.6.7/php_lzf-1.6.7-7.3-nts-vc15-x86.zip',
+      ),
+      'x64' => array(
+        '5.6' => 'http://windows.php.net/downloads/pecl/releases/lzf/1.6.7/php_lzf-1.6.7-5.6-nts-vc11-x64.zip',
+        '7.0' => 'http://windows.php.net/downloads/pecl/releases/lzf/1.6.7/php_lzf-1.6.7-7.0-nts-vc14-x64.zip',
+        '7.1' => 'http://windows.php.net/downloads/pecl/releases/lzf/1.6.7/php_lzf-1.6.7-7.1-nts-vc14-x64.zip',
+        '7.2' => 'http://windows.php.net/downloads/pecl/releases/lzf/1.6.7/php_lzf-1.6.7-7.2-nts-vc15-x64.zip',
+        '7.3' => 'http://windows.php.net/downloads/pecl/releases/lzf/1.6.7/php_lzf-1.6.7-7.3-nts-vc15-x64.zip',
       ),
     ),
     'latest' => array(
-      'version' => '1.6.6',
+      'version' => '1.6.7',
       'url' => array(
         'x86' => array(
-          '5.5' => 'http://windows.php.net/downloads/pecl/releases/lzf/1.6.6/php_lzf-1.6.6-5.5-nts-vc11-x86.zip',
-          '5.6' => 'http://windows.php.net/downloads/pecl/releases/lzf/1.6.6/php_lzf-1.6.6-5.6-nts-vc11-x86.zip',
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/lzf/1.6.6/php_lzf-1.6.6-7.0-nts-vc14-x86.zip',
-          '7.1' => 'http://windows.php.net/downloads/pecl/releases/lzf/1.6.6/php_lzf-1.6.6-7.1-nts-vc14-x86.zip',
+          '5.6' => 'http://windows.php.net/downloads/pecl/releases/lzf/1.6.7/php_lzf-1.6.7-5.6-nts-vc11-x86.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/lzf/1.6.7/php_lzf-1.6.7-7.0-nts-vc14-x86.zip',
+          '7.1' => 'http://windows.php.net/downloads/pecl/releases/lzf/1.6.7/php_lzf-1.6.7-7.1-nts-vc14-x86.zip',
+          '7.2' => 'http://windows.php.net/downloads/pecl/releases/lzf/1.6.7/php_lzf-1.6.7-7.2-nts-vc15-x86.zip',
+          '7.3' => 'http://windows.php.net/downloads/pecl/releases/lzf/1.6.7/php_lzf-1.6.7-7.3-nts-vc15-x86.zip',
         ),
         'x64' => array(
-          '5.5' => 'http://windows.php.net/downloads/pecl/releases/lzf/1.6.6/php_lzf-1.6.6-5.5-nts-vc11-x64.zip',
-          '5.6' => 'http://windows.php.net/downloads/pecl/releases/lzf/1.6.6/php_lzf-1.6.6-5.6-nts-vc11-x64.zip',
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/lzf/1.6.6/php_lzf-1.6.6-7.0-nts-vc14-x64.zip',
-          '7.1' => 'http://windows.php.net/downloads/pecl/releases/lzf/1.6.6/php_lzf-1.6.6-7.1-nts-vc14-x64.zip',
+          '5.6' => 'http://windows.php.net/downloads/pecl/releases/lzf/1.6.7/php_lzf-1.6.7-5.6-nts-vc11-x64.zip',
+          '7.0' => 'http://windows.php.net/downloads/pecl/releases/lzf/1.6.7/php_lzf-1.6.7-7.0-nts-vc14-x64.zip',
+          '7.1' => 'http://windows.php.net/downloads/pecl/releases/lzf/1.6.7/php_lzf-1.6.7-7.1-nts-vc14-x64.zip',
+          '7.2' => 'http://windows.php.net/downloads/pecl/releases/lzf/1.6.7/php_lzf-1.6.7-7.2-nts-vc15-x64.zip',
+          '7.3' => 'http://windows.php.net/downloads/pecl/releases/lzf/1.6.7/php_lzf-1.6.7-7.3-nts-vc15-x64.zip',
         ),
       ),
     ),
