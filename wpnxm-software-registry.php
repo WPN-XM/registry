@@ -1,7 +1,7 @@
 <?php
    /**
     * WPИ-XM Server Stack
-    * Copyright © 2010 - 2018 Jens-André Koch <jakoch@web.de>
+    * Copyright © 2010 - 2019 Jens-André Koch <jakoch@web.de>
     * https://wpn-xm.org/
     *
     * Licensed under the MIT License.
@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Thu, 20 Dec 2018 11:47:35 +0000.
+    * Last Update Fri, 04 Jan 2019 10:50:52 +0000.
     * Do not edit manually!
     */
 
@@ -1291,9 +1291,10 @@
     '3.4.9' => 'http://neo4j.com/artifact.php?name=neo4j-community-3.4.9-windows.zip',
     '3.4.10' => 'http://neo4j.com/artifact.php?name=neo4j-community-3.4.10-windows.zip',
     '3.5.0' => 'http://neo4j.com/artifact.php?name=neo4j-community-3.5.0-windows.zip',
+    '3.5.1' => 'http://neo4j.com/artifact.php?name=neo4j-community-3.5.1-windows.zip',
     'latest' => array(
-      'version' => '3.5.0',
-      'url' => 'http://neo4j.com/artifact.php?name=neo4j-community-3.5.0-windows.zip',
+      'version' => '3.5.1',
+      'url' => 'http://neo4j.com/artifact.php?name=neo4j-community-3.5.1-windows.zip',
     ),
   ),
   'netbeans-x64' => array(
