@@ -1170,8 +1170,8 @@
     ),
   ),
   'msysgit' => array(
-    'name' => 'Git for Windows',
-    'website' => 'http://msysgit.github.io/',
+    'name' => 'Git for Windows x86',
+    'website' => 'https://gitforwindows.org/',
     '2.5.0' => 'https://github.com/git-for-windows/git/releases/download/v2.5.0.windows.1/PortableGit-2.5.0-32-bit.7z.exe',
     '2.5.1' => 'https://github.com/git-for-windows/git/releases/download/v2.5.1.windows.1/PortableGit-2.5.1-32-bit.7z.exe',
     '2.5.2' => 'https://github.com/git-for-windows/git/releases/download/v2.5.2.windows.1/PortableGit-2.5.2-32-bit.7z.exe',
@@ -1217,7 +1217,7 @@
   ),
   'msysgit-x64' => array(
     'name' => 'Git for Windows x64',
-    'website' => 'http://msysgit.github.io/',
+    'website' => 'https://gitforwindows.org/',
     '2.5.0' => 'https://github.com/git-for-windows/git/releases/download/v2.5.0.windows.1/PortableGit-2.5.0-64-bit.7z.exe',
     '2.5.1' => 'https://github.com/git-for-windows/git/releases/download/v2.5.1.windows.1/PortableGit-2.5.1-64-bit.7z.exe',
     '2.5.2' => 'https://github.com/git-for-windows/git/releases/download/v2.5.2.windows.1/PortableGit-2.5.2-64-bit.7z.exe',
