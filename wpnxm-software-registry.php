@@ -9671,6 +9671,8 @@
     ),
   ),
   'usql-x64' => array(
+    'name' => 'usql',
+    'https://github.com/xo/usql',
     '0.7.0' => 'https://github.com/xo/usql/releases/download/v0.7.0/usql-0.7.0-windows-amd64.zip',
     'latest' => array(
       'version' => '0.7.0',
