@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Fri, 04 Jan 2019 11:05:10 +0000.
+    * Last Update Tue, 08 Jan 2019 17:44:35 +0000.
     * Do not edit manually!
     */
 
@@ -9674,9 +9674,10 @@
     'name' => 'usql',
     'website' => 'https://github.com/xo/usql',
     '0.7.0' => 'https://github.com/xo/usql/releases/download/v0.7.0/usql-0.7.0-windows-amd64.zip',
+    '0.7.1' => 'https://github.com/xo/usql/releases/download/v0.7.1/usql-%$version%-windows-amd64.zip',
     'latest' => array(
-      'version' => '0.7.0',
-      'url' => 'https://github.com/xo/usql/releases/download/v0.7.0/usql-0.7.0-windows-amd64.zip',
+      'version' => '0.7.1',
+      'url' => 'https://github.com/xo/usql/releases/download/v0.7.1/usql-%$version%-windows-amd64.zip',
     ),
   ),
   'varnish' => array(
