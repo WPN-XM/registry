@@ -445,6 +445,8 @@
     ),
   ),
   'dbeaver-x64' => array(
+    'name' => 'Dbeaver x64',
+    'website' => 'https://dbeaver.io/',
     '5.3.2' => 'https://github.com/dbeaver/dbeaver/releases/download/5.3.2/dbeaver-ce-5.3.2-win32.win32.x86_64.zip',
     'latest' => array(
       'version' => '5.3.2',
