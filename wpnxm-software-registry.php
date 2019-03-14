@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Thu, 14 Mar 2019 15:35:12 +0000.
+    * Last Update Thu, 14 Mar 2019 15:35:20 +0000.
     * Do not edit manually!
     */
 
@@ -451,9 +451,10 @@
     'name' => 'Dbeaver x64',
     'website' => 'https://dbeaver.io/',
     '5.3.2' => 'https://github.com/dbeaver/dbeaver/releases/download/5.3.2/dbeaver-ce-5.3.2-win32.win32.x86_64.zip',
+    '6.0.0' => 'https://github.com/dbeaver/dbeaver/releases/download/6.0.0/dbeaver-ce-6.0.0-win32.win32.x86_64.zip',
     'latest' => array(
-      'version' => '5.3.2',
-      'url' => 'https://github.com/dbeaver/dbeaver/releases/download/5.3.2/dbeaver-ce-5.3.2-win32.win32.x86_64.zip',
+      'version' => '6.0.0',
+      'url' => 'https://github.com/dbeaver/dbeaver/releases/download/6.0.0/dbeaver-ce-6.0.0-win32.win32.x86_64.zip',
     ),
   ),
   'elasticsearch' => array(
