@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Thu, 14 Mar 2019 15:46:39 +0000.
+    * Last Update Thu, 14 Mar 2019 23:32:18 +0000.
     * Do not edit manually!
     */
 
@@ -1319,9 +1319,10 @@
     '3.4.10' => 'http://neo4j.com/artifact.php?name=neo4j-community-3.4.10-windows.zip',
     '3.5.0' => 'http://neo4j.com/artifact.php?name=neo4j-community-3.5.0-windows.zip',
     '3.5.1' => 'http://neo4j.com/artifact.php?name=neo4j-community-3.5.1-windows.zip',
+    '3.5.3' => 'http://neo4j.com/artifact.php?name=neo4j-community-3.5.3-windows.zip',
     'latest' => array(
-      'version' => '3.5.1',
-      'url' => 'http://neo4j.com/artifact.php?name=neo4j-community-3.5.1-windows.zip',
+      'version' => '3.5.3',
+      'url' => 'http://neo4j.com/artifact.php?name=neo4j-community-3.5.3-windows.zip',
     ),
   ),
   'netbeans-x64' => array(
