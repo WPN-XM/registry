@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Thu, 14 Mar 2019 23:33:54 +0000.
+    * Last Update Thu, 14 Mar 2019 23:33:58 +0000.
     * Do not edit manually!
     */
 
@@ -3328,44 +3328,52 @@
     ),
     '1.0.0' => array(
       'x86' => array(
-        '5.4' => 'http://windows.php.net/downloads/pecl/releases/ast/1.0.0/php_ast-1.0.0-5.4-nts-vc9-x86.zip',
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/ast/1.0.0/php_ast-1.0.0-5.5-nts-vc11-x86.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/ast/1.0.0/php_ast-1.0.0-5.6-nts-vc11-x86.zip',
-        '7.0' => 'http://windows.php.net/downloads/pecl/releases/ast/1.0.0/php_ast-1.0.0-7.0-nts-vc14-x86.zip',
-        '7.1' => 'http://windows.php.net/downloads/pecl/releases/ast/1.0.0/php_ast-1.0.0-7.1-nts-vc14-x86.zip',
-        '7.2' => 'http://windows.php.net/downloads/pecl/releases/ast/1.0.0/php_ast-1.0.0-7.2-nts-vc15-x86.zip',
-        '7.3' => 'http://windows.php.net/downloads/pecl/releases/ast/1.0.0/php_ast-1.0.0-7.3-nts-vc15-x86.zip',
+        '5.6' => 'https://windows.php.net/downloads/pecl/releases/ast/1.0.0/php_ast-1.0.0-5.6-nts-vc11-x86.zip',
+        '7.0' => 'https://windows.php.net/downloads/pecl/releases/ast/1.0.0/php_ast-1.0.0-7.0-nts-vc14-x86.zip',
+        '7.1' => 'https://windows.php.net/downloads/pecl/releases/ast/1.0.0/php_ast-1.0.0-7.1-nts-vc14-x86.zip',
+        '7.2' => 'https://windows.php.net/downloads/pecl/releases/ast/1.0.0/php_ast-1.0.0-7.2-nts-vc15-x86.zip',
+        '7.3' => 'https://windows.php.net/downloads/pecl/releases/ast/1.0.0/php_ast-1.0.0-7.3-nts-vc15-x86.zip',
       ),
       'x64' => array(
-        '5.4' => 'http://windows.php.net/downloads/pecl/releases/ast/1.0.0/php_ast-1.0.0-5.4-nts-vc9-x64.zip',
-        '5.5' => 'http://windows.php.net/downloads/pecl/releases/ast/1.0.0/php_ast-1.0.0-5.5-nts-vc11-x64.zip',
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/ast/1.0.0/php_ast-1.0.0-5.6-nts-vc11-x64.zip',
-        '7.0' => 'http://windows.php.net/downloads/pecl/releases/ast/1.0.0/php_ast-1.0.0-7.0-nts-vc14-x64.zip',
-        '7.1' => 'http://windows.php.net/downloads/pecl/releases/ast/1.0.0/php_ast-1.0.0-7.1-nts-vc14-x64.zip',
-        '7.2' => 'http://windows.php.net/downloads/pecl/releases/ast/1.0.0/php_ast-1.0.0-7.2-nts-vc15-x64.zip',
-        '7.3' => 'http://windows.php.net/downloads/pecl/releases/ast/1.0.0/php_ast-1.0.0-7.3-nts-vc15-x64.zip',
+        '5.6' => 'https://windows.php.net/downloads/pecl/releases/ast/1.0.0/php_ast-1.0.0-5.6-nts-vc11-x64.zip',
+        '7.0' => 'https://windows.php.net/downloads/pecl/releases/ast/1.0.0/php_ast-1.0.0-7.0-nts-vc14-x64.zip',
+        '7.1' => 'https://windows.php.net/downloads/pecl/releases/ast/1.0.0/php_ast-1.0.0-7.1-nts-vc14-x64.zip',
+        '7.2' => 'https://windows.php.net/downloads/pecl/releases/ast/1.0.0/php_ast-1.0.0-7.2-nts-vc15-x64.zip',
+        '7.3' => 'https://windows.php.net/downloads/pecl/releases/ast/1.0.0/php_ast-1.0.0-7.3-nts-vc15-x64.zip',
+      ),
+    ),
+    '1.0.1' => array(
+      'x86' => array(
+        '5.6' => 'https://windows.php.net/downloads/pecl/releases/ast/1.0.1/php_ast-1.0.1-5.6-nts-vc11-x86.zip',
+        '7.0' => 'https://windows.php.net/downloads/pecl/releases/ast/1.0.1/php_ast-1.0.1-7.0-nts-vc14-x86.zip',
+        '7.1' => 'https://windows.php.net/downloads/pecl/releases/ast/1.0.1/php_ast-1.0.1-7.1-nts-vc14-x86.zip',
+        '7.2' => 'https://windows.php.net/downloads/pecl/releases/ast/1.0.1/php_ast-1.0.1-7.2-nts-vc15-x86.zip',
+        '7.3' => 'https://windows.php.net/downloads/pecl/releases/ast/1.0.1/php_ast-1.0.1-7.3-nts-vc15-x86.zip',
+      ),
+      'x64' => array(
+        '5.6' => 'https://windows.php.net/downloads/pecl/releases/ast/1.0.1/php_ast-1.0.1-5.6-nts-vc11-x64.zip',
+        '7.0' => 'https://windows.php.net/downloads/pecl/releases/ast/1.0.1/php_ast-1.0.1-7.0-nts-vc14-x64.zip',
+        '7.1' => 'https://windows.php.net/downloads/pecl/releases/ast/1.0.1/php_ast-1.0.1-7.1-nts-vc14-x64.zip',
+        '7.2' => 'https://windows.php.net/downloads/pecl/releases/ast/1.0.1/php_ast-1.0.1-7.2-nts-vc15-x64.zip',
+        '7.3' => 'https://windows.php.net/downloads/pecl/releases/ast/1.0.1/php_ast-1.0.1-7.3-nts-vc15-x64.zip',
       ),
     ),
     'latest' => array(
-      'version' => '1.0.0',
+      'version' => '1.0.1',
       'url' => array(
         'x86' => array(
-          '5.4' => 'http://windows.php.net/downloads/pecl/releases/ast/1.0.0/php_ast-1.0.0-5.4-nts-vc9-x86.zip',
-          '5.5' => 'http://windows.php.net/downloads/pecl/releases/ast/1.0.0/php_ast-1.0.0-5.5-nts-vc11-x86.zip',
-          '5.6' => 'http://windows.php.net/downloads/pecl/releases/ast/1.0.0/php_ast-1.0.0-5.6-nts-vc11-x86.zip',
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/ast/1.0.0/php_ast-1.0.0-7.0-nts-vc14-x86.zip',
-          '7.1' => 'http://windows.php.net/downloads/pecl/releases/ast/1.0.0/php_ast-1.0.0-7.1-nts-vc14-x86.zip',
-          '7.2' => 'http://windows.php.net/downloads/pecl/releases/ast/1.0.0/php_ast-1.0.0-7.2-nts-vc15-x86.zip',
-          '7.3' => 'http://windows.php.net/downloads/pecl/releases/ast/1.0.0/php_ast-1.0.0-7.3-nts-vc15-x86.zip',
+          '5.6' => 'https://windows.php.net/downloads/pecl/releases/ast/1.0.1/php_ast-1.0.1-5.6-nts-vc11-x86.zip',
+          '7.0' => 'https://windows.php.net/downloads/pecl/releases/ast/1.0.1/php_ast-1.0.1-7.0-nts-vc14-x86.zip',
+          '7.1' => 'https://windows.php.net/downloads/pecl/releases/ast/1.0.1/php_ast-1.0.1-7.1-nts-vc14-x86.zip',
+          '7.2' => 'https://windows.php.net/downloads/pecl/releases/ast/1.0.1/php_ast-1.0.1-7.2-nts-vc15-x86.zip',
+          '7.3' => 'https://windows.php.net/downloads/pecl/releases/ast/1.0.1/php_ast-1.0.1-7.3-nts-vc15-x86.zip',
         ),
         'x64' => array(
-          '5.4' => 'http://windows.php.net/downloads/pecl/releases/ast/1.0.0/php_ast-1.0.0-5.4-nts-vc9-x64.zip',
-          '5.5' => 'http://windows.php.net/downloads/pecl/releases/ast/1.0.0/php_ast-1.0.0-5.5-nts-vc11-x64.zip',
-          '5.6' => 'http://windows.php.net/downloads/pecl/releases/ast/1.0.0/php_ast-1.0.0-5.6-nts-vc11-x64.zip',
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/ast/1.0.0/php_ast-1.0.0-7.0-nts-vc14-x64.zip',
-          '7.1' => 'http://windows.php.net/downloads/pecl/releases/ast/1.0.0/php_ast-1.0.0-7.1-nts-vc14-x64.zip',
-          '7.2' => 'http://windows.php.net/downloads/pecl/releases/ast/1.0.0/php_ast-1.0.0-7.2-nts-vc15-x64.zip',
-          '7.3' => 'http://windows.php.net/downloads/pecl/releases/ast/1.0.0/php_ast-1.0.0-7.3-nts-vc15-x64.zip',
+          '5.6' => 'https://windows.php.net/downloads/pecl/releases/ast/1.0.1/php_ast-1.0.1-5.6-nts-vc11-x64.zip',
+          '7.0' => 'https://windows.php.net/downloads/pecl/releases/ast/1.0.1/php_ast-1.0.1-7.0-nts-vc14-x64.zip',
+          '7.1' => 'https://windows.php.net/downloads/pecl/releases/ast/1.0.1/php_ast-1.0.1-7.1-nts-vc14-x64.zip',
+          '7.2' => 'https://windows.php.net/downloads/pecl/releases/ast/1.0.1/php_ast-1.0.1-7.2-nts-vc15-x64.zip',
+          '7.3' => 'https://windows.php.net/downloads/pecl/releases/ast/1.0.1/php_ast-1.0.1-7.3-nts-vc15-x64.zip',
         ),
       ),
     ),
