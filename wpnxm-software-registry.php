@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Thu, 14 Mar 2019 15:37:13 +0000.
+    * Last Update Thu, 14 Mar 2019 15:37:21 +0000.
     * Do not edit manually!
     */
 
@@ -2183,9 +2183,10 @@
     '3.2.4' => 'https://pkg.osquery.io/windows/osquery-3.2.4.msi',
     '3.3.0' => 'https://pkg.osquery.io/windows/osquery-3.3.0.msi',
     '3.3.1' => 'https://pkg.osquery.io/windows/osquery-3.3.1.msi',
+    '3.3.2' => 'https://pkg.osquery.io/windows/osquery-3.3.2.zip',
     'latest' => array(
-      'url' => 'https://pkg.osquery.io/windows/osquery-3.3.1.msi',
-      'version' => '3.3.1',
+      'url' => 'https://pkg.osquery.io/windows/osquery-3.3.2.zip',
+      'version' => '3.3.2',
     ),
   ),
   'pear' => array(
