@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Tue, 25 Jun 2019 20:10:44 +0000.
+    * Last Update Tue, 25 Jun 2019 20:10:46 +0000.
     * Do not edit manually!
     */
 
@@ -10286,9 +10286,10 @@
     'website' => 'https://github.com/jokkedk/webgrind',
     '1.0' => 'https://github.com/jokkedk/webgrind/archive/master.zip',
     '1.5.0' => 'https://github.com/jokkedk/webgrind/archive/v1.5.0.zip',
+    '1.6.0' => 'https://github.com/jokkedk/webgrind/archive/v1.6.0.zip',
     'latest' => array(
-      'version' => '1.5.0',
-      'url' => 'https://github.com/jokkedk/webgrind/archive/v1.5.0.zip',
+      'version' => '1.6.0',
+      'url' => 'https://github.com/jokkedk/webgrind/archive/v1.6.0.zip',
     ),
   ),
   'wincachegrind' => array(
