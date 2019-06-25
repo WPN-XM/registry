@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Tue, 25 Jun 2019 20:10:41 +0000.
+    * Last Update Tue, 25 Jun 2019 20:10:43 +0000.
     * Do not edit manually!
     */
 
@@ -10241,9 +10241,10 @@
     '12.1.0' => 'https://github.com/tsenart/vegeta/releases/download/cli/v12.1.0/vegeta-12.1.0-windows-amd64.zip',
     '12.2.0' => 'https://github.com/tsenart/vegeta/releases/download/cli/v12.2.0/vegeta-12.2.0-windows-amd64.zip',
     '12.2.1' => 'https://github.com/tsenart/vegeta/releases/download/cli/v12.2.1/vegeta-12.2.1-windows-amd64.zip',
+    '12.5.1' => 'https://github.com/tsenart/vegeta/releases/download/cli/v12.5.1/vegeta-12.5.1-windows-amd64.zip',
     'latest' => array(
-      'version' => '12.2.1',
-      'url' => 'https://github.com/tsenart/vegeta/releases/download/cli/v12.2.1/vegeta-12.2.1-windows-amd64.zip',
+      'version' => '12.5.1',
+      'url' => 'https://github.com/tsenart/vegeta/releases/download/cli/v12.5.1/vegeta-12.5.1-windows-amd64.zip',
     ),
   ),
   'virtualbox-x64' => array(
