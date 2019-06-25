@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Tue, 25 Jun 2019 20:10:24 +0000.
+    * Last Update Tue, 25 Jun 2019 20:10:26 +0000.
     * Do not edit manually!
     */
 
@@ -6931,22 +6931,38 @@
         '7.3' => 'https://windows.php.net/downloads/pecl/releases/pdo_sqlsrv/5.6.0/php_pdo_sqlsrv-5.6.0-7.3-nts-vc15-x64.zip',
       ),
     ),
+    '5.6.1' => array(
+      'x86' => array(
+        '5.6' => 'https://windows.php.net/downloads/pecl/releases/pdo_sqlsrv/5.6.1/php_pdo_sqlsrv-5.6.1-5.6-nts-vc11-x86.zip',
+        '7.0' => 'https://windows.php.net/downloads/pecl/releases/pdo_sqlsrv/5.6.1/php_pdo_sqlsrv-5.6.1-7.0-nts-vc14-x86.zip',
+        '7.1' => 'https://windows.php.net/downloads/pecl/releases/pdo_sqlsrv/5.6.1/php_pdo_sqlsrv-5.6.1-7.1-nts-vc14-x86.zip',
+        '7.2' => 'https://windows.php.net/downloads/pecl/releases/pdo_sqlsrv/5.6.1/php_pdo_sqlsrv-5.6.1-7.2-nts-vc15-x86.zip',
+        '7.3' => 'https://windows.php.net/downloads/pecl/releases/pdo_sqlsrv/5.6.1/php_pdo_sqlsrv-5.6.1-7.3-nts-vc15-x86.zip',
+      ),
+      'x64' => array(
+        '5.6' => 'https://windows.php.net/downloads/pecl/releases/pdo_sqlsrv/5.6.1/php_pdo_sqlsrv-5.6.1-5.6-nts-vc11-x64.zip',
+        '7.0' => 'https://windows.php.net/downloads/pecl/releases/pdo_sqlsrv/5.6.1/php_pdo_sqlsrv-5.6.1-7.0-nts-vc14-x64.zip',
+        '7.1' => 'https://windows.php.net/downloads/pecl/releases/pdo_sqlsrv/5.6.1/php_pdo_sqlsrv-5.6.1-7.1-nts-vc14-x64.zip',
+        '7.2' => 'https://windows.php.net/downloads/pecl/releases/pdo_sqlsrv/5.6.1/php_pdo_sqlsrv-5.6.1-7.2-nts-vc15-x64.zip',
+        '7.3' => 'https://windows.php.net/downloads/pecl/releases/pdo_sqlsrv/5.6.1/php_pdo_sqlsrv-5.6.1-7.3-nts-vc15-x64.zip',
+      ),
+    ),
     'latest' => array(
-      'version' => '5.6.0',
+      'version' => '5.6.1',
       'url' => array(
         'x86' => array(
-          '5.6' => 'https://windows.php.net/downloads/pecl/releases/pdo_sqlsrv/5.6.0/php_pdo_sqlsrv-5.6.0-5.6-nts-vc11-x86.zip',
-          '7.0' => 'https://windows.php.net/downloads/pecl/releases/pdo_sqlsrv/5.6.0/php_pdo_sqlsrv-5.6.0-7.0-nts-vc14-x86.zip',
-          '7.1' => 'https://windows.php.net/downloads/pecl/releases/pdo_sqlsrv/5.6.0/php_pdo_sqlsrv-5.6.0-7.1-nts-vc14-x86.zip',
-          '7.2' => 'https://windows.php.net/downloads/pecl/releases/pdo_sqlsrv/5.6.0/php_pdo_sqlsrv-5.6.0-7.2-nts-vc15-x86.zip',
-          '7.3' => 'https://windows.php.net/downloads/pecl/releases/pdo_sqlsrv/5.6.0/php_pdo_sqlsrv-5.6.0-7.3-nts-vc15-x86.zip',
+          '5.6' => 'https://windows.php.net/downloads/pecl/releases/pdo_sqlsrv/5.6.1/php_pdo_sqlsrv-5.6.1-5.6-nts-vc11-x86.zip',
+          '7.0' => 'https://windows.php.net/downloads/pecl/releases/pdo_sqlsrv/5.6.1/php_pdo_sqlsrv-5.6.1-7.0-nts-vc14-x86.zip',
+          '7.1' => 'https://windows.php.net/downloads/pecl/releases/pdo_sqlsrv/5.6.1/php_pdo_sqlsrv-5.6.1-7.1-nts-vc14-x86.zip',
+          '7.2' => 'https://windows.php.net/downloads/pecl/releases/pdo_sqlsrv/5.6.1/php_pdo_sqlsrv-5.6.1-7.2-nts-vc15-x86.zip',
+          '7.3' => 'https://windows.php.net/downloads/pecl/releases/pdo_sqlsrv/5.6.1/php_pdo_sqlsrv-5.6.1-7.3-nts-vc15-x86.zip',
         ),
         'x64' => array(
-          '5.6' => 'https://windows.php.net/downloads/pecl/releases/pdo_sqlsrv/5.6.0/php_pdo_sqlsrv-5.6.0-5.6-nts-vc11-x64.zip',
-          '7.0' => 'https://windows.php.net/downloads/pecl/releases/pdo_sqlsrv/5.6.0/php_pdo_sqlsrv-5.6.0-7.0-nts-vc14-x64.zip',
-          '7.1' => 'https://windows.php.net/downloads/pecl/releases/pdo_sqlsrv/5.6.0/php_pdo_sqlsrv-5.6.0-7.1-nts-vc14-x64.zip',
-          '7.2' => 'https://windows.php.net/downloads/pecl/releases/pdo_sqlsrv/5.6.0/php_pdo_sqlsrv-5.6.0-7.2-nts-vc15-x64.zip',
-          '7.3' => 'https://windows.php.net/downloads/pecl/releases/pdo_sqlsrv/5.6.0/php_pdo_sqlsrv-5.6.0-7.3-nts-vc15-x64.zip',
+          '5.6' => 'https://windows.php.net/downloads/pecl/releases/pdo_sqlsrv/5.6.1/php_pdo_sqlsrv-5.6.1-5.6-nts-vc11-x64.zip',
+          '7.0' => 'https://windows.php.net/downloads/pecl/releases/pdo_sqlsrv/5.6.1/php_pdo_sqlsrv-5.6.1-7.0-nts-vc14-x64.zip',
+          '7.1' => 'https://windows.php.net/downloads/pecl/releases/pdo_sqlsrv/5.6.1/php_pdo_sqlsrv-5.6.1-7.1-nts-vc14-x64.zip',
+          '7.2' => 'https://windows.php.net/downloads/pecl/releases/pdo_sqlsrv/5.6.1/php_pdo_sqlsrv-5.6.1-7.2-nts-vc15-x64.zip',
+          '7.3' => 'https://windows.php.net/downloads/pecl/releases/pdo_sqlsrv/5.6.1/php_pdo_sqlsrv-5.6.1-7.3-nts-vc15-x64.zip',
         ),
       ),
     ),
