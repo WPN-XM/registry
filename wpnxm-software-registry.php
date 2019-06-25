@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Tue, 25 Jun 2019 20:10:17 +0000.
+    * Last Update Tue, 25 Jun 2019 20:10:18 +0000.
     * Do not edit manually!
     */
 
@@ -4789,28 +4789,68 @@
     ),
     '3.4.3rc4' => array(
       'x86' => array(
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/imagick/3.4.3rc4/php_imagick-3.4.3rc4-5.6-nts-vc11-x86.zip',
-        '7.0' => 'http://windows.php.net/downloads/pecl/releases/imagick/3.4.3rc4/php_imagick-3.4.3rc4-7.0-nts-vc14-x86.zip',
-        '7.1' => 'http://windows.php.net/downloads/pecl/releases/imagick/3.4.3rc4/php_imagick-3.4.3rc4-7.1-nts-vc14-x86.zip',
+        '5.6' => 'https://windows.php.net/downloads/pecl/releases/imagick/3.4.3rc4/php_imagick-3.4.3rc4-5.6-nts-vc11-x86.zip',
+        '7.0' => 'https://windows.php.net/downloads/pecl/releases/imagick/3.4.3rc4/php_imagick-3.4.3rc4-7.0-nts-vc14-x86.zip',
+        '7.1' => 'https://windows.php.net/downloads/pecl/releases/imagick/3.4.3rc4/php_imagick-3.4.3rc4-7.1-nts-vc14-x86.zip',
+        '7.2' => 'https://windows.php.net/downloads/pecl/releases/imagick/3.4.3rc4/php_imagick-3.4.3rc4-7.2-nts-vc15-x86.zip',
+        '7.3' => 'https://windows.php.net/downloads/pecl/releases/imagick/3.4.3rc4/php_imagick-3.4.3rc4-7.3-nts-vc15-x86.zip',
       ),
       'x64' => array(
-        '5.6' => 'http://windows.php.net/downloads/pecl/releases/imagick/3.4.3rc4/php_imagick-3.4.3rc4-5.6-nts-vc11-x64.zip',
-        '7.0' => 'http://windows.php.net/downloads/pecl/releases/imagick/3.4.3rc4/php_imagick-3.4.3rc4-7.0-nts-vc14-x64.zip',
-        '7.1' => 'http://windows.php.net/downloads/pecl/releases/imagick/3.4.3rc4/php_imagick-3.4.3rc4-7.1-nts-vc14-x64.zip',
+        '5.6' => 'https://windows.php.net/downloads/pecl/releases/imagick/3.4.3rc4/php_imagick-3.4.3rc4-5.6-nts-vc11-x64.zip',
+        '7.0' => 'https://windows.php.net/downloads/pecl/releases/imagick/3.4.3rc4/php_imagick-3.4.3rc4-7.0-nts-vc14-x64.zip',
+        '7.1' => 'https://windows.php.net/downloads/pecl/releases/imagick/3.4.3rc4/php_imagick-3.4.3rc4-7.1-nts-vc14-x64.zip',
+        '7.2' => 'https://windows.php.net/downloads/pecl/releases/imagick/3.4.3rc4/php_imagick-3.4.3rc4-7.2-nts-vc15-x64.zip',
+        '7.3' => 'https://windows.php.net/downloads/pecl/releases/imagick/3.4.3rc4/php_imagick-3.4.3rc4-7.3-nts-vc15-x64.zip',
+      ),
+    ),
+    '3.4.4rc1' => array(
+      'x86' => array(
+        '5.6' => 'https://windows.php.net/downloads/pecl/releases/imagick/3.4.4rc1/php_imagick-3.4.4rc1-5.6-nts-vc11-x86.zip',
+        '7.0' => 'https://windows.php.net/downloads/pecl/releases/imagick/3.4.4rc1/php_imagick-3.4.4rc1-7.0-nts-vc14-x86.zip',
+        '7.1' => 'https://windows.php.net/downloads/pecl/releases/imagick/3.4.4rc1/php_imagick-3.4.4rc1-7.1-nts-vc14-x86.zip',
+        '7.2' => 'https://windows.php.net/downloads/pecl/releases/imagick/3.4.4rc1/php_imagick-3.4.4rc1-7.2-nts-vc15-x86.zip',
+        '7.3' => 'https://windows.php.net/downloads/pecl/releases/imagick/3.4.4rc1/php_imagick-3.4.4rc1-7.3-nts-vc15-x86.zip',
+      ),
+      'x64' => array(
+        '5.6' => 'https://windows.php.net/downloads/pecl/releases/imagick/3.4.4rc1/php_imagick-3.4.4rc1-5.6-nts-vc11-x64.zip',
+        '7.0' => 'https://windows.php.net/downloads/pecl/releases/imagick/3.4.4rc1/php_imagick-3.4.4rc1-7.0-nts-vc14-x64.zip',
+        '7.1' => 'https://windows.php.net/downloads/pecl/releases/imagick/3.4.4rc1/php_imagick-3.4.4rc1-7.1-nts-vc14-x64.zip',
+        '7.2' => 'https://windows.php.net/downloads/pecl/releases/imagick/3.4.4rc1/php_imagick-3.4.4rc1-7.2-nts-vc15-x64.zip',
+        '7.3' => 'https://windows.php.net/downloads/pecl/releases/imagick/3.4.4rc1/php_imagick-3.4.4rc1-7.3-nts-vc15-x64.zip',
+      ),
+    ),
+    '3.4.4rc2' => array(
+      'x86' => array(
+        '5.6' => 'https://windows.php.net/downloads/pecl/releases/imagick/3.4.4rc2/php_imagick-3.4.4rc2-5.6-nts-vc11-x86.zip',
+        '7.0' => 'https://windows.php.net/downloads/pecl/releases/imagick/3.4.4rc2/php_imagick-3.4.4rc2-7.0-nts-vc14-x86.zip',
+        '7.1' => 'https://windows.php.net/downloads/pecl/releases/imagick/3.4.4rc2/php_imagick-3.4.4rc2-7.1-nts-vc14-x86.zip',
+        '7.2' => 'https://windows.php.net/downloads/pecl/releases/imagick/3.4.4rc2/php_imagick-3.4.4rc2-7.2-nts-vc15-x86.zip',
+        '7.3' => 'https://windows.php.net/downloads/pecl/releases/imagick/3.4.4rc2/php_imagick-3.4.4rc2-7.3-nts-vc15-x86.zip',
+      ),
+      'x64' => array(
+        '5.6' => 'https://windows.php.net/downloads/pecl/releases/imagick/3.4.4rc2/php_imagick-3.4.4rc2-5.6-nts-vc11-x64.zip',
+        '7.0' => 'https://windows.php.net/downloads/pecl/releases/imagick/3.4.4rc2/php_imagick-3.4.4rc2-7.0-nts-vc14-x64.zip',
+        '7.1' => 'https://windows.php.net/downloads/pecl/releases/imagick/3.4.4rc2/php_imagick-3.4.4rc2-7.1-nts-vc14-x64.zip',
+        '7.2' => 'https://windows.php.net/downloads/pecl/releases/imagick/3.4.4rc2/php_imagick-3.4.4rc2-7.2-nts-vc15-x64.zip',
+        '7.3' => 'https://windows.php.net/downloads/pecl/releases/imagick/3.4.4rc2/php_imagick-3.4.4rc2-7.3-nts-vc15-x64.zip',
       ),
     ),
     'latest' => array(
-      'version' => '3.4.3rc4',
+      'version' => '3.4.4rc2',
       'url' => array(
         'x86' => array(
-          '5.6' => 'http://windows.php.net/downloads/pecl/releases/imagick/3.4.3rc4/php_imagick-3.4.3rc4-5.6-nts-vc11-x86.zip',
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/imagick/3.4.3rc4/php_imagick-3.4.3rc4-7.0-nts-vc14-x86.zip',
-          '7.1' => 'http://windows.php.net/downloads/pecl/releases/imagick/3.4.3rc4/php_imagick-3.4.3rc4-7.1-nts-vc14-x86.zip',
+          '5.6' => 'https://windows.php.net/downloads/pecl/releases/imagick/3.4.4rc2/php_imagick-3.4.4rc2-5.6-nts-vc11-x86.zip',
+          '7.0' => 'https://windows.php.net/downloads/pecl/releases/imagick/3.4.4rc2/php_imagick-3.4.4rc2-7.0-nts-vc14-x86.zip',
+          '7.1' => 'https://windows.php.net/downloads/pecl/releases/imagick/3.4.4rc2/php_imagick-3.4.4rc2-7.1-nts-vc14-x86.zip',
+          '7.2' => 'https://windows.php.net/downloads/pecl/releases/imagick/3.4.4rc2/php_imagick-3.4.4rc2-7.2-nts-vc15-x86.zip',
+          '7.3' => 'https://windows.php.net/downloads/pecl/releases/imagick/3.4.4rc2/php_imagick-3.4.4rc2-7.3-nts-vc15-x86.zip',
         ),
         'x64' => array(
-          '5.6' => 'http://windows.php.net/downloads/pecl/releases/imagick/3.4.3rc4/php_imagick-3.4.3rc4-5.6-nts-vc11-x64.zip',
-          '7.0' => 'http://windows.php.net/downloads/pecl/releases/imagick/3.4.3rc4/php_imagick-3.4.3rc4-7.0-nts-vc14-x64.zip',
-          '7.1' => 'http://windows.php.net/downloads/pecl/releases/imagick/3.4.3rc4/php_imagick-3.4.3rc4-7.1-nts-vc14-x64.zip',
+          '5.6' => 'https://windows.php.net/downloads/pecl/releases/imagick/3.4.4rc2/php_imagick-3.4.4rc2-5.6-nts-vc11-x64.zip',
+          '7.0' => 'https://windows.php.net/downloads/pecl/releases/imagick/3.4.4rc2/php_imagick-3.4.4rc2-7.0-nts-vc14-x64.zip',
+          '7.1' => 'https://windows.php.net/downloads/pecl/releases/imagick/3.4.4rc2/php_imagick-3.4.4rc2-7.1-nts-vc14-x64.zip',
+          '7.2' => 'https://windows.php.net/downloads/pecl/releases/imagick/3.4.4rc2/php_imagick-3.4.4rc2-7.2-nts-vc15-x64.zip',
+          '7.3' => 'https://windows.php.net/downloads/pecl/releases/imagick/3.4.4rc2/php_imagick-3.4.4rc2-7.3-nts-vc15-x64.zip',
         ),
       ),
     ),
