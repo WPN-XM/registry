@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Tue, 25 Jun 2019 20:09:37 +0000.
+    * Last Update Tue, 25 Jun 2019 20:09:39 +0000.
     * Do not edit manually!
     */
 
@@ -2808,7 +2808,8 @@
     '7.1.23' => 'http://windows.php.net/downloads/releases/archives/php-7.1.23-nts-Win32-VC14-x64.zip',
     '7.1.25' => 'http://windows.php.net/downloads/releases/archives/php-7.1.25-nts-Win32-VC14-x64.zip',
     '7.1.26' => 'https://windows.php.net/downloads/releases/archives/php-7.1.26-nts-Win32-VC14-x64.zip',
-    '7.1.27' => 'https://windows.php.net/downloads/releases/php-7.1.27-nts-Win32-VC14-x64.zip',
+    '7.1.27' => 'https://windows.php.net/downloads/releases/archives/php-7.1.27-nts-Win32-VC14-x64.zip',
+    '7.1.30' => 'https://windows.php.net/downloads/releases/php-7.1.30-nts-Win32-VC14-x64.zip',
     '7.2.0' => 'http://windows.php.net/downloads/releases/archives/php-7.2.0-nts-Win32-VC15-x64.zip',
     '7.2.4' => 'http://windows.php.net/downloads/releases/archives/php-7.2.4-nts-Win32-VC15-x64.zip',
     '7.2.5' => 'http://windows.php.net/downloads/releases/archives/php-7.2.5-nts-Win32-VC15-x64.zip',
@@ -2819,13 +2820,15 @@
     '7.2.11' => 'http://windows.php.net/downloads/releases/archives/php-7.2.11-nts-Win32-VC15-x64.zip',
     '7.2.13' => 'http://windows.php.net/downloads/releases/archives/php-7.2.13-nts-Win32-VC15-x64.zip',
     '7.2.14' => 'https://windows.php.net/downloads/releases/archives/php-7.2.14-nts-Win32-VC15-x64.zip',
-    '7.2.16' => 'https://windows.php.net/downloads/releases/php-7.2.16-nts-Win32-VC15-x64.zip',
+    '7.2.16' => 'https://windows.php.net/downloads/releases/archives/php-7.2.16-nts-Win32-VC15-x64.zip',
+    '7.2.19' => 'https://windows.php.net/downloads/releases/php-7.2.19-nts-Win32-VC15-x64.zip',
     '7.3.0' => 'http://windows.php.net/downloads/releases/archives/php-7.3.0-nts-Win32-VC15-x64.zip',
     '7.3.1' => 'https://windows.php.net/downloads/releases/archives/php-7.3.1-nts-Win32-VC15-x64.zip',
-    '7.3.3' => 'https://windows.php.net/downloads/releases/php-7.3.3-nts-Win32-VC15-x64.zip',
+    '7.3.3' => 'https://windows.php.net/downloads/releases/archives/php-7.3.3-nts-Win32-VC15-x64.zip',
+    '7.3.6' => 'https://windows.php.net/downloads/releases/php-7.3.6-nts-Win32-VC15-x64.zip',
     'latest' => array(
-      'version' => '7.3.3',
-      'url' => 'https://windows.php.net/downloads/releases/php-7.3.3-nts-Win32-VC15-x64.zip',
+      'version' => '7.3.6',
+      'url' => 'https://windows.php.net/downloads/releases/php-7.3.6-nts-Win32-VC15-x64.zip',
     ),
   ),
   'phpext_amqp' => array(
