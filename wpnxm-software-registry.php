@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Tue, 25 Jun 2019 20:09:50 +0000.
+    * Last Update Tue, 25 Jun 2019 20:09:52 +0000.
     * Do not edit manually!
     */
 
@@ -1739,9 +1739,19 @@
     '11.10.0' => 'http://nodejs.org/dist/v11.10.0/win-x86/node.exe',
     '11.10.1' => 'http://nodejs.org/dist/v11.10.1/win-x86/node.exe',
     '11.11.0' => 'http://nodejs.org/dist/v11.11.0/win-x86/node.exe',
+    '11.12.0' => 'http://nodejs.org/dist/v11.12.0/win-x86/node.exe',
+    '11.13.0' => 'http://nodejs.org/dist/v11.13.0/win-x86/node.exe',
+    '11.14.0' => 'http://nodejs.org/dist/v11.14.0/win-x86/node.exe',
+    '11.15.0' => 'http://nodejs.org/dist/v11.15.0/win-x86/node.exe',
+    '12.0.0' => 'http://nodejs.org/dist/v12.0.0/win-x86/node.exe',
+    '12.1.0' => 'http://nodejs.org/dist/v12.1.0/win-x86/node.exe',
+    '12.2.0' => 'http://nodejs.org/dist/v12.2.0/win-x86/node.exe',
+    '12.3.0' => 'http://nodejs.org/dist/v12.3.0/win-x86/node.exe',
+    '12.3.1' => 'http://nodejs.org/dist/v12.3.1/win-x86/node.exe',
+    '12.4.0' => 'http://nodejs.org/dist/v12.4.0/win-x86/node.exe',
     'latest' => array(
-      'version' => '11.11.0',
-      'url' => 'http://nodejs.org/dist/v11.11.0/win-x86/node.exe',
+      'version' => '12.4.0',
+      'url' => 'http://nodejs.org/dist/v12.4.0/win-x86/node.exe',
     ),
   ),
   'node-x64' => array(
