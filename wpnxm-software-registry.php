@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Tue, 25 Jun 2019 20:10:39 +0000.
+    * Last Update Tue, 25 Jun 2019 20:10:41 +0000.
     * Do not edit manually!
     */
 
@@ -10252,9 +10252,10 @@
     '5.2.22' => 'https://download.virtualbox.org/virtualbox/5.2.22/VirtualBox-5.2.22-126460-Win.exe',
     '6.0.0' => 'https://download.virtualbox.org/virtualbox/6.0.0/VirtualBox-6.0.0-127566-Win.exe',
     '6.0.4' => 'https://download.virtualbox.org/virtualbox/6.0.4/VirtualBox-6.0.4-128413-Win.exe',
+    '6.0.8' => 'https://download.virtualbox.org/virtualbox/6.0.8/VirtualBox-6.0.8-130520-Win.exe',
     'latest' => array(
-      'version' => '6.0.4',
-      'url' => 'https://download.virtualbox.org/virtualbox/6.0.4/VirtualBox-6.0.4-128413-Win.exe',
+      'version' => '6.0.8',
+      'url' => 'https://download.virtualbox.org/virtualbox/6.0.8/VirtualBox-6.0.8-130520-Win.exe',
     ),
   ),
   'virtuoso-x64' => array(
