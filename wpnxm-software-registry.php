@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Tue, 25 Jun 2019 20:03:35 +0000.
+    * Last Update Tue, 25 Jun 2019 20:03:44 +0000.
     * Do not edit manually!
     */
 
@@ -91,9 +91,10 @@
     '1.10.3' => 'http://archive.apache.org/dist/ant/binaries/apache-ant-1.10.3-bin.zip',
     '1.10.4' => 'http://archive.apache.org/dist/ant/binaries/apache-ant-1.10.4-bin.zip',
     '1.10.5' => 'http://archive.apache.org/dist/ant/binaries/apache-ant-1.10.5-bin.zip',
+    '1.10.6' => 'http://archive.apache.org/dist/ant/binaries/apache-ant-1.10.6-bin.zip',
     'latest' => array(
-      'version' => '1.10.5',
-      'url' => 'http://archive.apache.org/dist/ant/binaries/apache-ant-1.10.5-bin.zip',
+      'version' => '1.10.6',
+      'url' => 'http://archive.apache.org/dist/ant/binaries/apache-ant-1.10.6-bin.zip',
     ),
   ),
   'apache-benchmark' => array(
