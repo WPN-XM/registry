@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Tue, 25 Jun 2019 20:09:39 +0000.
+    * Last Update Tue, 25 Jun 2019 20:09:41 +0000.
     * Do not edit manually!
     */
 
@@ -422,9 +422,10 @@
     '7.61.1' => 'https://curl.haxx.se/windows/dl-7.61.1_5/curl-7.61.1_5-win64-mingw.zip',
     '7.62.0' => 'https://curl.haxx.se/windows/dl-7.62.0_1/curl-7.62.0_1-win64-mingw.zip',
     '7.64.0' => 'https://curl.haxx.se/windows/dl-7.64.0_2/curl-7.64.0_2-win64-mingw.zip',
+    '7.65.1' => 'https://curl.haxx.se/windows/dl-7.65.1_3/curl-7.65.1_3-win64-mingw.zip',
     'latest' => array(
-      'version' => '7.64.0',
-      'url' => 'https://curl.haxx.se/windows/dl-7.64.0_2/curl-7.64.0_2-win64-mingw.zip',
+      'version' => '7.65.1',
+      'url' => 'https://curl.haxx.se/windows/dl-7.65.1_3/curl-7.65.1_3-win64-mingw.zip',
     ),
   ),
   'curl-x86' => array(
