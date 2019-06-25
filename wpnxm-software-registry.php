@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Tue, 25 Jun 2019 20:09:19 +0000.
+    * Last Update Tue, 25 Jun 2019 20:09:24 +0000.
     * Do not edit manually!
     */
 
@@ -984,9 +984,12 @@
     '10.4.1' => 'http://ftp.hosteurope.de/mirror/archive.mariadb.org/mariadb-10.4.1/winx64-packages/mariadb-10.4.1-winx64.zip',
     '10.4.2' => 'http://ftp.hosteurope.de/mirror/archive.mariadb.org/mariadb-10.4.2/winx64-packages/mariadb-10.4.2-winx64.zip',
     '10.4.3' => 'http://ftp.hosteurope.de/mirror/archive.mariadb.org/mariadb-10.4.3/winx64-packages/mariadb-10.4.3-winx64.zip',
+    '10.4.4' => 'http://ftp.hosteurope.de/mirror/archive.mariadb.org/mariadb-10.4.4/winx64-packages/mariadb-10.4.4-winx64.zip',
+    '10.4.5' => 'http://ftp.hosteurope.de/mirror/archive.mariadb.org/mariadb-10.4.5/winx64-packages/mariadb-10.4.5-winx64.zip',
+    '10.4.6' => 'http://ftp.hosteurope.de/mirror/archive.mariadb.org/mariadb-10.4.6/winx64-packages/mariadb-10.4.6-winx64.zip',
     'latest' => array(
-      'version' => '10.4.3',
-      'url' => 'http://ftp.hosteurope.de/mirror/archive.mariadb.org/mariadb-10.4.3/winx64-packages/mariadb-10.4.3-winx64.zip',
+      'version' => '10.4.6',
+      'url' => 'http://ftp.hosteurope.de/mirror/archive.mariadb.org/mariadb-10.4.6/winx64-packages/mariadb-10.4.6-winx64.zip',
     ),
   ),
   'memadmin' => array(
