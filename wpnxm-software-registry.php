@@ -11,7 +11,7 @@
    /**
     * WPИ-XM Server Stack - Software Registry
     * ---------------------------------------
-    * Last Update Tue, 25 Jun 2019 20:10:43 +0000.
+    * Last Update Tue, 25 Jun 2019 20:10:44 +0000.
     * Do not edit manually!
     */
 
@@ -10275,9 +10275,10 @@
     '1.30.1' => 'https://az764295.vo.msecnd.net/stable/dea8705087adb1b5e5ae1d9123278e178656186a/VSCodeSetup-x64-1.30.1.exe',
     '1.30.2' => 'https://az764295.vo.msecnd.net/stable/61122f88f0bf01e2ac16bdb9e1bc4571755f5bd8/VSCodeSetup-x64-1.30.2.exe',
     '1.32.2' => 'https://az764295.vo.msecnd.net/stable/e64cb27b1a0cbbc3f643c9fc6c7d93d6c6509951/VSCodeSetup-x64-1.32.2.exe',
+    '1.35.1' => 'https://az764295.vo.msecnd.net/stable/c7d83e57cd18f18026a8162d042843bda1bcf21f/VSCodeSetup-x64-1.35.1.exe',
     'latest' => array(
-      'url' => 'https://az764295.vo.msecnd.net/stable/e64cb27b1a0cbbc3f643c9fc6c7d93d6c6509951/VSCodeSetup-x64-1.32.2.exe',
-      'version' => '1.32.2',
+      'url' => 'https://az764295.vo.msecnd.net/stable/c7d83e57cd18f18026a8162d042843bda1bcf21f/VSCodeSetup-x64-1.35.1.exe',
+      'version' => '1.35.1',
     ),
   ),
   'webgrind' => array(
